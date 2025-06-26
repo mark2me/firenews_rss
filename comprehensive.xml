@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>綜合 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/綜合/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Thu, 26 Jun 2025 02:32:11 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>綜合 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/綜合/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>雅特力AT32 MCU 賦能外骨骼機器人應用 為醫療市場注入智能核心</title>
+		<link>https://firenews.com.tw/2025/06/26/%e9%9b%85%e7%89%b9%e5%8a%9bat32-mcu-%e8%b3%a6%e8%83%bd%e5%a4%96%e9%aa%a8%e9%aa%bc%e6%a9%9f%e5%99%a8%e4%ba%ba%e6%87%89%e7%94%a8-%e7%82%ba%e9%86%ab%e7%99%82%e5%b8%82%e5%a0%b4%e6%b3%a8%e5%85%a5/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 02:32:09 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=217519</guid>
+
+					<description><![CDATA[<p><img width="1080" height="648" src="https://firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?resize=243%2C146&amp;ssl=1 243w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+<p>隨著科技進步，外骨骼機器人在全球範圍內逐漸被廣泛應用，特別是在日本、德國及美國等地的旅遊景點和戶外活動場所。這 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e9%9b%85%e7%89%b9%e5%8a%9bat32-mcu-%e8%b3%a6%e8%83%bd%e5%a4%96%e9%aa%a8%e9%aa%bc%e6%a9%9f%e5%99%a8%e4%ba%ba%e6%87%89%e7%94%a8-%e7%82%ba%e9%86%ab%e7%99%82%e5%b8%82%e5%a0%b4%e6%b3%a8%e5%85%a5/">雅特力AT32 MCU 賦能外骨骼機器人應用 為醫療市場注入智能核心</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1080" height="648" src="https://firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/img_250619_02.jpg?resize=243%2C146&amp;ssl=1 243w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+<p>隨著科技進步，外骨骼機器人在全球範圍內逐漸被廣泛應用，特別是在日本、德國及美國等地的旅遊景點和戶外活動場所。這些可穿戴設備不僅作為登山或長時間行走的輔助工具，更因其能有效減輕關節負擔而獲得「懶人爬山神器」之美譽，吸引了眾多戶外愛好者及年長者的目光。</p>
+
+
+
+<p>外骨骼機器人是一種融合機械結構、感測器、電機驅動器和控制系統的可穿戴智能設備。隨著用戶需求不斷升級及相關技術的持續突破，已從專業場域逐步延伸至日常生活與消費市場，在康復醫療、輔助行走、工業物流以及大眾消費等多個領域實現應用。據相關研究報告顯示，全球市場規模預計將突破百億美元。</p>
+
+
+
+<p>醫療康復輔助是外骨骼機器人的重要應用領域之一，被廣泛應用於因脊髓損傷、神經系統疾病等導致下肢運動障礙的人群進行康復步行訓練。通過電機與關節模組協同作用，輔助用戶完成行走、站立等動作，實現精準的步態控制與回應。整套系統需要對力矩、姿態、位移等多維數據進行即時採集與處理，並與執行單元進行高效閉環控制，對MCU的性能與可靠性提出了極高要求。</p>
+
+
+
+<p><strong>高性能</strong><strong>&amp;</strong><strong>輕量級封裝：</strong><strong>AT32F415</strong><strong>精準驅動步態控制</strong></p>
+
+
+
+<p>在外骨骼機器人中，系統通過多組電機驅動精確模擬膝關節等部位的人體關節運動特性，編碼器作為核心傳感部件，即時回饋電機位置與速度，是實現精確控制和高效運動的關鍵所在。雅特力AT32F415系列MCU作為編碼器模組的核心控制單元，採用ARM® Cortex®-M4內核，主頻高達150 MHz，能夠快速回應編碼器的高頻率輸入訊號，實現對步態角度與速度的精準捕捉，確保外骨骼機器人在動態行走中具備高度的靈敏性和穩定性。</p>
+
+
+
+<p>AT32F415內部集成了支持編碼器介面模式（Encoder Interface Mode）的高級定時器，可直接接收並解析增量式編碼器輸出的A/B兩路正交訊號，硬體完成脈衝計數與方向識別。同時，該系列MCU提供豐富的定時器通道與可配置GPIO，支持多通道關節編碼器的並行接入與同步採樣，滿足多自由度協同控制的需求。</p>
+
+
+
+<p>此外，AT32F415具備小巧的QFN 4×4 mm封裝，適合嵌入在外骨骼腿部等空間受限的關節模組中。其搭載的1路CAN、5路UART及多個SPI介面，不僅可擴展SPI或RS485協議的絕對式編碼器，也可同時連接力矩感測器、IMU等關鍵模組，構建起穩定高效的多感測器融合系統，助力整機實現更精準的姿態識別與閉環控制。</p>
+
+
+
+<p><strong>數據採集與執行控制：</strong><strong>AT32F403A</strong><strong>助力關節運動精準調節</strong></p>
+
+
+
+<p>數據採集器在外骨骼機器人中發揮著至關重要的作用，它通過感測器即時採集人體運動數據，使外骨骼機器人能夠更好地與人體協同工作。在機械結構中，力矩感測器被集成於電機模組與腿部關節之間，用以即時感測電機輸出扭矩和關節旋轉狀態，這些關鍵數據直接關係到外骨骼機器人對於用戶動作意圖的判斷準確性和回應速度，雅特力AT32F403A系列高性能MCU完全滿足數據採集與執行控制系統的需求。</p>
+
+
+
+<p>AT32F403A基於ARM® Cortex®-M4內核，主頻高達240MHz，內部還集成多組通用定時器與高級定時器，可精準驅動伺服電機實現關節電機控制。高性能運算與多通道數據處理能力，為執行動態步態調整等計算密集型控制策略提供了強力支持。其高速中斷回應機制與片內SRAM支持更大數據緩衝與狀態記錄，使系統能夠在快速變化的動態步態過程中，精準識別用戶意圖，即時調整腿長、步幅與關節角度，優化整機的人機交互體驗。 </p>
+
+
+
+<p>隨著人工智慧與人機交互技術的不斷進步，外骨骼機器人有望成為人類功能延伸的重要載體。但若想實現真正規模化普及，需在人機協同技術、輕量化材料、提升續航能力以及成本控制等方面持續攻關。雅特力將不斷深化技術創新與合作開發，助力外骨骼機器人在醫療、工業、民用等多領域實現更廣泛的落地應用，真正成為人類智慧生活的得力助手。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e9%9b%85%e7%89%b9%e5%8a%9bat32-mcu-%e8%b3%a6%e8%83%bd%e5%a4%96%e9%aa%a8%e9%aa%bc%e6%a9%9f%e5%99%a8%e4%ba%ba%e6%87%89%e7%94%a8-%e7%82%ba%e9%86%ab%e7%99%82%e5%b8%82%e5%a0%b4%e6%b3%a8%e5%85%a5/">雅特力AT32 MCU 賦能外骨骼機器人應用 為醫療市場注入智能核心</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全通路商務新時代：Omnichat 2025 產品發佈會揭示 AI 在零售中的應用潛力</title>
+		<link>https://firenews.com.tw/2025/06/26/%e5%85%a8%e9%80%9a%e8%b7%af%e5%95%86%e5%8b%99%e6%96%b0%e6%99%82%e4%bb%a3%ef%bc%9aomnichat-2025-%e7%94%a2%e5%93%81%e7%99%bc%e4%bd%88%e6%9c%83%e6%8f%ad%e7%a4%ba-ai-%e5%9c%a8%e9%9b%b6/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 02:31:05 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=217516</guid>
+
+					<description><![CDATA[<p><img width="2048" height="1173" src="https://firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=768%2C440&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=1536%2C880&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=255%2C146&amp;ssl=1 255w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>在數位轉型浪潮中，全通路對話式商務領導品牌 Omnichat 於近日舉辦「2025 Omnichat 產品發佈 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e5%85%a8%e9%80%9a%e8%b7%af%e5%95%86%e5%8b%99%e6%96%b0%e6%99%82%e4%bb%a3%ef%bc%9aomnichat-2025-%e7%94%a2%e5%93%81%e7%99%bc%e4%bd%88%e6%9c%83%e6%8f%ad%e7%a4%ba-ai-%e5%9c%a8%e9%9b%b6/">全通路商務新時代：Omnichat 2025 產品發佈會揭示 AI 在零售中的應用潛力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2048" height="1173" src="https://firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=768%2C440&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=1536%2C880&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5023433_33090802.jpg?resize=255%2C146&amp;ssl=1 255w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>在數位轉型浪潮中，全通路對話式商務領導品牌 Omnichat 於近日舉辦「2025 Omnichat 產品發佈會」，主題為「Beyond Omnichannel &amp; AI」。此次盛會邀請了 LINE、Meta 和 Amazon Web Services (AWS) 等科技巨頭，共同探討人工智慧如何重新定義零售業的顧客獲取、溝通及轉換策略。Omnichat 在此場合正式推出其創新的「全通路 Omni AI Agent Studio」，旨在協助品牌建立專屬的 AI 助理團隊，以實現人機協作與流程自動化。</p>
+
+
+
+<p>Omnichat 今年重磅推出「全通路 Omni AI Agent Studio」解決方案，正式邁入 AI 賦能全通路商務的新階段。會中更現場展示全新 Omni AI Agent 的產品，支援品牌打造客製化 AI Agents，串聯行銷、客服與銷售場景，讓 AI 不再只是單點工具，而是全面提升顧客旅程與營運效率的核心力量。</p>
+
+
+
+<p><strong><u>Omnichat </u></strong><strong><u>創辦人暨執行長陳正達</u></strong>表示：「Omnichat 作為對話商務領導者，過去一年協助品牌創造超過 20 億元營收、處理超過 10 億條營銷訊息。今年推出的 AI Agent Studio，將開放讓品牌按不同需求建立客製化的 AI Agents，打造更貼近實際場景的應用，進一步放大數據與人力的價值。我們的目標是讓品牌在效率、信任與全通路整合三方面同步升級，實現智慧成長新邊界。」</p>
+
+
+
+<p>全新 AI 解決方案「Omni AI Agent Studio」，涵蓋三大核心智能代理，包括：提供 24 小時即時回應的「 AI 客服 Agent」，可自動轉接真人並輔以回覆建議；根據顧客行為與偏好推薦商品的 「 AI 購物Agent」，大幅優化轉換率與顧客體驗，以及支援活動規劃、訊息撰寫與目標客群設定的「 AI 行銷 Agent」。</p>
+
+
+
+<p>Omni AI Agent Studio 的最大亮點，是其高度客製化與整合彈性，賦能企業創建高度個人化的代理，透過利用企業自身的客戶數據，提供獨一無二的專屬推薦及服務。透過連接多元化的頂尖大型語言模型（LLMs），例如 OpenAI 的 GPT 模型、Google 的 Gemini、Anthropic 的 Claude、Meta 的 Llama 4、Deepseek 及 AWS Nova，該平台允許將這些客製化的代理無縫整合至任何對話式工作流程中。</p>
+
+
+
+<p>品牌可依據自身客戶資料，打造專屬 AI 代理，並支援串接第三方 AI 模型或專業服務，創建獨特產業應用場景，實現橫跨不同生態系統的整合應用。此開放架構不僅能靈活切換真人與 AI 代理，更確保品牌在 AI 技術快速演進下，能隨時整合最新科技、避免綁定於單一生態系統，真正落實 AI 策略的未來可擴性。</p>
+
+
+
+<p>在生成式 AI 加速改變品牌溝通模式的同時，LINE 作為台灣使用最廣泛的即時通訊平台之一，也正成為 AI 應用落地的重要場域。 <strong><u>LINE </u></strong><strong><u>企業解決方案事業部產品與策略企劃資深總監蔡昆錡</u></strong>表示：「LINE在台灣有2200萬用戶，LINE BIZ Solution 已成為品牌導入 AI 的重要平台。我們透過品牌、合作夥伴與 LINE 三方共創，打造實際落地的 AI 生態圈，從互動內容到用戶安全保障，全面提升用戶體驗。」</p>
+
+
+
+<p>在 AI 驅動的數位行銷時代，Meta 持續透過廣告技術與生成式 AI 協助品牌實現高效成長。<strong><u>Ｍ</u></strong><strong><u>eta </u></strong><strong><u>代理商行銷方案總監張永慧</u></strong>分享：「即時且個人化的商務對話能有效提升轉換率與品牌體驗，生成式 AI 將大幅強化廣告創意與素材多元性，透過 Meta 的 AI技術進一步自動優化連結位置與互動路徑，可提升廣告觸及率達 48%。Omnichat 提供完整整合服務，協助品牌串接 CAPI 與行銷自動化系統，打造一站式解決方案。」</p>
+
+
+
+<p>身為全球雲端服務提供商，AWS 長期協助零售品牌以 AI 優化營運效率與預測能力。<strong><u>AWS </u></strong><strong><u>台灣資深業務開發經理林姿安</u></strong>表示：「Amazon 作為全球最大電商平台，累積 20 多年的預測經驗，持續以深度學習技術,優化預測算法，AWS 長期累積電商預測經驗，應用於零售業者的 AI 預測系統，協助品牌依據庫存、促銷、天氣等條件做出精準決策。生成式 AI 更可作為購物助手，根據消費情境給出最佳推薦，大幅提升個人化互動與轉換率，提供品牌具有個人化特色的購物助手 。」</p>
+
+
+
+<p>Omnichat 強項在於串接 LINE、Facebook、Instagram、WhatsApp 與自有電商等多元渠道，打造 360 度顧客視圖，從全通路整合到數據驅動的差異化溝通，Omnichat 已打造一套完整的 Social CDP 與 Open API 架構。<strong><u>Omnichat </u></strong><strong><u>台灣總經理翁忻閎</u></strong>表示：「Omnichat 今年更將整合南韓主流平台 KakaoTalk，擴大全球通訊接觸面向。未來的商務對話不只發生在單一平台，而是橫跨不同渠道與 AI 生態的融合與協作。Omni AI 將是開放的 AI 生態系，讓不同AI Agents 達成協作，且是全渠道的 AI 對話，客服與行銷部門應用在不同渠道，每個品牌都能擁有最好的商業價值。」</p>
+
+
+
+<p>Omnichat 作為亞太區唯一同時獲得 LINE 和 Meta 認證的合作夥伴，無縫整合 LINE、Facebook、Instagram 和 WhatsApp等多渠道，透過全方位訊息管理平台提供卓越的顧客體驗。全新升級的 Omni AI 技術，讓企業得以運用客製化 AI 代理，更精準高效地處理客戶支援、行銷與銷售任務，大幅提升團隊效率，加速品牌邁向超個人化與數據驅動的新時代。</p>
+
+
+
+<p><strong>關於全通路對話商務平台</strong><strong> Omnichat</strong></p>
+
+
+
+<p>Omnichat專注於發展全通路對話式商務 (Omnichannel Chat Commerce)，Omnichat 作為亞太區唯一同時獲得LINE 與Meta 認證的合作夥伴，無縫整合 LINE、Facebook、Instagram 和 WhatsApp等多渠道，透過全方位訊息管理平台提供卓越的顧客體驗，將分散的顧客對話集中管理，並結合品牌跨系統顧客數據，幫助零售品牌維繫全通路客戶關係、對話銷售、數據分析應用，已累積超過 5,000 個零售品牌，包含 Timberland、Logitech、EDWIN、tokuyo、Mamaway 以及 SO NICE 等。</p>
+
+
+
+<p>Omnichat 持續協助品牌進行數據運營與個人化行銷，透過最先進的技術，致力打造深度對話商務解決方案。 網站: <a href="https://www.omnichat.ai/tw" target="_blank" rel="noreferrer noopener">https://www.omnichat.ai/tw</a><br>LinkedIn: <a href="https://hk.linkedin.com/company/omnichat-easychat" target="_blank" rel="noreferrer noopener">https://hk.linkedin.com/company/omnichat-easychat</a><br>Facebook: <a href="https://www.facebook.com/OmnichatAI" target="_blank" rel="noreferrer noopener">https://www.facebook.com/OmnichatAI</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e5%85%a8%e9%80%9a%e8%b7%af%e5%95%86%e5%8b%99%e6%96%b0%e6%99%82%e4%bb%a3%ef%bc%9aomnichat-2025-%e7%94%a2%e5%93%81%e7%99%bc%e4%bd%88%e6%9c%83%e6%8f%ad%e7%a4%ba-ai-%e5%9c%a8%e9%9b%b6/">全通路商務新時代：Omnichat 2025 產品發佈會揭示 AI 在零售中的應用潛力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>屋齡30年老屋佔過半 翻修市場需求增 京典衛浴以客製化突圍</title>
+		<link>https://firenews.com.tw/2025/06/26/%e5%b1%8b%e9%bd%a130%e5%b9%b4%e8%80%81%e5%b1%8b%e4%bd%94%e9%81%8e%e5%8d%8a-%e7%bf%bb%e4%bf%ae%e5%b8%82%e5%a0%b4%e9%9c%80%e6%b1%82%e5%a2%9e-%e4%ba%ac%e5%85%b8%e8%a1%9b%e6%b5%b4%e4%bb%a5%e5%ae%a2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 02:16:32 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[OVO]]></category>
+		<category><![CDATA[京典衛浴]]></category>
+		<category><![CDATA[老宅延壽]]></category>
+		<category><![CDATA[老屋]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=217505</guid>
+
+					<description><![CDATA[<p>根據今年第一季統計，全台屋齡逾三十年的住宅已突破515萬，占全國住宅比重逾55％。隨著高房價影響，越來越多民眾 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e5%b1%8b%e9%bd%a130%e5%b9%b4%e8%80%81%e5%b1%8b%e4%bd%94%e9%81%8e%e5%8d%8a-%e7%bf%bb%e4%bf%ae%e5%b8%82%e5%a0%b4%e9%9c%80%e6%b1%82%e5%a2%9e-%e4%ba%ac%e5%85%b8%e8%a1%9b%e6%b5%b4%e4%bb%a5%e5%ae%a2/">屋齡30年老屋佔過半 翻修市場需求增 京典衛浴以客製化突圍</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>根據今年第一季統計，全台屋齡逾三十年的住宅已突破515萬，占全國住宅比重逾55％。隨著高房價影響，越來越多民眾傾向購入或翻修既有中古屋，突顯老屋裝潢需求迫切；加上政府推動「老宅延壽」補助措施即將上路，選擇翻新而非購新的消費者增加，持續推升整體裝修市場需求。</p>
+
+
+
+<p>中古屋、老屋裝修首重強化安全結構與空間優化，就單一空間而言，多數消費者選擇從浴室優先著手。國內平台PRO360達人網曾公布，在裝修案量中，除全屋裝潢外，「衛浴」為局部翻修的大宗，佔整體超過2成，其次為廚房約7%。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="919" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?resize=1220%2C919&#038;ssl=1" alt="" class="wp-image-217510" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?resize=2048%2C1543&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?resize=194%2C146&amp;ssl=1 194w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">老屋佔比高且翻修需求多，衛浴翻新較易著手且體驗升級更有感（OVO京典衛浴提供）</figcaption></figure>
+
+
+
+<p>現代消費者除了重視浴室的基礎工程更新，亦高度關注收納設計、坪效發揮及使用動線。作為國內老屋裝修市場市占前三的衛浴品牌，OVO京典衛浴指出，老屋衛浴常見問題包含牆面緊鄰柱體、格局不方正、畸零空間多等，造成市售的標準化衛浴產品難以有效利用空間，無法充分滿足消費者使用習慣。 </p>
+
+
+
+<p>針對這類常見的老屋痛點，OVO京典衛浴近年推動市場上唯一的「客製化服務」，可依據牆面角度、樑柱位置及使用者需求，量身設計櫃體尺寸、收納結構、色板等，以確保每一寸空間都能充分運用，並滿足設計風格。OVO京典衛浴表示，除「客製化」服務，不同風格、各類衛浴設備皆有齊全產品線；更因應台灣衛浴環境限制專設「小空間」產品線，從臉盆、馬桶，到浴缸、五金配件一應俱全，進而避免受限於格局，同時貼近實際生活需求，落實品牌提供顧客最適解方的核心價值。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="919" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?resize=1220%2C919&#038;ssl=1" alt="" class="wp-image-217511" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?resize=2048%2C1543&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?resize=194%2C146&amp;ssl=1 194w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">市場唯一「客製化服務」，OVO京典衛浴真正滿足使用者的想像與需求（OVO京典衛浴提供）</figcaption></figure>
+
+
+
+<p>除台灣裝修市場成長潛力不容小覷，推估逾百億商機，國際產業市調機構報告亦持續看好全球裝修市場發展，並點出消費者偏好已從大量、制式規格的標準化產品，快速轉移至客製化解決方案，是帶動市場成長的主力，也正是現代家居產業未來聚焦所在。 </p>
+
+
+
+<p>對此，OVO京典衛浴亦觀察到，對客製化服務具明確需求的消費族群正快速成長，且此類型顧客普遍重視空間氛圍、細節規劃，對品質、保固及服務要求相對較高。為因應此趨勢，OVO京典衛浴近年緊密整合設計、製造兩端資源，提供選擇多、品質穩定且美學導向的各式風格系列衛浴設備，如紳士灰系列、爵士黑系列、小空間系列等，搭配市場唯一「客製化」服務，亦是該品牌站穩裝修市場地位的關鍵因素。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="919" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?resize=1220%2C919&#038;ssl=1" alt="" class="wp-image-217512" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?resize=2048%2C1543&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?resize=194%2C146&amp;ssl=1 194w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">美學導向且實用性強的各式風格系列衛浴設備，衛浴翻修無須屈就（OVO京典衛浴提供）</figcaption></figure>
+
+
+
+<p>內政部報告指出，2025年第一季全國住宅平均買賣屋齡達30.89年，為17年來新高，顯示老屋交易熱絡。面對大環境對「舊屋新生」的高度期待，OVO京典衛浴建議，進行老屋翻新應優先評估空間結構及使用動線，尤其在延長年限的概念下，納入全齡化、智慧化設計，改善既有住宅機能，近一步提升翻修效益與居住品質。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/26/%e5%b1%8b%e9%bd%a130%e5%b9%b4%e8%80%81%e5%b1%8b%e4%bd%94%e9%81%8e%e5%8d%8a-%e7%bf%bb%e4%bf%ae%e5%b8%82%e5%a0%b4%e9%9c%80%e6%b1%82%e5%a2%9e-%e4%ba%ac%e5%85%b8%e8%a1%9b%e6%b5%b4%e4%bb%a5%e5%ae%a2/">屋齡30年老屋佔過半 翻修市場需求增 京典衛浴以客製化突圍</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全球創新平台Plug and Play設立台灣辦事處 開放一期加速器項目申請</title>
+		<link>https://firenews.com.tw/2025/06/25/%e5%85%a8%e7%90%83%e5%89%b5%e6%96%b0%e5%b9%b3%e5%8f%b0plug-and-play%e8%a8%ad%e7%ab%8b%e5%8f%b0%e7%81%a3%e8%be%a6%e4%ba%8b%e8%99%95-%e9%96%8b%e6%94%be%e4%b8%80%e6%9c%9f%e5%8a%a0%e9%80%9f%e5%99%a8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 06:40:27 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=217036</guid>
+
+					<description><![CDATA[<p><img width="1156" height="770" src="https://firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?w=1156&amp;ssl=1 1156w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1156px) 100vw, 1156px" /></p>
+<p>全球最大的創新平台Plug and Play近日在桃園市隆重揭幕其首家辦事處，此次擴展標誌著公司戰略目標的重要 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e5%85%a8%e7%90%83%e5%89%b5%e6%96%b0%e5%b9%b3%e5%8f%b0plug-and-play%e8%a8%ad%e7%ab%8b%e5%8f%b0%e7%81%a3%e8%be%a6%e4%ba%8b%e8%99%95-%e9%96%8b%e6%94%be%e4%b8%80%e6%9c%9f%e5%8a%a0%e9%80%9f%e5%99%a8/">全球創新平台Plug and Play設立台灣辦事處 開放一期加速器項目申請</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1156" height="770" src="https://firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?w=1156&amp;ssl=1 1156w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/Plug_Play_Taiwan_held_Selection_Day_earlier_year.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1156px) 100vw, 1156px" /></p>
+<p>全球最大的創新平台Plug and Play近日在桃園市隆重揭幕其首家辦事處，此次擴展標誌著公司戰略目標的重要里程碑，旨在將新創企業與亞洲及其他地區的全球企業、投資者和創新中心緊密連接。桃園市政府經濟發展局局長Cheng Chang表示，「我們非常榮幸歡迎Plug and Play落戶桃園。合作彰顯了我們致力於成為全球創新與先進技術中心的決心。我們期待助力本土與國際初創企業在此茁壯成長。」</p>
+
+
+
+<p>為延續近期<a href="https://www.plugandplaytechcenter.com/press/taiwan-launch-announcement" target="_blank" rel="noreferrer noopener">開幕盛勢</a>，Plug and Play台灣現已開放一期加速器項目(Batch 1)的申請。該項目聚焦於人工智能、先進制造、物聯網和深科技領域的創新型初創企業，旨在加速具有顛覆性技術和全球潛力的早期及成長期公司的發展。</p>
+
+
+
+<p>此前作為試點的<a href="https://www.youtube.com/watch?v=1xY1yNoOgdk" target="_blank" rel="noreferrer noopener">Plug and Play台灣零期項目</a>(Batch 0)已成功集結了一批初創企業，這些企業獲得了在Plug and Play 2025年6月矽谷峰會展示的機遇，充分展現了台灣創業生態的活力與全球影響力。</p>
+
+
+
+<p>Plug and Play副總裁Johannes Rott表示：「台灣正迅速成為全球創新熱點。隨著新辦事處和加速器項目的設立，我們很高興能夠支持該地區孕育下一代變革性初創企業。」</p>
+
+
+
+<p>入選一期項目的初創企業將獲得：</p>
+
+
+
+<ul class="wp-block-list">
+<li>行業專家與成功創業者的定制化指導</li>
+
+
+
+<li>對接Plug and Play全球550餘家合作企業網絡</li>
+
+
+
+<li>融資支持與直接風投引薦</li>
+
+
+
+<li>矽谷等全球峰會展示機會</li>
+
+
+
+<li>橫跨亞洲與美國的軟著陸支持和市場推廣協助</li>
+</ul>
+
+
+
+<p>初創企業申請截止日期為2025年7月7日，該項目預計於2025年8月啟動。</p>
+
+
+
+<p>有意加入該項目的初創企業可在此申請：<a href="https://www.plugandplaytechcenter.com/locations/taoyuan-city" target="_blank" rel="noreferrer noopener">plugandplaytechcenter.com/locations/taoyuan-city</a></p>
+
+
+
+<p><strong>關於</strong><strong>Plug and Play</strong><strong></strong></p>
+
+
+
+<p>Plug and Play 是領先的創新平台，致力於連接初創企業、企業、風投公司、高校及政府組織。公司總部位於矽谷，業務遍及五大洲 60 多個地區。公司提供企業創新項目、營運初創企業加速項目，並已投資數百家成功企業，包括 Dropbox、Guardant Health、Honey、Lending Club、N26、PayPal 和 Rappi。如需了解更多信息，請訪問<a href="https://www.plugandplaytechcenter.com/" target="_blank" rel="noreferrer noopener">https://www.plugandplaytechcenter.com/</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e5%85%a8%e7%90%83%e5%89%b5%e6%96%b0%e5%b9%b3%e5%8f%b0plug-and-play%e8%a8%ad%e7%ab%8b%e5%8f%b0%e7%81%a3%e8%be%a6%e4%ba%8b%e8%99%95-%e9%96%8b%e6%94%be%e4%b8%80%e6%9c%9f%e5%8a%a0%e9%80%9f%e5%99%a8/">全球創新平台Plug and Play設立台灣辦事處 開放一期加速器項目申請</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>夏日銀絨牡丹季！ 最浪漫的紫色花海</title>
+		<link>https://firenews.com.tw/2025/06/25/%e5%a4%8f%e6%97%a5%e9%8a%80%e7%b5%a8%e7%89%a1%e4%b8%b9%e5%ad%a3%ef%bc%81-%e6%9c%80%e6%b5%aa%e6%bc%ab%e7%9a%84%e7%b4%ab%e8%89%b2%e8%8a%b1%e6%b5%b7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 01:59:12 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[盛夏物語]]></category>
+		<category><![CDATA[銀葉公主]]></category>
+		<category><![CDATA[香格里拉休閒農場]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=216828</guid>
+
+					<description><![CDATA[<p>夏日銀絨牡丹季 最浪漫的紫色花海。圖/香格里拉休閒農場 提供 今年夏季最浪漫的紫色花海驚喜登場！位於宜蘭冬山鄉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e5%a4%8f%e6%97%a5%e9%8a%80%e7%b5%a8%e7%89%a1%e4%b8%b9%e5%ad%a3%ef%bc%81-%e6%9c%80%e6%b5%aa%e6%bc%ab%e7%9a%84%e7%b4%ab%e8%89%b2%e8%8a%b1%e6%b5%b7/">夏日銀絨牡丹季！ 最浪漫的紫色花海</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="432" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?resize=1220%2C432&#038;ssl=1" alt="" class="wp-image-217111" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?w=2151&amp;ssl=1 2151w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?resize=768%2C272&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?resize=1536%2C543&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?resize=2048%2C725&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/夏日銀絨牡丹季-最浪漫的紫色花海-1.jpg?resize=260%2C92&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">夏日銀絨牡丹季 最浪漫的紫色花海。圖/香格里拉休閒農場 提供</figcaption></figure>
+
+
+
+<p>今年夏季最浪漫的紫色花海驚喜登場！位於宜蘭冬山鄉大元山麓的香格里拉休閒農場，展現壯觀的銀絨牡丹花海。連綿的山脈點綴著夢幻的紫色花海，與藍天交相輝映，成為今夏不可錯過的秘境打卡熱點。此外，香格里拉特別推出「盛夏物語」攝影大賞，邀請遊客前往這座仿若現代桃花源的花海中，捕捉浪漫瞬間與夏日回憶。主題不限，歡迎所有民眾踴躍投稿，還有極具吸引力的「三天二夜極致豪華住宿券」大獎等您來拿！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-217060" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/銀絨牡丹也有「銀葉公主」的美稱-典雅浪漫-嬌柔可愛.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">銀絨牡丹也有「銀葉公主」的美稱 典雅浪漫 嬌柔可愛~ 圖/香格里拉休閒農場 提供</figcaption></figure>
+
+
+
+<p>銀絨牡丹屬於野牡丹科，也有「銀葉公主」的別稱。厚實的葉片覆滿柔軟的絨毛，襯托出鮮豔的深紫色花序，宛如受到細心呵護的高貴公主。沿著香格里拉農場的森林步道，向較高處前行，童話般的銀絨牡丹花園正等待著您的造訪。在此，可以近距離欣賞「銀葉公主」的妖嬈姿態，或爬上農場制高點俯瞰延綿山坡上壯麗的花海景色。每年6月至7月是欣賞銀絨牡丹的最佳時節，不妨利用暑假入住香格里拉，享受一段悠閒自在的山林度假時光。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="554" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/漫步森林小徑-悠然直上-童話般的夢幻花園-等您來邂逅圖片來源：林坤德攝影.jpg?resize=1220%2C554&#038;ssl=1" alt="" class="wp-image-216832" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/漫步森林小徑-悠然直上-童話般的夢幻花園-等您來邂逅圖片來源：林坤德攝影.jpg?w=1703&amp;ssl=1 1703w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/漫步森林小徑-悠然直上-童話般的夢幻花園-等您來邂逅圖片來源：林坤德攝影.jpg?resize=768%2C349&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/漫步森林小徑-悠然直上-童話般的夢幻花園-等您來邂逅圖片來源：林坤德攝影.jpg?resize=1536%2C698&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/漫步森林小徑-悠然直上-童話般的夢幻花園-等您來邂逅圖片來源：林坤德攝影.jpg?resize=260%2C118&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">漫步森林小徑 悠然直上 童話般的夢幻花園 等您來邂逅。圖/林坤德攝影</figcaption></figure>
+
+
+
+<p>夏季的香格里拉，除了有浪漫的銀絨牡丹花海外，翠綠鮮活的森林景致以及無光害的銀河星空皆十分亮眼！2025年香格里拉特別推出《盛夏物語》攝影大賞，邀請各路好手前往「現代桃花源」，分享來自香格里拉的夏日回憶。投稿主題不限，人人皆可參加。徵稿期間即日起至2025/8/31，只需將攝影作品依指定形式公開分享於個人FB或IG貼文，並簡單填寫<a href="https://forms.gle/UBAkWzchzx9gXJ53A">報名表單</a>，就能輕鬆投稿～(活動詳情請參考<a href="https://www.facebook.com/SLF168/?locale=zh_TW">香格里拉休閒農場FB粉專</a>)</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1725" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?resize=1220%2C1725&#038;ssl=1" alt="" class="wp-image-216833" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?w=1811&amp;ssl=1 1811w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?resize=768%2C1086&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?resize=1086%2C1536&amp;ssl=1 1086w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?resize=1448%2C2048&amp;ssl=1 1448w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/《盛夏物語》2025香格里拉攝影大賞-主題不限-人人皆可投稿-scaled.jpg?resize=103%2C146&amp;ssl=1 103w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《盛夏物語》2025香格里拉攝影大賞 主題不限 人人皆可投稿。圖/香格里拉休閒農場 提供</figcaption></figure>
+
+
+
+<p>香格里拉頂級山林渡假品牌-松羅館，客房皆以大量台灣紅檜打造，推開房門，便有陣陣檜木清香撲鼻而來。一邊泡杯好茶，一邊坐看雲起日落，享受綿延的山林綠意。部分房型更精心設計室內盪鞦韆，讓成人與孩童都能在住宿中盡情玩樂，增添童趣。在香格里拉，讓城市的喧囂暫時擱置，將假期留在這片純粹的大自然中，體驗最原始的感動。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-216834" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?w=2510&amp;ssl=1 2510w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?resize=2048%2C1363&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-274.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">部分客房設置室內盪鞦韆 童趣十足。圖/香格里拉休閒農場 提供</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/頂級山林渡假品牌「松羅館」採用大量台灣紅檜-吸收千年芬多精。圖香格里拉休閒農場-提供.jpg?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-216835" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/頂級山林渡假品牌「松羅館」採用大量台灣紅檜-吸收千年芬多精。圖香格里拉休閒農場-提供.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/頂級山林渡假品牌「松羅館」採用大量台灣紅檜-吸收千年芬多精。圖香格里拉休閒農場-提供.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/頂級山林渡假品牌「松羅館」採用大量台灣紅檜-吸收千年芬多精。圖香格里拉休閒農場-提供.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">頂級山林渡假品牌「松羅館」採用大量台灣紅檜 吸收千年芬多精。圖/香格里拉休閒農場 提供</figcaption></figure>
+
+
+
+<p>暑假7-8月期間，香格里拉還精心準備了《盛夏樂Fun趣》-超豐富的住客限定館內活動：您可體驗「花生捲冰淇淋DIY」，感受冰涼手作與在地滋味；欣賞「天籟仲夏夜」樂手表演，給您歡快愜意的音樂饗宴；參加「夜景觀星導覽」，探訪璀璨星空與浪漫銀河…還有更多體驗活動，歡迎查詢<a href="http://www.shangrilas.com.tw/shangrila/index.php/news">香格里拉休閒農場官方網站</a>。除此之外，於7/4-8/18入住香格里拉還能參加《童玩30住宿趣》活動，單筆住宿消費滿 $2,000可兌換「宜蘭國際童玩節」一人一次入園。心動不如馬上行動，趁著浪漫夏日銀絨牡丹花季，在香格里拉度過最難忘的暑假吧！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1725" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?resize=1220%2C1725&#038;ssl=1" alt="" class="wp-image-216836" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?w=1811&amp;ssl=1 1811w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?resize=768%2C1086&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?resize=1086%2C1536&amp;ssl=1 1086w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?resize=1448%2C2048&amp;ssl=1 1448w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/7-8月住客限定：《盛夏樂Fun趣》-豐富活動等您來體驗！-scaled.jpg?resize=103%2C146&amp;ssl=1 103w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">7-8月住客限定：《盛夏樂Fun趣》 豐富活動等您來體驗！圖/香格里拉休閒農場 提供</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e5%a4%8f%e6%97%a5%e9%8a%80%e7%b5%a8%e7%89%a1%e4%b8%b9%e5%ad%a3%ef%bc%81-%e6%9c%80%e6%b5%aa%e6%bc%ab%e7%9a%84%e7%b4%ab%e8%89%b2%e8%8a%b1%e6%b5%b7/">夏日銀絨牡丹季！ 最浪漫的紫色花海</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【her spa 毛孔清潔專家】專業養護課程，溫和調理肌膚、打造清爽膚感！</title>
+		<link>https://firenews.com.tw/2025/06/25/%e3%80%90her-spa-%e6%af%9b%e5%ad%94%e6%b8%85%e6%bd%94%e5%b0%88%e5%ae%b6%e3%80%91%e5%b0%88%e6%a5%ad%e9%a4%8a%e8%ad%b7%e8%aa%b2%e7%a8%8b%ef%bc%8c%e6%ba%ab%e5%92%8c%e8%aa%bf%e7%90%86%e8%82%8c%e8%86%9a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 00:02:00 +0000</pubDate>
+				<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=215237</guid>
+
+					<description><![CDATA[<p><img width="833" height="604" src="https://firenews.com.tw/wp-content/uploads/2025/06/image-229.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?w=833&amp;ssl=1 833w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=201%2C146&amp;ssl=1 201w" sizes="(max-width: 833px) 100vw, 833px" /></p>
+<p>惱人的鼻頭粉刺是許多人揮之不去的困擾，市面上常見的清除方式卻常傷及肌膚。現在，her spa 推出獨特的「毛孔 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e3%80%90her-spa-%e6%af%9b%e5%ad%94%e6%b8%85%e6%bd%94%e5%b0%88%e5%ae%b6%e3%80%91%e5%b0%88%e6%a5%ad%e9%a4%8a%e8%ad%b7%e8%aa%b2%e7%a8%8b%ef%bc%8c%e6%ba%ab%e5%92%8c%e8%aa%bf%e7%90%86%e8%82%8c%e8%86%9a/">【her spa 毛孔清潔專家】專業養護課程，溫和調理肌膚、打造清爽膚感！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="833" height="604" src="https://firenews.com.tw/wp-content/uploads/2025/06/image-229.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?w=833&amp;ssl=1 833w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=201%2C146&amp;ssl=1 201w" sizes="(max-width: 833px) 100vw, 833px" /></p>
+<p>惱人的<a href="https://herspa.com.tw/nose-acne/">鼻頭粉刺</a>是許多人揮之不去的困擾，市面上常見的清除方式卻常傷及肌膚。現在，her spa 推出獨特的「<a href="https://herspa.com.tw/service/ladys-facial-care/">毛孔SPA｜毛孔潔淨專門保養</a>」課程，以一套溫和且有效的十步驟流程，幫助舒緩粉刺困擾，帶來清爽舒適的毛孔保養體驗。</p>
+
+
+
+<h2 class="wp-block-heading"><a></a><strong>放鬆無負擔的體驗！專業技術徹底淨化毛孔</strong><strong></strong></h2>
+
+
+
+<p>her spa 的「毛孔潔淨專門保養」課程，結合了深層清潔、礦石粉溶解、震動霧化等先進技術，並搭配美容師的精湛手技，協助調理粉刺困擾部位，讓毛孔感受清爽舒緩。有別於傳統可能造成傷害的清粉刺方式，her spa強調「拔得乾淨、收得漂亮」，不僅提供清潔與保濕兼顧的保養流程，更透過紅藍光調理與保濕導入，讓肌膚在清潔後獲得完整修護，讓肌膚維持舒適。</p>
+
+
+
+<h2 class="wp-block-heading"><a></a><strong>萬人見證！安心可持續的毛孔管理專家</strong><strong></strong></h2>
+
+
+
+<p><a href="https://herspa.com.tw/">her spa</a> 營運長唐金梅表示，品牌核心理念是提供「安心可持續」的保養方案，幫助顧客擺脫錯誤清潔造成的肌膚傷害。這套課程已累積數萬人次的良好口碑，課程推出以來，廣受不同膚質顧客肯定，成為許多消費者信賴的保養選擇。her spa 致力於讓每次護理不只帶來外在轉變，更是身心靈的放鬆與療癒，提供一場身心放鬆的舒緩時光，讓顧客展現自然光采。</p>
+
+
+
+<p><strong>《</strong><a href="https://herspa.com.tw/"><strong>her spa 和和恬</strong></a><strong>簡介》</strong><strong></strong></p>
+
+
+
+<p>&nbsp;運用傳統漢方（中醫）智慧，為現代都會生活者帶來身心舒緩的保養體驗，享受「漢方Spa」帶來的幸福生活。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="530" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-230.png?resize=864%2C530&#038;ssl=1" alt="" class="wp-image-215238" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-230.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-230.png?resize=768%2C471&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-230.png?resize=238%2C146&amp;ssl=1 238w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>her spa 全台分店資訊</strong></h2>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山店</p>
+
+
+
+<p>地址：台北市中山區南京東路一段 2 號 4 樓之 1（中山捷運站 2 號出口步行 2 分鐘，大倉久和飯店對面）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/rOQxrpz">https://lin.ee/rOQxrpz</a></p>
+
+
+
+<p>電話：02-2100-1610</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山二店</p>
+
+
+
+<p>地址：台北市中山區南京東路一段 60 號 4 樓（捷運中山站 2 號出口步行 3 分鐘，台北國際飯店旁）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/j0rI6lv">https://lin.ee/j0rI6lv</a></p>
+
+
+
+<p>電話：02-2536-1319</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 高雄店</p>
+
+
+
+<p>地址：高雄市前鎮區民權二路86號（獅甲捷運站 2 號出口步行 2 分鐘）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/y33QmrG">https://lin.ee/y33QmrG</a></p>
+
+
+
+<p>電話：07-331-2889<strong></strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e3%80%90her-spa-%e6%af%9b%e5%ad%94%e6%b8%85%e6%bd%94%e5%b0%88%e5%ae%b6%e3%80%91%e5%b0%88%e6%a5%ad%e9%a4%8a%e8%ad%b7%e8%aa%b2%e7%a8%8b%ef%bc%8c%e6%ba%ab%e5%92%8c%e8%aa%bf%e7%90%86%e8%82%8c%e8%86%9a/">【her spa 毛孔清潔專家】專業養護課程，溫和調理肌膚、打造清爽膚感！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>鼻頭粉刺怎麼清才不傷肌？her spa 推出十步驟毛孔調理課程，溫和呵護、深受喜愛</title>
+		<link>https://firenews.com.tw/2025/06/25/%e9%bc%bb%e9%a0%ad%e7%b2%89%e5%88%ba%e6%80%8e%e9%ba%bc%e6%b8%85%e6%89%8d%e4%b8%8d%e5%82%b7%e8%82%8c%ef%bc%9fher-spa-%e6%8e%a8%e5%87%ba%e5%8d%81%e6%ad%a5%e9%a9%9f%e6%af%9b%e5%ad%94%e8%aa%bf%e7%90%86/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 23:53:00 +0000</pubDate>
+				<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=215231</guid>
+
+					<description><![CDATA[<p><img width="833" height="604" src="https://firenews.com.tw/wp-content/uploads/2025/06/image-229.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?w=833&amp;ssl=1 833w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=201%2C146&amp;ssl=1 201w" sizes="(max-width: 833px) 100vw, 833px" /></p>
+<p>無論是熬夜、壓力大還是氣候濕熱，鼻頭粉刺幾乎成為現代都會男女的「膚況公敵」。尤其是年輕族群與長時間戴口罩者，常 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e9%bc%bb%e9%a0%ad%e7%b2%89%e5%88%ba%e6%80%8e%e9%ba%bc%e6%b8%85%e6%89%8d%e4%b8%8d%e5%82%b7%e8%82%8c%ef%bc%9fher-spa-%e6%8e%a8%e5%87%ba%e5%8d%81%e6%ad%a5%e9%a9%9f%e6%af%9b%e5%ad%94%e8%aa%bf%e7%90%86/">鼻頭粉刺怎麼清才不傷肌？her spa 推出十步驟毛孔調理課程，溫和呵護、深受喜愛</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="833" height="604" src="https://firenews.com.tw/wp-content/uploads/2025/06/image-229.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?w=833&amp;ssl=1 833w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-229.png?resize=201%2C146&amp;ssl=1 201w" sizes="(max-width: 833px) 100vw, 833px" /></p>
+<p>無論是熬夜、壓力大還是氣候濕熱，<a href="https://herspa.com.tw/nose-acne/">鼻頭粉刺</a>幾乎成為現代都會男女的「膚況公敵」。尤其是年輕族群與長時間戴口罩者，常因皮脂分泌旺盛與角質堆積，導致粉刺頻繁冒出。市面上琳瑯滿目的撕除式面膜、粉刺拔除棒，雖然聲稱可快速「清光粉刺」，但這些方法多為一次性破壞，容易造成毛孔擴大、留痘印，甚至出現反黑、泛紅與反覆發炎的副作用，讓膚況雪上加霜。</p>
+
+
+
+<p><strong>her spa專業十步驟，舒緩鼻頭粉刺困擾</strong></p>
+
+
+
+<p>面對反覆困擾的鼻頭粉刺，her spa以「<a href="https://herspa.com.tw/service/ladys-facial-care/">毛孔SPA｜毛孔潔淨專門保養</a> （Pore Cleaning）」提供全面且溫和的對策。療程精心設計十道關鍵程序，從深入清潔與礦石粉溶解老廢角質開始，搭配厚實潔膚泡泡與震動霧化技術，徹底帶走毛孔內的皮脂與髒污。接續透過熱敷、紅藍光調理、雙管粉刺吸引儀與手技按摩，協助溫和調理粉刺部位。最後以保濕導入與毛孔專用護理完成修護，鎮靜肌膚、收斂毛孔，整體流程不僅著重溫和、安全，更強調根源管理。</p>
+
+
+
+<p><strong>儀器 × 手技，打造輕盈無負擔的保養儀式</strong></p>
+
+
+
+<p>不同於一般的清粉刺手法，her spa 強調結合美容保養科技與中草本靈感調理哲學，並由專業美容師以輕柔、細緻的手法操作，避免拉扯與過度刺激。讓顧客在放鬆的節奏中，感受毛孔部位的清新與舒適，課程後膚觸更加柔嫩透亮，找回肌膚自然光采。</p>
+
+
+
+<p><strong>強調毛孔管理長期觀念，拒絕一次性破壞式清潔</strong></p>
+
+
+
+<p><a href="https://herspa.com.tw/">her spa</a>營運長同時也是資深美容師唐金梅指出：「許多顧客到訪的時候，毛孔已經因長期錯誤清潔變得鬆弛又容易堵塞。我們希望透過專業服務與正確觀念，幫助顧客建立毛孔管理的長期思維，而不是依賴快速但傷害肌膚的方式。」her spa提倡「安心可持續」的保養路線，強調每次護理都是累積健康與美麗的過程，如同穩健的長期投資，讓顧客在時間中見證變化。</p>
+
+
+
+<p><strong>萬人口碑見證，成為鼻頭粉刺護理首選品牌</strong></p>
+
+
+
+<p>自課程推出以來，her spa已服務數萬位顧客，口碑不斷累積。無論是初次護膚的新手、肌膚敏感者，或曾經因清粉刺留下痘疤的顧客，都在her spa中找到適合自己的解決方案。顧客回饋表示，課程後感受到膚質更加穩定、潔淨舒適，是值得持續回訪的保養方案之一。使her spa在競爭激烈的美容市場中脫穎而出，成為毛孔清潔與鼻頭粉刺處理的信賴首選。</p>
+
+
+
+<p><strong>從外在清潔到內在療癒，打造身心靈同步美麗體驗</strong></p>
+
+
+
+<p>her spa始終堅持，真正的保養應由內而外，結合身體氣血循環與肌膚表層調理，才能達到持久與安心。唐金梅進一步表示：「我們希望每一次的粉刺清潔課程，都是顧客與自己身心對話的過程。讓保養不只是形式，而是一種療癒、一種生活哲學。」在her spa，每一場護膚體驗不只是肌膚的轉變，更是身心靈同步放鬆與修復的旅程。</p>
+
+
+
+<p><strong>《</strong><a href="https://herspa.com.tw/"><strong>her spa </strong><strong>和和恬</strong></a><strong>簡介》</strong><strong></strong> &nbsp;運用傳統漢方（中醫）智慧，為現代都會生活者帶來身心舒緩的保養體驗，享受「漢方Spa」帶來的幸福生活。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="530" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-228.png?resize=864%2C530&#038;ssl=1" alt="" class="wp-image-215234" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-228.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-228.png?resize=768%2C471&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image-228.png?resize=238%2C146&amp;ssl=1 238w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>her spa </strong><strong>全台分店資訊</strong></h2>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山店</p>
+
+
+
+<p>地址：台北市中山區南京東路一段 2 號 4 樓之 1（中山捷運站 2 號出口步行 2 分鐘，大倉久和飯店對面）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/rOQxrpz">https://lin.ee/rOQxrpz</a></p>
+
+
+
+<p>電話：02-2100-1610</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山二店</p>
+
+
+
+<p>地址：台北市中山區南京東路一段 60 號 4 樓（捷運中山站 2 號出口步行 3 分鐘，台北國際飯店旁）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/j0rI6lv">https://lin.ee/j0rI6lv</a></p>
+
+
+
+<p>電話：02-2536-1319</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 高雄店</p>
+
+
+
+<p>地址：高雄市前鎮區民權二路86號（獅甲捷運站 2 號出口步行 2 分鐘）</p>
+
+
+
+<p>Line快速預約或詢問：<a href="https://lin.ee/y33QmrG">https://lin.ee/y33QmrG</a></p>
+
+
+
+<p>電話：07-331-2889</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/25/%e9%bc%bb%e9%a0%ad%e7%b2%89%e5%88%ba%e6%80%8e%e9%ba%bc%e6%b8%85%e6%89%8d%e4%b8%8d%e5%82%b7%e8%82%8c%ef%bc%9fher-spa-%e6%8e%a8%e5%87%ba%e5%8d%81%e6%ad%a5%e9%a9%9f%e6%af%9b%e5%ad%94%e8%aa%bf%e7%90%86/">鼻頭粉刺怎麼清才不傷肌？her spa 推出十步驟毛孔調理課程，溫和呵護、深受喜愛</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>奧圖碼全新OSS平台：協助教育與企業實現高效互動與智慧管理</title>
+		<link>https://firenews.com.tw/2025/06/24/%e5%a5%a7%e5%9c%96%e7%a2%bc%e5%85%a8%e6%96%b0oss%e5%b9%b3%e5%8f%b0%ef%bc%9a%e5%8d%94%e5%8a%a9%e6%95%99%e8%82%b2%e8%88%87%e4%bc%81%e6%a5%ad%e5%af%a6%e7%8f%be%e9%ab%98%e6%95%88%e4%ba%92%e5%8b%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 10:34:20 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=216572</guid>
+
+					<description><![CDATA[<p><img width="1269" height="714" src="https://firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?w=1269&amp;ssl=1 1269w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1269px) 100vw, 1269px" /></p>
+<p>全球投影與顯示領導品牌奧圖碼，憑藉其卓越的前瞻視野和技術實力，再次引領智慧顯示潮流，正式推出全新的Optoma &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/24/%e5%a5%a7%e5%9c%96%e7%a2%bc%e5%85%a8%e6%96%b0oss%e5%b9%b3%e5%8f%b0%ef%bc%9a%e5%8d%94%e5%8a%a9%e6%95%99%e8%82%b2%e8%88%87%e4%bc%81%e6%a5%ad%e5%af%a6%e7%8f%be%e9%ab%98%e6%95%88%e4%ba%92%e5%8b%95/">奧圖碼全新OSS平台：協助教育與企業實現高效互動與智慧管理</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1269" height="714" src="https://firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?w=1269&amp;ssl=1 1269w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/image_5006348_21245517.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1269px) 100vw, 1269px" /></p>
+<p>全球投影與顯示領導品牌奧圖碼，憑藉其卓越的前瞻視野和技術實力，再次引領智慧顯示潮流，正式推出全新的Optoma Smart System（OSS）平台。這一創新系統不僅涵蓋了Whiteboard智慧白板、DisplayShare螢幕共享及InfoBoard電子布告欄三大模組，更是針對教育和企業需求量身打造，旨在提供更直觀、高效且靈活的互動體驗。</p>
+
+
+
+<p>OSS並非單一工具的集合，而是奧圖碼在深度觀察教學與商務場景中各種使用痛點後，透過AI技術與雲端架構精心設計的智慧解決方案。無論是課堂教學、線上協作、即時簡報或遠距溝通，OSS皆能靈活適應不同需求，打造跨設備、跨平台的數位互動新樣貌。</p>
+
+
+
+<p><strong>Whiteboard智慧白板：將備課與授課轉化為無縫延伸的體驗</strong></p>
+
+
+
+<p>Whiteboard智慧白板深度整合Google Classroom，教師只需綁定帳號，便可即時匯入課程與學生名單。這不僅大幅減少行政操作的時間，更讓教師能隨時、隨地準備課程內容，並於任一裝置上快速歸位教學進度。</p>
+
+
+
+<p>該白板系統導入多項AI功能，包含手寫辨識（文字、數學公式、圖形）、AI便利貼與AI腦力激盪工具，不僅提升課堂互動品質，更能激發學生思維參與。支援多台裝置同步操作，包括雙白板協作、與筆電、平板或手機的即時互動，使教學與簡報流程更加靈活，打破空間與設備的限制。</p>
+
+
+
+<p><strong>DisplayShare螢幕共享：突破裝置邊界的即時視覺溝通</strong></p>
+
+
+
+<p>DisplayShare支援Windows、Mac、iOS、Android及Chrome等主流平台，可同時連線顯示多達16台裝置畫面，實現真正的多裝置協同操作。用戶透過快速顏色配對功能，即可免輸入PIN碼連線，搭配遠端控制、授權管理與多色雷射筆標註等設計，大幅提升協作效率與簡報靈活性。</p>
+
+
+
+<p>不論是小組討論、跨國會議或實體／線上混合型活動，DisplayShare皆可確保畫面穩定、操作簡便，正式版本預計於2025年9月推出，將為企業與教育場景帶來更多可能性。</p>
+
+
+
+<p><strong>InfoBoard電子布告欄：讓課堂資訊傳遞更即時、更有感</strong></p>
+
+
+
+<p>InfoBoard專為數位化教學環境設計，教師可透過遠端後台即時發布公告、作業提醒、即時通知與倒數計時器等互動內容。其支援多樣背景主題與圖像呈現，不僅增添視覺吸引力，更強化課堂參與度，實現高效率、低紙化的智慧教室新常態。</p>
+
+
+
+<p>Optoma OSS的誕生，不僅體現奧圖碼對使用情境與需求的敏銳洞察，更彰顯其致力於從硬體整合到軟體優化、由技術研發走向實際應用的堅持。面對教育數位轉型與企業彈性工作的時代浪潮，奧圖碼將持續深耕創新，以精準實用的智慧工具陪伴使用者走向更協同、更智慧的未來。</p>
+
+
+
+<p><strong>關於Optoma</strong></p>
+
+
+
+<p>Optoma作為全球領先的顯示解決方案供應商，致力於提供高效、創新的顯示技術與解決方案，服務於各行各業。從投影機、顯示器到智慧顯示系統，Optoma秉持著「不斷創新」的核心理念，致力於推動顯示技術的進步與應用，為客戶提供卓越的視覺體驗與管理效能。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/24/%e5%a5%a7%e5%9c%96%e7%a2%bc%e5%85%a8%e6%96%b0oss%e5%b9%b3%e5%8f%b0%ef%bc%9a%e5%8d%94%e5%8a%a9%e6%95%99%e8%82%b2%e8%88%87%e4%bc%81%e6%a5%ad%e5%af%a6%e7%8f%be%e9%ab%98%e6%95%88%e4%ba%92%e5%8b%95/">奧圖碼全新OSS平台：協助教育與企業實現高效互動與智慧管理</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>夏日炎炎 護好肌膚拒成乾燥海綿 Neogence霓淨思玻尿酸保濕水平衡系列新升級 養出超涵水嫩齡肌</title>
+		<link>https://firenews.com.tw/2025/06/24/%e5%a4%8f%e6%97%a5%e7%82%8e%e7%82%8e-%e8%ad%b7%e5%a5%bd%e8%82%8c%e8%86%9a%e6%8b%92%e6%88%90%e4%b9%be%e7%87%a5%e6%b5%b7%e7%b6%bf-neogence%e9%9c%93%e6%b7%a8%e6%80%9d%e7%8e%bb%e5%b0%bf%e9%85%b8%e4%bf%9d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 02:31:05 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=216202</guid>
+
+					<description><![CDATA[<p>炎炎夏日已至，不僅衣櫥需要換季，保養品也得跟上節奏！ 即日起至7月24日於康是美通路選購「HA玻尿酸保濕水平衡 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/24/%e5%a4%8f%e6%97%a5%e7%82%8e%e7%82%8e-%e8%ad%b7%e5%a5%bd%e8%82%8c%e8%86%9a%e6%8b%92%e6%88%90%e4%b9%be%e7%87%a5%e6%b5%b7%e7%b6%bf-neogence%e9%9c%93%e6%b7%a8%e6%80%9d%e7%8e%bb%e5%b0%bf%e9%85%b8%e4%bf%9d/">夏日炎炎 護好肌膚拒成乾燥海綿 Neogence霓淨思玻尿酸保濕水平衡系列新升級 養出超涵水嫩齡肌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>炎炎夏日已至，不僅衣櫥需要換季，保養品也得跟上節奏！</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-216375" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?w=2156&amp;ssl=1 2156w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?resize=1536%2C859&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?resize=2048%2C1146&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675725194-1.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">即日起至7月24日於康是美通路選購「HA玻尿酸保濕水平衡系列」，新品上市價66折起。圖 / Neogence霓淨思</figcaption></figure>
+
+
+
+<p>通勤時無孔不入的紫外線，加上冷氣全天候吹送的室內空間，炙熱陽光和乾燥空氣劇烈交替的環境，不少人才驚覺臉頰的緊繃、乾裂成了粗糙海綿。其實夏天保養策略更重平衡保濕，Neogence霓淨思20年保濕權威再升級！「 玻尿酸保濕水平衡系列」，即時掌握換季護膚的小秘訣，讓肌膚在夏季也能水潤、自帶光澤。</p>
+
+
+
+<p>Neogence霓淨思於2002年推出首瓶玻尿酸原液，成為回購率極高的明星商品。經20年消費者口碑認證，Neogence霓淨思近期宣布升級該系列全品項，透過5重玻尿酸極效水平衡配方，從基礎保濕、鎖水到油水平衡，層層守護每一寸肌膚，更貼近現代人肌膚需求。 </p>
+
+
+
+<p>辦公室冷氣一吹8小時是常態，等下班回過神，臉頰拉起缺水警報，甚至連後續保養品都難以吸收。面對肌膚的突發性缺水，Neogence霓淨思 「 玻尿酸保濕水平衡系列」，此次一口氣調整9款產品配方，全天候精準補水、涵水、鎖水，滿足不同保濕需求。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="685" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=1220%2C685&#038;ssl=1" alt="" class="wp-image-216206" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?w=2153&amp;ssl=1 2153w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=1536%2C862&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=2048%2C1149&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/1750675733881.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence霓淨思玻尿酸保濕水平衡系列新升級 養出超涵水嫩齡肌。圖 / Neogence霓淨思</figcaption></figure>
+
+
+
+<p>根據91.3%*用戶實測，暱稱「保濕小藍瓶」的玻尿酸保濕水平衡賦能精華可24小時內明顯改善乾燥**、缺水，更有82.6%*使用者感受到肌膚變得水嫩澎亮。該款精華包含系列極效水平衡配方為核心，以大分子玻尿酸宛如在肌膚表層建立「水庫」大量補水，緊接讓陽離子玻尿酸形成長效鎖水膜留住水份，並藉由導入型、活化型玻尿酸輸送水份深入肌膚底層，最後透過「水龍頭」小分子玻尿酸直達缺水區，串起水份供應鏈，恢復肌膚水平衡。</p>
+
+
+
+<p>除5重玻尿酸外，「玻尿酸保濕水平衡賦能精華」亦添加依克多因、維他命B3+B5及永久花幹細胞等修護成份，有助於強化肌膚舒敏、抵禦能力，輕鬆養成穩定的原生感光澤肌。</p>
+
+
+
+<p>在潮濕悶熱的夏天，保濕講究的不只是夠水，還要輕盈不黏膩，能撐過通勤流汗、空調乾燥，守護肌膚不乾癢、不脫妝。從日常化妝水打底開始，Neogence霓淨思「玻尿酸保濕水平衡精華化妝水」注入澳洲野生玫瑰茄、法國翡翠海軟毛松藻及克拉瑪斯湖藍藻，讓肌膚處於高飽水狀態。接續使用「玻尿酸保濕水平衡賦能精華」，作為強效補水與修護的關鍵步驟，深度穩定膚況，改善因乾燥缺水所引發的敏感、泛紅問題。</p>
+
+
+
+<p>品牌同系列的「玻尿酸保濕水平衡滲透乳」富含高純度神經醯胺、羽玄米油及植萃角鯊烷可即刻為肌膚清爽鎖水，若為乾性肌膚可以選擇「玻尿酸保濕水平衡潤澤霜」以乳木果油、古布阿蘇油與高純度神經醯胺的深層豐潤，讓肌膚回到油水平衡的理想狀態。</p>
+
+
+
+<p>即日起至7月24日於康是美通路選購「HA玻尿酸保濕水平衡系列」，新品上市價66折起，另有限量獨家組包：玻尿酸保濕水平衡賦能面膜3入組（特價$850）及玻尿酸保濕水平衡化妝水重裝組（特價$999）。凡購買霓淨思滿$2000，還可獲贈1%極效撫紋A醇眼霜（15ml）乙支，數量有限，送完為止。詳情請見：康是美活動專區 <a href="https://pse.is/7n9xcn">https://pse.is/7n9xcn</a></p>
+
+
+
+<p>*依第三方公證單位實測，實際改善效果。 **依第三方公證單位實測滿意度調查結果。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/24/%e5%a4%8f%e6%97%a5%e7%82%8e%e7%82%8e-%e8%ad%b7%e5%a5%bd%e8%82%8c%e8%86%9a%e6%8b%92%e6%88%90%e4%b9%be%e7%87%a5%e6%b5%b7%e7%b6%bf-neogence%e9%9c%93%e6%b7%a8%e6%80%9d%e7%8e%bb%e5%b0%bf%e9%85%b8%e4%bf%9d/">夏日炎炎 護好肌膚拒成乾燥海綿 Neogence霓淨思玻尿酸保濕水平衡系列新升級 養出超涵水嫩齡肌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>高樹鄉「在欉黃」無毒芒果上市　三品系組合搶鮮預購</title>
+		<link>https://firenews.com.tw/2025/06/23/%e9%ab%98%e6%a8%b9%e9%84%89%e3%80%8c%e5%9c%a8%e6%ac%89%e9%bb%83%e3%80%8d%e7%84%a1%e6%af%92%e8%8a%92%e6%9e%9c%e4%b8%8a%e5%b8%82%e3%80%80%e4%b8%89%e5%93%81%e7%b3%bb%e7%b5%84%e5%90%88%e6%90%b6%e9%ae%ae/</link>
+		
+		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 06:43:29 +0000</pubDate>
+				<category><![CDATA[地方]]></category>
+		<category><![CDATA[產業]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=215820</guid>
+
+					<description><![CDATA[<p><img width="2364" height="1774" src="https://firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2364px) 100vw, 2364px" /></p>
+<p>火報記者／屏東報導 芒果盛產季節來臨！屏東高樹鄉地處水源保護區，擁有純淨水質、乾淨土地與清新空氣，孕育出品質優 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/23/%e9%ab%98%e6%a8%b9%e9%84%89%e3%80%8c%e5%9c%a8%e6%ac%89%e9%bb%83%e3%80%8d%e7%84%a1%e6%af%92%e8%8a%92%e6%9e%9c%e4%b8%8a%e5%b8%82%e3%80%80%e4%b8%89%e5%93%81%e7%b3%bb%e7%b5%84%e5%90%88%e6%90%b6%e9%ae%ae/">高樹鄉「在欉黃」無毒芒果上市　三品系組合搶鮮預購</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2364" height="1774" src="https://firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000068.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2364px) 100vw, 2364px" /></p>
+<p>火報記者／屏東報導</p>
+
+
+
+<p>芒果盛產季節來臨！屏東高樹鄉地處水源保護區，擁有純淨水質、乾淨土地與清新空氣，孕育出品質優良的芒果。「農民黨一號芒果」現正進入產期，果香淡雅、肉質細緻少纖維、果皮極薄，是夏季限定的在地美味。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-215822" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/S__256000071.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲屏東縣高樹鄉「在欉黃」農民黨芒果季節限定搶鮮預購中。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>這款人氣芒果由「屏東縣好菓子合作社」主力社員李俊寬與母親共同栽種，傳承父親留下的兩公頃芒果園，堅持無毒栽培、不噴灑除草劑、不使用化肥與著色劑，連防治果蠅都採用套袋方式，為的就是讓消費者吃得健康又安心。李俊寬表示：「我們種的是自己敢吃的水果，每一顆都通過農藥檢測，為健康把關。」</p>
+
+
+
+<p>好菓子合作社由一群重視食安、追求健康的農民組成，推廣「種自己敢吃的水果」，不僅希望家人吃得安心，也期盼能將屏東優質農產推廣到全台消費者手中。合作社目前主打三種品系，包括香氣濃郁的「農民黨一號」、細緻多汁的「西施」及果肉厚實的「玉文」芒果，風味各具特色，與屏南地區常見的愛文芒果相比，毫不遜色。</p>
+
+
+
+<p>值得一提的是，李家芒果堅持「在欉黃」自然熟成，不搶摘催熟，保留最原始的香氣與甜味。為了讓消費者一次品嚐三種不同品系的風味，合作社特別推出禮盒組合：10台斤裝（含農民黨、西施、玉文）售價800元；5台斤裝（含農民黨、西施，因玉文體型較大無法裝盒）售價400元，均為季節限定。另可指定單一品系出貨，運費另計（外島地區運費較高）。</p>
+
+
+
+<p>即日起開放訂購，數量有限、售完為止。洽詢與訂購請聯繫「屏東縣好菓子合作社」黃經理：0926-474-671。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/06/23/%e9%ab%98%e6%a8%b9%e9%84%89%e3%80%8c%e5%9c%a8%e6%ac%89%e9%bb%83%e3%80%8d%e7%84%a1%e6%af%92%e8%8a%92%e6%9e%9c%e4%b8%8a%e5%b8%82%e3%80%80%e4%b8%89%e5%93%81%e7%b3%bb%e7%b5%84%e5%90%88%e6%90%b6%e9%ae%ae/">高樹鄉「在欉黃」無毒芒果上市　三品系組合搶鮮預購</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
