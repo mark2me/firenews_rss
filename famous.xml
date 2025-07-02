@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 01 Jul 2025 14:59:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Jul 2025 02:25:08 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,6 +37,7 @@
 		<dc:creator><![CDATA[火報]]></dc:creator>
 		<pubDate>Tue, 01 Jul 2025 14:49:12 +0000</pubDate>
 				<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
 		<category><![CDATA[攏來探吉]]></category>
 		<category><![CDATA[禹倫]]></category>
 		<category><![CDATA[老王]]></category>
