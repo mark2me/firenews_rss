@@ -1,120 +1,717 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>綜合 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/綜合/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Sat, 05 Jul 2025 05:49:16 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>綜合 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/綜合/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</title>
+		<link>https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2025 05:21:12 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[親子]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=222317</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p><img width="1318" height="879" src="https://firenews.com.tw/wp-content/uploads/2025/07/02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1318px) 100vw, 1318px" /></p>
+<p>生活中心/綜合報導 美國兒科醫學會（AAP）研究指出，新生兒的睡眠難以制定一致的管理建議，原因在於個體差異極大 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/">新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1318" height="879" src="https://firenews.com.tw/wp-content/uploads/2025/07/02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1318px) 100vw, 1318px" /></p>
+<p>生活中心/綜合報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>美國兒科醫學會（AAP）研究指出，新生兒的睡眠難以制定一致的管理建議，原因在於個體差異極大，且前六個月的睡眠模式變化非常快速，往往幾天內就會有顯著改變。本文將帶領新手爸媽認識寶寶0-6個月的睡眠特色，協助應對不同階段的睡眠挑戰。</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p><strong><u>0-6</u></strong><strong><u>周</u></strong><strong>新生寶寶睡眠特色</strong><strong>：驚嚇反應敏感期</strong></p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>此階段寶寶常在睡夢中無故驚醒或哭醒，這種情況通常來自「驚嚇反應」（莫洛反射）。</p>
+
+
+
+<p>原因主要有兩種：</p>
+
+
+
+<p>&nbsp;1. 腦神經尚未發育成熟</p>
+
+
+
+<p>新生兒大腦發育尚未完全，睡眠時無法完全抑制清醒時的動作，一旦動作過大，就容易驚醒並哭鬧，難以自行入睡。</p>
+
+
+
+<p>&nbsp;2. 對環境刺激特別敏感</p>
+
+
+
+<p>寶寶尚在適應外界環境，對光線與聲音格外敏感，容易在睡眠中因外界刺激產生不安全感而醒來。</p>
+
+
+
+<p><strong>【0-6周寶寶哄睡技巧】：<u>藉由包巾安心包覆提升安全感</u></strong></p>
+
+
+
+<p>這階段的寶寶特別需要細心照護，例如打造安穩的睡眠環境、選用合適的嬰兒包巾。<a href="https://www.bb888.com.tw/pages/lovetodream-home">Love To Dream蝶型包巾</a>，又稱「懶人包巾、睡過夜神器」，首創專利剪裁設計能提升寶寶安全感，降低驚嚇反應的發生頻率，幫助寶寶安穩入睡。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-222326" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾，一件取代棉被，為寶寶打造安全的睡眠環境。圖/品牌提供</figcaption></figure>
+
+
+
+<p><strong>&nbsp;<u>2-3</u></strong><strong><u>月</u></strong><strong>新生寶寶睡眠特色</strong><strong>日夜作息建立關鍵期</strong><strong></strong></p>
+
+
+
+<p>約莫在6周大時，寶寶大腦內的松果體開始分泌少量褪黑激素（睡眠荷爾蒙），逐步學習區分日與夜。這個時期的新生兒常有日夜顛倒的情形，爸媽可以協助新生兒開始建立日(光亮與活動)和夜晚(黑暗與安靜)的作息規律。</p>
+
+
+
+<p><strong>【2- 3個月寶寶哄睡技巧】：<u>善用陽光，幫助寶寶認識日和夜</u></strong></p>
+
+
+
+<p>白天可多帶寶寶曬太陽，降低體內褪黑激素，幫助建立「白天活動、晚上睡覺」的規律；晚上則將燈光調暗並保持安靜，讓寶寶學會關燈就是睡覺時間。</p>
+
+
+
+<p>此外，可安排固定的睡眠儀式，例如洗澡、換上包巾睡衣、餵奶、聽舒眠音樂，協助寶寶逐步建立作息規律。</p>
+
+
+
+<p><strong>禁趴睡、防SIDS嬰兒猝死綜合症</strong></p>
+
+
+
+<p>2-3個月後，寶寶夜間睡眠時間可逐漸拉長至5-6小時，睡眠時間與爸媽作息更為一致。然而夜晚爸媽警覺度較低，更須避免趴睡，以降低窒息與SIDS風險。</p>
+
+
+
+<p><strong>仰睡是寶寶自我保護機制</strong></p>
+
+
+
+<p>美國小兒科學會在1992年建議嬰兒採取非趴睡睡姿(nonprone position)，2000年也進一步不建議側睡，仰睡為最安全睡姿。</p>
+
+
+
+<p>Love To Dream蝶型包巾專利結構，讓寶寶雙手自然向上，自然維持仰睡，既保有自我安撫能力，減少驚嚇反射而中斷睡眠，降低嬰兒猝死症候群發生率。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="640" height="510" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?resize=640%2C510&#038;ssl=1" alt="" class="wp-image-222328" style="width:840px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?resize=183%2C146&amp;ssl=1 183w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾榮獲多項國際認證，守護全球無數新生兒安穩好眠。圖/品牌提供</figcaption></figure>
+
+
+
+<p><strong><u>4-6</u></strong><strong><u>個月</u></strong><strong>寶寶睡眠特色</strong><strong>防口鼻遮蓋，確保睡眠安全</strong></p>
+
+
+
+<p>4個月後寶寶夜間睡眠時間可達11-14小時。無論親子同床或寶寶睡嬰兒床，「安全睡眠」始終是最高原則。</p>
+
+
+
+<p>可選擇合身包巾或睡衣，避免過多棉被造成窒息風險；若需使用棉被，建議採用可固定的防踢被，或將被子尾端固定於嬰兒床欄杆。Love To Dream蝶型包巾一件式取代棉被設計，無需額外加棉被，減少覆蓋口鼻的風險，不同季節可選擇不同厚度，兼具體溫調節與安全性，同時在材質上</p>
+
+
+
+<p>通過多項安心認證，並貼心依寶寶成長階段設計不同款式， 協助寶寶從新生期至翻身期，再到學習自我入睡，逐步建立完整的睡眠能力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-222329" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾，多階段設計，陪伴寶寶安穩銜接睡眠關鍵期。圖＠betty83592/品牌提供</figcaption></figure>
+
+
+
+<p>越來越多爸媽將蝶型包巾列為待產包與新生兒禮盒必備用品，紛紛稱其為「一包就睡過夜」的育兒神器。在選購包巾時，建議優先考量產品整體剪裁、材質是否具備國際安全認證，並根據寶寶實際體型與發展階段，選擇最合適的款式，讓寶寶在安全舒適的環境中健康成長。</p>
+
+
+
+<p>(首圖為Love To Dream蝶型包巾首創專利雙手向上設計，陪伴寶寶建立安穩睡眠習慣。圖/品牌提供)</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/">新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</title>
+		<link>https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2025 08:53:16 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=221949</guid>
+
+					<description><![CDATA[<p>交通部觀光署為宣傳臺灣觀光，與日本京濱急行電鐵株式會社(簡稱京急電鐵)合作推出臺灣觀光彩繪列車「嗶嗶嗶嗶台灣號 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/">「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>交通部觀光署為宣傳臺灣觀光，與日本京濱急行電鐵株式會社(簡稱京急電鐵)合作推出臺灣觀光彩繪列車「嗶嗶嗶嗶台灣號」，在日本運行期間宣傳臺灣觀光形象。本次結合國營臺灣鐵路股份有限公司(以下簡稱臺鐵公司)與京急電鐵締結友好10週年，攜手臺鐵公司合作將EMU700型電聯車彩繪成日本京濱急行電鐵列車紅色塗裝，復刻「嗶嗶嗶嗶台灣號」主題彩繪列車，讓在臺灣的旅客也能親臨體驗!交通部觀光署陳署長玉秀與臺鐵公司鄭董事長光遠今（7/4）日共同宣布「嗶嗶嗶嗶台灣號」正式啟航，將運行於臺鐵-宜蘭線區間，邀請民眾搭乘旅遊瑞芳、貢寮福隆、外澳、宜蘭及蘇澳等東北角觀光!</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">月台合照站長左至右起3位，交通部觀光署陳玉秀署長、國營臺灣鐵路股份有限公司鄭光遠董事長、東北角及宜蘭海岸國家風景區管理處游麗玉處長</figcaption></figure>
+
+
+
+<p>彩繪列車獨特的「台灣」二字視覺設計、鮮明的色彩與創意宣傳手法，甫於3月中旬榮獲第14屆東京屋外廣告競賽－車體廣告組－公益社團法人東京屋外廣告協會「會長獎」，5月中旬再傳捷報，獲NY TDC紐約字體設計競賽獎，該競賽是全世界第一個以字體設計為主的設計競賽，亦是知名國際平面設計競賽之一，成功行銷臺灣。</p>
+
+
+
+<p>交通部觀光署陳署長玉秀表示，鐵道旅行為台灣觀光重要的方式，這次「嗶嗶嗶嗶台灣號」彩繪列車與日本京濱急行電鐵株式會社合作推出，在日本運行期間加深台灣觀光國際宣傳。在此，特別感謝臺鐵公司這次共同合作推動，促進台日觀光雙向交流，讓臺灣的旅客也能親臨搭乘體驗，今(7/4)日啟航，原限定3個月運行期間，加碼至6個月；本次主題彩繪列車將行經瑞芳、福隆、宜蘭等東北角區域，還有搭配大東北角觀光圈的瑞芳九份小旅行，歡迎大家開心搭乘旅遊，探訪東北角自然及人文風光。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221957" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">舞台合照由左至右，交通部觀光署東北角及宜蘭海岸國家風景區管理處游麗玉處長、新北市觀光旅遊局楊宗珉局長、交通部觀光署陳玉秀署長、國營臺灣鐵路股份有限公司鄭光遠董事長、日本民營鐵道協会会長 杉山 健博（すぎやま たけひろ）</figcaption></figure>
+
+
+
+<p>國營臺灣鐵路股份有限公司鄭董事長光遠表示，這次「嗶嗶嗶嗶台灣號」主題彩繪列車，結合臺灣的蘭花、茶葉、鳳梨等特色意象呈現，讓全國民眾能夠認識台灣的特色，歡迎全國民眾一起上車搭乘，享受臺灣的美好生活!</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221958" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">交通部觀光署陳玉秀署長致詞</figcaption></figure>
+
+
+
+<p>交通部觀光署為宣傳臺灣觀光，前於113年6月7日至9月28日期間與日本京急電鐵攜手合作，推出台灣觀光彩繪列車「嗶嗶嗶嗶台灣號」運行於日本出國量最大的東京都、神奈川縣，向日本民眾宣傳臺灣觀光形象。臺灣素有「蘭花王國」、「水果王國」之稱號，「嗶嗶嗶嗶台灣號」獨特的「臺灣」藝術字體以蘭花、茶葉、鳳梨等臺灣代表性物產設計，而「嗶」也與日文「美(ビ)」字發音相近，象徵旅行臺灣的美景、美食及美好；本次「嗶嗶嗶嗶台灣號」主題彩繪列車同時結合臺鐵公司與京急電鐵締結友好10週年，搭配宣傳東北角及宜蘭觀光景點裝貼布置，民眾除可以搭乘體驗，亦不妨到訪火車站和彩繪列車一起拍照，凡只要與這輛主題彩繪列車拍照，並上傳照片至東北角之友指定貼文，就有機會獲得限量紀念品！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="848" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=1220%2C848&#038;ssl=1" alt="" class="wp-image-221959" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?w=1963&amp;ssl=1 1963w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=1536%2C1068&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=210%2C146&amp;ssl=1 210w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「嗶嗶嗶嗶台灣號」彩繪列車</figcaption></figure>
+
+
+
+<p>另配合「嗶嗶嗶嗶台灣號」開行，結合大東北角觀光圈也有許多精采活動，包含八番坑茶坊帶領九份小旅行，讓民眾走讀九份導覽解說、在山林溪河邊親自體驗淘金沙、享用在地的礦工便當、親手製作芋圓、泡一杯茶聆聽在地的流金歲月等深度探訪九份在地故事；還有九份紅燈籠祭、福隆國際沙雕藝術季、東北角自行車遊程(舊草嶺環狀線自行車道)，歡迎民眾搭乘火車來到東北角旅遊、感受大東北角觀光圈產業魅力！更多精彩活動資訊請至東北角觀光資訊網及東北角之友粉絲專頁查詢。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/">「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</title>
+		<link>https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2025 01:43:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Neogence]]></category>
+		<category><![CDATA[霓淨思]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=221989</guid>
+
+					<description><![CDATA[<p>保養需求回歸實用與安心，台灣醫美保養品牌Neogence霓淨思「玻尿酸保濕水平衡系列」全新升級上市，以5重玻尿 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/">保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>保養需求回歸實用與安心，台灣醫美保養品牌Neogence霓淨思「玻尿酸保濕水平衡系列」全新升級上市，以5重玻尿酸打造好吸收、夠保濕、不黏膩的國民級保濕選擇，從青春期初次接觸保養，到熟齡肌的日常保水，滿足全齡膚質需求。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-222144" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
+
+
+
+<p>創辦人從2002年調配出第一罐玻尿酸保濕原液為起點，Neogence霓淨思憑藉卓越保濕力與安心配方成為保濕首選。經20年來消費者口碑驗證，經典保濕權威再升級推出「極效水平衡配方」深入肌膚，串起水份供應鏈，從表層鎖水到肌底涵水，推出全齡膚質適用、高CP值的日常保濕解方。 </p>
+
+
+
+<p>無論年齡、性別或膚質，保濕始終是肌膚健康的關鍵。當肌膚水分不足時，屏障容易崩解，引發乾燥緊繃、油水失衡、敏感泛紅等問題，也可能讓肌膚加速老化。為滿足不同年齡層、不同生活型態的使用者，Neogence 霓淨思全新升級的極效水平衡配方，由大分子玻尿酸打頭陣，可迅速為肌膚補足水份，且添加陽離子玻尿酸接續形成鎖水膜，強化肌膚保水度。同時，注入導入型、活化型、小分子玻尿酸長效輸水、補水、儲水，串起水分供應鏈，守住一整日的豐潤光澤。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-221993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
+
+
+
+<p>對愛用者來說，「玻尿酸保濕水平衡系列」是不分季節都可以固定補貨的保養品，不只是肌膚基礎養護，更是面對各種環境變化的第一道防線。Neogence霓淨思推出同系列新星，「保濕小藍瓶」玻尿酸保濕水平衡賦能精華，添加依克多因、維他命B3+B5及永久花幹細胞等專櫃級成份，提升肌膚舒敏與抵禦能力，並極大化肌膚水能量、穩定膚況，感受超越原生肌的「涵水力」。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-221994" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
+
+
+
+<p>除全新保濕小藍瓶，Neogence霓淨思從清潔、補水、保水、鎖水都幫你顧好好。延續高CP值、國民保濕首選的核心，「玻尿酸保濕水平衡精華化妝水」做為第一道補水工作，使用澳洲野生玫瑰茄、法國翡翠海軟毛松藻及克拉瑪斯湖藍藻，多重啟動肌膚的保濕機制，維持高飽水狀態。</p>
+
+
+
+<p>「玻尿酸保濕水平衡滲透乳」與「玻尿酸保濕水平衡潤澤霜」也是實力穩定的化妝桌常駐款。滲透乳富含高純度神經醯胺、出羽玄米油與植萃角鯊烷，清爽、好吸收，讓肌膚達到油水平衡。潤澤霜則添加乳木果油、古布阿蘇油與高純度神經醯胺，加強緩解肌膚鬧乾荒，365天都能安心用，封存健康水嫩好膚質。 </p>
+
+
+
+<p>即日起至8月5日於寶雅通路選購「HA玻尿酸保濕水平衡系列」，新品上市價66折起，另有玻尿酸保濕水平衡噴霧水豪華組（特價$850）限量超值組包。凡購買精選醫美品牌滿$2000，即送音波洗臉機乙台，數量有限、贈完為止。詳情請見寶雅活動專區：<a href="https://pse.is/7n9x53">https://pse.is/7n9x53</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/">保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>影/海鯤潛艦第三度海測 軍事迷揮旗布條高喊「海鯤加油」</title>
+		<link>https://firenews.com.tw/2025/07/03/%e5%bd%b1-%e6%b5%b7%e9%af%a4%e6%bd%9b%e8%89%a6%e7%ac%ac%e4%b8%89%e5%ba%a6%e6%b5%b7%e6%b8%ac-%e8%bb%8d%e4%ba%8b%e8%bf%b7%e6%8f%ae%e6%97%97%e5%b8%83%e6%a2%9d%e9%ab%98%e5%96%8a%e3%80%8c%e6%b5%b7%e9%af%a4/</link>
+		
+		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2025 12:32:18 +0000</pubDate>
+				<category><![CDATA[熱門]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[軍事]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=221536</guid>
+
+					<description><![CDATA[<p><img width="1893" height="1078" src="https://firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?w=1893&amp;ssl=1 1893w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=768%2C437&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=1536%2C875&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=256%2C146&amp;ssl=1 256w" sizes="(max-width: 1893px) 100vw, 1893px" /></p>
+<p>記者／高雄報導 我國自製潛艦「海鯤號」今（3）日進行第三次海上測試，消息提前傳出，吸引不少軍事迷與民眾聚集高雄 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e5%bd%b1-%e6%b5%b7%e9%af%a4%e6%bd%9b%e8%89%a6%e7%ac%ac%e4%b8%89%e5%ba%a6%e6%b5%b7%e6%b8%ac-%e8%bb%8d%e4%ba%8b%e8%bf%b7%e6%8f%ae%e6%97%97%e5%b8%83%e6%a2%9d%e9%ab%98%e5%96%8a%e3%80%8c%e6%b5%b7%e9%af%a4/">影/海鯤潛艦第三度海測 軍事迷揮旗布條高喊「海鯤加油」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1893" height="1078" src="https://firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?w=1893&amp;ssl=1 1893w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=768%2C437&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=1536%2C875&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0.jpg?resize=256%2C146&amp;ssl=1 256w" sizes="(max-width: 1893px) 100vw, 1893px" /></p>
+<p>記者／高雄報導</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="海鯤潛艦第三度海測 軍事迷揮旗布條高喊「海鯤加油」" width="1220" height="686" src="https://www.youtube.com/embed/-_OFLMsIbjA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>我國自製潛艦「海鯤號」今（3）日進行第三次海上測試，消息提前傳出，吸引不少軍事迷與民眾聚集高雄二港口外海口岸，揮舞國旗、拉起紅布條熱情應援。現場布條上寫著「SS-711 海鯤艦加油！256戰隊加油」，加油聲不絕於耳，展現全民支持潛艦國造的熱血場景。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="683" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?resize=1220%2C683&#038;ssl=1" alt="" class="wp-image-221550" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?resize=1536%2C860&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?resize=2048%2C1147&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466101_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲海鯤號潛艦3日進行第三次海試，艦上官兵忙進忙出測試裝備，過程十分順利。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>軍事迷表示，希望潛艦官兵與台船工程人員能看到布條、聽見呼聲，知道他們並不孤單，社會各界都在為他們打氣，感謝他們為國防付出的努力與辛勞。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-221551" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466098_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲海鯤號潛艦3日進行第三次海試，艦上官兵忙進忙出測試裝備，過程十分順利。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>配合下週即將展開的國軍年度「漢光41號演習」，台船特地選在3日進行海鯤潛艦的第三次海測。清晨即有多艘軍艦於海鯤艦旁戒護，場面莊嚴隆重。據觀察，海鯤號順利航行至外海後，再度進行清空後艙水櫃測試，冒出白色煙霧，整體測試過程順利，展現國艦自主研製的堅實實力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?resize=1220%2C702&#038;ssl=1" alt="" class="wp-image-221552" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?resize=1536%2C883&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?resize=2048%2C1178&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?resize=254%2C146&amp;ssl=1 254w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466099_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲海鯤號潛艦3日進行第三次海試，艦上官兵忙進忙出測試裝備，過程十分順利。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>此次海測除測試各項艦體性能外，也為後續進入實戰驗證階段做好準備。海鯤潛艦的每一步進展，皆受到國人高度關注與支持，國防自主的腳步，正在穩健邁進。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="695" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0-1.jpg?resize=1220%2C695&#038;ssl=1" alt="" class="wp-image-221553" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0-1.jpg?w=1893&amp;ssl=1 1893w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0-1.jpg?resize=768%2C437&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0-1.jpg?resize=1536%2C875&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/466102_0-1.jpg?resize=256%2C146&amp;ssl=1 256w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲軍事迷在岸上揮舞國旗布條高喊「海鯤加油」。（圖／記者莊全成攝）</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e5%bd%b1-%e6%b5%b7%e9%af%a4%e6%bd%9b%e8%89%a6%e7%ac%ac%e4%b8%89%e5%ba%a6%e6%b5%b7%e6%b8%ac-%e8%bb%8d%e4%ba%8b%e8%bf%b7%e6%8f%ae%e6%97%97%e5%b8%83%e6%a2%9d%e9%ab%98%e5%96%8a%e3%80%8c%e6%b5%b7%e9%af%a4/">影/海鯤潛艦第三度海測 軍事迷揮旗布條高喊「海鯤加油」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</title>
+		<link>https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2025 11:07:20 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=221489</guid>
+
+					<description><![CDATA[<p>在高房價與少子化的當代，一個能安身立命的住所，不只是物理空間，更是許多人情感和生活的寄託。內政部統計，台灣租屋 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/">目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在高房價與少子化的當代，一個能安身立命的住所，不只是物理空間，更是許多人情感和生活的寄託。內政部統計，台灣租屋人口突破300萬人、超過八分之一都仰賴租屋，住宅租賃被認為是接下來最有社會價值和成長力的上兆產業。創立於2022年，現為台北占率最高的共生公寓品牌「一方生活」，六月由創投VENTURE+領軍，完成6000萬元A輪投資，預計在擴增2000間房源，<strong>目標成為全台最大以共生公寓為主的包租代管品牌。</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-221490" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">左一、管理合夥人莊豐賓。左二、一方生活創辦人藍太太。左三、一方生活創辦人藍堂嘉。左四、投資副總裁陳安玲。左五、合夥人蔡慶祥。</figcaption></figure>
+
+
+
+<p>「我們相信，每個人都有自己的一方天地！」一方生活創辦人藍太太（洪怡芳）長年觀察租屋市場變化，深知租客與房東的痛點，決定以「為年輕人找到落腳所在，為屋主創造穩定現金流」為初衷創立一方生活，善用電商思維與數據分析，打造出既高效又務實的專業服務模式。</p>
+
+
+
+<p>不同於傳統，一方生活更強調「住得有感」。透過室內設計、生活整合、社區互動機制，將老屋轉化為「共生公寓」，讓離鄉者不只租到一張床，而是找到安心歸屬的生活環境。同時給房東「不違法格套、分擔裝修成本、5年租期0空窗、維護修繕、把關租客與鄰里關係」5大保證，吸引許多屋主將房子委託管理。</p>
+
+
+
+<p>2022年至今，一方生活已完成超過200件老屋改造，累積超過1000間房源，主要為「共生公寓」型態，供超過1000位租客居住服務，平均滿租率98%。「我們不追求爆量，而是從服務深度與人性理解出發，建立長期信任感。」藍太太指出，租屋是種訂閱式生活，只要服務做得夠深，時間越長，回報越穩定，這也是投資人最重視的關鍵。此外，為加速人才培訓，創業界最嚴謹的加盟制度，現已培育出24位加盟者，平均每人名下管理4間以上物件，顯見專業培訓與加盟制度的完善。</p>
+
+
+
+<p>「核心是信任！」藍太太說，「我們預計於2025年內擴大至2000房源，在雙北、台中、高雄建立完整共生公寓生態圈，落實租得好、住得好、過得好的理念，我想為台灣帶來改變。」 標榜「價值創造」橫跨新舊經濟的創投公司VENTURE+表示，歐美日的房產「包租代管」已行之有年，台灣仍處萌芽期，在房東老齡化及租客追求居住品質的趨勢下，市場成長可期。一方生活具熱忱專業，有效解決房東房客各自痛點，創造出全新商模，期待他們成為有影響力的Game Changer。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/">目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全支付聯手foodpanda打造便捷外送付款體驗</title>
+		<link>https://firenews.com.tw/2025/07/02/%e5%85%a8%e6%94%af%e4%bb%98%e8%81%af%e6%89%8bfoodpanda%e6%89%93%e9%80%a0%e4%be%bf%e6%8d%b7%e5%a4%96%e9%80%81%e4%bb%98%e6%ac%be%e9%ab%94%e9%a9%97/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 03:17:13 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=220616</guid>
+
+					<description><![CDATA[<p><img width="2000" height="1391" src="https://firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=1536%2C1068&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=210%2C146&amp;ssl=1 210w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p>隨著宅經濟持續發展，現代消費者對於便利性和速度的追求使得外送服務變得無比重要。人們對「快經濟」和「方便經濟」的 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/02/%e5%85%a8%e6%94%af%e4%bb%98%e8%81%af%e6%89%8bfoodpanda%e6%89%93%e9%80%a0%e4%be%bf%e6%8d%b7%e5%a4%96%e9%80%81%e4%bb%98%e6%ac%be%e9%ab%94%e9%a9%97/">全支付聯手foodpanda打造便捷外送付款體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2000" height="1391" src="https://firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=1536%2C1068&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/foodpanda_General_Manager_Eva_Huang_PXPay_Plus_General_Manager_Kenneth_Yu.jpg?resize=210%2C146&amp;ssl=1 210w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p>隨著宅經濟持續發展，現代消費者對於便利性和速度的追求使得外送服務變得無比重要。人們對「快經濟」和「方便經濟」的需求日益上升，使得外送平台在市場上獲得了廣泛認可。這些平台不僅促進了商家與顧客之間的互動，也為多個產業注入了新的活力，是推動數位化生活方式轉變的重要驅動力。</p>
+
+
+
+<p>全支付擁有超過600萬會員，foodpanda則每日吸引超過百萬人次活躍使用，展現雙品牌在消費者生活中的高黏著度與影響力。此次強強聯手，全支付將服務場景從原有的實體零售、交通、繳稅費等多元領域，進一步延伸至高頻率的外送服務。除了綁定信用卡外，消費者亦可透過全支付帳戶或銀行帳戶完成付款，為外送平台帶來更彈性、多元的支付新選擇，開創「無信用卡也能付款」的新應用場景。</p>
+
+
+
+<p>此次合作雙方不僅強化雙方會員互導，也藉此強化「全點」應用生態。透過整合支付、通路拓展與即時回饋，讓會員在使用 foodpanda平台點餐時，可輕鬆使用全支付完成付款、累點與折抵，全面升級消費體驗。為歡慶全支付正式上線foodpanda，即日起~2025年7月31日登錄後消費最高可享 10%回饋 ，輕鬆累積、實用有感。</p>
+
+
+
+<p><strong>打造全齡、全場景外送支付生態 無信用卡也能付款</strong><strong>C1</strong></p>
+
+
+
+<p>根據 2025 年資策會 MIC 外送服務使用經驗調查，外送平台的使用比例隨年齡層下降而遞增；與此同時，全支付近七成會員集中於 30 至 59 歲。此次合作恰如其分地串聯起不同世代的使用習慣與需求，成功打造出涵蓋全齡、全場景的外送支付新生態。</p>
+
+
+
+<p>全支付總經理游金榮表示：「這次與 foodpanda 的合作，是全支付在打造完整支付生活圈上的關鍵一步。我們觀察到，部分會員對外送服務仍存在『無信用卡無法付款』的痛點，特別是 Z 世代與高齡族群。透過全支付連結銀行帳戶，或於全聯、大潤發等通路進行現金儲值，會員即可輕鬆完成付款，有效降低進入門檻；此外，根據我們的交易數據，餐飲類交易筆數占比最高達六成，且會員使用時段高峰也集中在午餐與晚餐時段，與上班族的生活節奏高度吻合。會員地域分布呈現穩定擴張，六都合計占比約七成，全台各地皆穩定成長，顯示全支付已成為全民信賴的支付工具。」</p>
+
+
+
+<p>foodpanda總經理黃逸華則進一步表示：「這次與全支付的合作，不只是付款方式上的升級，更是一場使用體驗的革新。作為率先整合電子支付的外送平台，我們希望持續引領市場趨勢，讓每個人都能輕鬆點餐，不再被年齡、裝置或卡片綁住，也讓外送變得更貼近日常、也更有溫度。」</p>
+
+
+
+<p><strong>歡慶全支付上線</strong><strong>foodpanda </strong><strong>登錄最高享</strong><strong>10%</strong><strong>回饋 全點還可折抵消費無上限</strong></p>
+
+
+
+<p>根據會員數據顯示，全支付女性會員占比超過六成，顯示其在重視點數回饋、即時優惠與支付便利性的消費族群中深具吸引力。也因此，全支付在「全點」生態系的佈局上，始終以「日常消費、即時回饋」為核心規劃。從日常買菜出發，延伸至旅遊、購物、飲食、交通繳費等生活場景，會員皆可輕鬆累積點數或彈性折抵消費。此次攜手 foodpanda，更將應用觸角延伸至每日外送消費，讓會員在 foodpanda 上不僅能累積點數，更能靈活運用點數折抵消費，全面升級支付流暢度與回饋感受。 </p>
+
+
+
+<p>為歡慶全支付正式上線 foodpanda，全支付同步推出限時優惠活動！即日起~2025 年9 月 30日，凡使用全支付連結帳戶付款，皆可享 3% 點數回饋，不限金額、不限次數，回饋無上限！另自即日起～2025 年７月 31日，會員於全支付 App 完成活動登錄後，於 foodpanda 平台全站單筆消費滿299元，即可再享 4% 全點回饋；若使用指定銀行帳戶付款，包含：國泰世華銀行、元大銀行、將來銀行、第一銀行、華泰銀行，再加碼 3% 點數回饋。上線慶活動期間內最高回饋可達 10%(附件)！讓您點外送更輕鬆、吃得開心、回饋滿點！</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/02/%e5%85%a8%e6%94%af%e4%bb%98%e8%81%af%e6%89%8bfoodpanda%e6%89%93%e9%80%a0%e4%be%bf%e6%8d%b7%e5%a4%96%e9%80%81%e4%bb%98%e6%ac%be%e9%ab%94%e9%a9%97/">全支付聯手foodpanda打造便捷外送付款體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>阿卡莎納推國際公益 肯亞兒教明年登上紐約時代廣場</title>
+		<link>https://firenews.com.tw/2025/07/02/%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d%e6%8e%a8%e5%9c%8b%e9%9a%9b%e5%85%ac%e7%9b%8a-%e8%82%af%e4%ba%9e%e5%85%92%e6%95%99%e6%98%8e%e5%b9%b4%e7%99%bb%e4%b8%8a%e7%b4%90%e7%b4%84%e6%99%82%e4%bb%a3%e5%bb%a3/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 01:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=220743</guid>
+
+					<description><![CDATA[<p>百萬網紅阿卡莎納AKSN日前遭人惡意公布訊息對話，發布近日要發表「單曲」跟 劉玳妍合作拍攝MV的計劃， 劉玳妍 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/02/%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d%e6%8e%a8%e5%9c%8b%e9%9a%9b%e5%85%ac%e7%9b%8a-%e8%82%af%e4%ba%9e%e5%85%92%e6%95%99%e6%98%8e%e5%b9%b4%e7%99%bb%e4%b8%8a%e7%b4%90%e7%b4%84%e6%99%82%e4%bb%a3%e5%bb%a3/">阿卡莎納推國際公益 肯亞兒教明年登上紐約時代廣場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>百萬網紅阿卡莎納AKSN日前遭人惡意公布訊息對話，發布近日要發表「單曲」跟 劉玳妍合作拍攝MV的計劃， 劉玳妍指出，這件事，其實已侵犯到隱私，我訊息是被葉先生「偷窺」的！而劉玳妍委任的律師周念暉指出，當事人行為恐已涉及「妨害秘密」，正在協助雙方處理後續中。阿卡沙納公關指出，關於被發布的消息，阿卡沙納確實近期有出「單曲」計劃，也是被網暴過的知名歌手合作，接下來會發布單曲計劃，謝謝有人非常關心，幫忙先發布消息了，而關於2026年登上美國時代廣場廣告一事，拍攝形象照做媒體曝光，其實阿卡莎納真正的目標是在2026年，為即將邁入第15年的「公益」組織計劃做年度形象拍攝，不料卻被這樣的方式，利用片段訊息惡意解讀，深感遺憾。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="869" height="545" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-27.png?resize=869%2C545&#038;ssl=1" alt="" class="wp-image-220744" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-27.png?w=869&amp;ssl=1 869w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-27.png?resize=768%2C482&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-27.png?resize=233%2C146&amp;ssl=1 233w" sizes="(max-width: 869px) 100vw, 869px" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿卡莎納籌備15年公益計劃，預計明年登時代廣場為肯亞孤兒宣傳，此為紐約時代廣場廣告牆。翻攝/網路</figcaption></figure>
+
+
+
+<p><strong>阿卡莎納肯亞孤兒院捐贈15萬英鎊 受益孩子達338位</strong></p>
+
+
+
+<p>阿卡莎納AKSN過去常帶領團隊飛往肯亞做公益，實際上阿卡莎納AKSN在肯亞更成立孤兒院學校，今年已正式邁入第14年，過去每年至少捐贈15萬元英鎊，換算台幣將近6百萬給肯亞孤兒院，實際受益的肯亞孤兒院孩子將近338位，阿卡莎納AKSN在過去公開過的公益影片中表示，創辦一個孤兒院的想法很簡單，我當初來這邊意識到，這邊的情況如此糟糕，我可以解決的時候，不僅在經濟上提供支持，或是透過我的努力，或是透過我的領導，我們成立了「慈善機構」，包括「孤兒院」和「學校」，公益活動在2011開始至今阿卡莎納AKSN已經推動14年。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-28.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-220745" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-28.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-28.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-28.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-28.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿卡莎納帶領團隊每年至肯亞付出公益，已為肯亞孤兒院捐贈每年15萬英鎊，受益孩子達338位。阿卡莎納AKSN/提供</figcaption></figure>
+
+
+
+<p>亞太關懷台灣希望暨兩岸影像榮譽理事長 宋楚瓊表示，阿卡莎納多年來默默深耕國際公益，持續以行動實踐「從愛出發、以光同行」的信念，讓世界看見華人推動公益的力量，此次計畫具備強大社會啟發力，能喚起更多人對非洲兒童的關懷與支持。</p>
+
+
+
+<p>當地受惠的肯亞居民更在公益影片中指出，當阿卡莎納AKSN出行時，他散播著福音，關於IAMVERSE的孩子們，他負責組織，讓人來這裡，幫助我們的孩子，我們只是在這裡接待他們，但他所做的工作，令人驚嘆。而阿卡莎納AKSN公關團隊只是提前計劃去拍攝及規劃公益相關的曝光，這很多國際公益組織都有在做，阿卡莎納AKSN期盼想要讓更多人看見IAMVERSE的孩子們，想多為他們宣傳而已。</p>
+
+
+
+<p><strong>阿卡莎納AKSN：理解彼此訴求，問題是可以和平解決</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-220746" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-29.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿卡莎納帶領團隊每年至肯亞付出公益，已為肯亞孤兒院捐贈每年15萬英鎊，受益孩子達338位。阿卡莎納AKSN/提供</figcaption></figure>
+
+
+
+<p>阿卡莎納AKSN指出，我已在自己的影片頻道「阿卡莎納AKSN」解釋所有的事由跟發生也做出道歉，希望不要只是片段了解我，另外我想強調希望大家不要稱呼我大師，我只是想做自己想做的事去協助更多人包含做公益回饋更多需要的人。他強調，當這世界很亂，全世界已經開始充滿各種仇恨跟戰爭，我們彼此之間都不需要再互相傷害，我們只是需要更多看見跟理解彼此的訴求而已，是可以和平解決的。</p>
+
+
+
+<p><strong>劉玳妍：能夠不執著的放下執念，才是對彼此最好的祝福</strong></p>
+
+
+
+<p>劉玳妍指出：做錯的事情我無論在公開或私下我都毫無逃避，並且與對方真誠的承認自己有錯誤的行為已誠心的道歉，我許多細節選擇不出聲，只是希望多點理解跟善待的角度來看面對，關係變了，不代表這樣的發生就要互相傷害。這世界上多點關懷在更多需要的人身上，我不是明星，不用關注我，我在影片中提過，我過去也曾被人監控跟控制過，人生每個走過的路緣份都是珍貴的體驗，不是不想走下去，只是發現共識不同想下車了，這次的處理不當也帶給人們警惕並且我也將去意識改進，期盼我們都能專注愛自己，也去關懷社會真正需要的人，對於無法了結的緣份跟課題，不一定是不美滿，而是透過這個發生，更理解自己內心的需求，「能夠不執著的放下執念，才是對彼此最好的祝福」。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/02/%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d%e6%8e%a8%e5%9c%8b%e9%9a%9b%e5%85%ac%e7%9b%8a-%e8%82%af%e4%ba%9e%e5%85%92%e6%95%99%e6%98%8e%e5%b9%b4%e7%99%bb%e4%b8%8a%e7%b4%90%e7%b4%84%e6%99%82%e4%bb%a3%e5%bb%a3/">阿卡莎納推國際公益 肯亞兒教明年登上紐約時代廣場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>油條兄弟二度合作 攏來探吉任務平台再掀討論</title>
+		<link>https://firenews.com.tw/2025/07/01/%e6%b2%b9%e6%a2%9d%e5%85%84%e5%bc%9f%e4%ba%8c%e5%ba%a6%e5%90%88%e4%bd%9c-%e6%94%8f%e4%be%86%e6%8e%a2%e5%90%89%e4%bb%bb%e5%8b%99%e5%b9%b3%e5%8f%b0%e5%86%8d%e6%8e%80%e8%a8%8e%e8%ab%96/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 13:59:59 +0000</pubDate>
+				<category><![CDATA[綜合]]></category>
+		<category><![CDATA[任務平台]]></category>
+		<category><![CDATA[攏來探吉]]></category>
+		<category><![CDATA[油條兄弟]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=220409</guid>
+
+					<description><![CDATA[<p><img width="909" height="907" src="https://firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?w=909&amp;ssl=1 909w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=768%2C766&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 909px) 100vw, 909px" /></p>
+<p>在知名社群平台上擁有超過 20 萬粉絲的人氣創作團體「油條兄弟」，近日再度與任務型行銷平台「攏來探吉」展開合作 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e6%b2%b9%e6%a2%9d%e5%85%84%e5%bc%9f%e4%ba%8c%e5%ba%a6%e5%90%88%e4%bd%9c-%e6%94%8f%e4%be%86%e6%8e%a2%e5%90%89%e4%bb%bb%e5%8b%99%e5%b9%b3%e5%8f%b0%e5%86%8d%e6%8e%80%e8%a8%8e%e8%ab%96/">油條兄弟二度合作 攏來探吉任務平台再掀討論</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="909" height="907" src="https://firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?w=909&amp;ssl=1 909w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=768%2C766&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374277087.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 909px) 100vw, 909px" /></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在知名社群平台上擁有超過 20 萬粉絲的人氣創作團體「油條兄弟」，近日再度與任務型行銷平台「攏來探吉」展開合作，影片釋出後迅速引發關注，讓更多人認識這項以「彈性接案」為主的工作機制。</strong></p>
+</blockquote>
+
+
+
+<p>攏來探吉是一個專為品牌設計的任務型行銷平台，主要透過真實的購買與使用心得，協助商品提升評價與能見度。用戶在平台中可接受任務、完成指定下單流程，並根據商品印象撰寫公開評論，任務結束後可獲得平台發放的報酬。 平台方面表示，本次與油條兄弟的合作內容以創意短片呈現，風格輕鬆幽默，成功將任務概念融入日常情境，也讓接案型工作模式與「數位游牧」的生活型態產生連結。透過行動裝置即可完成任務，讓追求彈性收入與遠距工作的族群，能在自由環境中穩定參與平台任務。</p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-ad2f72ca wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://longlaitanji.com"><img decoding="async" width="884" height="1181" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374384337.jpg?resize=884%2C1181&#038;ssl=1" alt="" class="wp-image-220411" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374384337.jpg?w=884&amp;ssl=1 884w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374384337.jpg?resize=768%2C1026&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374384337.jpg?resize=109%2C146&amp;ssl=1 109w" sizes="(max-width: 884px) 100vw, 884px" data-recalc-dims="1" /></a><figcaption class="wp-element-caption">油條兄弟出鏡攏來探吉合作影片拍攝現場畫面。圖/攏來探吉</figcaption></figure>
+</div>
+
+
+
+<p>據了解，攏來探吉平台在任務流程設計上經由公司內部法務審核，操作機制標準化，並設有用戶實名驗證、資料查核及客服協助機制，致力於提升整體接案流程的透明度與穩定性，確保參與者能在安全且有秩序的環境中執行任務。 </p>
+
+
+
+<p>目前已有來自不同背景的用戶參與，包括學生、自由創作者、家庭主婦與遠端工作者等。平台亦持續優化任務制度，希望透過彈性接案的方式，為使用者創造更多元的收入機會。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://longlaitanji.com"><img decoding="async" width="914" height="860" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374450488.jpg?resize=914%2C860&#038;ssl=1" alt="" class="wp-image-220412" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374450488.jpg?w=914&amp;ssl=1 914w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374450488.jpg?resize=768%2C723&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1751374450488.jpg?resize=155%2C146&amp;ssl=1 155w" sizes="(max-width: 914px) 100vw, 914px" data-recalc-dims="1" /></a><figcaption class="wp-element-caption">油條兄弟出鏡攏來探吉合作影片拍攝現場畫面。圖/攏來探吉</figcaption></figure>
+
+
+
+<p>攏來探吉也提醒，官方任務通知與流程說明僅透過官網及認證平台帳號發布。若接獲來自陌生帳號的不明連結或金流要求，請提高警覺，避免遭遇風險。如有疑慮，請先向官方求證或撥打 165 反詐騙專線查證。</p>
+
+
+
+<p><strong>油條兄弟TIKTOK:</strong></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@yotiaobro.com/video/7447077406801743109" data-video-id="7447077406801743109" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@yotiaobro.com" href="https://www.tiktok.com/@yotiaobro.com?refer=embed">@yotiaobro.com</a> <p><a title="攏來探吉" target="_blank" href="https://www.tiktok.com/tag/%E6%94%8F%E4%BE%86%E6%8E%A2%E5%90%89?refer=embed">#攏來探吉</a> <a title="賺錢" target="_blank" href="https://www.tiktok.com/tag/%E8%B3%BA%E9%8C%A2?refer=embed">#賺錢</a> <a title="刺青" target="_blank" href="https://www.tiktok.com/tag/%E5%88%BA%E9%9D%92?refer=embed">#刺青</a> <a title="包手" target="_blank" href="https://www.tiktok.com/tag/%E5%8C%85%E6%89%8B?refer=embed">#包手</a> <a title="89" target="_blank" href="https://www.tiktok.com/tag/89?refer=embed">#89</a> @油條兄弟 小寶 @油條兄弟 柳橙 @嘉義伍子胥刺青 </p> <a target="_blank" title="♬ 原聲 - 油條兄弟 - 油條兄弟" href="https://www.tiktok.com/music/原聲-油條兄弟-7447077423608662789?refer=embed">♬ 原聲 &#8211; 油條兄弟 &#8211; 油條兄弟</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+</div></figure>
+
+
+
+<p><strong>攏來探吉LINE官方:</strong> <a href="https://lin.ee/YsLrzuF">https://lin.ee/YsLrzuF</a></p>
+
+
+
+<p><strong>延伸閱讀：</strong><a href="https://longlaitanji.com">https://longlaitanji.com</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://longlaitanji.com"><img decoding="async" width="938" height="223" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/line_oa_chat_250701_143024.jpg?resize=938%2C223&#038;ssl=1" alt="" class="wp-image-220413" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/line_oa_chat_250701_143024.jpg?w=938&amp;ssl=1 938w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/line_oa_chat_250701_143024.jpg?resize=768%2C183&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/line_oa_chat_250701_143024.jpg?resize=260%2C62&amp;ssl=1 260w" sizes="(max-width: 938px) 100vw, 938px" data-recalc-dims="1" /></a></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e6%b2%b9%e6%a2%9d%e5%85%84%e5%bc%9f%e4%ba%8c%e5%ba%a6%e5%90%88%e4%bd%9c-%e6%94%8f%e4%be%86%e6%8e%a2%e5%90%89%e4%bb%bb%e5%8b%99%e5%b9%b3%e5%8f%b0%e5%86%8d%e6%8e%80%e8%a8%8e%e8%ab%96/">油條兄弟二度合作 攏來探吉任務平台再掀討論</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>卡西歐宣佈XG組合擔任G-SHOCK品牌全球大使</title>
+		<link>https://firenews.com.tw/2025/07/01/%e5%8d%a1%e8%a5%bf%e6%ad%90%e5%ae%a3%e4%bd%88xg%e7%b5%84%e5%90%88%e6%93%94%e4%bb%bbg-shock%e5%93%81%e7%89%8c%e5%85%a8%e7%90%83%e5%a4%a7%e4%bd%bf-2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 08:00:46 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=220196</guid>
+
+					<description><![CDATA[<p><img width="2450" height="1837" src="https://firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?w=2450&amp;ssl=1 2450w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2450px) 100vw, 2450px" /></p>
+<p>卡西歐計算機株式會社今日宣布，國際知名七人女子音樂組合XG正式成為其防震手錶品牌G-SHOCK的全球大使。 X &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e5%8d%a1%e8%a5%bf%e6%ad%90%e5%ae%a3%e4%bd%88xg%e7%b5%84%e5%90%88%e6%93%94%e4%bb%bbg-shock%e5%93%81%e7%89%8c%e5%85%a8%e7%90%83%e5%a4%a7%e4%bd%bf-2/">卡西歐宣佈XG組合擔任G-SHOCK品牌全球大使</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2450" height="1837" src="https://firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?w=2450&amp;ssl=1 2450w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/X_0781_0424_2__1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2450px) 100vw, 2450px" /></p>
+<p>卡西歐計算機株式會社今日宣布，國際知名七人女子音樂組合XG正式成為其防震手錶品牌G-SHOCK的全球大使。</p>
+
+
+
+<p>XG組合由JURIN、CHISA、HINATA、HARVEY、JURIA、MAYA及COCONA七位成員組成，以先鋒音樂風格與極具爆發力的舞台表現聞名。組合名稱「XG」寓意「非凡女孩」(Xtraordinary Girls)，旨在通過打破常規、融合多元流派的音樂，為全球各界人士注入能量。該組合在全球範圍內擁有龐大粉絲群體，尤其在年輕世代中影響力持續攀升，正逐步成長為國際音樂文化領域的新銳力量。</p>
+
+
+
+<p>XG組合開創了全新音樂流派「X-Pop」，擺脫了日韓流行樂的常規束縛，打造出獨屬於自己的風格。這種堅持原創、追求力量的精神，與以堅固耐用、抗震和獨特設計而聞名的G-SHOCK品牌高度契合，因此XG成為該品牌全球大使的不二之選。</p>
+
+
+
+<p>為慶祝此次合作，雙方將上線專屬網站，展示XG組合的關鍵視覺素材和宣傳視頻。視頻圍繞「無畏前行」(No Destination)這一口號展開，呈現了XG組合與G-SHOCK攜手大膽邁向新世界的畫面，傳達出無畏無懼、果敢塑造未來的先鋒態度。視頻藝術指導由YAR創意團隊擔綱，該團隊由日本極具潛力的新銳藝術家YOSHIROTTEN領銜，將為觀眾帶來充滿活力與張力的視覺體驗。</p>
+
+
+
+<p>XG組合就擔任全球大使一事發表感言：「G-SHOCK腕表總讓我們想起，即便在艱難時刻，我們也從未放棄追逐夢想。它賦予我們勇往直前、不斷突破自我的力量。XG與G-SHOCK並肩，一起衝！」</p>
+
+
+
+<p>隨著G-SHOCK與XG合作的持續推進，後續還將陸續發佈更多關鍵視覺素材和內容。</p>
+
+
+
+<p>專屬網站：<a href="https://gshock.casio.com/intl/contents/ambassador/xg/g-shock-xg-look/" target="_blank" rel="noreferrer noopener">https://gshock.casio.com/intl/contents/ambassador/xg/g-shock-xg-look/</a></p>
+
+
+
+<p>專題視頻：<a href="https://youtu.be/YsjkTDKIStQ" target="_blank" rel="noreferrer noopener">https://youtu.be/YsjkTDKIStQ</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e5%8d%a1%e8%a5%bf%e6%ad%90%e5%ae%a3%e4%bd%88xg%e7%b5%84%e5%90%88%e6%93%94%e4%bb%bbg-shock%e5%93%81%e7%89%8c%e5%85%a8%e7%90%83%e5%a4%a7%e4%bd%bf-2/">卡西歐宣佈XG組合擔任G-SHOCK品牌全球大使</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>臺灣超人氣「貓貓蟲咖波」攜手WePlay 展開奇幻冒險之旅</title>
+		<link>https://firenews.com.tw/2025/07/01/%e8%87%ba%e7%81%a3%e8%b6%85%e4%ba%ba%e6%b0%a3%e3%80%8c%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e3%80%8d%e6%94%9c%e6%89%8bweplay-%e5%b1%95%e9%96%8b%e5%a5%87%e5%b9%bb%e5%86%92%e9%9a%aa%e4%b9%8b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 07:59:28 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=220191</guid>
+
+					<description><![CDATA[<p><img width="1080" height="1350" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?resize=117%2C146&amp;ssl=1 117w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+<p>全球新一代社交娛樂平台WePlay迎來了臺灣人氣IP——貓貓蟲咖波（Bugcat Capoo）。由藝術家亞拉（ &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e8%87%ba%e7%81%a3%e8%b6%85%e4%ba%ba%e6%b0%a3%e3%80%8c%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e3%80%8d%e6%94%9c%e6%89%8bweplay-%e5%b1%95%e9%96%8b%e5%a5%87%e5%b9%bb%e5%86%92%e9%9a%aa%e4%b9%8b/">臺灣超人氣「貓貓蟲咖波」攜手WePlay 展開奇幻冒險之旅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1080" height="1350" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5033365_27517812.jpg?resize=117%2C146&amp;ssl=1 117w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+<p>全球新一代社交娛樂平台WePlay迎來了臺灣人氣IP——貓貓蟲咖波（Bugcat Capoo）。由藝術家亞拉（Yara）所設計的這個獨特角色，以其可愛且具反差感的人格魅力迅速風靡網路。在7月10日至8月5日之間，玩家們將有機會參與三大主題活動，共同探索這個充滿樂趣的新世界。</p>
+
+
+
+<p><strong>全球社交娛樂平臺</strong><strong>WePlay</strong><strong>，迎來臺灣萌獸巨星！</strong></p>
+
+
+
+<p>WePlay作為一款主打&#8221;休閒桌遊&#8221;和&#8221;語音互動&#8221;的著名App，以創新且豐富的娛樂方式回饋玩家們的支持與厚愛。 此次，最能代表臺灣原創的超人氣IP——貓貓蟲咖波強勢入駐！這隻最愛吃肉肉、討厭蔬菜，常搗蛋愛撒嬌，甚至看到什麼都想咬一口（包括好朋友！）的藍色小萌物，帶着它的朋友們闖入了WePlay的奇妙宇宙。面對陌生的規則與四散的小夥伴，迷茫的咖波急需幫手！WePlay世界特別派出首批「嚮導威仔」，協助咖波啓動關鍵的「貓貓蟲落腳企劃」，共同探索這個充滿無限可能與社交樂趣的新天地。</p>
+
+
+
+<p>貓貓蟲咖波 (Bugcat Capoo)， 由藝術家亞拉於2014年創作，以其獨特「像貓又像蟲」的藍色六腳（數量會變！）造型，以及「暴力獵奇又萌萌可愛」的反差魅力風靡全球。從巴哈姆特個人小屋起家，到勇奪LINE Webtoon短篇漫畫冠軍，咖波的身影遍佈LINE貼圖（創作者亞拉長期位居LINE Creators Market全球銷售排行榜前列）、全球社群媒體（Facebook, Instagram, YouTube, 小紅書, TikTok等粉絲總和破百萬）以及實體店面（如臺中知名景點「咖波屋」與「奶泡貓咖啡」）。咖波對肉肉的執着、咬手手的習慣，以及調皮搗蛋又愛撒嬌的個性，使其成為臺灣原創IP的重要代表。</p>
+
+
+
+<p><strong>三大冒險企劃，萌力席捲</strong><strong>WePlay</strong><strong>！</strong></p>
+
+
+
+<p>活動期間，玩家可以沉浸式體驗&#8221;貓貓蟲冒險記&#8221;、&#8221;貓貓蟲美食大冒險&#8221;、&#8221;咖波萌寵養成記&#8221;三大冒險企劃，既可以與貓貓蟲在WePlay世界展開驚奇大冒險，引領這隻充滿好奇心（和食慾）的小怪獸；又能夠於活動頁面免費領養屬於自己的咖波萌寵，通過每日互動、餵食（當然是肉肉！）、玩耍與照料，看着你的咖波一步步成長進化，解鎖特殊造型與豐厚的養成獎勵，體驗在社交平臺上當咖波主人的獨特樂趣！</p>
+
+
+
+<p><strong>強強聯手，創造社交娛樂新體驗！</strong></p>
+
+
+
+<p>本次WePlay與貓貓蟲咖波的夢幻聯動，不僅是全球性社交娛樂平臺與臺灣頂尖原創IP的強強碰撞，更是將咖波充滿想象力的世界觀深度融入WePlay&#8221;玩在一起&#8221;社交理念的創新實踐。通過豐富的互動玩法和獨家內容，WePlay旨在為臺灣及全球用戶，尤其是年輕群體，提供更具趣味性和情感連接的社交娛樂新體驗。無論是資深咖波粉，還是WePlay的活躍用戶，都能在這場藍色萌獸帶來的奇幻冒險中，找到歡樂、結交朋友，共同探索社交娛樂的無限可能！</p>
+
+
+
+<p><strong>WePlay</strong><strong>的成功之路：專注品質與創新</strong></p>
+
+
+
+<p>WePlay作為一款集合多款遊戲與娛樂功能的綜合性應用，持續深耕休閒遊戲與社交領域，致力於為玩家打造高品質、多樣化的桌遊體驗。截至目前，WePlay累計下載量已突破千萬，並多次登上安卓與iOS雙端下載榜首，穩居休閒社交產品的領導地位。憑藉優異的用戶體驗，WePlay屢次斬獲業界殊榮，包括2023年榮膺Google Play年度最具娛樂性應用程式獎，以及2024年、2025年多次登上App Store推薦榜單，彰顯了Google Play和App Store官方對其產品品質與創新能力的高度認可。</p>
+
+
+
+<p><strong>關於</strong><strong>WePlay</strong></p>
+
+
+
+<p>WePlay是總部位於新加坡的公司WeJoy旗下的全球新一代社交娛樂平臺，集合了多款遊戲、娛樂等多種功能的綜合性應用；WePlay以&#8221;<strong>為全球年輕人帶來歡樂和朋友</strong>&#8220;為使命，以<strong>&#8220;</strong><strong>通過遊戲讓人們玩在一起，引領全球在線社交娛樂潮流。</strong><strong>&#8220;</strong>為願景，致力於與玩家共同創造一個充滿可能性與創新活力的遊戲社交新時代。未來WePlay將持續拓展與全球頭部IP的合作，通過IP品牌文化的聯動交流，打造更符合年輕人需求的社交生態。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/01/%e8%87%ba%e7%81%a3%e8%b6%85%e4%ba%ba%e6%b0%a3%e3%80%8c%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e3%80%8d%e6%94%9c%e6%89%8bweplay-%e5%b1%95%e9%96%8b%e5%a5%87%e5%b9%bb%e5%86%92%e9%9a%aa%e4%b9%8b/">臺灣超人氣「貓貓蟲咖波」攜手WePlay 展開奇幻冒險之旅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
