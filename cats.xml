@@ -1,563 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<!DOCTYPE html>
+<html dir='ltr'>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Database Error</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			border: 1px solid #ccd0d4;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #2271b1;
+		}
+		a:hover,
+		a:active {
+			color: #135e96;
+		}
+		a:focus {
+			color: #043959;
+			box-shadow: 0 0 0 2px #2271b1;
+			outline: 2px solid transparent;
+		}
+		.button {
+			background: #f3f5f6;
+			border: 1px solid #016087;
+			color: #016087;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
+
+			vertical-align: top;
+		}
+
+		.button.button-large {
+			line-height: 2.30769231;
+			min-height: 32px;
+			padding: 0 12px;
+		}
+
+		.button:hover,
+		.button:focus {
+			background: #f1f1f1;
+		}
+
+		.button:focus {
+			background: #f3f5f6;
+			border-color: #007cba;
+			-webkit-box-shadow: 0 0 0 1px #007cba;
+			box-shadow: 0 0 0 1px #007cba;
+			color: #016087;
+			outline: 2px solid transparent;
+			outline-offset: 0;
+		}
+
+		.button:active {
+			background: #f3f5f6;
+			border-color: #7e8993;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+		}
+
+			</style>
+</head>
+<body id="error-page">
+	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
+</html>
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>毛孩 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e6%af%9b%e5%ad%a9/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/毛孩/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 24 Jun 2025 07:19:53 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>毛孩 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/毛孩/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>相隔十年再度見面！飼主傳貓咪照片給前主人令人動容 </title>
-		<link>https://firenews.com.tw/2025/06/19/%e7%9b%b8%e9%9a%94%e5%8d%81%e5%b9%b4%e5%86%8d%e5%ba%a6%e8%a6%8b%e9%9d%a2%ef%bc%81%e9%a3%bc%e4%b8%bb%e5%82%b3%e8%b2%93%e5%92%aa%e7%85%a7%e7%89%87%e7%b5%a6%e5%89%8d%e4%b8%bb%e4%ba%ba%e4%bb%a4%e4%ba%ba/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 06:18:45 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[動容]]></category>
-		<category><![CDATA[十年]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=213986</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 最近有則溫馨的寵物故事在網路上引發廣大共鳴，一名女子已經陪伴自家養的貓咪十年之 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/19/%e7%9b%b8%e9%9a%94%e5%8d%81%e5%b9%b4%e5%86%8d%e5%ba%a6%e8%a6%8b%e9%9d%a2%ef%bc%81%e9%a3%bc%e4%b8%bb%e5%82%b3%e8%b2%93%e5%92%aa%e7%85%a7%e7%89%87%e7%b5%a6%e5%89%8d%e4%b8%bb%e4%ba%ba%e4%bb%a4%e4%ba%ba/">相隔十年再度見面！飼主傳貓咪照片給前主人令人動容 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/tran-mau-tri-tam-hhrp_SZTawc-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近有則溫馨的寵物故事在網路上引發廣大共鳴，一名女子已經陪伴自家養的貓咪十年之久，日前她突發奇想將貓咪的照片傳給牠的原主人，也就是自己在學生時代的鄰桌同學，沒想到對方看到後驚訝萬分，反應令人動容。&nbsp;</p>
-
-
-
-<p>原來這名女子起初並沒有領養貓咪的計畫，當時還是學生的她，因為鄰桌同學的家庭出狀況無法繼續養貓，於是向她懇求希望能暫時照顧一下這隻貓咪，結果誰都沒有想到，這一養居然就過了整整十年。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1842" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?resize=1220%2C1842&#038;ssl=1" alt="" class="wp-image-213991" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?w=1696&amp;ssl=1 1696w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?resize=768%2C1160&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?resize=1017%2C1536&amp;ssl=1 1017w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?resize=1356%2C2048&amp;ssl=1 1356w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/rohit-tandon-K3Juq66UjfU-unsplash-scaled.jpg?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">女子將「阿咪」的照片傳給前飼主，讓對方感到激動又欣慰<br>(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>貓咪的名字叫做「阿咪」，女子陪伴牠從學生時代開始，一路到了大學畢業並開始工作，原本女子還會開玩笑地詢問同學「什麼時候要把阿咪接回去」，但到最後其實早已捨不得與貓咪分開，「阿咪」也在新家庭過得非常幸福。&nbsp;</p>
-
-
-
-<p>前幾日女子突發奇想，將「阿咪」的照片傳給那位鄰桌同學，而對方看到也感到激動萬分，十分欣慰自己當初做的決定是正確的，也攤牌坦承當時就是希望女子可以領養，目前「阿咪」雖然年齡稍大，不過身體狀況相當健康，感動了不少同樣有相同經歷的貓奴們。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/19/%e7%9b%b8%e9%9a%94%e5%8d%81%e5%b9%b4%e5%86%8d%e5%ba%a6%e8%a6%8b%e9%9d%a2%ef%bc%81%e9%a3%bc%e4%b8%bb%e5%82%b3%e8%b2%93%e5%92%aa%e7%85%a7%e7%89%87%e7%b5%a6%e5%89%8d%e4%b8%bb%e4%ba%ba%e4%bb%a4%e4%ba%ba/">相隔十年再度見面！飼主傳貓咪照片給前主人令人動容 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓媽媽帶小孩球包養？好心女子經常餵流浪貓獲得信任！ </title>
-		<link>https://firenews.com.tw/2025/06/13/%e8%b2%93%e5%aa%bd%e5%aa%bd%e5%b8%b6%e5%b0%8f%e5%ad%a9%e7%90%83%e5%8c%85%e9%a4%8a%ef%bc%9f%e5%a5%bd%e5%bf%83%e5%a5%b3%e5%ad%90%e7%b6%93%e5%b8%b8%e9%a4%b5%e6%b5%81%e6%b5%aa%e8%b2%93%e7%8d%b2%e5%be%97/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 06:52:10 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[信任]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[流浪貓]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=210989</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 近日國外一名女子分享了自己與流浪貓們之間溫馨的互動故事，某日她如往常般地在街區 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/13/%e8%b2%93%e5%aa%bd%e5%aa%bd%e5%b8%b6%e5%b0%8f%e5%ad%a9%e7%90%83%e5%8c%85%e9%a4%8a%ef%bc%9f%e5%a5%bd%e5%bf%83%e5%a5%b3%e5%ad%90%e7%b6%93%e5%b8%b8%e9%a4%b5%e6%b5%81%e6%b5%aa%e8%b2%93%e7%8d%b2%e5%be%97/">貓媽媽帶小孩球包養？好心女子經常餵流浪貓獲得信任！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/christine-leona-IUP8-hBnphw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>近日國外一名女子分享了自己與流浪貓們之間溫馨的互動故事，某日她如往常般地在街區餵養流浪動物的過程中，意外獲得了一隻貓媽媽的珍貴的信任，牠不但接受了女子的照顧，還主動將剛出生不久的五隻小貓帶到她面前，畫面相當感人。&nbsp;</p>
-
-
-
-<p>原來這名女子長期致力於救助社區的流浪貓咪，在幾個月前，她注意到一隻新出現的母貓似乎懷著身孕，於是開始每天準備特餐照顧牠，即使在這隻貓咪產下幼崽後，女子也未間斷餵食與關懷，逐漸與這隻貓媽媽建立起深厚連結。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="853" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=1220%2C853&#038;ssl=1" alt="" class="wp-image-210994" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=768%2C537&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=1536%2C1074&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=2048%2C1432&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=209%2C146&amp;ssl=1 209w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓媽媽帶著小孩們前往女子住處，主動信任的行為讓女子感動不已<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>令人出乎意料的是，最近這隻貓媽媽竟然主動將牠的五隻小貓帶到女子住處前，這一舉動讓她又驚又喜，也深感責任重大，當下便立刻決定將貓媽媽與幼崽們一併收編，並為牠們提供安全舒適的臨時住所。&nbsp;</p>
-
-
-
-<p>女子表示，貓媽媽的主動讓她感動不已，自己也絕對不會辜負貓咪們的信任，承諾將給牠們一個溫暖的家，事件曝光後引發網友們的大量關注與讚賞，不少人感慨道「貓媽媽很有眼光」、「付出是有回報的」、「真誠又珍貴的信賴」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/13/%e8%b2%93%e5%aa%bd%e5%aa%bd%e5%b8%b6%e5%b0%8f%e5%ad%a9%e7%90%83%e5%8c%85%e9%a4%8a%ef%bc%9f%e5%a5%bd%e5%bf%83%e5%a5%b3%e5%ad%90%e7%b6%93%e5%b8%b8%e9%a4%b5%e6%b5%81%e6%b5%aa%e8%b2%93%e7%8d%b2%e5%be%97/">貓媽媽帶小孩球包養？好心女子經常餵流浪貓獲得信任！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>主人也有差別待遇？柯基犬見媽露微笑見爸秒變臉！ </title>
-		<link>https://firenews.com.tw/2025/06/13/%e4%b8%bb%e4%ba%ba%e4%b9%9f%e6%9c%89%e5%b7%ae%e5%88%a5%e5%be%85%e9%81%87%ef%bc%9f%e6%9f%af%e5%9f%ba%e7%8a%ac%e8%a6%8b%e5%aa%bd%e9%9c%b2%e5%be%ae%e7%ac%91%e8%a6%8b%e7%88%b8%e7%a7%92%e8%ae%8a%e8%87%89/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 06:51:02 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[反差]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[柯基]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=210988</guid>
-
-					<description><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 你有見過差別待遇這麼嚴重的狗狗嗎？日本有名飼主分享了自家狗狗的強烈反差行為，牠 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/13/%e4%b8%bb%e4%ba%ba%e4%b9%9f%e6%9c%89%e5%b7%ae%e5%88%a5%e5%be%85%e9%81%87%ef%bc%9f%e6%9f%af%e5%9f%ba%e7%8a%ac%e8%a6%8b%e5%aa%bd%e9%9c%b2%e5%be%ae%e7%ac%91%e8%a6%8b%e7%88%b8%e7%a7%92%e8%ae%8a%e8%87%89/">主人也有差別待遇？柯基犬見媽露微笑見爸秒變臉！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/dog-8008483_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>你有見過差別待遇這麼嚴重的狗狗嗎？日本有名飼主分享了自家狗狗的強烈反差行為，牠在面對媽媽與爸爸時，完全表現出了不同的反應，表情宛如判若兩狗，引發網友們熱烈討論，不少人笑翻直呼「原來狗狗也會偏心」。&nbsp;</p>
-
-
-
-<p>這隻行為十分反差的狗狗名字叫做「日向」，牠是一隻年輕可愛小柯基犬，從小性格活潑好動，親人愛撒嬌與飼主一家感情良好，但最近飼主發現愛犬的表情管理出了問題，尤其是被不同人抱時更加明顯。</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/animal-6902459_1280.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-210992" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/animal-6902459_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/animal-6902459_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/animal-6902459_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「日向」被爸爸抱時都會露出無奈又不情願的表情(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>飼主發現每當「日向」被媽媽抱時，總是開心地笑臉盈盈，眼神閃爍著滿滿愛意，不過當牠換成被爸爸抱後，表情立刻轉為嚴肅，甚至還有些無奈，彷彿遭遇了什麼委屈，畫面強烈對比讓人感到哭笑不得。&nbsp;</p>
-
-
-
-<p>「日向」的搞笑行為被飼主分享至網路上，迅速引起網上熱議，許多網友紛紛留言表示「好好笑」、「也差太多」、「日向應該是男孩子」、「爸爸到底做了什麼」、「想要媽媽抱完全寫在臉上」、「愛媽遠勝於爸」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/13/%e4%b8%bb%e4%ba%ba%e4%b9%9f%e6%9c%89%e5%b7%ae%e5%88%a5%e5%be%85%e9%81%87%ef%bc%9f%e6%9f%af%e5%9f%ba%e7%8a%ac%e8%a6%8b%e5%aa%bd%e9%9c%b2%e5%be%ae%e7%ac%91%e8%a6%8b%e7%88%b8%e7%a7%92%e8%ae%8a%e8%87%89/">主人也有差別待遇？柯基犬見媽露微笑見爸秒變臉！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>女子從厭貓到愛上！短短五天態度大轉變讓網友笑翻 </title>
-		<link>https://firenews.com.tw/2025/06/12/%e5%a5%b3%e5%ad%90%e5%be%9e%e5%8e%ad%e8%b2%93%e5%88%b0%e6%84%9b%e4%b8%8a%ef%bc%81%e7%9f%ad%e7%9f%ad%e4%ba%94%e5%a4%a9%e6%85%8b%e5%ba%a6%e5%a4%a7%e8%bd%89%e8%ae%8a%e8%ae%93%e7%b6%b2%e5%8f%8b%e7%ac%91/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 03:58:36 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[反差]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[流浪貓]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=210221</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 最近有名女子分享自己與家中貓咪相遇的故事引起網友熱烈討論，起初女子本來在現場觀 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/12/%e5%a5%b3%e5%ad%90%e5%be%9e%e5%8e%ad%e8%b2%93%e5%88%b0%e6%84%9b%e4%b8%8a%ef%bc%81%e7%9f%ad%e7%9f%ad%e4%ba%94%e5%a4%a9%e6%85%8b%e5%ba%a6%e5%a4%a7%e8%bd%89%e8%ae%8a%e8%ae%93%e7%b6%b2%e5%8f%8b%e7%ac%91/">女子從厭貓到愛上！短短五天態度大轉變讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/japheth-mast-Ga6z9QD8yvw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近有名女子分享自己與家中貓咪相遇的故事引起網友熱烈討論，起初女子本來在現場觀看球賽，意外遭遇一隻流浪小貓糾纏，貓咪不僅趴在她的腿上死死不離開，還大剌剌地跟著女子回家，並在最後成功被收編得到一個溫暖的家。&nbsp;</p>
-
-
-
-<p>該名女子表示，當天她在球場觀賽棒球比賽時，一隻陌生小貓突然跳上她的腿，怎麼趕也不走，宛如早已認定她是主人，這讓原本就不喜歡貓咪的女子感到相當困擾，向周圍民眾求救也沒有得到一個好的解決方法。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-210237" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/engin-akyurt-I_NCuqs1UY8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「 Toro 」對女子沒有半點戒心，讓周圍人笑稱：被貓咪選中了<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>比賽結束後小貓依舊沒有離開，考量當晚天氣寒冷、球場空曠，女子在無法找到貓咪主人的情況下，決定先將牠帶回家，而小貓也絲毫沒有半點戒心，對女子展現出極高的黏人度，讓周圍人笑稱「恭喜你被貓咪選中了」。&nbsp;</p>
-
-
-
-<p>隔日女子帶貓咪去醫院檢查發現沒有晶片，確認是流浪狀態後，心一軟打算暫時收養牠，並為小貓取名為「 Toro 」，卻沒想到短短過了五天，女子竟從剛開始的抗拒轉為沉迷，開始主動學習照顧貓咪，完全被「 Toro 」的魅力給征服。&nbsp;</p>
-
-
-
-<p>女子說她現在已經完全無法想像沒有「 Toro 」的日子，甚至還萌生了開設收容機構的念頭，希望能幫助更多無家可歸的貓咪，讓網友們看完笑翻紛紛留言「命運的安排」、「典型的路轉粉」、「貓真的會選人，躲也躲不掉」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/12/%e5%a5%b3%e5%ad%90%e5%be%9e%e5%8e%ad%e8%b2%93%e5%88%b0%e6%84%9b%e4%b8%8a%ef%bc%81%e7%9f%ad%e7%9f%ad%e4%ba%94%e5%a4%a9%e6%85%8b%e5%ba%a6%e5%a4%a7%e8%bd%89%e8%ae%8a%e8%ae%93%e7%b6%b2%e5%8f%8b%e7%ac%91/">女子從厭貓到愛上！短短五天態度大轉變讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>命中注定？可愛小金毛見到她秒飛撲撒嬌討抱抱！ </title>
-		<link>https://firenews.com.tw/2025/06/12/%e5%91%bd%e4%b8%ad%e6%b3%a8%e5%ae%9a%ef%bc%9f%e5%8f%af%e6%84%9b%e5%b0%8f%e9%87%91%e6%af%9b%e8%a6%8b%e5%88%b0%e5%a5%b9%e7%a7%92%e9%a3%9b%e6%92%b2%e6%92%92%e5%ac%8c%e8%a8%8e%e6%8a%b1%e6%8a%b1%ef%bc%81/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 03:56:29 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[撒嬌]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[金毛犬]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=210220</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 國外一段充滿溫情的寵物相遇故事在網上引發熱議，不久前有名女子獨自在機場等待一隻 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/12/%e5%91%bd%e4%b8%ad%e6%b3%a8%e5%ae%9a%ef%bc%9f%e5%8f%af%e6%84%9b%e5%b0%8f%e9%87%91%e6%af%9b%e8%a6%8b%e5%88%b0%e5%a5%b9%e7%a7%92%e9%a3%9b%e6%92%b2%e6%92%92%e5%ac%8c%e8%a8%8e%e6%8a%b1%e6%8a%b1%ef%bc%81/">命中注定？可愛小金毛見到她秒飛撲撒嬌討抱抱！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/vander-films-N8WseB4lGqo-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>國外一段充滿溫情的寵物相遇故事在網上引發熱議，不久前有名女子獨自在機場等待一隻從它國運來的小金毛犬，原以為狗狗會感到害怕和不知所措，卻沒想到當她打開運輸籠的那一刻，小狗竟立刻飛撲到女子懷裡，瘋狂撒嬌瞬間融化了她的心。&nbsp;</p>
-
-
-
-<p>據了解，與這名女子相遇的狗狗名字叫做「 Captain 」，牠是一隻來自它國的小金毛犬，由繁殖者送養並經由飛機運輸到女子的居住地，事前女子已與中介溝通妥當，當天一早便帶著忐忑而期待的心情守候在機場。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-210236" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/06/casey-lovegrove-6Oe-4Gf8XwA-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">女子原本擔心狗狗會感到不安，沒想到一見面「 Captain 」就秒飛撲撒嬌討抱抱<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>因為是第一次見面，女子雖然心中抱有期待與熱情，但仍擔心小狗會不安甚至對自己產生抗拒，令她沒想到的是，當運輸籠門打開後，小金毛犬竟直接衝向女子懷中，不停地搖尾、舔臉，就像是與女子久別重逢一般。&nbsp;</p>
-
-
-
-<p>小狗對女子展現出極高的親和力與情感連結，讓她滿臉幸福地將狗狗緊緊擁入懷中，仿佛她們天生早已命中注定，事件曝光後也感動無數網友，不少人留言表示「好溫馨」、「一見如故」、「可能上輩子是家人」、「太可愛了」、「想養了」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/06/12/%e5%91%bd%e4%b8%ad%e6%b3%a8%e5%ae%9a%ef%bc%9f%e5%8f%af%e6%84%9b%e5%b0%8f%e9%87%91%e6%af%9b%e8%a6%8b%e5%88%b0%e5%a5%b9%e7%a7%92%e9%a3%9b%e6%92%b2%e6%92%92%e5%ac%8c%e8%a8%8e%e6%8a%b1%e6%8a%b1%ef%bc%81/">命中注定？可愛小金毛見到她秒飛撲撒嬌討抱抱！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪一看到東西就想「推下去」？ 3個手癢的原因大揭密 !</title>
-		<link>https://firenews.com.tw/2025/05/31/%e8%b2%93%e5%92%aa%e4%b8%80%e7%9c%8b%e5%88%b0%e6%9d%b1%e8%a5%bf%e5%b0%b1%e6%83%b3%e3%80%8c%e6%8e%a8%e4%b8%8b%e5%8e%bb%e3%80%8d%ef%bc%9f-3%e5%80%8b%e6%89%8b%e7%99%a2%e7%9a%84%e5%8e%9f%e5%9b%a0%e5%a4%a7/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Sat, 31 May 2025 06:19:34 +0000</pubDate>
-				<category><![CDATA[時事]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[推東西]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=204373</guid>
-
-					<description><![CDATA[<p><img width="612" height="575" src="https://firenews.com.tw/wp-content/uploads/2025/05/image-427.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-427.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-427.png?resize=155%2C146&amp;ssl=1 155w" sizes="auto, (max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 張舜傑/報導 貓咪時常會一臉冷靜地盯著桌上的筆、杯子，然後伸出爪子，毫不猶豫地輕輕一推，讓物品墜落地 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/31/%e8%b2%93%e5%92%aa%e4%b8%80%e7%9c%8b%e5%88%b0%e6%9d%b1%e8%a5%bf%e5%b0%b1%e6%83%b3%e3%80%8c%e6%8e%a8%e4%b8%8b%e5%8e%bb%e3%80%8d%ef%bc%9f-3%e5%80%8b%e6%89%8b%e7%99%a2%e7%9a%84%e5%8e%9f%e5%9b%a0%e5%a4%a7/">貓咪一看到東西就想「推下去」？ 3個手癢的原因大揭密 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="612" height="575" src="https://firenews.com.tw/wp-content/uploads/2025/05/image-427.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-427.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-427.png?resize=155%2C146&amp;ssl=1 155w" sizes="auto, (max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>貓咪時常會一臉冷靜地盯著桌上的筆、杯子，然後伸出爪子，毫不猶豫地輕輕一推，讓物品墜落地面，這種「手癢」的行為看似調皮，實則是貓咪天性的一部分，牠們是故在用自己的方式探索、確認認識。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">狩獵本能的延伸行為</h4>
-
-
-
-<p>貓咪在野外是天生的獵手。為了確定眼前的獵物是否還活著，牠們會先以爪子輕觸、撥弄獵物，觀察對方的反應。這樣的本能延伸到家中，就變成了對靜止物品的撥弄，目的並不一定是要破壞，而是出於探索與模擬獵捕行為。桌上的原子筆對牠來說，或許就像一隻停下來不動的蟲子，忍不住要「確認一下」。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1220" height="811" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-428.png?resize=1220%2C811&#038;ssl=1" alt="" class="wp-image-204399" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-428.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-428.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-428.png?resize=220%2C146&amp;ssl=1 220w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪天生獵手，會撥弄靜止物品，像確認獵物一樣，這是探索本能，不是破壞。圖:pixabay</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">好奇心與觸覺探索</h4>
-
-
-
-<p>貓咪是極具好奇心的動物，而牠們理解世界的方式之一，就是用爪子觸碰與推動。不同物品的材質、重量、移動方式，對貓咪來說都是充滿新鮮感的「資訊」。這種觸覺探索有助於刺激腦部活化，也是貓咪日常行為的一部分，尤其是年輕或活動力旺盛的貓咪，對於新物品的反應更明顯。</p>
-
-
-
-<h4 class="wp-block-heading">吸引注意力與行為回饋</h4>
-
-
-
-<p>有些貓咪會發現，每當牠們推東西掉下來時，飼主總會馬上回應——不論是驚呼、嘆氣、甚至跑來收拾。這樣的反應對貓咪來說，無異於一種「成功引起注意」的訊號。久而久之，牠們可能將這種行為與「獲得互動」劃上等號，甚至在無聊或想引起關注時故意為之。這也是貓咪與人類互動中微妙的心理遊戲。</p>
-
-
-
-<h4 class="wp-block-heading">如何應對不被打擾的桌面生活？</h4>
-
-
-
-<p>想讓貓咪停止「推東西」的行為，單靠責罵往往無效。飼主可以試著將貴重或易碎物品收起，避免放置在牠們經常活動的範圍。也可以透過提供足夠的玩具、刺激與陪伴，轉移貓咪的注意力。此外，將一些「不能碰的東西」使用雙面膠或鋁箔紙包覆，也可能讓牠們產生排斥感，減少接觸興趣。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-429.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-204400" style="width:706px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-429.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-429.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/image-429.png?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">想阻止貓咪推東西，可以提供玩具分散注意，並用雙面膠或鋁箔阻止接觸。圖:pixabay</figcaption></figure></div>
-
-
-<p>貓咪推東西的行為，看似無厘頭，背後卻蘊藏著牠們對環境的適應、探索與互動邏輯。了解貓咪的思維，才能更從容地面對那些「一推就掉」的日常，也更深入地讀懂這些神秘又可愛的小生物。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/31/%e8%b2%93%e5%92%aa%e4%b8%80%e7%9c%8b%e5%88%b0%e6%9d%b1%e8%a5%bf%e5%b0%b1%e6%83%b3%e3%80%8c%e6%8e%a8%e4%b8%8b%e5%8e%bb%e3%80%8d%ef%bc%9f-3%e5%80%8b%e6%89%8b%e7%99%a2%e7%9a%84%e5%8e%9f%e5%9b%a0%e5%a4%a7/">貓咪一看到東西就想「推下去」？ 3個手癢的原因大揭密 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>技能養成有貓咪陪伴「角落有貓」打造人寵共學療心靈</title>
-		<link>https://firenews.com.tw/2025/05/24/%e6%8a%80%e8%83%bd%e9%a4%8a%e6%88%90%e6%9c%89%e8%b2%93%e5%92%aa%e9%99%aa%e4%bc%b4%e3%80%8c%e8%a7%92%e8%90%bd%e6%9c%89%e8%b2%93%e3%80%8d%e6%89%93%e9%80%a0%e4%ba%ba%e5%af%b5%e5%85%b1%e5%ad%b8%e7%99%82/</link>
-		
-		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
-		<pubDate>Sat, 24 May 2025 10:23:53 +0000</pubDate>
-				<category><![CDATA[寵物]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=202377</guid>
-
-					<description><![CDATA[<p><img width="2508" height="1672" src="https://firenews.com.tw/wp-content/uploads/2025/05/409017.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2508px) 100vw, 2508px" /></p>
-<p>火報記者／高雄報導 ▲角落有貓攜手心理復健協會，寵物美容課程溫暖啟動。（圖／記者莊全成攝） 在生活節奏愈加快速 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/24/%e6%8a%80%e8%83%bd%e9%a4%8a%e6%88%90%e6%9c%89%e8%b2%93%e5%92%aa%e9%99%aa%e4%bc%b4%e3%80%8c%e8%a7%92%e8%90%bd%e6%9c%89%e8%b2%93%e3%80%8d%e6%89%93%e9%80%a0%e4%ba%ba%e5%af%b5%e5%85%b1%e5%ad%b8%e7%99%82/">技能養成有貓咪陪伴「角落有貓」打造人寵共學療心靈</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2508" height="1672" src="https://firenews.com.tw/wp-content/uploads/2025/05/409017.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409017.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2508px) 100vw, 2508px" /></p>
-<p>火報記者／高雄報導</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-202381" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?w=2507&amp;ssl=1 2507w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409016.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲角落有貓攜手心理復健協會，寵物美容課程溫暖啟動。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>在生活節奏愈加快速、心理壓力無處不在的當下，社會對療癒與重建信任的需求日益增加。高雄有家貓系餐廳品牌「角落有貓」長年秉持陪伴與溫柔的理念，不僅是城市中的心靈綠洲，也逐步實踐職能教育與社會關懷的行動力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409018-1.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-202383" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409018-1.jpg?w=1480&amp;ssl=1 1480w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409018-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409018-1.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲全新推出的寵物美容證照課程，由角落貓學堂規劃設計，全面開放給一般大眾參與。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>日前，角落有貓攜手心理復健協會-雄棧會所，共同舉辦一場充滿溫度的療癒時光的活動。邀請數位精神康復者進入店內體驗與貓咪的互動與照護，並特別開放旗下全新成立的「角落貓學堂」寵物美容課程，由其中一位康復者搶先參與，率先感受技能學習有動物陪伴」的共學幸福。</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-202386" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/409191-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲一位精神康復者親身參與貓咪美容實作流程，從梳毛到基本照護，過程中展現細心與耐性。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>這門全新推出的寵物美容證照課程，由角落貓學堂規劃設計，全面開放給一般大眾參與。課程融合理論與實作，並依據國家證照考場標準設計，無論是有志投入寵物產業者，或是對動物照護有興趣的學員，皆可透過訓練考取證照，開啟嶄新職涯方向。</p>
-
-
-
-<p>體驗活動中，一位精神康復者親身參與了貓咪美容實作流程，從梳毛到基本照護，過程中不僅展現細心與耐性，更透過完成任務獲得滿滿成就感與自信。這也再次印證技能學習不僅是專業培力的起點，更是一股支持身心修復的正向力量。</p>
-
-
-
-<p>「角落有貓」負責人張惠瑛表示，我們的課程對所有人開放，無論是學生、轉職者，或是像這次活動中努力重建生活的康復朋友，我們相信技能與陪伴能彼此流動，讓每個人在與貓咪的互動中，找到屬於自己的節奏與定位。</p>
-
-
-
-<p>多年來，角落有貓致力推動動物輔助療癒與社會參與，此次透過角落貓學堂，將學習場域對外開放，建立兼具技能培養與情感連結的溫柔空間，讓更多人看見陪伴的力量，也找回與世界重新連結的契機。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/24/%e6%8a%80%e8%83%bd%e9%a4%8a%e6%88%90%e6%9c%89%e8%b2%93%e5%92%aa%e9%99%aa%e4%bc%b4%e3%80%8c%e8%a7%92%e8%90%bd%e6%9c%89%e8%b2%93%e3%80%8d%e6%89%93%e9%80%a0%e4%ba%ba%e5%af%b5%e5%85%b1%e5%ad%b8%e7%99%82/">技能養成有貓咪陪伴「角落有貓」打造人寵共學療心靈</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>超萌小奶貓竟遭棄養？收容所成功救援吸引上百人瘋搶！ </title>
-		<link>https://firenews.com.tw/2025/05/20/%e8%b6%85%e8%90%8c%e5%b0%8f%e5%a5%b6%e8%b2%93%e7%ab%9f%e9%81%ad%e6%a3%84%e9%a4%8a%ef%bc%9f%e6%94%b6%e5%ae%b9%e6%89%80%e6%88%90%e5%8a%9f%e6%95%91%e6%8f%b4%e5%90%b8%e5%bc%95%e4%b8%8a%e7%99%be%e4%ba%ba/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 06:48:37 +0000</pubDate>
-				<category><![CDATA[寵物]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[棄養]]></category>
-		<category><![CDATA[流浪貓]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[瘋搶]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=200426</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 國外有隻命運坎坷的小奶貓，被人發現時流浪街頭，身體狀況十分虛弱，營養不足、甚至 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e8%b6%85%e8%90%8c%e5%b0%8f%e5%a5%b6%e8%b2%93%e7%ab%9f%e9%81%ad%e6%a3%84%e9%a4%8a%ef%bc%9f%e6%94%b6%e5%ae%b9%e6%89%80%e6%88%90%e5%8a%9f%e6%95%91%e6%8f%b4%e5%90%b8%e5%bc%95%e4%b8%8a%e7%99%be%e4%ba%ba/">超萌小奶貓竟遭棄養？收容所成功救援吸引上百人瘋搶！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/rohit-tandon-z7rnV7ayQdg-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>國外有隻命運坎坷的小奶貓，被人發現時流浪街頭，身體狀況十分虛弱，營養不足、甚至奄奄一息，如今卻在收容所的悉心照料下逐漸茁壯成長，重新找回希望，更吸引了許多人申請領養，紛紛搶著要牠一個專屬於自己的幸福家庭。&nbsp;</p>
-
-
-
-<p>據了解，當時有位民眾在自家陽台下方發現了一隻流浪小奶貓，當時小貓尚未斷奶，疑似被母貓遺棄，孤零零地躺在角落，該名民眾原本想留下自己照顧，但因缺乏經驗，最終還是決定將小貓送往收容所，希望牠能獲得專業幫助。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-200436" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/mariana-montes-de-oca-TDUpwlnUA5U-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">如今「Kicklie」已經健康地長大，成為一隻可愛又活潑的小貓，吸引許多人搶著領養<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>收容所隨即為小貓安排了專人照護，並展開了密集的餵養與健康管理，同時為牠取名為「Kicklie」。起初小貓到收容所時體重僅有322克，工作人員需要經常將牠放在電熱毯上暖身，等待體溫穩定後才能開始餵食。&nbsp;</p>
-
-
-
-<p>隨著時間流逝，「Kicklie」逐漸長大，成為了一隻活潑又健康的貓咪，牠會和其他朋友一起玩耍，也很親人，經常留在工作人員身邊撒嬌，消息曝光後，許多貓奴紛紛搶著領養這隻可愛又活潑的小貓，等待領養程序結束後，「Kicklie」將得到一個完全屬於自己的幸福家庭。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e8%b6%85%e8%90%8c%e5%b0%8f%e5%a5%b6%e8%b2%93%e7%ab%9f%e9%81%ad%e6%a3%84%e9%a4%8a%ef%bc%9f%e6%94%b6%e5%ae%b9%e6%89%80%e6%88%90%e5%8a%9f%e6%95%91%e6%8f%b4%e5%90%b8%e5%bc%95%e4%b8%8a%e7%99%be%e4%ba%ba/">超萌小奶貓竟遭棄養？收容所成功救援吸引上百人瘋搶！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>史上最強保母狗！毛孩主動攙扶老奶奶超溫馨 </title>
-		<link>https://firenews.com.tw/2025/05/20/%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%bc%b7%e4%bf%9d%e6%af%8d%e7%8b%97%ef%bc%81%e6%af%9b%e5%ad%a9%e4%b8%bb%e5%8b%95%e6%94%99%e6%89%b6%e8%80%81%e5%a5%b6%e5%a5%b6%e8%b6%85%e6%ba%ab%e9%a6%a8/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 06:47:41 +0000</pubDate>
-				<category><![CDATA[寵物]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[保母]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[暖心]]></category>
-		<category><![CDATA[溫馨]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=200425</guid>
-
-					<description><![CDATA[<p><img width="1280" height="854" src="https://firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 最近有起感人的寵物故事在網路上引起瘋傳，狗狗雖然無法用言語表達情感，但仍然能以 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%bc%b7%e4%bf%9d%e6%af%8d%e7%8b%97%ef%bc%81%e6%af%9b%e5%ad%a9%e4%b8%bb%e5%8b%95%e6%94%99%e6%89%b6%e8%80%81%e5%a5%b6%e5%a5%b6%e8%b6%85%e6%ba%ab%e9%a6%a8/">史上最強保母狗！毛孩主動攙扶老奶奶超溫馨 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="854" src="https://firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/hands-4051469_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近有起感人的寵物故事在網路上引起瘋傳，狗狗雖然無法用言語表達情感，但仍然能以行動詮釋自己的忠心，一隻忠心耿耿的毛孩在每當家中老奶奶上下床時，總會主動上前，用前腳托住老人的腿，溫馨舉動感動無數網友。&nbsp;</p>
-
-
-
-<p>這隻十分乖巧的狗狗名字叫做「拉拉（LaLa）」，牠的飼主家中有名年邁的長輩因病癱瘓，日常起居皆需要仰賴家人攙扶，這件事情被「拉拉」發現後，從那天開始牠都會準時報到，默默參與這段看似艱難卻又充滿愛的照護時刻。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-5467138_1280.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-200433" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-5467138_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-5467138_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-5467138_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">即使「拉拉」不知道自己能否提供幫助，但仍堅持準時報到，陪伴在老奶奶身邊<br>(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>「拉拉」總是跟在一旁，當家人抱起奶奶時，牠便小心翼翼地伸出前腳托住老人雙腿，攙扶著老奶奶上下床，彷彿在確認「奶奶安全到位」，儘管動作笨拙，實際上也幫不上什麼忙，卻顯得十足誠意，能讓人看見毛小孩無聲的溫柔與愛意。&nbsp;</p>
-
-
-
-<p>即使「拉拉」並不知道自己是否能真正地提供幫助，但這份無條件的陪伴，讓無數網友紅了眼眶，不少人感動留言「太暖心了」、「心意最重要」、「真正的守護天使」、「好幸福的家庭」、「拉拉的情感遠超實際上的幫助」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%bc%b7%e4%bf%9d%e6%af%8d%e7%8b%97%ef%bc%81%e6%af%9b%e5%ad%a9%e4%b8%bb%e5%8b%95%e6%94%99%e6%89%b6%e8%80%81%e5%a5%b6%e5%a5%b6%e8%b6%85%e6%ba%ab%e9%a6%a8/">史上最強保母狗！毛孩主動攙扶老奶奶超溫馨 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>主人慘遭調皮狗玩弄？被牽繩絆倒還被搶走髮圈讓網友笑翻 </title>
-		<link>https://firenews.com.tw/2025/05/20/%e4%b8%bb%e4%ba%ba%e6%85%98%e9%81%ad%e8%aa%bf%e7%9a%ae%e7%8b%97%e7%8e%a9%e5%bc%84%ef%bc%9f%e8%a2%ab%e7%89%bd%e7%b9%a9%e7%b5%86%e5%80%92%e9%82%84%e8%a2%ab%e6%90%b6%e8%b5%b0%e9%ab%ae%e5%9c%88%e8%ae%93/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 06:46:45 +0000</pubDate>
-				<category><![CDATA[寵物]]></category>
-		<category><![CDATA[毛孩]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[牽繩]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[笑翻]]></category>
-		<category><![CDATA[調皮]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=200424</guid>
-
-					<description><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 這應該是史上最悲劇的主人了！國外有名飼主日前帶著自家狗狗出門散步時，卻不小心被 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e4%b8%bb%e4%ba%ba%e6%85%98%e9%81%ad%e8%aa%bf%e7%9a%ae%e7%8b%97%e7%8e%a9%e5%bc%84%ef%bc%9f%e8%a2%ab%e7%89%bd%e7%b9%a9%e7%b5%86%e5%80%92%e9%82%84%e8%a2%ab%e6%90%b6%e8%b5%b0%e9%ab%ae%e5%9c%88%e8%ae%93/">主人慘遭調皮狗玩弄？被牽繩絆倒還被搶走髮圈讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-1867604_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>這應該是史上最悲劇的主人了！國外有名飼主日前帶著自家狗狗出門散步時，卻不小心被愛犬的牽繩絆倒，倒地後狗狗還以為主人在跟牠玩遊戲，竟更興奮地瘋狂跑跑跳跳，甚至叼走飼主馬尾上的髮圈落跑，逗得現場眾人笑成一團。&nbsp;</p>
-
-
-
-<p>這名飼主家裡養了一隻名字叫做「蒂莉（Tilly）」的狗狗，牠從小性格外向開朗，總是精力旺盛，平時最喜歡和人互動，以及到戶外跑跑跳跳，仿佛永遠都不會感到疲憊。&nbsp;</p>
-
-
-
-<p>這天飼主和朋友們帶著「蒂莉」到戶外放風，本打算讓愛犬放鬆一下、消耗體力，沒想到卻意外上演了一場追逐戰，場面混亂得讓人感到啼笑皆非。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-4158784_1280.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-200432" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-4158784_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-4158784_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/05/dog-4158784_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="auto, (max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「蒂莉」看見主人跌倒後，還以為主人在跟牠玩，開始更興奮地奔跑<br>(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>原本「蒂莉」正在草地間興奮奔跑，飼主則在後方一邊走動一邊用牽繩看顧牠，結果就在某個瞬間，牽繩竟不偏不倚地纏上了飼主的腳踝，導致她當場摔倒。&nbsp;</p>
-
-
-
-<p>更令人哭笑不得的是，「蒂莉」完全沒發現自己闖了禍，反而以為主人在跟牠玩，變得更開心地繼續奔跑，甚至一口叼走了主人頭上的髮圈，調皮到了極點。&nbsp;</p>
-
-
-
-<p>消息曝光立刻在網路上引發熱烈討論，許多網友笑稱「太皮了」、「真的熊孩子」、「土狗版GTA」、「悲劇女主角」、「這種傻勁真的讓人又氣又愛」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/05/20/%e4%b8%bb%e4%ba%ba%e6%85%98%e9%81%ad%e8%aa%bf%e7%9a%ae%e7%8b%97%e7%8e%a9%e5%bc%84%ef%bc%9f%e8%a2%ab%e7%89%bd%e7%b9%a9%e7%b5%86%e5%80%92%e9%82%84%e8%a2%ab%e6%90%b6%e8%b5%b0%e9%ab%ae%e5%9c%88%e8%ae%93/">主人慘遭調皮狗玩弄？被牽繩絆倒還被搶走髮圈讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
