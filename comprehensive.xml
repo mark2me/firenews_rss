@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 09 Jul 2025 09:47:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jul 2025 03:34:18 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,219 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</title>
+		<link>https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 03:34:15 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=224501</guid>
+
+					<description><![CDATA[<p>近年化學品災害事件頻傳，主管機關陸續強化管理規範，對企業而言，除須應對勞動部、環境部等多部會的申報要求外，新增 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/">匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>近年化學品災害事件頻傳，主管機關陸續強化管理規範，對企業而言，除須應對勞動部、環境部等多部會的申報要求外，新增的動態備查機制也讓整體作業流程更加繁複。實務上，企業在化學品申報流程中面臨多種挑戰，包括成分判斷困難、條件比對複雜、異動難以掌握、跨單位資料整合困難等情況，其中尤以清單建置不完整、跨部門資料分散及異動資訊追蹤困難這 3 項挑戰最為關鍵，若無法有效因應，將顯著拉高誤報、漏報與查核風險。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-224503" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>化學品清單不完整、資訊分散與紀錄不同步，是優先化學品備查作業三大常見挑戰。</strong></figcaption></figure>
+
+
+
+<p><strong>一、清單建置不完整，基礎資料難以支撐申報判斷</strong><strong></strong></p>
+
+
+
+<p>化學品清單是優先管理化學品申報的核心依據，若未完整建置、定期盤點與更新，將嚴重影響申報準確性。實務上常見 SDS 資訊（如 CAS No.、濃度、危害資料等）或用途資訊等缺乏或疏漏，導致難以進行條件比對與判斷，部分企業也未定期記錄化學品運作量，使申報人員難以掌握是否達到門檻，若遇有需判斷是否為致癌、致突變、生殖毒性危害物質(CMR)、特殊族群危害物質(未滿十八歲及母性勞工)等複雜情況時，將增加作業時間與溝通成本，導致效率及正確性降低。</p>
+
+
+
+<p><strong>二、跨部門資料分散，資訊整合困難導致申報延誤</strong></p>
+
+
+
+<p>化學品從採購、倉儲到實際使用，涉及採購、研發、製造、品保與環安衛等部門，資訊常儲存於不同系統或表單。當申報時程逼近，環安人員需跨部門催交資料、比對內容，過程中容易因格式不一、版本不同或資料遺漏，導致作業延誤或錯誤。此外，不同廠區間化學品管理紀錄若分散於各自系統或 Excel 表單中，缺乏統一平台彙整，也會增加內部協作難度與資料整合負擔。</p>
+
+
+
+<p><strong>三、異動與現場使用紀錄難以同步，無法因應動態申報</strong><strong></strong></p>
+
+
+
+<p>動態備查要求化學品在新增、用途改變或使用量變動時即時更新申報資訊，並確保資料與實際作業同步。實務上，製程變更、物料替換或臨時調撥等情況頻繁，若缺乏異動通報與追蹤機制，資訊往往停留在個別部門或人工表單中。另一方面，部分企業雖完成初期申報，但日常操作紀錄多仰賴紙本或分散表單，未能建立標準化且可即時回溯的系統，導致資料與現場脫節，不僅增加查核風險，也降低管理彈性與反應速度。</p>
+
+
+
+<p><strong>數位工具導入，有效強化申報即時性與整合效率</strong><strong></strong></p>
+
+
+
+<p>隨著申報內容日益複雜、條件變化快速，傳統依賴人工彙整 SDS、比對條件與逐筆輸入的作業模式，已難以兼顧效率與正確性。若導入數位工具，如匡騰 Q-Chem <a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">化學品管理系統</a>，透過 AI OCR 技術快速擷取 SDS 關鍵資訊，自動建置化學品清單並比對列管法規，即可提升初步辨識效率，亦支援條件自動判斷與申報格式產出，減少人為誤差與重複作業。</p>
+
+
+
+<p>針對跨部門整合問題，Q-Chem <a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">化學品管理系統</a>可供多部門同步登錄與共用化學品資訊，並支援 ERP、物料系統等內部平台串接，減少資料重複與版本混淆。其「運作紀錄管理」功能，亦能集中記錄化學品每日的運作資訊，自動彙整成報表並對應法規條件，協助企業即時掌握各廠區化學品流向與使用動態，提升申報依據透明度與管理品質，讓優先化學品申報更即時、準確與可控（立即了解<a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">匡騰 Q-Chem 化學品管理系統</a>，輕鬆完成申報作業）。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-224502" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>匡騰 Q-Chem 化學品管理系統具備運作紀錄管理功能，自動彙整各筆紀錄並對應列管法規，助即時掌握化學品使用動態與申報依據</strong></figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/">匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</title>
+		<link>https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 03:22:18 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[豐傑生醫]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=224491</guid>
+
+					<description><![CDATA[<p>台灣保養品實力再度閃耀國際！豐傑生醫「極萃光煥白雪肌露」在英國UBA美妝大獎中脫穎而出，從全球上千件參賽品中， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/">豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台灣保養品實力再度閃耀國際！豐傑生醫「極萃光煥白雪肌露」在英國UBA美妝大獎中脫穎而出，從全球上千件參賽品中，一舉拿下「最佳美白產品金獎」與「亞洲最佳美妝品牌 優選獎」，成為本屆唯一雙料獲獎的亞洲美白品牌！</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="809" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=1220%2C809&#038;ssl=1" alt="" class="wp-image-224492" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?w=2293&amp;ssl=1 2293w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=2048%2C1358&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲豐傑生醫雪肌露，獲2025英國UBA美妝 ⟪最佳美白精華 金獎⟫</figcaption></figure>
+
+
+
+<p>英國UBA美妝大獎素有「美妝界奧斯卡」之稱，評審團由國際皮膚科專家、美妝編輯等專業人士組成。今年評審團對豐傑生醫雪肌露給予極高評價，UBA首席評審表示：「雪肌露完美結合科學實證與天然植萃，其美白效果數據令人印象深刻，4周內有感改善色素沉澱的實測結果，在同類產品中極為突出。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224495" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?w=2295&amp;ssl=1 2295w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=1536%2C764&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=2048%2C1018&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲國際評審團高度讚譽：「突破性的美白科技創新」</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>英國評審怎麼說？官方點名雪肌露「3大獲獎關鍵」</strong></h2>
+
+
+
+<p><strong>關鍵1：科學實證美白淡斑實力</strong><br>SGS測試證實，雪肌露能抑制4.42%酪胺酶活性，有效改善膚色。經3D肌膚檢測儀測量，4週使用後不僅提亮膚色，更能細緻毛孔，實現美白透亮無暇的實際功效。</p>
+
+
+
+<p><strong>關鍵2：三重美白機制創新突破</strong><br>雪肌露搭載創新「三重美白機制」，同時添加傳明酸（2%高濃度）、微脂囊維他命C與維他命C磷酸鎂鹽，能同步改善暗沉膚色生成的「生產－傳遞－沉澱」三階段，讓活性成分滲入基底，美白效果更全面！</p>
+
+
+
+<p><strong>關鍵3：諾貝爾得獎原料加持</strong><br>特別添加榮獲1996年諾貝爾化學獎的富勒烯（Fullerene），抗老化</p>
+
+
+
+<h2 class="wp-block-heading"><strong>雪肌露精華液—亞洲美白新標竿</strong></h2>
+
+
+
+<p>極萃光煥白雪肌露以科學實證、創新配方與消費者口碑，榮獲2025英國「UBA美妝大獎金獎」與「亞洲最佳美妝品牌 優選獎」，正式躍升為亞洲美白保養新標竿。豐傑生醫創辦人表示：「雪肌露的初衷，是證明「溫和」與「高效」不必二選一，它適合多種膚質，包含油性肌、乾性肌等，對敏弱肌也溫和友善，此次獲獎，是對台灣研發團隊最大的肯定！我們將持續深耕肌膚科學研發，為消費者打造更多有感、安心的保養品。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224496" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?w=2288&amp;ssl=1 2288w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=1536%2C765&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=2048%2C1020&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「溫和、有感」雪肌露天然植萃的溫和守護</figcaption></figure>
+
+
+
+<p><strong>豐傑生醫【極萃光煥白雪肌露】產品特色：</strong></p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 尖端保養系列「三重法定美白 x 諾貝爾獎配方 全面定格年輕 」</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> SGS實驗證實三天抑制4%的酪胺酸酶活性，改善暗沉</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 國家認可，強效三大有效法定美白成分&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 諾貝爾抗老原料 ⸢ 富勒烯 ⸥逆轉肌齡&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 微脂囊高科技包覆技術，完整傳導美白活性成分進入肌膚&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 精準 直搗 釋放 直接 快速 有感</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 全方位美白保養新概念</p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於豐傑生醫</strong></h2>
+
+
+
+<p>豐傑生醫成立於台灣，由資深營養師、皮膚科醫師與專業研發團隊共同打造，致力於研發高品質、無負擔的保健與保養品。品牌堅持以天然植萃為基礎，融合現代科學技術，提供真正安全且有感的產品體驗。</p>
+
+
+
+<p>為了讓每一位顧客安心體驗，豐傑生醫更首創365天退換貨保證服務，用實際行動守護消費者權益，成為你日常保養中最值得信賴的國民品牌。更多資訊請造訪<a href="https://www.fjb100.com/?srsltid=AfmBOoqxUJLaksP4ym8PZ4IvpXYCL4OCz2yjWM0zhTg4-1zt9UTuEtdD">【豐傑生醫官網】</a></p>
+
+
+
+<p><strong>產品資訊</strong><strong></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224498" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?w=2295&amp;ssl=1 2295w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=1536%2C764&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=2048%2C1018&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<ul class="wp-block-list">
+<li><strong>豐傑生醫【極萃光煥白雪肌露】</strong></li>
+
+
+
+<li><strong>價格：NT$1,650</strong></li>
+
+
+
+<li><strong>容量：30ml/瓶&nbsp;</strong></li>
+
+
+
+<li><strong>保存期限：3年</strong></li>
+
+
+
+<li><strong>連結：<a href="https://fjb100.co/whiteingessence">https://fjb100.co/whiteingessence</a></strong></li>
+
+
+
+<li><strong>保存方法：請置於室內陰涼處，避免陽光直接照射。</strong></li>
+
+
+
+<li><strong>注意事項：皮膚有傷口、紅腫、過敏、溼疹等異常狀況，請先諮詢皮膚科醫生意見後，再斟酌使用。<br><br></strong></li>
+</ul>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/">豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>CHARM野性魅力 無穀飼料成寵物食品新寵</title>
 		<link>https://firenews.com.tw/2025/07/09/charm%e9%87%8e%e6%80%a7%e9%ad%85%e5%8a%9b-%e7%84%a1%e7%a9%80%e9%a3%bc%e6%96%99%e6%88%90%e5%af%b5%e7%89%a9%e9%a3%9f%e5%93%81%e6%96%b0%e5%af%b5/</link>
 		
@@ -42,7 +255,7 @@
 		<category><![CDATA[綜合]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=224130</guid>
 
-					<description><![CDATA[<p><img width="1921" height="1081" src="https://firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?w=1921&amp;ssl=1 1921w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1921px) 100vw, 1921px" /></p>
+					<description><![CDATA[<p><img width="1921" height="1081" src="https://firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?w=1921&amp;ssl=1 1921w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/野性魅力.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1921px) 100vw, 1921px" /></p>
 <p>記者 莊全成／綜合報導 台灣飼養寵物成為越來越多家庭的日常生活，根據統計，全台貓狗登記數量已超越15歲以下兒童 &#8230;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/09/charm%e9%87%8e%e6%80%a7%e9%ad%85%e5%8a%9b-%e7%84%a1%e7%a9%80%e9%a3%bc%e6%96%99%e6%88%90%e5%af%b5%e7%89%a9%e9%a3%9f%e5%93%81%e6%96%b0%e5%af%b5/">CHARM野性魅力 無穀飼料成寵物食品新寵</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
@@ -797,204 +1010,6 @@
 
 <p>TutorABC 同時也提供留學諮詢服務（與英、美、加、澳超過 500 所大學合作），以及企業培訓服務，客戶遍及 Apple、Microsoft、台積電 (TSMC)、美光 (Micron)、豐田 (Toyota)、山葉 (Yamaha)、資生堂 (Shiseido)、花旗銀行 (Citibank)、保誠人壽 (PCA Life Insurance) 等知名企業的專業人士。 TutorABC 的教材合作夥伴包括牛津大學出版社 (Oxford University Press)、劍橋大學出版社 (Cambridge University Press)、美國教育測驗服務社 (ETS)、《巴倫周刊》(Barron&#8217;s)、《國家地理》(National Geographic)，以及 CNN、BBC、《經濟學人》(The Economist)、路透社 (Reuters)、《富比士》(Forbes)、NBA 和 MLB 等全球知名媒體。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/07/tutorabc%e6%8e%a8%e5%87%ba%e5%85%a8%e6%96%b0chatai-1-0%ef%bc%9a%e8%aa%9e%e8%a8%80%e5%ad%b8%e7%bf%92%e8%80%85%e7%9a%84%e6%99%ba%e6%85%a7%e5%8f%a3%e8%aa%aa%e5%a4%a5%e4%bc%b4/">TutorABC推出全新ChatAI 1.0：語言學習者的智慧口說夥伴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</title>
-		<link>https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/</link>
-		
-		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
-		<pubDate>Sat, 05 Jul 2025 05:21:12 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[生活]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[親子]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=222317</guid>
-
-					<description><![CDATA[<p><img width="1318" height="879" src="https://firenews.com.tw/wp-content/uploads/2025/07/02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1318px) 100vw, 1318px" /></p>
-<p>生活中心/綜合報導 美國兒科醫學會（AAP）研究指出，新生兒的睡眠難以制定一致的管理建議，原因在於個體差異極大 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/">新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1318" height="879" src="https://firenews.com.tw/wp-content/uploads/2025/07/02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/02.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1318px) 100vw, 1318px" /></p>
-<p>生活中心/綜合報導</p>
-
-
-
-<p>美國兒科醫學會（AAP）研究指出，新生兒的睡眠難以制定一致的管理建議，原因在於個體差異極大，且前六個月的睡眠模式變化非常快速，往往幾天內就會有顯著改變。本文將帶領新手爸媽認識寶寶0-6個月的睡眠特色，協助應對不同階段的睡眠挑戰。</p>
-
-
-
-<p><strong><u>0-6</u></strong><strong><u>周</u></strong><strong>新生寶寶睡眠特色</strong><strong>：驚嚇反應敏感期</strong></p>
-
-
-
-<p>此階段寶寶常在睡夢中無故驚醒或哭醒，這種情況通常來自「驚嚇反應」（莫洛反射）。</p>
-
-
-
-<p>原因主要有兩種：</p>
-
-
-
-<p>&nbsp;1. 腦神經尚未發育成熟</p>
-
-
-
-<p>新生兒大腦發育尚未完全，睡眠時無法完全抑制清醒時的動作，一旦動作過大，就容易驚醒並哭鬧，難以自行入睡。</p>
-
-
-
-<p>&nbsp;2. 對環境刺激特別敏感</p>
-
-
-
-<p>寶寶尚在適應外界環境，對光線與聲音格外敏感，容易在睡眠中因外界刺激產生不安全感而醒來。</p>
-
-
-
-<p><strong>【0-6周寶寶哄睡技巧】：<u>藉由包巾安心包覆提升安全感</u></strong></p>
-
-
-
-<p>這階段的寶寶特別需要細心照護，例如打造安穩的睡眠環境、選用合適的嬰兒包巾。<a href="https://www.bb888.com.tw/pages/lovetodream-home">Love To Dream蝶型包巾</a>，又稱「懶人包巾、睡過夜神器」，首創專利剪裁設計能提升寶寶安全感，降低驚嚇反應的發生頻率，幫助寶寶安穩入睡。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-222326" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/01.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾，一件取代棉被，為寶寶打造安全的睡眠環境。圖/品牌提供</figcaption></figure>
-
-
-
-<p><strong>&nbsp;<u>2-3</u></strong><strong><u>月</u></strong><strong>新生寶寶睡眠特色</strong><strong>日夜作息建立關鍵期</strong><strong></strong></p>
-
-
-
-<p>約莫在6周大時，寶寶大腦內的松果體開始分泌少量褪黑激素（睡眠荷爾蒙），逐步學習區分日與夜。這個時期的新生兒常有日夜顛倒的情形，爸媽可以協助新生兒開始建立日(光亮與活動)和夜晚(黑暗與安靜)的作息規律。</p>
-
-
-
-<p><strong>【2- 3個月寶寶哄睡技巧】：<u>善用陽光，幫助寶寶認識日和夜</u></strong></p>
-
-
-
-<p>白天可多帶寶寶曬太陽，降低體內褪黑激素，幫助建立「白天活動、晚上睡覺」的規律；晚上則將燈光調暗並保持安靜，讓寶寶學會關燈就是睡覺時間。</p>
-
-
-
-<p>此外，可安排固定的睡眠儀式，例如洗澡、換上包巾睡衣、餵奶、聽舒眠音樂，協助寶寶逐步建立作息規律。</p>
-
-
-
-<p><strong>禁趴睡、防SIDS嬰兒猝死綜合症</strong></p>
-
-
-
-<p>2-3個月後，寶寶夜間睡眠時間可逐漸拉長至5-6小時，睡眠時間與爸媽作息更為一致。然而夜晚爸媽警覺度較低，更須避免趴睡，以降低窒息與SIDS風險。</p>
-
-
-
-<p><strong>仰睡是寶寶自我保護機制</strong></p>
-
-
-
-<p>美國小兒科學會在1992年建議嬰兒採取非趴睡睡姿(nonprone position)，2000年也進一步不建議側睡，仰睡為最安全睡姿。</p>
-
-
-
-<p>Love To Dream蝶型包巾專利結構，讓寶寶雙手自然向上，自然維持仰睡，既保有自我安撫能力，減少驚嚇反射而中斷睡眠，降低嬰兒猝死症候群發生率。</p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img decoding="async" width="640" height="510" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?resize=640%2C510&#038;ssl=1" alt="" class="wp-image-222328" style="width:840px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/03.jpg?resize=183%2C146&amp;ssl=1 183w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾榮獲多項國際認證，守護全球無數新生兒安穩好眠。圖/品牌提供</figcaption></figure>
-
-
-
-<p><strong><u>4-6</u></strong><strong><u>個月</u></strong><strong>寶寶睡眠特色</strong><strong>防口鼻遮蓋，確保睡眠安全</strong></p>
-
-
-
-<p>4個月後寶寶夜間睡眠時間可達11-14小時。無論親子同床或寶寶睡嬰兒床，「安全睡眠」始終是最高原則。</p>
-
-
-
-<p>可選擇合身包巾或睡衣，避免過多棉被造成窒息風險；若需使用棉被，建議採用可固定的防踢被，或將被子尾端固定於嬰兒床欄杆。Love To Dream蝶型包巾一件式取代棉被設計，無需額外加棉被，減少覆蓋口鼻的風險，不同季節可選擇不同厚度，兼具體溫調節與安全性，同時在材質上</p>
-
-
-
-<p>通過多項安心認證，並貼心依寶寶成長階段設計不同款式， 協助寶寶從新生期至翻身期，再到學習自我入睡，逐步建立完整的睡眠能力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-222329" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?w=1318&amp;ssl=1 1318w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/04.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Love To Dream蝶型包巾，多階段設計，陪伴寶寶安穩銜接睡眠關鍵期。圖＠betty83592/品牌提供</figcaption></figure>
-
-
-
-<p>越來越多爸媽將蝶型包巾列為待產包與新生兒禮盒必備用品，紛紛稱其為「一包就睡過夜」的育兒神器。在選購包巾時，建議優先考量產品整體剪裁、材質是否具備國際安全認證，並根據寶寶實際體型與發展階段，選擇最合適的款式，讓寶寶在安全舒適的環境中健康成長。</p>
-
-
-
-<p>(首圖為Love To Dream蝶型包巾首創專利雙手向上設計，陪伴寶寶建立安穩睡眠習慣。圖/品牌提供)</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/05/%e6%96%b0%e7%94%9f%e5%85%92%e7%9d%a1%e7%9c%a0%e3%80%8cltd%e8%9d%b6%e5%9e%8b%e5%8c%85%e5%b7%be%e3%80%8d%e5%8a%a9%e5%af%b6%e5%af%b6%e5%ae%89%e7%a9%a9%e9%81%8e%e5%a4%9c-%e5%bb%ba%e7%ab%8b%e5%ae%89/">新生兒睡眠「LTD蝶型包巾」助寶寶安穩過夜 建立安全好眠習慣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</title>
-		<link>https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 04 Jul 2025 08:53:16 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=221949</guid>
-
-					<description><![CDATA[<p>交通部觀光署為宣傳臺灣觀光，與日本京濱急行電鐵株式會社(簡稱京急電鐵)合作推出臺灣觀光彩繪列車「嗶嗶嗶嗶台灣號 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/">「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>交通部觀光署為宣傳臺灣觀光，與日本京濱急行電鐵株式會社(簡稱京急電鐵)合作推出臺灣觀光彩繪列車「嗶嗶嗶嗶台灣號」，在日本運行期間宣傳臺灣觀光形象。本次結合國營臺灣鐵路股份有限公司(以下簡稱臺鐵公司)與京急電鐵締結友好10週年，攜手臺鐵公司合作將EMU700型電聯車彩繪成日本京濱急行電鐵列車紅色塗裝，復刻「嗶嗶嗶嗶台灣號」主題彩繪列車，讓在臺灣的旅客也能親臨體驗!交通部觀光署陳署長玉秀與臺鐵公司鄭董事長光遠今（7/4）日共同宣布「嗶嗶嗶嗶台灣號」正式啟航，將運行於臺鐵-宜蘭線區間，邀請民眾搭乘旅遊瑞芳、貢寮福隆、外澳、宜蘭及蘇澳等東北角觀光!</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-50.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">月台合照站長左至右起3位，交通部觀光署陳玉秀署長、國營臺灣鐵路股份有限公司鄭光遠董事長、東北角及宜蘭海岸國家風景區管理處游麗玉處長</figcaption></figure>
-
-
-
-<p>彩繪列車獨特的「台灣」二字視覺設計、鮮明的色彩與創意宣傳手法，甫於3月中旬榮獲第14屆東京屋外廣告競賽－車體廣告組－公益社團法人東京屋外廣告協會「會長獎」，5月中旬再傳捷報，獲NY TDC紐約字體設計競賽獎，該競賽是全世界第一個以字體設計為主的設計競賽，亦是知名國際平面設計競賽之一，成功行銷臺灣。</p>
-
-
-
-<p>交通部觀光署陳署長玉秀表示，鐵道旅行為台灣觀光重要的方式，這次「嗶嗶嗶嗶台灣號」彩繪列車與日本京濱急行電鐵株式會社合作推出，在日本運行期間加深台灣觀光國際宣傳。在此，特別感謝臺鐵公司這次共同合作推動，促進台日觀光雙向交流，讓臺灣的旅客也能親臨搭乘體驗，今(7/4)日啟航，原限定3個月運行期間，加碼至6個月；本次主題彩繪列車將行經瑞芳、福隆、宜蘭等東北角區域，還有搭配大東北角觀光圈的瑞芳九份小旅行，歡迎大家開心搭乘旅遊，探訪東北角自然及人文風光。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221957" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-51.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">舞台合照由左至右，交通部觀光署東北角及宜蘭海岸國家風景區管理處游麗玉處長、新北市觀光旅遊局楊宗珉局長、交通部觀光署陳玉秀署長、國營臺灣鐵路股份有限公司鄭光遠董事長、日本民營鐵道協会会長 杉山 健博（すぎやま たけひろ）</figcaption></figure>
-
-
-
-<p>國營臺灣鐵路股份有限公司鄭董事長光遠表示，這次「嗶嗶嗶嗶台灣號」主題彩繪列車，結合臺灣的蘭花、茶葉、鳳梨等特色意象呈現，讓全國民眾能夠認識台灣的特色，歡迎全國民眾一起上車搭乘，享受臺灣的美好生活!</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-221958" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-52.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">交通部觀光署陳玉秀署長致詞</figcaption></figure>
-
-
-
-<p>交通部觀光署為宣傳臺灣觀光，前於113年6月7日至9月28日期間與日本京急電鐵攜手合作，推出台灣觀光彩繪列車「嗶嗶嗶嗶台灣號」運行於日本出國量最大的東京都、神奈川縣，向日本民眾宣傳臺灣觀光形象。臺灣素有「蘭花王國」、「水果王國」之稱號，「嗶嗶嗶嗶台灣號」獨特的「臺灣」藝術字體以蘭花、茶葉、鳳梨等臺灣代表性物產設計，而「嗶」也與日文「美(ビ)」字發音相近，象徵旅行臺灣的美景、美食及美好；本次「嗶嗶嗶嗶台灣號」主題彩繪列車同時結合臺鐵公司與京急電鐵締結友好10週年，搭配宣傳東北角及宜蘭觀光景點裝貼布置，民眾除可以搭乘體驗，亦不妨到訪火車站和彩繪列車一起拍照，凡只要與這輛主題彩繪列車拍照，並上傳照片至東北角之友指定貼文，就有機會獲得限量紀念品！</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="848" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=1220%2C848&#038;ssl=1" alt="" class="wp-image-221959" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?w=1963&amp;ssl=1 1963w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=1536%2C1068&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-53.png?resize=210%2C146&amp;ssl=1 210w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「嗶嗶嗶嗶台灣號」彩繪列車</figcaption></figure>
-
-
-
-<p>另配合「嗶嗶嗶嗶台灣號」開行，結合大東北角觀光圈也有許多精采活動，包含八番坑茶坊帶領九份小旅行，讓民眾走讀九份導覽解說、在山林溪河邊親自體驗淘金沙、享用在地的礦工便當、親手製作芋圓、泡一杯茶聆聽在地的流金歲月等深度探訪九份在地故事；還有九份紅燈籠祭、福隆國際沙雕藝術季、東北角自行車遊程(舊草嶺環狀線自行車道)，歡迎民眾搭乘火車來到東北角旅遊、感受大東北角觀光圈產業魅力！更多精彩活動資訊請至東北角觀光資訊網及東北角之友粉絲專頁查詢。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/">「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		

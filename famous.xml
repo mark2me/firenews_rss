@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 09 Jul 2025 07:54:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jul 2025 03:34:18 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,219 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</title>
+		<link>https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 03:34:15 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=224501</guid>
+
+					<description><![CDATA[<p>近年化學品災害事件頻傳，主管機關陸續強化管理規範，對企業而言，除須應對勞動部、環境部等多部會的申報要求外，新增 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/">匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>近年化學品災害事件頻傳，主管機關陸續強化管理規範，對企業而言，除須應對勞動部、環境部等多部會的申報要求外，新增的動態備查機制也讓整體作業流程更加繁複。實務上，企業在化學品申報流程中面臨多種挑戰，包括成分判斷困難、條件比對複雜、異動難以掌握、跨單位資料整合困難等情況，其中尤以清單建置不完整、跨部門資料分散及異動資訊追蹤困難這 3 項挑戰最為關鍵，若無法有效因應，將顯著拉高誤報、漏報與查核風險。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-224503" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖一-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>化學品清單不完整、資訊分散與紀錄不同步，是優先化學品備查作業三大常見挑戰。</strong></figcaption></figure>
+
+
+
+<p><strong>一、清單建置不完整，基礎資料難以支撐申報判斷</strong><strong></strong></p>
+
+
+
+<p>化學品清單是優先管理化學品申報的核心依據，若未完整建置、定期盤點與更新，將嚴重影響申報準確性。實務上常見 SDS 資訊（如 CAS No.、濃度、危害資料等）或用途資訊等缺乏或疏漏，導致難以進行條件比對與判斷，部分企業也未定期記錄化學品運作量，使申報人員難以掌握是否達到門檻，若遇有需判斷是否為致癌、致突變、生殖毒性危害物質(CMR)、特殊族群危害物質(未滿十八歲及母性勞工)等複雜情況時，將增加作業時間與溝通成本，導致效率及正確性降低。</p>
+
+
+
+<p><strong>二、跨部門資料分散，資訊整合困難導致申報延誤</strong></p>
+
+
+
+<p>化學品從採購、倉儲到實際使用，涉及採購、研發、製造、品保與環安衛等部門，資訊常儲存於不同系統或表單。當申報時程逼近，環安人員需跨部門催交資料、比對內容，過程中容易因格式不一、版本不同或資料遺漏，導致作業延誤或錯誤。此外，不同廠區間化學品管理紀錄若分散於各自系統或 Excel 表單中，缺乏統一平台彙整，也會增加內部協作難度與資料整合負擔。</p>
+
+
+
+<p><strong>三、異動與現場使用紀錄難以同步，無法因應動態申報</strong><strong></strong></p>
+
+
+
+<p>動態備查要求化學品在新增、用途改變或使用量變動時即時更新申報資訊，並確保資料與實際作業同步。實務上，製程變更、物料替換或臨時調撥等情況頻繁，若缺乏異動通報與追蹤機制，資訊往往停留在個別部門或人工表單中。另一方面，部分企業雖完成初期申報，但日常操作紀錄多仰賴紙本或分散表單，未能建立標準化且可即時回溯的系統，導致資料與現場脫節，不僅增加查核風險，也降低管理彈性與反應速度。</p>
+
+
+
+<p><strong>數位工具導入，有效強化申報即時性與整合效率</strong><strong></strong></p>
+
+
+
+<p>隨著申報內容日益複雜、條件變化快速，傳統依賴人工彙整 SDS、比對條件與逐筆輸入的作業模式，已難以兼顧效率與正確性。若導入數位工具，如匡騰 Q-Chem <a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">化學品管理系統</a>，透過 AI OCR 技術快速擷取 SDS 關鍵資訊，自動建置化學品清單並比對列管法規，即可提升初步辨識效率，亦支援條件自動判斷與申報格式產出，減少人為誤差與重複作業。</p>
+
+
+
+<p>針對跨部門整合問題，Q-Chem <a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">化學品管理系統</a>可供多部門同步登錄與共用化學品資訊，並支援 ERP、物料系統等內部平台串接，減少資料重複與版本混淆。其「運作紀錄管理」功能，亦能集中記錄化學品每日的運作資訊，自動彙整成報表並對應法規條件，協助企業即時掌握各廠區化學品流向與使用動態，提升申報依據透明度與管理品質，讓優先化學品申報更即時、準確與可控（立即了解<a href="https://tw.usequantum.com/chemical-management/?utm_source=news_press&amp;utm_medium=other_media&amp;utm_campaign=q_ehs_perspectives_jul_2025&amp;utm_content=q_chem">匡騰 Q-Chem 化學品管理系統</a>，輕鬆完成申報作業）。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-224502" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖二2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>匡騰 Q-Chem 化學品管理系統具備運作紀錄管理功能，自動彙整各筆紀錄並對應列管法規，助即時掌握化學品使用動態與申報依據</strong></figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e5%8c%a1%e9%a8%b0%e7%92%b0%e5%ae%89%e8%a1%9b%e7%ae%a1%e7%90%86%e8%a7%80%e9%bb%9e%ef%bc%9a%e5%84%aa%e5%85%88%e7%ae%a1%e7%90%86%e5%8c%96%e5%ad%b8%e5%93%81%e7%94%b3%e5%a0%b1%e4%bd%9c%e6%a5%ad%e5%b8%b8/">匡騰環安衛管理觀點：優先管理化學品申報作業常見 3 大挑戰及因應</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</title>
+		<link>https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 03:22:18 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[豐傑生醫]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=224491</guid>
+
+					<description><![CDATA[<p>台灣保養品實力再度閃耀國際！豐傑生醫「極萃光煥白雪肌露」在英國UBA美妝大獎中脫穎而出，從全球上千件參賽品中， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/">豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台灣保養品實力再度閃耀國際！豐傑生醫「極萃光煥白雪肌露」在英國UBA美妝大獎中脫穎而出，從全球上千件參賽品中，一舉拿下「最佳美白產品金獎」與「亞洲最佳美妝品牌 優選獎」，成為本屆唯一雙料獲獎的亞洲美白品牌！</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="809" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=1220%2C809&#038;ssl=1" alt="" class="wp-image-224492" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?w=2293&amp;ssl=1 2293w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=2048%2C1358&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-94.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲豐傑生醫雪肌露，獲2025英國UBA美妝 ⟪最佳美白精華 金獎⟫</figcaption></figure>
+
+
+
+<p>英國UBA美妝大獎素有「美妝界奧斯卡」之稱，評審團由國際皮膚科專家、美妝編輯等專業人士組成。今年評審團對豐傑生醫雪肌露給予極高評價，UBA首席評審表示：「雪肌露完美結合科學實證與天然植萃，其美白效果數據令人印象深刻，4周內有感改善色素沉澱的實測結果，在同類產品中極為突出。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224495" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?w=2295&amp;ssl=1 2295w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=1536%2C764&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=2048%2C1018&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-95.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲國際評審團高度讚譽：「突破性的美白科技創新」</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>英國評審怎麼說？官方點名雪肌露「3大獲獎關鍵」</strong></h2>
+
+
+
+<p><strong>關鍵1：科學實證美白淡斑實力</strong><br>SGS測試證實，雪肌露能抑制4.42%酪胺酶活性，有效改善膚色。經3D肌膚檢測儀測量，4週使用後不僅提亮膚色，更能細緻毛孔，實現美白透亮無暇的實際功效。</p>
+
+
+
+<p><strong>關鍵2：三重美白機制創新突破</strong><br>雪肌露搭載創新「三重美白機制」，同時添加傳明酸（2%高濃度）、微脂囊維他命C與維他命C磷酸鎂鹽，能同步改善暗沉膚色生成的「生產－傳遞－沉澱」三階段，讓活性成分滲入基底，美白效果更全面！</p>
+
+
+
+<p><strong>關鍵3：諾貝爾得獎原料加持</strong><br>特別添加榮獲1996年諾貝爾化學獎的富勒烯（Fullerene），抗老化</p>
+
+
+
+<h2 class="wp-block-heading"><strong>雪肌露精華液—亞洲美白新標竿</strong></h2>
+
+
+
+<p>極萃光煥白雪肌露以科學實證、創新配方與消費者口碑，榮獲2025英國「UBA美妝大獎金獎」與「亞洲最佳美妝品牌 優選獎」，正式躍升為亞洲美白保養新標竿。豐傑生醫創辦人表示：「雪肌露的初衷，是證明「溫和」與「高效」不必二選一，它適合多種膚質，包含油性肌、乾性肌等，對敏弱肌也溫和友善，此次獲獎，是對台灣研發團隊最大的肯定！我們將持續深耕肌膚科學研發，為消費者打造更多有感、安心的保養品。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224496" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?w=2288&amp;ssl=1 2288w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=1536%2C765&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=2048%2C1020&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-96.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「溫和、有感」雪肌露天然植萃的溫和守護</figcaption></figure>
+
+
+
+<p><strong>豐傑生醫【極萃光煥白雪肌露】產品特色：</strong></p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 尖端保養系列「三重法定美白 x 諾貝爾獎配方 全面定格年輕 」</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> SGS實驗證實三天抑制4%的酪胺酸酶活性，改善暗沉</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 國家認可，強效三大有效法定美白成分&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 諾貝爾抗老原料 ⸢ 富勒烯 ⸥逆轉肌齡&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 微脂囊高科技包覆技術，完整傳導美白活性成分進入肌膚&nbsp;</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 精準 直搗 釋放 直接 快速 有感</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 全方位美白保養新概念</p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於豐傑生醫</strong></h2>
+
+
+
+<p>豐傑生醫成立於台灣，由資深營養師、皮膚科醫師與專業研發團隊共同打造，致力於研發高品質、無負擔的保健與保養品。品牌堅持以天然植萃為基礎，融合現代科學技術，提供真正安全且有感的產品體驗。</p>
+
+
+
+<p>為了讓每一位顧客安心體驗，豐傑生醫更首創365天退換貨保證服務，用實際行動守護消費者權益，成為你日常保養中最值得信賴的國民品牌。更多資訊請造訪<a href="https://www.fjb100.com/?srsltid=AfmBOoqxUJLaksP4ym8PZ4IvpXYCL4OCz2yjWM0zhTg4-1zt9UTuEtdD">【豐傑生醫官網】</a></p>
+
+
+
+<p><strong>產品資訊</strong><strong></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="607" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=1220%2C607&#038;ssl=1" alt="" class="wp-image-224498" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?w=2295&amp;ssl=1 2295w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=768%2C382&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=1536%2C764&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=2048%2C1018&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-98.png?resize=260%2C129&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<ul class="wp-block-list">
+<li><strong>豐傑生醫【極萃光煥白雪肌露】</strong></li>
+
+
+
+<li><strong>價格：NT$1,650</strong></li>
+
+
+
+<li><strong>容量：30ml/瓶&nbsp;</strong></li>
+
+
+
+<li><strong>保存期限：3年</strong></li>
+
+
+
+<li><strong>連結：<a href="https://fjb100.co/whiteingessence">https://fjb100.co/whiteingessence</a></strong></li>
+
+
+
+<li><strong>保存方法：請置於室內陰涼處，避免陽光直接照射。</strong></li>
+
+
+
+<li><strong>注意事項：皮膚有傷口、紅腫、過敏、溼疹等異常狀況，請先諮詢皮膚科醫生意見後，再斟酌使用。<br><br></strong></li>
+</ul>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/10/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e3%80%8c%e9%9b%aa%e8%82%8c%e9%9c%b2%e3%80%8d%e5%8b%87%e5%a5%aa2025%e8%8b%b1%e5%9c%8buba-%e2%9f%aa%e6%9c%80%e4%bd%b3%e7%be%8e%e7%99%bd%e7%b2%be%e8%8f%af-%e9%87%91/">豐傑生醫「雪肌露」勇奪2025英國UBA ⟪最佳美白精華 金獎⟫ 雙料冠軍！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>2025亞太區農業技術展覽暨會議圓滿落幕 聚焦最新趨勢與應用成果</title>
 		<link>https://firenews.com.tw/2025/07/09/2025%e4%ba%9e%e5%a4%aa%e5%8d%80%e8%be%b2%e6%a5%ad%e6%8a%80%e8%a1%93%e5%b1%95%e8%a6%bd%e6%9a%a8%e6%9c%83%e8%ad%b0%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-%e8%81%9a%e7%84%a6%e6%9c%80%e6%96%b0%e8%b6%a8/</link>
 		
@@ -41,7 +254,7 @@
 		<category><![CDATA[綜合]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=223898</guid>
 
-					<description><![CDATA[<p><img width="1268" height="1014" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?w=1268&amp;ssl=1 1268w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?resize=183%2C146&amp;ssl=1 183w" sizes="(max-width: 1268px) 100vw, 1268px" /></p>
+					<description><![CDATA[<p><img width="1268" height="1014" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?w=1268&amp;ssl=1 1268w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5032154_27183097.jpg?resize=183%2C146&amp;ssl=1 183w" sizes="(max-width: 1268px) 100vw, 1268px" /></p>
 <p>2025年亞太區農業技術展覽暨會議於6月11日至13日在大臺南會展中心隆重舉行。此次為期三天的盛會，吸引超過1 &#8230;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/09/2025%e4%ba%9e%e5%a4%aa%e5%8d%80%e8%be%b2%e6%a5%ad%e6%8a%80%e8%a1%93%e5%b1%95%e8%a6%bd%e6%9a%a8%e6%9c%83%e8%ad%b0%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-%e8%81%9a%e7%84%a6%e6%9c%80%e6%96%b0%e8%b6%a8/">2025亞太區農業技術展覽暨會議圓滿落幕 聚焦最新趨勢與應用成果</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
@@ -795,112 +1008,6 @@
 
 <p>另配合「嗶嗶嗶嗶台灣號」開行，結合大東北角觀光圈也有許多精采活動，包含八番坑茶坊帶領九份小旅行，讓民眾走讀九份導覽解說、在山林溪河邊親自體驗淘金沙、享用在地的礦工便當、親手製作芋圓、泡一杯茶聆聽在地的流金歲月等深度探訪九份在地故事；還有九份紅燈籠祭、福隆國際沙雕藝術季、東北角自行車遊程(舊草嶺環狀線自行車道)，歡迎民眾搭乘火車來到東北角旅遊、感受大東北角觀光圈產業魅力！更多精彩活動資訊請至東北角觀光資訊網及東北角之友粉絲專頁查詢。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e3%80%8c%e5%97%b6%e5%97%b6%e5%97%b6%e5%97%b6%e5%8f%b0%e7%81%a3%e8%99%9f%e3%80%8d%e5%bd%a9%e7%b9%aa%e5%88%97%e8%bb%8a%e5%88%b0%e8%87%ba%e7%81%a3%e6%9d%b1%e5%8c%97%e8%a7%92%ef%bc%81/">「嗶嗶嗶嗶台灣號」彩繪列車到臺灣東北角！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</title>
-		<link>https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 04 Jul 2025 01:43:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[Neogence]]></category>
-		<category><![CDATA[霓淨思]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=221989</guid>
-
-					<description><![CDATA[<p>保養需求回歸實用與安心，台灣醫美保養品牌Neogence霓淨思「玻尿酸保濕水平衡系列」全新升級上市，以5重玻尿 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/">保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>保養需求回歸實用與安心，台灣醫美保養品牌Neogence霓淨思「玻尿酸保濕水平衡系列」全新升級上市，以5重玻尿酸打造好吸收、夠保濕、不黏膩的國民級保濕選擇，從青春期初次接觸保養，到熟齡肌的日常保水，滿足全齡膚質需求。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-222144" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
-
-
-
-<p>創辦人從2002年調配出第一罐玻尿酸保濕原液為起點，Neogence霓淨思憑藉卓越保濕力與安心配方成為保濕首選。經20年來消費者口碑驗證，經典保濕權威再升級推出「極效水平衡配方」深入肌膚，串起水份供應鏈，從表層鎖水到肌底涵水，推出全齡膚質適用、高CP值的日常保濕解方。 </p>
-
-
-
-<p>無論年齡、性別或膚質，保濕始終是肌膚健康的關鍵。當肌膚水分不足時，屏障容易崩解，引發乾燥緊繃、油水失衡、敏感泛紅等問題，也可能讓肌膚加速老化。為滿足不同年齡層、不同生活型態的使用者，Neogence 霓淨思全新升級的極效水平衡配方，由大分子玻尿酸打頭陣，可迅速為肌膚補足水份，且添加陽離子玻尿酸接續形成鎖水膜，強化肌膚保水度。同時，注入導入型、活化型、小分子玻尿酸長效輸水、補水、儲水，串起水分供應鏈，守住一整日的豐潤光澤。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-221993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.06康是美.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
-
-
-
-<p>對愛用者來說，「玻尿酸保濕水平衡系列」是不分季節都可以固定補貨的保養品，不只是肌膚基礎養護，更是面對各種環境變化的第一道防線。Neogence霓淨思推出同系列新星，「保濕小藍瓶」玻尿酸保濕水平衡賦能精華，添加依克多因、維他命B3+B5及永久花幹細胞等專櫃級成份，提升肌膚舒敏與抵禦能力，並極大化肌膚水能量、穩定膚況，感受超越原生肌的「涵水力」。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-221994" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/2025.07-HA-寶雅2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市。圖/Neogence 霓淨思 提供</figcaption></figure>
-
-
-
-<p>除全新保濕小藍瓶，Neogence霓淨思從清潔、補水、保水、鎖水都幫你顧好好。延續高CP值、國民保濕首選的核心，「玻尿酸保濕水平衡精華化妝水」做為第一道補水工作，使用澳洲野生玫瑰茄、法國翡翠海軟毛松藻及克拉瑪斯湖藍藻，多重啟動肌膚的保濕機制，維持高飽水狀態。</p>
-
-
-
-<p>「玻尿酸保濕水平衡滲透乳」與「玻尿酸保濕水平衡潤澤霜」也是實力穩定的化妝桌常駐款。滲透乳富含高純度神經醯胺、出羽玄米油與植萃角鯊烷，清爽、好吸收，讓肌膚達到油水平衡。潤澤霜則添加乳木果油、古布阿蘇油與高純度神經醯胺，加強緩解肌膚鬧乾荒，365天都能安心用，封存健康水嫩好膚質。 </p>
-
-
-
-<p>即日起至8月5日於寶雅通路選購「HA玻尿酸保濕水平衡系列」，新品上市價66折起，另有玻尿酸保濕水平衡噴霧水豪華組（特價$850）限量超值組包。凡購買精選醫美品牌滿$2000，即送音波洗臉機乙台，數量有限、贈完為止。詳情請見寶雅活動專區：<a href="https://pse.is/7n9x53">https://pse.is/7n9x53</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/04/%e4%bf%9d%e6%bf%95%e6%ac%8a%e5%a8%81%e5%86%8d%e5%8d%87%e7%b4%9a-%e5%85%a8%e9%bd%a1%e9%81%a9%e7%94%a8%e9%a4%8a%e5%87%ba%e6%b0%b4%e5%ab%a9%e8%82%8c-neogence-%e9%9c%93%e6%b7%a8%e6%80%9d%e3%80%8c%e7%8e%bb/">保濕權威再升級 全齡適用養出水嫩肌 Neogence 霓淨思「玻尿酸保濕水平衡系列」升級上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</title>
-		<link>https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 03 Jul 2025 11:07:20 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=221489</guid>
-
-					<description><![CDATA[<p>在高房價與少子化的當代，一個能安身立命的住所，不只是物理空間，更是許多人情感和生活的寄託。內政部統計，台灣租屋 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/">目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>在高房價與少子化的當代，一個能安身立命的住所，不只是物理空間，更是許多人情感和生活的寄託。內政部統計，台灣租屋人口突破300萬人、超過八分之一都仰賴租屋，住宅租賃被認為是接下來最有社會價值和成長力的上兆產業。創立於2022年，現為台北占率最高的共生公寓品牌「一方生活」，六月由創投VENTURE+領軍，完成6000萬元A輪投資，預計在擴增2000間房源，<strong>目標成為全台最大以共生公寓為主的包租代管品牌。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-221490" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-38.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">左一、管理合夥人莊豐賓。左二、一方生活創辦人藍太太。左三、一方生活創辦人藍堂嘉。左四、投資副總裁陳安玲。左五、合夥人蔡慶祥。</figcaption></figure>
-
-
-
-<p>「我們相信，每個人都有自己的一方天地！」一方生活創辦人藍太太（洪怡芳）長年觀察租屋市場變化，深知租客與房東的痛點，決定以「為年輕人找到落腳所在，為屋主創造穩定現金流」為初衷創立一方生活，善用電商思維與數據分析，打造出既高效又務實的專業服務模式。</p>
-
-
-
-<p>不同於傳統，一方生活更強調「住得有感」。透過室內設計、生活整合、社區互動機制，將老屋轉化為「共生公寓」，讓離鄉者不只租到一張床，而是找到安心歸屬的生活環境。同時給房東「不違法格套、分擔裝修成本、5年租期0空窗、維護修繕、把關租客與鄰里關係」5大保證，吸引許多屋主將房子委託管理。</p>
-
-
-
-<p>2022年至今，一方生活已完成超過200件老屋改造，累積超過1000間房源，主要為「共生公寓」型態，供超過1000位租客居住服務，平均滿租率98%。「我們不追求爆量，而是從服務深度與人性理解出發，建立長期信任感。」藍太太指出，租屋是種訂閱式生活，只要服務做得夠深，時間越長，回報越穩定，這也是投資人最重視的關鍵。此外，為加速人才培訓，創業界最嚴謹的加盟制度，現已培育出24位加盟者，平均每人名下管理4間以上物件，顯見專業培訓與加盟制度的完善。</p>
-
-
-
-<p>「核心是信任！」藍太太說，「我們預計於2025年內擴大至2000房源，在雙北、台中、高雄建立完整共生公寓生態圈，落實租得好、住得好、過得好的理念，我想為台灣帶來改變。」 標榜「價值創造」橫跨新舊經濟的創投公司VENTURE+表示，歐美日的房產「包租代管」已行之有年，台灣仍處萌芽期，在房東老齡化及租客追求居住品質的趨勢下，市場成長可期。一方生活具熱忱專業，有效解決房東房客各自痛點，創造出全新商模，期待他們成為有影響力的Game Changer。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/03/%e7%9b%ae%e6%a8%99%e6%88%90%e7%82%ba%e3%80%8c%e5%8c%85%e7%a7%9f%e4%bb%a3%e7%ae%a1%e3%80%8d%e4%bf%a1%e8%b3%b4%e7%ac%ac%e4%b8%80%e5%93%81%e7%89%8c%ef%bc%81-%e4%b8%80%e6%96%b9%e7%94%9f%e6%b4%bb%e8%97%8d/">目標成為「包租代管」信賴第一品牌！ 一方生活藍太太獲VENTURE+ 六千萬A輪投資</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
