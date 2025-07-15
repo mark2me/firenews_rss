@@ -1,1025 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<!DOCTYPE html>
+<html dir='ltr'>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Database Error</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			border: 1px solid #ccd0d4;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #2271b1;
+		}
+		a:hover,
+		a:active {
+			color: #135e96;
+		}
+		a:focus {
+			color: #043959;
+			box-shadow: 0 0 0 2px #2271b1;
+			outline: 2px solid transparent;
+		}
+		.button {
+			background: #f3f5f6;
+			border: 1px solid #016087;
+			color: #016087;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
+
+			vertical-align: top;
+		}
+
+		.button.button-large {
+			line-height: 2.30769231;
+			min-height: 32px;
+			padding: 0 12px;
+		}
+
+		.button:hover,
+		.button:focus {
+			background: #f1f1f1;
+		}
+
+		.button:focus {
+			background: #f3f5f6;
+			border-color: #007cba;
+			-webkit-box-shadow: 0 0 0 1px #007cba;
+			box-shadow: 0 0 0 1px #007cba;
+			color: #016087;
+			outline: 2px solid transparent;
+			outline-offset: 0;
+		}
+
+		.button:active {
+			background: #f3f5f6;
+			border-color: #7e8993;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+		}
+
+			</style>
+</head>
+<body id="error-page">
+	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
+</html>
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>綜合 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/綜合/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 15 Jul 2025 10:05:50 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>綜合 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/綜合/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>線上社交遊戲平台WePlay × 貓貓蟲咖波成功開啟跨界聯動活動</title>
-		<link>https://firenews.com.tw/2025/07/15/%e7%b7%9a%e4%b8%8a%e7%a4%be%e4%ba%a4%e9%81%8a%e6%88%b2%e5%b9%b3%e5%8f%b0weplay-x-%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e6%88%90%e5%8a%9f%e9%96%8b%e5%95%9f%e8%b7%a8/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 08:09:28 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=227070</guid>
-
-					<description><![CDATA[<p><img width="1200" height="1200" src="https://firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
-<p>深受年輕玩家喜愛的線上社交遊戲平台 WePlay 與台灣知名IP形象貓貓蟲咖波（Bugcat Capoo）成功 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e7%b7%9a%e4%b8%8a%e7%a4%be%e4%ba%a4%e9%81%8a%e6%88%b2%e5%b9%b3%e5%8f%b0weplay-x-%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e6%88%90%e5%8a%9f%e9%96%8b%e5%95%9f%e8%b7%a8/">線上社交遊戲平台WePlay × 貓貓蟲咖波成功開啟跨界聯動活動</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="1200" src="https://firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/Image_WePlay.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
-<p>深受年輕玩家喜愛的線上社交遊戲平台 WePlay 與台灣知名IP形象貓貓蟲咖波（Bugcat Capoo）成功展開聯動活動，此次合作在台灣地區獲得 App Store 及 Google Play 的雙重推介，再次證明了其在休閒社交領域中的優勢和影響力。</p>
-
-
-
-<p><strong>引爆台灣潮流之巔：聯動內容深度破圈</strong></p>
-
-
-
-<p>此次 <strong>WePlay X </strong><strong>貓貓蟲咖波</strong>聯動活動上線以來，憑借其獨特的遊戲玩法與可愛的咖波形象，迅速席卷台灣年輕用戶群體，掀起一股線上社交新風潮。作為深受年輕用戶喜愛的線上社交遊戲平台，WePlay 以其「好玩的，沉浸感強」的特性，搭配「低門檻、多元化」的社交遊戲玩法，幫助用戶在遊戲中輕鬆自然地認識新朋友，完美滿足了遊戲與交友的雙重需求。</p>
-
-
-
-<p><strong>雙平台渠道力薦，</strong><strong>WePlay </strong><strong>影響力再獲印證</strong></p>
-
-
-
-<p>此次聯動活動不僅內容精彩，更獲得了 App Store 及 Google Play 兩大應用商店的鼎力支持與推薦，再次印證了 WePlay 在台灣市場的強大號召力與卓越表現：</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>App</strong><strong> </strong><strong>Store Today </strong><strong>首頁推薦</strong>：7月中旬，以《WePlay × 貓貓蟲咖波：和咖波來場淘氣的「躲貓貓」》為主題，登上 <strong>Today</strong> 首頁焦點欄。</li>
-
-
-
-<li><strong>App Store Banner </strong><strong>精選推薦</strong>：活動期間，WePlay 同步獲得<strong>7</strong><strong>天</strong>的 <strong>Apple Banner</strong> 推薦位，持續曝光，覆蓋全台千萬級流量。</li>
-
-
-
-<li><strong>App Store Today </strong><strong>專題活動</strong>：從7月中旬至8月上旬，WePlay 聯動活動入選 <strong>Apple Today</strong> 專題活動，讓玩家沉浸在爆萌與獵奇兼具的咖波世界。</li>
-
-
-
-<li><strong>Google</strong><strong> </strong><strong>Play Banner</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Icon </strong><strong>特推</strong>：7月上旬至7月中旬，WePlay 在Google Play 獲得 <strong>Banner </strong><strong>和</strong><strong> Icon </strong><strong>特推</strong>，助力下載量再創新高。</li>
-</ul>
-
-
-
-<p><strong>融合本地化與社交創新，成就千萬玩家的「輕鬆連接」體驗</strong><strong></strong></p>
-
-
-
-<p>此次聯動活動的成功是 WePlay 深耕核心市場、銳意創新的縮影。作為下載量超8億次、平均月活用戶達百萬量級的社交遊戲領導者，WePlay 始終致力於打造「低門檻、高沉浸、強社交」的娛樂體驗。借助貓貓蟲咖波這一深耕本土文化的頂流IP，平台在遊戲內營造了更輕鬆自然的破冰氛圍；多元化的社交遊戲玩法與低門檻操作，讓 WePlay 成為<strong>年輕人下班放鬆、結交新朋友的不二之選</strong>；<strong>「下班輕鬆玩，舒壓好伙伴」</strong>，WePlay 讓台灣年輕用戶能在趣味遊戲中無縫結識志同道合的新朋友，完美滿足新一代用戶對「遊戲+交友」的核心訴求。</p>
-
-
-
-<p><strong>持續深耕社交遊戲，引領行業新風向</strong></p>
-
-
-
-<p>WePlay 作為一款集合多款遊戲與娛樂功能的綜合性應用，持續深耕休閒遊戲與社交領域，致力於為玩家打造高品質、多樣化的桌遊體驗。WePlay 在中東、東南亞及台灣市場中，持續蟬聯 App Store 免費榜與 Google Play 免費榜前列。此次與貓貓蟲咖波的成功聯動，以及 App Store 及 Google Play 雙平台渠道的強勢推薦，無疑將進一步鞏固 WePlay 在休閒社交產品領域的領導地位。</p>
-
-
-
-<p><strong>關於</strong><strong> WePlay</strong></p>
-
-
-
-<p>WePlay 是總部位於新加坡的公司 WeJoy 旗下的全球新一代社交娛樂平台，集合了多款遊戲、娛樂等多種功能的綜合性應用；WePlay 以<strong><em>「為全球年輕人帶來歡樂和朋友」</em></strong>為使命，以<strong><em>「通過遊戲讓人們玩在一起，引領全球在線社交娛樂潮流」</em></strong>為願景，致力於與玩家共同創造一個充滿可能性與創新活力的遊戲社交新時代。未來 WePlay 將持續拓展與全球頭部IP的合作，通過IP品牌文化的聯動交流，打造更符合年輕人需求的社交生態。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e7%b7%9a%e4%b8%8a%e7%a4%be%e4%ba%a4%e9%81%8a%e6%88%b2%e5%b9%b3%e5%8f%b0weplay-x-%e8%b2%93%e8%b2%93%e8%9f%b2%e5%92%96%e6%b3%a2%e6%88%90%e5%8a%9f%e9%96%8b%e5%95%9f%e8%b7%a8/">線上社交遊戲平台WePlay × 貓貓蟲咖波成功開啟跨界聯動活動</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>影/第一作戰區「要域火殲操演」多層火力、標槍飛彈實彈射擊</title>
-		<link>https://firenews.com.tw/2025/07/15/%e5%bd%b1-%e7%ac%ac%e4%b8%80%e4%bd%9c%e6%88%b0%e5%8d%80%e3%80%8c%e8%a6%81%e5%9f%9f%e7%81%ab%e6%ae%b2%e6%93%8d%e6%bc%94%e3%80%8d%e5%a4%9a%e5%b1%a4%e7%81%ab%e5%8a%9b%e3%80%81%e6%a8%99%e6%a7%8d%e9%a3%9b/</link>
-		
-		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 07:13:21 +0000</pubDate>
-				<category><![CDATA[熱門]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[軍事]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=227012</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 莊全成／澎湖報導 國軍「漢光41號演習」進入重點階段，第一作戰區於14日清晨實施「要域火殲」實彈射擊 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e5%bd%b1-%e7%ac%ac%e4%b8%80%e4%bd%9c%e6%88%b0%e5%8d%80%e3%80%8c%e8%a6%81%e5%9f%9f%e7%81%ab%e6%ae%b2%e6%93%8d%e6%bc%94%e3%80%8d%e5%a4%9a%e5%b1%a4%e7%81%ab%e5%8a%9b%e3%80%81%e6%a8%99%e6%a7%8d%e9%a3%9b/">影/第一作戰區「要域火殲操演」多層火力、標槍飛彈實彈射擊</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-1（軍聞社蔡枋澐攝）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 莊全成／澎湖報導</p>
-
-
-
-<p>國軍「漢光41號演習」進入重點階段，第一作戰區於14日清晨實施「要域火殲」實彈射擊操演，模擬敵軍對澎湖地區發動快速突擊上陸，防區部隊依據想定即時反應，迅速展開聯合打擊與縱深殲敵行動。</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="震撼/第一作戰區「要域火殲」 操演 多層火力 、標槍飛彈實彈射擊" width="1220" height="686" src="https://www.youtube.com/embed/ONknxhurkUE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>此次操演整合三軍聯合火力，驗證指揮程序及接戰流程，射擊武器涵蓋標槍飛彈、M60A3戰車、CM21甲車、155與105榴砲、120與81迫砲，以及各式機槍與榴彈武器，展現多層次火力壓制與全面應戰能量。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-227014" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-5（澎防部陳孟霆攝）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲標槍飛彈實彈射，精準命中目標。（軍聞社提供）</figcaption></figure>
-
-
-
-<p>演練課目包括「快艇伏擊」、「防空接戰」、「火力打擊」、「預備隊投入」與「戰場肅清」等，各部隊依令協同作戰：標槍飛彈精準打擊敵高價值目標、防空火網層層攔截、戰甲車機動掃蕩，充分展現官兵平時訓練成果與即戰力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-227015" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/發稿1-3（軍聞社蔡枋澐攝）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲M60A3戰車彈實彈射，精準命中目標。（軍聞社提供）</figcaption></figure>
-
-
-
-<p>第一作戰區強調，面對日益嚴峻的敵情挑戰，將持續強化戰場經營與三軍聯合作戰能力，秉持「同島一命、奮戰到底」信念，堅定守護國土、守護家園。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e5%bd%b1-%e7%ac%ac%e4%b8%80%e4%bd%9c%e6%88%b0%e5%8d%80%e3%80%8c%e8%a6%81%e5%9f%9f%e7%81%ab%e6%ae%b2%e6%93%8d%e6%bc%94%e3%80%8d%e5%a4%9a%e5%b1%a4%e7%81%ab%e5%8a%9b%e3%80%81%e6%a8%99%e6%a7%8d%e9%a3%9b/">影/第一作戰區「要域火殲操演」多層火力、標槍飛彈實彈射擊</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Dcard網友推爆台灣美食展  網喊：根本吃貨天堂</title>
-		<link>https://firenews.com.tw/2025/07/15/%e9%a0%90%e5%94%ae%e7%a5%a8%e9%96%8b%e8%b3%a3-dcard%e7%b6%b2%e5%8f%8b%e6%8e%a8%e7%88%86%e7%be%8e%e9%a3%9f%e5%b1%95%ef%bc%81-%e7%b1%b3%e5%85%b6%e6%9e%97%e8%9d%a6%e4%bb%81%e8%82%89%e5%9c%93%e6%88%90/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 05:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[台灣美食展]]></category>
-		<category><![CDATA[台灣美食展2025]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[美食展]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=227032</guid>
-
-					<description><![CDATA[<p>記者 林恩平 / 綜合報導 近日，隨著「台灣美食展」公布參展廠商，以及預售票正式在各大平台開賣。 ▲網友分享去 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e9%a0%90%e5%94%ae%e7%a5%a8%e9%96%8b%e8%b3%a3-dcard%e7%b6%b2%e5%8f%8b%e6%8e%a8%e7%88%86%e7%be%8e%e9%a3%9f%e5%b1%95%ef%bc%81-%e7%b1%b3%e5%85%b6%e6%9e%97%e8%9d%a6%e4%bb%81%e8%82%89%e5%9c%93%e6%88%90/">Dcard網友推爆台灣美食展  網喊：根本吃貨天堂</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 林恩平 / 綜合報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>近日，隨著「台灣美食展」公布參展廠商，以及預售票正式在各大平台開賣。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="685" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=1220%2C685&#038;ssl=1" alt="" class="wp-image-227035" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?w=2160&amp;ssl=1 2160w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=2048%2C1150&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564541047.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲網友分享去年台灣美食展現場美食，玫瑰霜淇淋與火龍果豆花，成為熱門話題之一。（圖／擷取自Dcard）</figcaption></figure>
-
-
-
-<p>Dcard美食板一篇「美食展是寶藏 真的可以衝一波」文章引發熱烈討論，迅速成為板上熱門文章，留言串變美食筆記，網友們狂推蝦仁肉圓、玫瑰霜淇淋等特色美食，網友表示原PO真的是推廣大使。</p>
-
-
-
-<p>原PO分享，去年初次參加台灣美食展筆記，包含米其林必比登推薦的鮮蒸蝦仁肉圓、玫瑰霜淇淋、南投埔里百香果、山海豆花、日出咖啡及芒果禮盒等，其中蝦仁肉圓讓她驚艷不已，表示是她這輩子吃過最好吃的蝦仁肉圓，皮Q餡鮮，加上蒜頭香菜的靈魂佐料，非常好吃！</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="683" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?resize=1220%2C683&#038;ssl=1" alt="" class="wp-image-227037" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?w=2158&amp;ssl=1 2158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?resize=1536%2C860&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?resize=2048%2C1146&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564551618.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲Dcard文章推爆美食展，引發熱烈討論，迅速成為板上熱門文章。（圖／擷取自Dcard）</figcaption></figure>
-
-
-
-<p>除了名店及美食，原PO細數現場採購好物「玫瑰花醬直接帶了一罐回家，後來還考慮回購」、「百香果酸直接下訂宅配一箱。」 </p>
-
-
-
-<p>其他網友表示「蝦仁肉圓超好吃！必吃啊！不吃對不起自己！！」、「南投百香果真的很好吃，我們辦公室都會團購」、「去年帶男友去，他說這是他去過最爽的展覽」、「美食展根本吃貨天堂」、「山海豆花一定要吃」。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="736" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=1220%2C736&#038;ssl=1" alt="" class="wp-image-227036" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?w=2093&amp;ssl=1 2093w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=1536%2C926&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=2048%2C1235&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=780%2C470&amp;ssl=1 780w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564564850.jpg?resize=242%2C146&amp;ssl=1 242w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲網友紛紛留言響應，推薦美食展必吃美食。（圖／取自Dcard)</figcaption></figure>
-
-
-
-<p>根據台灣觀光協會官方資訊，今年美食展將在8月1日(五)至8月4日(一)於台北世貿一館舉行，以「海鮮—鮮味款待」為主題，現場集結台灣各地海味與米其林星級美食，預售票於7月10日開賣。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="683" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?resize=1220%2C683&#038;ssl=1" alt="" class="wp-image-227162" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?w=2158&amp;ssl=1 2158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?resize=1536%2C860&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?resize=2048%2C1146&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/1752564529926-1.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲近日台灣美食展預售票正式在各大平台開賣，在Dcard美食板引發熱烈討論，（圖為示意畫面／取自 Freepik，設計者：Freepik）</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e9%a0%90%e5%94%ae%e7%a5%a8%e9%96%8b%e8%b3%a3-dcard%e7%b6%b2%e5%8f%8b%e6%8e%a8%e7%88%86%e7%be%8e%e9%a3%9f%e5%b1%95%ef%bc%81-%e7%b1%b3%e5%85%b6%e6%9e%97%e8%9d%a6%e4%bb%81%e8%82%89%e5%9c%93%e6%88%90/">Dcard網友推爆台灣美食展  網喊：根本吃貨天堂</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>影／馬防部「漢光41」實彈操演　強化近岸聯合防衛</title>
-		<link>https://firenews.com.tw/2025/07/14/%e5%bd%b1%ef%bc%8f%e9%a6%ac%e9%98%b2%e9%83%a8%e3%80%8c%e6%bc%a2%e5%85%8941%e3%80%8d%e5%af%a6%e5%bd%88%e6%93%8d%e6%bc%94%e3%80%80%e5%bc%b7%e5%8c%96%e8%bf%91%e5%b2%b8%e8%81%af%e5%90%88%e9%98%b2%e8%a1%9b/</link>
-		
-		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 13:03:15 +0000</pubDate>
-				<category><![CDATA[即時]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[軍事]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226663</guid>
-
-					<description><![CDATA[<p><img width="1920" height="1080" src="https://firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<p>火報記者 莊全成／綜合報導 為提升聯合作戰效能及反制敵襲能力，馬祖防衛指揮部於南竿外海實施「漢光41號」實彈射 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%bd%b1%ef%bc%8f%e9%a6%ac%e9%98%b2%e9%83%a8%e3%80%8c%e6%bc%a2%e5%85%8941%e3%80%8d%e5%af%a6%e5%bd%88%e6%93%8d%e6%bc%94%e3%80%80%e5%bc%b7%e5%8c%96%e8%bf%91%e5%b2%b8%e8%81%af%e5%90%88%e9%98%b2%e8%a1%9b/">影／馬防部「漢光41」實彈操演　強化近岸聯合防衛</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1920" height="1080" src="https://firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136621.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<p>火報記者 莊全成／綜合報導</p>
-
-
-
-<p>為提升聯合作戰效能及反制敵襲能力，馬祖防衛指揮部於南竿外海實施「漢光41號」實彈射擊，模擬中共藉機、漁船及無人機實施灰色地帶襲擾，並突襲奪島之態勢。演習中，馬防部整合砲兵、特戰、無人機與打擊部隊等多元兵力，實施實彈射擊，展現國軍快速應變、整體協同與處置多變敵情的訓練成果，強化戰場實戰化及重層嚇阻能量。</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="影/漢光41 馬防部實彈操演　強化近岸聯合防衛殲敵" width="1220" height="686" src="https://www.youtube.com/embed/CMQH31nvoxo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>此次演習重點在「近岸水域作戰」，由兩棲偵察連海龍蛙兵擔任反制第一線，模擬敵船逼近狀況，迅速運用船艇雷達掌握敵情，並完成與作戰中心情資傳遞後，由「成功艇」依指令以50機槍與班用機槍實施火力壓制。這是兩棲連睽違七年再次執行海上實彈射擊，意義重大，不僅驗證官兵火力應用與作戰反應，更回應當前灰色襲擾頻繁態勢，有效鍛鍊戰場即時判斷與行動能力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226665" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489202_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<p>演訓同時納入無人機協同作戰，由前線據點派遣無人機執行海上偵蒐，精準掌握敵船位置，並即時回傳座標至火力協調中心，完成射擊請求流程。射擊後續亦持續運用無人機監控火力成效，完整驗證「偵搜、通傳、打擊、評估」一貫作戰流程，提升戰場資訊整合與協同打擊效能。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226666" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/489204_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲成功艇依令執行近岸水域作戰，不讓敵軍越雷池一步。（圖／記者莊全成翻攝）</figcaption></figure>
-
-
-
-<p>馬防部表示，此次實彈操演不僅驗證各部隊在高強度情境下的作戰能力，也強化官兵團隊協同與臨機應變的默契。訓練絕非形式，而是守護國土的實際準備。未來馬防部將依敵情變化與任務需求滾動調整訓練內容，讓每一次演訓更貼近真實戰場，持續發揮馬祖作為國家前哨的戰略地位，為守護國家安全，厚植最堅實的防衛戰力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-226667" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__142136641.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲成功艇運用50機槍對敵軍實施掃射。（圖／記者莊全成翻攝）</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%bd%b1%ef%bc%8f%e9%a6%ac%e9%98%b2%e9%83%a8%e3%80%8c%e6%bc%a2%e5%85%8941%e3%80%8d%e5%af%a6%e5%bd%88%e6%93%8d%e6%bc%94%e3%80%80%e5%bc%b7%e5%8c%96%e8%bf%91%e5%b2%b8%e8%81%af%e5%90%88%e9%98%b2%e8%a1%9b/">影／馬防部「漢光41」實彈操演　強化近岸聯合防衛</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>【精油按摩精選】her spa漢方芳療融合東西方哲學，放鬆每一寸壓力</title>
-		<link>https://firenews.com.tw/2025/07/14/%e3%80%90%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e7%b2%be%e9%81%b8%e3%80%91her-spa%e6%bc%a2%e6%96%b9%e8%8a%b3%e7%99%82%e8%9e%8d%e5%90%88%e6%9d%b1%e8%a5%bf%e6%96%b9%e5%93%b2%e5%ad%b8%ef%bc%8c%e6%94%be/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 08:31:31 +0000</pubDate>
-				<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226503</guid>
-
-					<description><![CDATA[<p>現代生活壓力大，芳療需求轉向「體驗感」與「個人化」 在快節奏、高壓的生活環境中，越來越多現代人開始尋找能真正讓 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e3%80%90%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e7%b2%be%e9%81%b8%e3%80%91her-spa%e6%bc%a2%e6%96%b9%e8%8a%b3%e7%99%82%e8%9e%8d%e5%90%88%e6%9d%b1%e8%a5%bf%e6%96%b9%e5%93%b2%e5%ad%b8%ef%bc%8c%e6%94%be/">【精油按摩精選】her spa漢方芳療融合東西方哲學，放鬆每一寸壓力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="865" height="488" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-152.png?resize=865%2C488&#038;ssl=1" alt="" class="wp-image-226508" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-152.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-152.png?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-152.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-152.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 865px) 100vw, 865px" data-recalc-dims="1" /></figure>
-
-
-
-<p><strong>現代生活壓力大，芳療需求轉向「體驗感」與「個人化」</strong></p>
-
-
-
-<p>在快節奏、高壓的生活環境中，越來越多現代人開始尋找能真正讓身心同步放鬆的方式。其中，「<a href="https://herspa.com.tw/%E7%B2%BE%E6%B2%B9%E6%8C%89%E6%91%A9/">精油按摩</a>」已不再只是香氣的享受，更延伸為一種結合生活哲學與自我照顧儀式的體驗。her spa觀察到這股趨勢，推出融合西方香氛與東方氣脈概念的<strong>漢方芳療精油按摩</strong>，打造一段獨特的身體與情緒放鬆旅程。</p>
-
-
-
-<p><strong>漢方理論結合歐洲植萃，打造東西合璧的芳療新風格</strong></p>
-
-
-
-<p>her spa的精油按摩以中醫「辨證論體」為基礎，結合奧地利進口的複方精油與漢方草藥觀念，根據顧客的體感、氣味偏好與當下身體狀態，調配出最貼合的精油組合。</p>
-
-
-
-<p><strong>漢方芳療精油怎麼選？以「見、聆、詢、及」為開端的感官對話</strong></p>
-
-
-
-<p>在her spa，精油選擇不靠直覺挑香，而是透過類似漢方「望聞問切」的方式，深入了解顧客狀態。包含肌膚溫度、壓力感受、精神狀態與生活型態，皆成為芳療師選配精油的重要依據。再結合植物精油的屬性——例如溫與寒、氣味走向與歸屬經絡部位——為每位顧客設計專屬的芳香節奏。</p>
-
-
-
-<p><strong>搭配經絡按摩走向　讓香氣在脈絡中流動</strong></p>
-
-
-
-<p>her spa的芳療師具備經絡與香氣知識，會依照身體結構設計按摩節奏，沿任督二脈、肝膽膀胱反射區、肩背氣節等路徑，以精油為媒介，引導香氣隨按摩節奏進入身體節奏。全程力道溫和，節奏穩定，讓芳香與手技在皮膚與肌肉之間產生如呼吸般的節律。</p>
-
-
-
-<p><strong>適合想在生活中安排片刻沉澱的妳</strong></p>
-
-
-
-<p>her spa<a href="https://herspa.com.tw/aroma-oil-massage/">漢方芳療精油按摩</a>，適合長時間使用電腦、容易肩頸僵硬、喜愛香氣帶來儀式感，或是希望每週給自己一段放鬆時光的人。無論妳是第一次接觸芳療，還是已經習慣精油按摩的生活節奏，這段沉靜而溫柔的香氛旅程，都將為妳帶來新的感官體驗。</p>
-
-
-
-<p><strong>唐金梅：真正的香氛體驗，不只在香味，而在被理解的節奏感</strong></p>
-
-
-
-<p>her spa營運長唐金梅表示：「我們相信，每個人的壓力節奏都不同。her spa希望透過這樣的精油按摩設計，讓香氛成為妳生活的一部分，而不是一場短暫的逃避。」透過融合香氛、手技與氣脈思維的設計，her spa讓精油按摩不再只是享受，更是身心節奏被看見與照顧的過程。</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><strong>《</strong><a href="https://herspa.com.tw/"><strong>her spa </strong><strong>和和恬</strong></a><strong>簡介》</strong><strong></strong></p>
-
-
-
-<p>&nbsp; 運用傳統漢方（中醫）智慧，為現代都會生活者帶來身心舒緩的保養體驗，享受「漢方Spa」帶來的幸福生活。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="865" height="508" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-153.png?resize=865%2C508&#038;ssl=1" alt="" class="wp-image-226509" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-153.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-153.png?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-153.png?resize=249%2C146&amp;ssl=1 249w" sizes="(max-width: 865px) 100vw, 865px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><a href="https://herspa.com.tw/">her spa 和和恬</a><strong>全台分店資訊</strong></h2>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山店</p>
-
-
-
-<p>地址：台北市中山區南京東路一段 2 號 4 樓之 1（中山捷運站 2 號出口步行 2 分鐘，大倉久和飯店對面）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/rOQxrpz">https://lin.ee/rOQxrpz</a></p>
-
-
-
-<p>電話：02-2100-1610</p>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山二店</p>
-
-
-
-<p>地址：台北市中山區南京東路一段 60 號 4 樓（捷運中山站 2 號出口步行 3 分鐘，台北國際飯店旁）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/j0rI6lv">https://lin.ee/j0rI6lv</a></p>
-
-
-
-<p>電話：02-2536-1319</p>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 高雄店</p>
-
-
-
-<p>地址：高雄市前鎮區民權二路86號（獅甲捷運站 2 號出口步行 2 分鐘）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/y33QmrG">https://lin.ee/y33QmrG</a></p>
-
-
-
-<p>電話：07-331-2889</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e3%80%90%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e7%b2%be%e9%81%b8%e3%80%91her-spa%e6%bc%a2%e6%96%b9%e8%8a%b3%e7%99%82%e8%9e%8d%e5%90%88%e6%9d%b1%e8%a5%bf%e6%96%b9%e5%93%b2%e5%ad%b8%ef%bc%8c%e6%94%be/">【精油按摩精選】her spa漢方芳療融合東西方哲學，放鬆每一寸壓力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>從氣味、手感到節奏感——her spa 將「精油按摩」升級為沉浸式生活體驗</title>
-		<link>https://firenews.com.tw/2025/07/14/%e5%be%9e%e6%b0%a3%e5%91%b3%e3%80%81%e6%89%8b%e6%84%9f%e5%88%b0%e7%af%80%e5%a5%8f%e6%84%9f-her-spa-%e5%b0%87%e3%80%8c%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e3%80%8d%e5%8d%87%e7%b4%9a/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 08:26:17 +0000</pubDate>
-				<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226495</guid>
-
-					<description><![CDATA[<p>當按摩不再只是為了放鬆，而是一場以香氣、肌膚與節奏交織的體驗設計，her spa 正重新定義「芳療」的想像。  &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%be%9e%e6%b0%a3%e5%91%b3%e3%80%81%e6%89%8b%e6%84%9f%e5%88%b0%e7%af%80%e5%a5%8f%e6%84%9f-her-spa-%e5%b0%87%e3%80%8c%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e3%80%8d%e5%8d%87%e7%b4%9a/">從氣味、手感到節奏感——her spa 將「精油按摩」升級為沉浸式生活體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="940" height="529" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-150.png?resize=940%2C529&#038;ssl=1" alt="" class="wp-image-226500" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-150.png?w=940&amp;ssl=1 940w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-150.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-150.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-150.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 940px) 100vw, 940px" data-recalc-dims="1" /></figure>
-
-
-
-<p>當按摩不再只是為了放鬆，而是一場以香氣、肌膚與節奏交織的體驗設計，her spa 正重新定義「芳療」的想像。</p>
-
-
-
-<h3 class="wp-block-heading"><a></a><strong>打破制式流程，從感官對話開始</strong><strong></strong></h3>
-
-
-
-<p>在 her spa，<a href="https://herspa.com.tw/%E7%B2%BE%E6%B2%B9%E6%8C%89%E6%91%A9/">精油按摩</a>不只是選一款香味、做一套流程，而是一場與自己對話的過程。透過觀察膚溫、聆聽語氣、詢問作息與壓力來源，芳療師會為每位顧客量身設計「氣味節奏」。調香過程不單靠直覺，而以中醫「辨體」與西方植萃屬性為基礎，將氣味歸經，結合身體當下的感受，讓每一次芳療都有獨特性。</p>
-
-
-
-<h3 class="wp-block-heading"><a></a><strong>香氣與節奏，成為身體的共鳴</strong><strong></strong></h3>
-
-
-
-<p>按摩過程中，her spa 的芳療師會依照身體結構與能量流動的方向，設計適合的按摩節奏。不追求力道的深淺，而著重在香氣與觸感之間的呼吸感。沿著任督二脈、肝膽反射區等路徑，讓香氣隨手法節奏進入身體記憶，成為一種柔和但有力的節奏共振。</p>
-
-
-
-<h3 class="wp-block-heading"><a></a><strong>回到自己，重新定義「放鬆」</strong><strong></strong></h3>
-
-
-
-<p>her spa 營運長唐金梅表示：「我們希望讓每一位來到這裡的人，不只是『被照顧』，而是在過程中看見自己的節奏，並重新連結。」<br><a href="https://herspa.com.tw/aroma-oil-massage/">漢方芳療精油按摩</a>不僅是一場按摩，而是生活中值得被保留的片段——一種從感官開始，回到身體、也回到內在的儀式。</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><strong>《</strong><a href="https://herspa.com.tw/"><strong>her spa 和和恬</strong></a><strong>簡介》</strong><strong></strong></p>
-
-
-
-<p>&nbsp; 運用傳統漢方（中醫）智慧，為現代都會生活者帶來身心舒緩的保養體驗，享受「漢方Spa」帶來的幸福生活。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="940" height="552" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-151.png?resize=940%2C552&#038;ssl=1" alt="" class="wp-image-226501" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-151.png?w=940&amp;ssl=1 940w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-151.png?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-151.png?resize=249%2C146&amp;ssl=1 249w" sizes="(max-width: 940px) 100vw, 940px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><a href="https://herspa.com.tw/">her spa 和和恬</a>全台分店資訊</h2>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山店</p>
-
-
-
-<p>地址：台北市中山區南京東路一段 2 號 4 樓之 1（中山捷運站 2 號出口步行 2 分鐘，大倉久和飯店對面）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/rOQxrpz">https://lin.ee/rOQxrpz</a></p>
-
-
-
-<p>電話：02-2100-1610</p>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 台北中山二店</p>
-
-
-
-<p>地址：台北市中山區南京東路一段 60 號 4 樓（中山捷運站 2 號出口步行 3 分鐘，台北國際飯店旁）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/j0rI6lv">https://lin.ee/j0rI6lv</a></p>
-
-
-
-<p>電話：02-2536-1319</p>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.1.0/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 高雄店</p>
-
-
-
-<p>地址：高雄市前鎮區民權二路86號（獅甲捷運站 2 號出口步行 2 分鐘）</p>
-
-
-
-<p>Line快速預約或詢問：<a href="https://lin.ee/y33QmrG">https://lin.ee/y33QmrG</a> </p>
-
-
-
-<p>電話：07-331-2889</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%be%9e%e6%b0%a3%e5%91%b3%e3%80%81%e6%89%8b%e6%84%9f%e5%88%b0%e7%af%80%e5%a5%8f%e6%84%9f-her-spa-%e5%b0%87%e3%80%8c%e7%b2%be%e6%b2%b9%e6%8c%89%e6%91%a9%e3%80%8d%e5%8d%87%e7%b4%9a/">從氣味、手感到節奏感——her spa 將「精油按摩」升級為沉浸式生活體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>具台灣特色的退休制度上路 好好證券響應政策，助民眾打造低成本TISA帳戶</title>
-		<link>https://firenews.com.tw/2025/07/14/%e5%85%b7%e5%8f%b0%e7%81%a3%e7%89%b9%e8%89%b2%e7%9a%84%e9%80%80%e4%bc%91%e5%88%b6%e5%ba%a6%e4%b8%8a%e8%b7%af-%e5%a5%bd%e5%a5%bd%e8%ad%89%e5%88%b8%e9%9f%bf%e6%87%89%e6%94%bf%e7%ad%96%ef%bc%8c%e5%8a%a9/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 08:19:07 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[基金]]></category>
-		<category><![CDATA[好好證券]]></category>
-		<category><![CDATA[投資]]></category>
-		<category><![CDATA[理財]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226473</guid>
-
-					<description><![CDATA[<p>記者 / 林恩平 報導 民眾的退休規劃高度依賴政府提供的第一支柱（勞保、國民年金）與企業提撥的第二支柱（勞退） &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%85%b7%e5%8f%b0%e7%81%a3%e7%89%b9%e8%89%b2%e7%9a%84%e9%80%80%e4%bc%91%e5%88%b6%e5%ba%a6%e4%b8%8a%e8%b7%af-%e5%a5%bd%e5%a5%bd%e8%ad%89%e5%88%b8%e9%9f%bf%e6%87%89%e6%94%bf%e7%ad%96%ef%bc%8c%e5%8a%a9/">具台灣特色的退休制度上路 好好證券響應政策，助民眾打造低成本TISA帳戶</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 / 林恩平 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>民眾的退休規劃高度依賴政府提供的第一支柱（勞保、國民年金）與企業提撥的第二支柱（勞退）。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="842" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?resize=1220%2C842&#038;ssl=1" alt="" class="wp-image-226670" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?resize=768%2C530&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?resize=1536%2C1060&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?resize=2048%2C1413&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?resize=212%2C146&amp;ssl=1 212w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖2【新聞稿】1_-好好證券-開放TISA帳戶申請-1-1-scaled.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">好好證券 開放TISA帳戶申請。圖/好好證券</figcaption></figure>
-
-
-
-<p>據內政部統計，退休後平均餘命達84.3 歲。65 歲退休後的生活可能長達 20 年或更久，多數民眾退休準備率僅 19%，為因應此長壽風險並強化國人第三支柱—個人投資儲蓄帳戶，金融監督管理委員會（金管會）宣布實施「臺灣個人投資儲蓄帳戶」（Taiwan Individual Savings Account, TISA）制度。金融科技證券商「好好證券」同步響應政策，成為首批符合TISA帳戶的開戶受理機構之一。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>集保結算所統一管理，強化投資安全保障</strong></h2>
-
-
-
-<p>TISA制度參考日本 NISA 及英國 ISA 等國際經驗，其核心特色之一是由臺灣集中保管結算所（集保）提供帳戶管理與資產保管，為投資人資產安全增添保障。經調查顯示，民眾退休信心指數僅55分，退休準備也從理想的 39 歲延後至 45 歲，凸顯了建立長期、穩健投資管道的重要性，而TISA制度的設計正是回應這個需求。</p>
-
-
-
-<p>現在起，投資人透過「好好證券」申請開立帳戶及申購 TISA 基金，除可享全站基金申購「終身0手續費」、「0信託保管費」、最低「千元起投」外，所有資產由集保統一管理，並可透過「集保e手掌握」App查詢投資明細。這個機制提供雙重保障—證券商的專業服務，與國家級機構的後台監管。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>從標準化到多元化，從選擇困難到輕鬆透視</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1220" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=1220%2C1220&#038;ssl=1" alt="" class="wp-image-226493" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?resize=146%2C146&amp;ssl=1 146w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖1【新聞稿】1_好好證券-開放TISA帳戶申請-1-2-scaled.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">好好證券 開放TISA帳戶申請。圖/好好證券</figcaption></figure>
-
-
-
-<p>對於40歲以上投資人需求而言，除了交易安全，最大的痛點莫過於「選擇困難」。面對市場數千檔基金，該如何挑選？往往都是一道高牆。為此，好好證券提供「基金照妖鏡」工具，透過視覺化圖表，讓基金的歷史報酬、波動度等關鍵數據現形，協助用戶一鍵透視基金優劣。有別於傳統的基金列表，投資人只需簡單操作，就能在幾秒內顯示出高 CP 值基金，輔助投資人依據自身風險偏好做出判斷，不再憑感覺選基金做決策。</p>
-
-
-
-<p>市場首波聚焦約50檔 TISA基金，提供紀律化的儲蓄起點（限新台幣、不配息、定期定額申購、綁約24個月）。「TISA基金委員會」篩選標準的前提下，提供超過200檔「TISA適格基金」方案，讓投資人有機會突破TISA基金限制，得選擇以外幣申購、配息型基金、單筆申購或不綁約模式，滿足不同投資人的需求。</p>
-
-
-
-<p><strong>好好證券指出「TISA適格基金」投資服務具備以下五大特點：</strong></p>
-
-
-
-<ol start="1" class="wp-block-list">
-<li><strong>基金選擇廣：</strong>提供超過200檔基金，涵蓋股票、債券與多元資產，滿足投資人資產配置需求。</li>
-
-
-
-<li><strong>提供配息選項：</strong>部分基金提供配息機制，為有現金流需求的投資人增添選擇。</li>
-
-
-
-<li><strong>支援多幣別申購：</strong>除新台幣外，亦可使用美元等外幣申購，幫助分散匯率風險。</li>
-
-
-
-<li><strong>免除綁約限制：</strong>提供免綁約的彈性，讓投資人在面對人生突發狀況時，保有資金運用的靈活性。</li>
-
-
-
-<li><strong>支持單筆申購：</strong>除定期定額外，亦開放單筆申購，方便將年終獎金或閒置資金進行佈局。</li>
-</ol>
-
-
-
-<p>資料來源：好好證券TISA退休專題頁 </p>
-
-
-
-<p><a href="https://www.fundswap.com.tw/retirement/">https://www.fundswap.com.tw/retirement/</a></p>
-
-
-
-<p>與其停留在憂慮，不如開始踏出第一步。TISA是政府支持建立的制度，為國人退休規劃提供了新選項。其機制設計相對單純，每月僅需千元即可參與，並享有集保的帳戶管理機制。好好證券表示，希望透過其TISA專頁，協助民眾將對退休的擔憂，轉化為踏實的行動。民眾若能善用此一政策工具打造退休金庫，將為自身的長期財務目標超前部署。 </p>
-
-
-
-<p><strong>（投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書）</strong></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e5%85%b7%e5%8f%b0%e7%81%a3%e7%89%b9%e8%89%b2%e7%9a%84%e9%80%80%e4%bc%91%e5%88%b6%e5%ba%a6%e4%b8%8a%e8%b7%af-%e5%a5%bd%e5%a5%bd%e8%ad%89%e5%88%b8%e9%9f%bf%e6%87%89%e6%94%bf%e7%ad%96%ef%bc%8c%e5%8a%a9/">具台灣特色的退休制度上路 好好證券響應政策，助民眾打造低成本TISA帳戶</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>捐魚送愛  Hi-Q打造善的ESG循環</title>
-		<link>https://firenews.com.tw/2025/07/14/%e6%8d%90%e9%ad%9a%e9%80%81%e6%84%9b-hi-q%e6%89%93%e9%80%a0%e5%96%84%e7%9a%84esg%e5%be%aa%e7%92%b0/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 04:11:35 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226315</guid>
-
-					<description><![CDATA[<p><img width="865" height="679" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-144.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?resize=768%2C603&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?resize=186%2C146&amp;ssl=1 186w" sizes="(max-width: 865px) 100vw, 865px" /></p>
-<p>當企業講永續，很多人只看到華麗報表與形象廣告；但當Hi-Q中華海洋生技的執行副總暨學習長陳迪智走上2025-2 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e6%8d%90%e9%ad%9a%e9%80%81%e6%84%9b-hi-q%e6%89%93%e9%80%a0%e5%96%84%e7%9a%84esg%e5%be%aa%e7%92%b0/">捐魚送愛  Hi-Q打造善的ESG循環</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="865" height="679" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-144.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?resize=768%2C603&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-144.png?resize=186%2C146&amp;ssl=1 186w" sizes="(max-width: 865px) 100vw, 865px" /></p>
-<p>當企業講永續，很多人只看到華麗報表與形象廣告；但當Hi-Q中華海洋生技的執行副總暨學習長陳迪智走上2025-26年度台北市護照扶輪社社長就職的講台時，他談的不是口號，而是一路走來的泥濘與腳印——一步步實踐ESG的真誠故事。</p>
-
-
-
-<p><strong>從一條魚開始，打造厚道的企業文化</strong><strong></strong></p>
-
-
-
-<p>這場題為「一步一腳印實踐企業ESG──從養殖到生技公司轉型成社會企業的Hi-Q」的專題演講，在全場注視下展開。陳迪智直言：「ESG不是因為這幾年流行我們才做，而是Hi-Q中華海洋生技從創立那一天開始，就把『厚道』放在核心。」</p>
-
-
-
-<p>這句話，聽來簡單，背後卻有27年來始終如一的真功夫。Hi-Q中華海洋生技從魚類養殖起家，當初只想把魚養好、把品質顧好，但他們很快意識到，如果只是為了賺錢，那不叫永續；如果不能善待土地與人，那賺再多都不值得。</p>
-
-
-
-<p>於是，他們首推永續養殖，友善土地，還推動「Fish One for One」計畫：你買一條魚，我們就捐一條魚給需要的人。從2016年起，這條路一走就是八年，至今已送出超過25萬條魚與4萬盒褐抑定健康產品。</p>
-
-
-
-<p>他提到一場讓他特別難忘的活動，那是去一家長期合作的社福機構送魚，孩子們看到他們開心得像過年一樣。「因為這些捐贈不只是數字，背後更代表著我們對生命的尊敬與愛。」陳副總說著，語氣平穩卻動人。</p>
-
-
-
-<p>陳迪智還表示「我們捐魚，捐錢，更捐時間。」Hi-Q中華海洋生技與各種社福團體合作，成立協會、舉辦活動，至今累積450場「假日音樂會」、40場「等路下午茶」，讓身心障礙的孩子有服務與學習的機會，同時還提供身障藝人表演的舞台，「讓每一次的見面，都是一次愛的播種。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="865" height="710" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-145.png?resize=865%2C710&#038;ssl=1" alt="" class="wp-image-226325" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-145.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-145.png?resize=768%2C630&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-145.png?resize=178%2C146&amp;ssl=1 178w" sizes="(max-width: 865px) 100vw, 865px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Hi-Q中華海洋生技已舉辦40場「等路下午茶」，讓身心障礙的孩子有服務與學習的機會。Hi-Q中華海洋生技／提供</figcaption></figure>
-
-
-
-<p><strong>三方共好：企業</strong><strong> × </strong><strong>弱勢</strong><strong> × </strong><strong>消費者</strong><strong></strong></p>
-
-
-
-<p>Hi-Q中華海洋生技的ESG不是單向給予，而是設計一個「三方共好」的機制。他們不只與社福單位合作捐贈，也讓消費者參與善的循環——每購買一次，就代表一次公益貢獻。他們甚至鼓勵企業會員加入「消費即捐款」計畫，讓每一份消費都能為社會添一點光。</p>
-
-
-
-<p>這樣的設計，不只是讓公益變得有趣，而是讓「做好事」變成一種生活方式，讓每一個人都能參與。</p>
-
-
-
-<p>陳迪智強調，對Hi-Q中華海洋生技來說，環境保護（E）、社會責任（S）、公司治理（G）不是三個分離的概念，而是一種整體思維的行動哲學。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="865" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-146.png?resize=865%2C573&#038;ssl=1" alt="" class="wp-image-226326" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-146.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-146.png?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-146.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 865px) 100vw, 865px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Hi-Q中華海洋生技榮獲第19屆《遠見》企業永續獎，由董事長張永聲（右）親臨受獎。Hi-Q中華海洋生技／提供</figcaption></figure>
-
-
-
-<p>演講結束前，陳迪智副總留下這句話：「社會需要更多的善與愛，Hi-Q中華海洋生技願意一直做下去，也邀請你們一起。」</p>
-
-
-
-<p>演講結束後，台北市護照扶輪社第三屆社長林雪馚特別頒贈社旗及護照扶輪社的徽章給陳迪智執行副總，感謝他分享企業播種愛、傳承善的美好故事，也謝謝Hi-Q中華海洋生技提供褐抑定做為與會貴賓的伴手禮。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="865" height="577" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-147.png?resize=865%2C577&#038;ssl=1" alt="" class="wp-image-226327" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-147.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-147.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-147.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 865px) 100vw, 865px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台北市護照扶輪社第三屆社長林雪馚特別頒贈社旗及護照扶輪社的徽章給陳迪智執行副總。台北市護照扶輪社／提供</figcaption></figure>
-
-
-
-<p>在這場就職典禮的演講中，陳迪智的分享像一股暖流，提醒我們：商業與善意其實不衝突；厚道與成功可以共存。而在這個世界逐漸冷漠的時代，能夠不忘初衷、一步一腳印，或許才是真正的成功。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e6%8d%90%e9%ad%9a%e9%80%81%e6%84%9b-hi-q%e6%89%93%e9%80%a0%e5%96%84%e7%9a%84esg%e5%be%aa%e7%92%b0/">捐魚送愛  Hi-Q打造善的ESG循環</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>佳研國際 × 光晟生技策略聯盟正式啟動　打造科研 × 市場整合新模式</title>
-		<link>https://firenews.com.tw/2025/07/14/%e4%bd%b3%e7%a0%94%e5%9c%8b%e9%9a%9b-x-%e5%85%89%e6%99%9f%e7%94%9f%e6%8a%80%e7%ad%96%e7%95%a5%e8%81%af%e7%9b%9f%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e6%89%93%e9%80%a0%e7%a7%91%e7%a0%94/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 02:03:38 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[佳研國際]]></category>
-		<category><![CDATA[光晟生技]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226223</guid>
-
-					<description><![CDATA[<p>在健康營養與機能食品市場持續升溫的趨勢下，佳研國際股份有限公司與光晟生技股份有限公司宣布深化策略合作，啟動一項 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e4%bd%b3%e7%a0%94%e5%9c%8b%e9%9a%9b-x-%e5%85%89%e6%99%9f%e7%94%9f%e6%8a%80%e7%ad%96%e7%95%a5%e8%81%af%e7%9b%9f%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e6%89%93%e9%80%a0%e7%a7%91%e7%a0%94/">佳研國際 × 光晟生技策略聯盟正式啟動　打造科研 × 市場整合新模式</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>在健康營養與機能食品市場持續升溫的趨勢下，佳研國際股份有限公司與光晟生技股份有限公司宣布深化策略合作，啟動一項涵蓋益生菌、真菌發酵原料及植物萃取技術的整合性聯盟。雙方結合各自的優勢，以台灣為研發基地、世界為市場版圖，目標打造兼具創新與產能、科研與品牌、市場與永續的全球級供應鏈體系。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1108" height="1477" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002465-1.jpg?resize=1108%2C1477&#038;ssl=1" alt="" class="wp-image-226367" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002465-1.jpg?w=1108&amp;ssl=1 1108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002465-1.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002465-1.jpg?resize=110%2C146&amp;ssl=1 110w" sizes="(max-width: 1108px) 100vw, 1108px" data-recalc-dims="1" /><figcaption class="wp-element-caption">佳研國際總經理王居仁與光晟生技董事長呂春美於高雄地標建築「高禾醫院」前完成合作啟動儀式，展現推動台灣健康科技跨域整合、鏈結國際的共同承諾。</figcaption></figure>
-
-
-
-<p>佳研國際旗下擁有 IngredientsCloud<img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 與 NewPath<img src="https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 兩大品牌，深耕營養保健食品領域多年，具備豐富的全球原料供應經驗與一站式產品孵化服務實力。以 B2B 為核心，佳研專注於機能性原料的應用整合與商品化策略，涵蓋產品設計、包裝開發、配方導入到跨品類轉化等全方位服務。近年來，佳研更積極拓展海外跨國代工市場，打造跨國 CDMO 平台，致力成為國際級營養保健品一站式解決方案的關鍵推手。其憑藉廣泛的國際合作資源與多元通路佈局，能將技術成果快速導入全球市場，協助品牌從無到有、從研發走向商業落地。此外，佳研亦投入海外品牌顧問服務，協助原料客戶於東南亞、美洲與歐洲等市場落地新品牌，並同步發展 CDMO 合作模式，提供法規諮詢、產品上市策略、成本評估與長期市場培養規劃，藉此為合作夥伴如光晟生技的研發成果創造最大商業轉化價值。 </p>
-
-
-
-<p>光晟生技是一家以科學為本的原料開發公司，專注於益生菌菌種篩選、臨床驗證、發酵製程與穩定性提升等技術，並攜手多所學術機構，建立涵蓋腸道健康、生理機能調節、女性保健等面向的功能型益生菌資料庫，技術更進一步延伸至銀髮營養與特殊族群營養補充的應用。公司創辦人許庭源醫學博士素有「益生菌之父」之稱，與董事長呂春美博士秉持『尋找沒有傷害的藥、恢復人體自癒能力』的信念，共同打造南台灣創新醫療與科技整合的典範—高禾醫院。這座榮獲 2024 德國 iF 設計大獎、外觀宛如美術館般的網美新地標，正是光晟生技與高禾醫院深度合作的成果。雙方攜手在院內設立細胞製備基地與專業設備，進一步將光晟生技的研發實力推向臨床應用與跨領域整合的新高度。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1108" height="1477" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002464.jpg?resize=1108%2C1477&#038;ssl=1" alt="" class="wp-image-226225" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002464.jpg?w=1108&amp;ssl=1 1108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002464.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002464.jpg?resize=110%2C146&amp;ssl=1 110w" sizes="(max-width: 1108px) 100vw, 1108px" data-recalc-dims="1" /><figcaption class="wp-element-caption">王居仁總經理與呂春美董事長於於高禾醫院進行策略合作交流，象徵雙方正式啟動產研協作新篇章，強化技術導入與全球市場布局。</figcaption></figure>
-
-
-
-<p>佳研國際總經理王居仁指出：「此次合作不只是產能與研發的整合，更是對產業鏈品質的再升級。透過與光晟專業研發型企業合作，我們將台灣的原料技術，轉化為全球市場可使用、可規模化的產品解決方案。」</p>
-
-
-
-<p>光晟生技董事長呂春美表示：「透過佳研在市場推廣與品牌經營的專業能力，我們能更專注於研發創新與製程優化，提升產品的應用彈性與產能效益，加速科研成果的市場轉化。我們非常榮幸與佳研建立長期合作關係，雙方共享資源與對品質、創新的堅持，讓台灣特色原料有機會被全球看見，並為我們即將推動的上櫃計畫注入強勁成長動能。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1108" height="1477" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002466.jpg?resize=1108%2C1477&#038;ssl=1" alt="" class="wp-image-226226" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002466.jpg?w=1108&amp;ssl=1 1108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002466.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__10002466.jpg?resize=110%2C146&amp;ssl=1 110w" sizes="(max-width: 1108px) 100vw, 1108px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雙方於高禾醫院內部深入交流未來合作藍圖，強調技術與市場互補、共同促進科研成果的商業應用與全球市場佈局策略。</figcaption></figure>
-
-
-
-<p>雙方合作的核心在於「技術與市場的高度互補」。佳研國際將光晟的研發成果商品化並推向全球市場，同時也將其納入供應鏈體系，作為指定益生菌產品的製造基地。透過這樣的垂直整合，佳研得以為合作品牌與客戶提供更高規格、品質穩定且具法規保障的原料與應用解決方案，不僅有效提升市場競爭力，更大幅縮短產品上市時間、強化供應彈性。未來，雙方將持續共同投入研發與國際驗證，擴大與學研單位與品牌客戶的合作，構築從台灣出發、鏈結全球的健康科技平台。此次策略聯盟也將促進台灣原料廠、製造商與通路商的跨域協作，推動生技保健產業邁向高附加價值化與國際化，開創技術落地與商業應用的雙贏新格局。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e4%bd%b3%e7%a0%94%e5%9c%8b%e9%9a%9b-x-%e5%85%89%e6%99%9f%e7%94%9f%e6%8a%80%e7%ad%96%e7%95%a5%e8%81%af%e7%9b%9f%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e6%89%93%e9%80%a0%e7%a7%91%e7%a0%94/">佳研國際 × 光晟生技策略聯盟正式啟動　打造科研 × 市場整合新模式</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>【跑團體驗】跑出生活新節奏｜MAC跑團 × HUAWEI WATCH FIT 4 Pro</title>
-		<link>https://firenews.com.tw/2025/07/14/%e3%80%90%e8%b7%91%e5%9c%98%e9%ab%94%e9%a9%97%e3%80%91%e8%b7%91%e5%87%ba%e7%94%9f%e6%b4%bb%e6%96%b0%e7%af%80%e5%a5%8f%ef%bd%9cmac%e8%b7%91%e5%9c%98-x-huawei-watch-fit-4-pro/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Sun, 13 Jul 2025 22:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[HUAWEI]]></category>
-		<category><![CDATA[MAC跑團]]></category>
-		<category><![CDATA[WATCHFIT4Pro]]></category>
-		<category><![CDATA[動力不受限]]></category>
-		<category><![CDATA[生活的節奏]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226158</guid>
-
-					<description><![CDATA[<p>文 / Teresa Pai ▋▏在城市的節奏裡，MAC跑團跑出自己的呼吸 每個城市的夜晚都有屬於它的節奏，有 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e3%80%90%e8%b7%91%e5%9c%98%e9%ab%94%e9%a9%97%e3%80%91%e8%b7%91%e5%87%ba%e7%94%9f%e6%b4%bb%e6%96%b0%e7%af%80%e5%a5%8f%ef%bd%9cmac%e8%b7%91%e5%9c%98-x-huawei-watch-fit-4-pro/">【跑團體驗】跑出生活新節奏｜MAC跑團 × HUAWEI WATCH FIT 4 Pro</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_01-1.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226250" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_01-1.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_01-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_01-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_01-1.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<p>文 / Teresa Pai</p>
-
-
-
-<h2 class="wp-block-heading"><strong>▋▏在城市的節奏裡，MAC跑團跑出自己的呼吸</strong></h2>
-
-
-
-<p>每個城市的夜晚都有屬於它的節奏，有人匆忙下班，有人穿越街口趕往下一個會議，但在台北的某條河濱旁，MAC 跑團的節奏，總是從輕快的腳步聲開始。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_02.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226161" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_02.jpg?w=1731&amp;ssl=1 1731w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_02.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_02.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">MAC 創立初衷就是希望打造一個輕鬆跑步，彼此沒有隔閡的運動社團。（攝：家綸）</figcaption></figure>
-
-
-
-<p>不追求速度、不強調配速排名的跑團。<strong>他們的理念簡單卻動人——讓跑步，變成一件「輕鬆、健康、生活」的事。</strong>週三晚上，是 MAC 固定的團練日。下班後，來自各行各業的成員換上跑鞋，在團長的帶領下聚集。他們有的為了健康、有的為了減壓、有的則只是單純享受奔跑後的微風與成就感。而這一次，他們多了一位「新夥伴」：<strong>HUAWEI WATCH FIT 4 Pro。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_03.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226162" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_03.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_03.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_03.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_03.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">科技，不再只是冰冷的裝備，而是一種陪伴。（攝：家綸）</figcaption></figure>
-
-
-
-<p>Allison 是來自國外的新成員，她在搬來台灣後偶然從 Instagram 影片中發現了 MAC。「我一直想加入跑團，看到 YUYU 的影片裡她談到 MAC，我就鼓起勇氣參加了週一的 social run，那次真的改變了我。」她笑說，雖然當時很緊張，但從第一次團練開始，她就知道自己找到了可以歸屬的地方。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_04.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226163" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_04.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_04.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_04.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_04.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">運動成為 Allison 很棒的一個社交方式，也因此認識非常多同樣喜愛運動的夥伴。（攝：家綸）</figcaption></figure>
-
-
-
-<p>有些人是為了健康開始跑步，有些人是為了情緒釋放，有些人單純只是享受在夜晚奔跑、讓風貼過臉頰的那種自由感。<strong>「每週一我們都會說『下週見』，這句話不只是禮貌，而是真心期待。從分享訓練、賽事，到後來大家會聊生活、聊職場、聊感情，這就是MAC的溫度。」</strong>從 MAC 草創期就一路跑到現在的 小龍，見證跑團從十幾人成長到上百人。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_05.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226164" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_05.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_05.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_05.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_05.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">這支手錶，記錄著他們的心跳、汗水與生活節奏，也成為為彼此交流的新話題。（攝：家綸）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>▋▏團長的眼睛裡，看見的不只是手錶，而是一種「生活的選擇」</strong></h2>
-
-
-
-<p>作為 MAC 的靈魂人物，團長更像是一位氣氛導航者。他會記得每位團員最近的比賽，會在訓練間穿插玩笑話，也總是在有人掉隊時第一個轉身回頭。團長對裝備有著近乎職人等級的敏感度。<strong>當第一次戴上 HUAWEI WATCH FIT 4 Pro，他注意到的不只是外型，而是那種「剛剛好」的貼合感。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_06.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226165" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_06.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_06.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_06.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_06.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">YUYU：「如果戴了會分心、不舒服，那就不適合久戴，但 HUAWEI WATCH FIT 4 Pro 完全不會有這樣的感覺」（攝：家綸）</figcaption></figure>
-
-
-
-<p>「它不會讓人覺得你在戴一支『運動手錶』」。除了重量非常輕量以外，搭配日常穿著也很好看，而且查看訊息、切換音樂都不需要再掏手機，日常使用也很順手。在 YUYU 的日常裡，從運動到通勤再到與朋友聚會，這支手錶能自然地穿梭其中。<strong>更不用說螢幕亮度（3000nits）的設計，不管在烈日戶外或晚上夜跑時，顯示依然清晰明亮。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_07.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226166" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_07.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_07.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_07.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_07.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">對於 YUYU 來說那份剛好的貼合感，甚至比許多黑科技功能來的更重要。（攝：家綸）</figcaption></figure>
-
-
-
-<p>YUYU 也提到自己很愛換錶面，「有時候簡約，有時候繽紛，跟衣服或當天心情搭配。」她笑說手錶也可以是一種單品，一種風格的延伸。而 HUAWEI WATCH FIT 4 Pro 就提供了足夠自由的彈性，讓她不用在「實用」與「美觀」之間取捨。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_08.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226167" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_08.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_08.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_08.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_08.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">不管是功能為主軸，或是各種風格造型錶面，在華為運動健康 APP 中都有非常多選擇。（攝：家綸）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>▋▏五位跑者的五種生活方式，一支手錶的五種模樣</strong></h2>
-
-
-
-<p>在 MAC 跑團裡，有人剛起步、有人已經參加過多場比賽；有人擅長數據分析、也有人只想感受風吹過臉龐的愉快。就像一支樂團各自彈奏不同音符，卻在同一條路上跑出共鳴。這次與 HUAWEI WATCH FIT 4 Pro 的相處，也讓每個人展現出屬於自己的節奏。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_09.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226168" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_09.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_09.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_09.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_09.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">開心、自由的氛圍，也是 MAC 想要傳遞給所有跑者的心情。（攝：家綸）</figcaption></figure>
-
-
-
-<p>Norman 是一位生活與訓練都相當自律的跑者。他的生活有條不紊，一週跑步三到四次，空閒時還會加做徒手肌力。Norman：「訓練建議和恢復時間能告訴自己當天需要甚麼訓練，是不是短期內訓練量太高需要放鬆，或太偷懶要自己認真一點該吃點高強度課表，也是一種檢視自己的方法。<strong>心率偵測能即時提醒自己是不是在該有的訓練區間內，符合當天目標的訓練強度。</strong>」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_10.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226169" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_10.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_10.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_10.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_10.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">跑步至今運動已經成為一種習慣，並且 Norman 不斷打磨希望可以越來越好。（攝：家綸）</figcaption></figure>
-
-
-
-<p>Allison 的生活則多了一些冒險與新鮮感。來自國外、剛搬來台灣不久的她，透過 MAC 建立了社交網絡，也重新與自己的身體連結。她的運動節奏分布得很均勻，除了每週三固定團練，其他日子則穿插 Hyrox、重量訓練或休息日。Allison：<strong>「我最喜歡每天起床看睡眠分數，它對我來說非常有幫助，可以告訴我每天運動量夠不夠、心率狀況如何、睡眠品質，以及情緒狀態的變化。」Allison 覺得這支手錶的特點不是「教你怎麼練」</strong>，而是讓你用自己的方式理解自己。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_11.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226170" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_11.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_11.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_11.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_11.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Allison：「HUAWEI WATCH FIT 4 Pro 可以幫助你建立規律生活，也是與身體對話的入口。」（攝：家綸）</figcaption></figure>
-
-
-
-<p>在 MAC 裡，若要說誰對數據最有研究，Alan 絕對榜上有名。從心率區間、觸地時間到 HRV，他不只看數字，更從中推敲訓練方向。「我現在幾乎每天都會戴這支錶去跑步，不論是輕鬆跑、間歇還是 LSD，它的跑步軌跡和運動數據都非常完整、敏銳。」<strong>Alan：「有時候我訓練很累，但看 HRV 發現身體其實還可以，那我就會放心去做課表。」Alan 提到他蠻喜歡情緒健康與呼吸訓練功能，可以適時的提醒舒壓與嘗試一些正念訓練，對於日常心理狀態做出更好的自我覺察。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_12.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226171" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_12.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_12.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_12.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_12.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">除了自我察覺以外，手錶也能更數據的反應身體狀況。（攝：家綸）</figcaption></figure>
-
-
-
-<p>Darin 加入 MAC 不久，但訓練的頻率卻不輸給任何人，一週四到五次是他的日常節奏，不過儘管這麼頻繁的訓練使用，電池的續航力也非常足夠。Darin：「從收到手錶充滿電後，使用一周多的時間都還有電，HUAWEI WATCH FIT 4 Pro 對想開始跑步，也想找平衡的人是一個價格跟功能都不錯的選擇！」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_13.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226172" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_13.jpg?w=1290&amp;ssl=1 1290w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_13.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_13.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Darin：「一開始只是想多動一點，但 MAC 讓我看到跑步可以這麼多人一起完成，也讓我慢慢建立穩定訓練的習慣。」（攝：家綸）</figcaption></figure>
-
-
-
-<p>如果說 MAC 跑團的歷史是一條路，那小龍一定是最早就開始的那位。他從跑團還只有十人不到的時候就參加，<strong>對他來說這裡已經是生活中很重要的一塊拼圖。就像是手錶對他來說，早已不只是運動時戴的工具，而是時刻配戴身上陪伴自己的夥伴。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_14.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226173" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_14.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_14.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_14.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_14.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小龍：「除了充電外幾乎不會拿下手錶，對我來說它不只是運動的工具，更是生活的一部分。」（攝：家綸)</figcaption></figure>
-
-
-
-<p>這五位成員，五種不同的生活方式，就像手錶上不同的錶面，映照著每個人的跑步故事。對他們而言，這支手錶不是要成為某個跑者的標配，而是像一面鏡子，讓人照見自己的節奏、選擇適合自己的方式前進。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>▋▏這支手錶，不只是陪你跑步，而是陪你生活</strong></h2>
-
-
-
-<p>對 MAC 跑團來說，跑步不是比快，而是能不能「持續地跑下去」。他們重視的是彼此的支持、節奏的穩定感，還有在跑完後能安心地回望今天的自己。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_15.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226174" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_15.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_15.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_15.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_15.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">一個人也許可以跑得快，但一群人可以跑得更遠。（攝：家綸）</figcaption></figure>
-
-
-
-<p>而 HUAWEI WATCH FIT 4 Pro，恰好成為這樣的角色，在你需要時默默提供數據與陪伴。<strong>從情緒、心率、通話，到訓練與恢復，它不只是裝備，更像是一位能夠貼近生活的教練與朋友。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_16.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226175" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_16.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_16.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_16.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_16.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">不管你的狀況好壞，都會有夥伴陪在身邊。（攝：家綸）</figcaption></figure>
-
-
-
-<p>小龍平常也會騎車、衝浪，運動多元而豐富。而在日常生活中，他的工作性質常需要長時間久坐，這也是他特別喜歡<strong>「久坐提醒」</strong>功能的原因之一。「有時候忙到忘了起身伸展，手錶會提醒我該動一動，這對我來說其實非常實用。」<strong>透過這些小功能，小龍在忙碌與放鬆之間，找到了一種屬於自己的生活節奏。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_17.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226176" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_17.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_17.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_17.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_17.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">手錶搭配華為運動健康APP 使用，可以完整的紀錄下每一個健康數據。（攝：家綸）</figcaption></figure>
-
-
-
-<p>說到「找手機」，團內第一名使用率最高的應該就是小龍了。「我很常在工作中一忙就忘了手機放哪，只要用手錶按一下，就能聽到聲音，這功能我真的每天用。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_18.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226177" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_18.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_18.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_18.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_18.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">手錶也支援藍牙通話和 LINE 通話（iOS 限定），不漏接每通重要來電。（攝：家綸）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>▋▏與 MAC 一起，跑向自由又真實的生活節奏</strong></h2>
-
-
-
-<p><a></a>這次體驗，讓 MAC 跑團的每一位成員都重新校準了自己的生活節拍。有人開始多注意睡眠，有人養成記錄壓力變化的習慣，也有人發現原來自己能跑得比想像中更有節奏。「它不是要你變成誰，而是陪你走一段屬於自己的路」團長 YUYU 認為這不是專業跑者專用，也不是科技宅才懂的機器，它是一種生活風格的延伸。<strong>HUAWEI WATCH FIT 4 Pro</strong><strong>，不只是記錄，更是一種陪伴。提醒你走動、幫你找手機、播放音樂，也默默記錄你今天的每一步，不需要太會操作就能上手。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_19.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226178" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_19.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_19.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_19.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_19.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">剛準備開始健康生活，或是正在尋找生活平衡的跑者，不妨給自己一支不只是「跑步手錶」的智慧裝置。（攝：家綸）</figcaption></figure>
-
-
-
-<p>不催促、不比較，MAC跑團持續在每個夜晚點亮城市巷弄、河濱跑道的群體。HUAWEI WATCH FIT 4 Pro，不只是記錄，更是一種陪伴，記錄下了每一段節奏的改變、每一次心跳的勇氣，跑向一種更自由、更真實的生活方式。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_20.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226179" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_20.jpg?w=1786&amp;ssl=1 1786w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_20.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_20.jpg?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/MACxHUAWEI-FIT-4-PRO_20.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>【產品優惠資訊】</strong></h2>
-
-
-
-<p>7/31 前買 WATCH FIT 4 Pro</p>
-
-
-
-<p>送 FreeBuds SE 3 藍牙耳機</p>
-
-
-
-<p>活動詳情：<a href="https://ppt.cc/fvoK6x">https://ppt.cc/fvoK6x</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e3%80%90%e8%b7%91%e5%9c%98%e9%ab%94%e9%a9%97%e3%80%91%e8%b7%91%e5%87%ba%e7%94%9f%e6%b4%bb%e6%96%b0%e7%af%80%e5%a5%8f%ef%bd%9cmac%e8%b7%91%e5%9c%98-x-huawei-watch-fit-4-pro/">【跑團體驗】跑出生活新節奏｜MAC跑團 × HUAWEI WATCH FIT 4 Pro</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>

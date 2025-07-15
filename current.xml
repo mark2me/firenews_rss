@@ -1,688 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<!DOCTYPE html>
+<html dir='ltr'>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Database Error</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			border: 1px solid #ccd0d4;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #2271b1;
+		}
+		a:hover,
+		a:active {
+			color: #135e96;
+		}
+		a:focus {
+			color: #043959;
+			box-shadow: 0 0 0 2px #2271b1;
+			outline: 2px solid transparent;
+		}
+		.button {
+			background: #f3f5f6;
+			border: 1px solid #016087;
+			color: #016087;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
+
+			vertical-align: top;
+		}
+
+		.button.button-large {
+			line-height: 2.30769231;
+			min-height: 32px;
+			padding: 0 12px;
+		}
+
+		.button:hover,
+		.button:focus {
+			background: #f1f1f1;
+		}
+
+		.button:focus {
+			background: #f3f5f6;
+			border-color: #007cba;
+			-webkit-box-shadow: 0 0 0 1px #007cba;
+			box-shadow: 0 0 0 1px #007cba;
+			color: #016087;
+			outline: 2px solid transparent;
+			outline-offset: 0;
+		}
+
+		.button:active {
+			background: #f3f5f6;
+			border-color: #7e8993;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+		}
+
+			</style>
+</head>
+<body id="error-page">
+	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
+</html>
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>時事 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/時事/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 15 Jul 2025 07:49:28 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>時事 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/時事/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>貓咪有牠的社交時差 ! 牠喜歡的「陪伴時段」其實跟人類相反</title>
-		<link>https://firenews.com.tw/2025/07/15/%e8%b2%93%e5%92%aa%e6%9c%89%e7%89%a0%e7%9a%84%e7%a4%be%e4%ba%a4%e6%99%82%e5%b7%ae-%e7%89%a0%e5%96%9c%e6%ad%a1%e7%9a%84%e3%80%8c%e9%99%aa%e4%bc%b4%e6%99%82%e6%ae%b5%e3%80%8d%e5%85%b6%e5%af%a6/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 07:49:25 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[人類]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[社交]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=227017</guid>
-
-					<description><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-167.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-167.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-167.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導 當貓咪總在清晨或黃昏時分特別活躍，飼主或許會感到納悶，為何牠總是與自己的作息錯開。其實 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e8%b2%93%e5%92%aa%e6%9c%89%e7%89%a0%e7%9a%84%e7%a4%be%e4%ba%a4%e6%99%82%e5%b7%ae-%e7%89%a0%e5%96%9c%e6%ad%a1%e7%9a%84%e3%80%8c%e9%99%aa%e4%bc%b4%e6%99%82%e6%ae%b5%e3%80%8d%e5%85%b6%e5%af%a6/">貓咪有牠的社交時差 ! 牠喜歡的「陪伴時段」其實跟人類相反</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-167.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-167.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-167.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>當貓咪總在清晨或黃昏時分特別活躍，飼主或許會感到納悶，為何牠總是與自己的作息錯開。其實這是來自貓咪獨特的生理節奏。從作息時間到互動習慣，牠們的「社交時差」與人類有著天壤之別。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">與生俱來的「曙暮性」動物</h4>
-
-
-
-<p>貓咪不是純粹的夜行性動物，而是所謂的「曙暮性」生物，也就是在清晨與黃昏這兩個時段最為活躍。這樣的作息來自牠們的祖先——野貓習慣在日出與日落時狩獵，因為此時光線昏暗，最利於行動，獵物也較容易出沒。現代家貓雖然不再需要自己獵食，但這套活動節奏仍深植在牠們的本能裡。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="337" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-165.png?resize=500%2C337&#038;ssl=1" alt="" class="wp-image-227048" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-165.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-165.png?resize=217%2C146&amp;ssl=1 217w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪屬於「曙暮性」動物，最活躍的時段是清晨與黃昏。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">白天進入低耗能模式</h4>
-
-
-
-<p>到了白天，大多數貓咪會進入「節能模式」。牠可能會選擇待在飼主身邊的小角落安靜地睡覺，或者躲進某個陰涼的角落獨處。這段時間，牠們對互動的興趣通常不高，也不喜歡被頻繁打擾。飼主若能理解這點，尊重牠的休息節奏，反而更容易建立信任關係。</p>
-
-
-
-<h4 class="wp-block-heading">傍晚時分是最佳互動時機</h4>
-
-
-
-<p>貓咪到了傍晚會明顯變得活潑，有些會主動蹭人、喵喵叫，甚至叼著玩具邀請飼主互動。這是牠們情緒穩定、精力充沛的黃金時段，若能在這時陪牠玩耍，不僅能幫助釋放壓力，還能增進雙方感情。對於工作繁忙的上班族來說，這段時間也是與貓咪建立聯繫的關鍵時刻。</p>
-
-
-
-<h4 class="wp-block-heading">半夜暴衝不代表異常</h4>
-
-
-
-<p>不少飼主反映，家中的貓咪常在半夜「開趴」，奔跑、跳躍或大聲叫喚。這樣的行為並不代表牠心理有問題，而是延續了牠清晨活動高峰的自然節奏。如果貓咪白天無法獲得足夠的刺激與活動，牠可能會在夜間釋放累積的精力。因此，適當的日間陪伴與玩耍，有助於改善夜間活動過度的情況。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="375" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-166.png?resize=500%2C375&#038;ssl=1" alt="" class="wp-image-227049" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-166.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-166.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪半夜暴衝，多是因白天活動不足、精力未釋放，加上本身清晨活躍的天性。圖:unsplash</figcaption></figure></div>
-
-
-<p>理解貓咪的社交時差，對於飼主來說是一種關鍵能力。不是所有陪伴都需要主動黏膩，尊重牠想互動的時機，並在牠主動靠近時給予溫柔回應，才能讓彼此的關係更穩固。對貓咪來說，被理解、被尊重，就是牠所需要的最大安全感 !</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e8%b2%93%e5%92%aa%e6%9c%89%e7%89%a0%e7%9a%84%e7%a4%be%e4%ba%a4%e6%99%82%e5%b7%ae-%e7%89%a0%e5%96%9c%e6%ad%a1%e7%9a%84%e3%80%8c%e9%99%aa%e4%bc%b4%e6%99%82%e6%ae%b5%e3%80%8d%e5%85%b6%e5%af%a6/">貓咪有牠的社交時差 ! 牠喜歡的「陪伴時段」其實跟人類相反</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>狗狗也會懷舊？揭示他對「老玩具」有更多安全感與回憶 !</title>
-		<link>https://firenews.com.tw/2025/07/15/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e6%87%b7%e8%88%8a%ef%bc%9f%e6%8f%ad%e7%a4%ba%e4%bb%96%e5%b0%8d%e3%80%8c%e8%80%81%e7%8e%a9%e5%85%b7%e3%80%8d%e6%9c%89%e6%9b%b4%e5%a4%9a%e5%ae%89%e5%85%a8%e6%84%9f/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:52:49 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[懷舊]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[玩具]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226967</guid>
-
-					<description><![CDATA[<p><img width="527" height="640" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-162.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-162.png?w=527&amp;ssl=1 527w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-162.png?resize=120%2C146&amp;ssl=1 120w" sizes="(max-width: 527px) 100vw, 527px" /></p>
-<p>火報記者 張舜傑/報導 許多飼主可能都有這樣的經驗：為毛孩買了最新的玩具，但牠卻偏偏只愛那顆髒兮兮的舊球，或是 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e6%87%b7%e8%88%8a%ef%bc%9f%e6%8f%ad%e7%a4%ba%e4%bb%96%e5%b0%8d%e3%80%8c%e8%80%81%e7%8e%a9%e5%85%b7%e3%80%8d%e6%9c%89%e6%9b%b4%e5%a4%9a%e5%ae%89%e5%85%a8%e6%84%9f/">狗狗也會懷舊？揭示他對「老玩具」有更多安全感與回憶 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="527" height="640" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-162.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-162.png?w=527&amp;ssl=1 527w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-162.png?resize=120%2C146&amp;ssl=1 120w" sizes="(max-width: 527px) 100vw, 527px" /></p>
-<p>火報記者 張舜傑/報導 </p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>許多飼主可能都有這樣的經驗：為毛孩買了最新的玩具，但牠卻偏偏只愛那顆髒兮兮的舊球，或是已經破損的布娃娃。這其實是牠對那個舊玩具，有著比想像中更深的依戀與情感投射。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">嗅覺記憶喚起熟悉感</h4>
-
-
-
-<p>狗狗的嗅覺比人類敏銳得多。對牠來說，玩具上的氣味不只是味道，更像是一段被封存的記憶。老玩具上殘留著主人的氣味、過去玩耍時留下的味道，甚至還有狗狗自己流汗、舔舐後產生的氣味記號。這些熟悉的氣息能給牠帶來極大的安全感，就像人類懷念童年抱著的娃娃一樣。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-163.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-226985" style="width:720px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-163.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-163.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗透過嗅覺記憶情感，舊玩具上的氣味讓牠聯想到陪伴、遊戲與安全感，就像人類懷念童年娃娃一樣。圖:istockphoto</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">玩具不只是物品，是「情感連結」</h4>
-
-
-
-<p>對狗狗來說，某些玩具不只是娛樂工具，更是一段生活的陪伴。可能是牠剛進家門時第一個擁有的玩具，或是陪伴牠度過焦慮、獨處時光的重要物件。這樣的物品在牠心中，早已與「安心」「放鬆」畫上等號，自然不願輕易捨棄。</p>
-
-
-
-<h4 class="wp-block-heading">狗狗也會「懷舊」</h4>
-
-
-
-<p>科學研究顯示，狗狗具備基本的記憶與情緒連結能力。當牠們聞到某種味道、看到熟悉的玩具，就可能喚起過去的快樂回憶。雖然不像人類那樣具備完整敘事的回憶系統，但牠們確實會對特定物品產生持久的情感印記，這種「懷舊」是非常真實的。</p>
-
-
-
-<h4 class="wp-block-heading">別急著把舊玩具丟掉</h4>
-
-
-
-<p>即使那個舊玩具已經殘破不堪，只要不危及安全（例如無鬆脫零件、未含有毒物質），其實不需要急著汰換。有些飼主甚至會在清洗後保留玩具一部分，或用新玩具縫上舊玩具的一角，延續狗狗熟悉的觸感與氣味。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-164.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-226986" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-164.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-164.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">舊玩具若無危險，可保留或結合新玩具，延續狗狗熟悉的氣味與安心感。圖:istockphoto</figcaption></figure></div>
-
-
-<p>狗狗珍惜的，從來不是玩具本身的新舊，而是那段陪伴、安心與互動的記憶。學會理解牠的小執著，也是在理解牠的情感世界。下次當你看到狗狗叼著那個老玩具露出滿足的表情，不妨給牠一個微笑，因為那是屬於牠的珍貴回憶。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e6%87%b7%e8%88%8a%ef%bc%9f%e6%8f%ad%e7%a4%ba%e4%bb%96%e5%b0%8d%e3%80%8c%e8%80%81%e7%8e%a9%e5%85%b7%e3%80%8d%e6%9c%89%e6%9b%b4%e5%a4%9a%e5%ae%89%e5%85%a8%e6%84%9f/">狗狗也會懷舊？揭示他對「老玩具」有更多安全感與回憶 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>你和愛犬的感情好嗎？一起來看看狗狗信任主人時的「四種表現」！ </title>
-		<link>https://firenews.com.tw/2025/07/15/%e4%bd%a0%e5%92%8c%e6%84%9b%e7%8a%ac%e7%9a%84%e6%84%9f%e6%83%85%e5%a5%bd%e5%97%8e%ef%bc%9f%e4%b8%80%e8%b5%b7%e4%be%86%e7%9c%8b%e7%9c%8b%e7%8b%97%e7%8b%97%e4%bf%a1%e4%bb%bb%e4%b8%bb%e4%ba%ba%e6%99%82/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:46:21 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[信任]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[表現]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226988</guid>
-
-					<description><![CDATA[<p><img width="1280" height="854" src="https://firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 狗狗雖然不會開口說「我愛你」，但牠們卻會用行動默默表達對主人的信任與依賴，當一 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e4%bd%a0%e5%92%8c%e6%84%9b%e7%8a%ac%e7%9a%84%e6%84%9f%e6%83%85%e5%a5%bd%e5%97%8e%ef%bc%9f%e4%b8%80%e8%b5%b7%e4%be%86%e7%9c%8b%e7%9c%8b%e7%8b%97%e7%8b%97%e4%bf%a1%e4%bb%bb%e4%b8%bb%e4%ba%ba%e6%99%82/">你和愛犬的感情好嗎？一起來看看狗狗信任主人時的「四種表現」！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="854" src="https://firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/animals-2607704_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>狗狗雖然不會開口說「我愛你」，但牠們卻會用行動默默表達對主人的信任與依賴，當一隻狗狗願意放下戒心、展現出軟弱的一面，其實就表示已經把自己的全部都託付給對方，今天就來帶你認識狗狗信任主人的五種經典表現，看看你的狗狗對你到底有多信任！&nbsp;</p>
-
-
-
-<p>1.經常黏著你&nbsp;</p>
-
-
-
-<p>如果狗狗總是喜歡黏在你身旁，甚至連你走進廁所牠都想跟，那就代表牠已經完全把你當成最安心的存在，這種親近不只是單純的依賴，更是一種「群體歸屬」的表現，在牠眼裡你早已經佔據牠心中最重要的位置。&nbsp;</p>
-
-
-
-<p>2.睡覺露出肚子&nbsp;</p>
-
-
-
-<p>肚子是狗狗最脆弱的部位之一，會在你面前躺下並四腳朝天，代表牠對你毫無戒心，這樣的姿勢在野外幾乎等同於放棄防禦，是極具信任的表現，如果牠還會在你身邊熟睡，那恭喜你已經完全獲得了狗狗的信任。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1053" height="1280" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/dog-2901704_1280.jpg?resize=1053%2C1280&#038;ssl=1" alt="" class="wp-image-226994" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/dog-2901704_1280.jpg?w=1053&amp;ssl=1 1053w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/dog-2901704_1280.jpg?resize=768%2C934&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/dog-2901704_1280.jpg?resize=120%2C146&amp;ssl=1 120w" sizes="(max-width: 1053px) 100vw, 1053px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當狗狗將自己心愛的玩具叼給主人時，這種分享的行為象徵牠早已把你當成最重要的家人<br>(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>3.長時間注視你&nbsp;</p>
-
-
-
-<p>狗狗之間其實不太喜歡眼神交流，對視對牠們來說是一種「挑釁行為」，但如果你的狗狗會輕柔地看著你，甚至在你講話時認真望著你的臉，那其實是一種更深層的情感連結，這種眼神交流能加深你們彼此的情感羈絆。&nbsp;</p>
-
-
-
-<p>4.叼玩具給你&nbsp;</p>
-
-
-
-<p>許多人以為狗狗叼玩具給主人只是邀請玩耍，但其實這也是一種分享的行為，當狗狗把最喜歡的玩具、零食、甚至是骨頭叼來給你時，代表牠願意把「寶貝」分你一半，象徵你是牠最親密的家人。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e4%bd%a0%e5%92%8c%e6%84%9b%e7%8a%ac%e7%9a%84%e6%84%9f%e6%83%85%e5%a5%bd%e5%97%8e%ef%bc%9f%e4%b8%80%e8%b5%b7%e4%be%86%e7%9c%8b%e7%9c%8b%e7%8b%97%e7%8b%97%e4%bf%a1%e4%bb%bb%e4%b8%bb%e4%ba%ba%e6%99%82/">你和愛犬的感情好嗎？一起來看看狗狗信任主人時的「四種表現」！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>捨不得愛貓離開？這四種長壽貓咪品種可能最適合你！ </title>
-		<link>https://firenews.com.tw/2025/07/15/%e6%8d%a8%e4%b8%8d%e5%be%97%e6%84%9b%e8%b2%93%e9%9b%a2%e9%96%8b%ef%bc%9f%e9%80%99%e5%9b%9b%e7%a8%ae%e9%95%b7%e5%a3%bd%e8%b2%93%e5%92%aa%e5%93%81%e7%a8%ae%e5%8f%af%e8%83%bd%e6%9c%80%e9%81%a9%e5%90%88/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:44:55 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[品種]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<category><![CDATA[長壽]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226987</guid>
-
-					<description><![CDATA[<p><img width="1280" height="906" src="https://firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?resize=206%2C146&amp;ssl=1 206w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 相信對於許多貓奴來說，最大的心願就是希望愛貓能陪伴自己久一點，雖然每隻貓咪都是 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e6%8d%a8%e4%b8%8d%e5%be%97%e6%84%9b%e8%b2%93%e9%9b%a2%e9%96%8b%ef%bc%9f%e9%80%99%e5%9b%9b%e7%a8%ae%e9%95%b7%e5%a3%bd%e8%b2%93%e5%92%aa%e5%93%81%e7%a8%ae%e5%8f%af%e8%83%bd%e6%9c%80%e9%81%a9%e5%90%88/">捨不得愛貓離開？這四種長壽貓咪品種可能最適合你！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="906" src="https://firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/siamese-6469361_1280.jpg?resize=206%2C146&amp;ssl=1 206w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>相信對於許多貓奴來說，最大的心願就是希望愛貓能陪伴自己久一點，雖然每隻貓咪都是獨一無二的存在，但根據品種、基因與生活習慣，貓咪的壽命也會有所差異，有些貓咪若照護得當，甚至能陪伴主人20年以上，今天就來盤點五大最長壽的貓咪品種，看看哪一種毛孩子最有機會與你共度漫長歲月！&nbsp;</p>
-
-
-
-<p>4.俄羅斯藍貓&nbsp;</p>
-
-
-
-<p>俄羅斯藍貓的平均壽命約15至20年，不僅外表氣質高貴，身體狀況也相當穩定，牠們的性格安靜獨立，對環境要求低，是許多上班族心目中的理想室內貓，再加上俄羅斯藍貓普遍天生不太貪吃、愛乾淨，是公認壽命高的貓種之一。&nbsp;</p>
-
-
-
-<p>3.暹羅貓&nbsp;</p>
-
-
-
-<p>暹羅貓的平均壽命約15至20年，牠們十分聰明、好奇心強，喜歡與人互動，容易與主人建立深厚感情，儘管早期暹羅貓因過度近親繁殖導致部分健康問題，但現代飼養管理改善許多，只要避免過度肥胖與遺傳性疾病，暹羅貓通常能健康快樂地活到高齡。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/cat-8081701_1280.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226996" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/cat-8081701_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/cat-8081701_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/cat-8081701_1280.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">米克斯貓其實才是最長壽的貓咪品種，牠們的個性穩定、適應力強，非常有可能默默陪著主人最久<br>(示意圖/Pixabay)</figcaption></figure>
-
-
-
-<p>2.緬因貓&nbsp;</p>
-
-
-
-<p>緬因貓的平均壽命約13至18年，作為最大型的家貓品種，牠們以親人溫馴、個性穩定著稱，只要控制飲食、避免關節與心臟問題，通常能活得比許多中小型貓種還久，家庭成員無論是大人小孩，都能與牠建立深厚的羈絆。&nbsp;</p>
-
-
-
-<p>1.米克斯貓&nbsp;</p>
-
-
-
-<p>最長壽的貓咪其實是隨處可見的混種家貓，平均壽命約15至22年，由於牠們的遺傳基因多樣、抗病力強，並不容易罹患遺傳性疾病，此外混種貓的適應力強、不挑環境，加上體型適中、個性穩定，非常有可能才是默默陪著你最久的那一隻貓咪。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e6%8d%a8%e4%b8%8d%e5%be%97%e6%84%9b%e8%b2%93%e9%9b%a2%e9%96%8b%ef%bc%9f%e9%80%99%e5%9b%9b%e7%a8%ae%e9%95%b7%e5%a3%bd%e8%b2%93%e5%92%aa%e5%93%81%e7%a8%ae%e5%8f%af%e8%83%bd%e6%9c%80%e9%81%a9%e5%90%88/">捨不得愛貓離開？這四種長壽貓咪品種可能最適合你！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meta宣布投資千億美元 支援「超級智慧」技術發展</title>
-		<link>https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 05:27:14 +0000</pubDate>
-				<category><![CDATA[時事]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[超級智慧]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226874</guid>
-
-					<description><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-160.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 陳銳/報導 Meta執行長祖克柏週一宣布，該公司將斥資數千億美元，在未來數年內打造多座大型人工智慧資 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/">Meta宣布投資千億美元 支援「超級智慧」技術發展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-160.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 陳銳/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>Meta執行長祖克柏週一宣布，該公司將斥資數千億美元，在未來數年內打造多座大型人工智慧資料中心，以支援其「超級智慧」（Artificial Superintelligence）技術的發展。</strong></p>
-</blockquote>
-
-
-
-<p>祖克柏在 Threads 平台發文指出，首座名為「Prometheus」的多千兆瓦資料中心預計將於 2026 年投入使用。另一座「Hyperion」資料中心則預計可在未來數年內擴展至 5 千兆瓦，支援大規模 AI 模型訓練。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-226893" style="width:720px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Meta 將啟用「Prometheus」與「Hyperion」資料中心，支援大規模 AI 模型訓練。圖:istockphoto</figcaption></figure></div>
-
-
-<p>他表示：「我們還在建造多個巨型集群，其中之一的規模相當於曼哈頓的大部分區域。」<br>根據 AI 業界分析機構 SemiAnalysis 的報告，Meta 有望成為全球首家運行千兆瓦級 AI 超級集群的公司。</p>
-
-
-
-<p>Meta 近月來啟動高階工程師招募行動，並在 AI 領域與競爭對手 OpenAI、Google 及 Anthropic 正面交鋒。該公司近期將人工智慧業務重組為「超級智慧實驗室」（Superintelligence Lab），並由前 Scale AI 執行長 Alexandr Wang 及 GitHub 前執行長 Nat Friedman 領導。</p>
-
-
-
-<p>祖克柏強調，Meta 具備充足資源支持這項長期投資。他表示：「我們有自己的業務資本來做這件事。」Meta 去年營收達 1,650 億美元，目前股價年內已上漲逾 20%。祖克柏並指出，公司廣告業務的穩健表現為這類基礎建設提供了財務支撐。</p>
-
-
-
-<p>根據《紐約時報》報導，Meta 內部正在重新評估其原本以開源方式開發的 Llama 系列 AI 模型，未來可能轉向封閉模式以強化競爭力。</p>
-
-
-
-<p>Meta 今年 4 月已將 2025 年資本支出預估上調至 640 億至 720 億美元之間，顯示公司在 AI 基礎設施上的投入將持續加大。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/">Meta宣布投資千億美元 支援「超級智慧」技術發展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪半夜嗨翻天怎麼辦？原來牠們是在「狩獵訓練中」!</title>
-		<link>https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e5%8d%8a%e5%a4%9c%e5%97%a8%e7%bf%bb%e5%a4%a9%e6%80%8e%e9%ba%bc%e8%be%a6%ef%bc%9f%e5%8e%9f%e4%be%86%e7%89%a0%e5%80%91%e6%98%af%e5%9c%a8%e3%80%8c%e7%8b%a9%e7%8d%b5%e8%a8%93%e7%b7%b4/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 10:38:00 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[半夜]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[狩獵]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226585</guid>
-
-					<description><![CDATA[<p><img width="500" height="750" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-156.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-156.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-156.png?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導 貓咪總是在半夜、凌晨突然暴衝、狂奔、猛跳，讓不少飼主睡得心驚膽跳。這樣的行為看似失控， &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e5%8d%8a%e5%a4%9c%e5%97%a8%e7%bf%bb%e5%a4%a9%e6%80%8e%e9%ba%bc%e8%be%a6%ef%bc%9f%e5%8e%9f%e4%be%86%e7%89%a0%e5%80%91%e6%98%af%e5%9c%a8%e3%80%8c%e7%8b%a9%e7%8d%b5%e8%a8%93%e7%b7%b4/">貓咪半夜嗨翻天怎麼辦？原來牠們是在「狩獵訓練中」!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="500" height="750" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-156.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-156.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-156.png?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>貓咪總是在半夜、凌晨突然暴衝、狂奔、猛跳，讓不少飼主睡得心驚膽跳。這樣的行為看似失控，實際上卻有其生理與心理的根據。牠們不是在胡鬧，而是在進行屬於自己的「狩獵訓練」。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">為什麼總選在凌晨暴衝？</h4>
-
-
-
-<p>貓咪的祖先是黃昏與黎明活動的獵食者，即所謂的「薄暮性動物」。即使現代家貓過著安逸的室內生活，牠們的生理時鐘仍保留這種本能。因此，凌晨是牠們本能最旺盛、精力最充沛的時段，也正是牠們「模擬狩獵」的最佳時間。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="333" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-154.png?resize=500%2C333&#038;ssl=1" alt="" class="wp-image-226590" style="width:724px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-154.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-154.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪屬「薄暮性動物」，天生在黎明與黃昏最活躍，即使住在室內，牠們仍會在凌晨模擬狩獵，釋放精力。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">不是鬧脾氣，而是在模擬捕獵</h4>
-
-
-
-<p>在這些暴衝時刻，貓咪會突然從床上跳下來、衝刺穿梭房間、猛撲空氣中的影子，這些動作其實模擬的是「追蹤獵物」與「突襲捕捉」的完整過程。牠們透過這樣的遊戲訓練，釋放能量，也維持本能的敏銳度。</p>
-
-
-
-<h4 class="wp-block-heading">為什麼偏偏挑在飼主熟睡時？</h4>
-
-
-
-<p>夜晚人類活動減少，環境安靜，正好讓貓咪能更專注於活動。加上白天牠們常處於睡眠與休息狀態，到了夜裡自然會進入「精力爆發」時段。如果白天缺乏刺激或陪伴，夜晚的活動量更可能倍增。</p>
-
-
-
-<h4 class="wp-block-heading">該怎麼改善凌晨暴衝的狀況？</h4>
-
-
-
-<p>首先，白天與傍晚的充分互動是關鍵。飼主可以透過逗貓棒、益智玩具等方式讓貓咪釋放精力，模擬狩獵的過程，也可安排固定的「玩耍→餵食→安撫」流程，幫助牠進入睡眠模式。讓貓咪感到滿足與疲倦，有助於減少夜間暴衝。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="333" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-157.png?resize=500%2C333&#038;ssl=1" alt="" class="wp-image-226595" style="width:722px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-157.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-157.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">白天多互動、傍晚安排「玩耍→餵食→安撫」流程，可幫助貓咪釋放精力。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">創造安穩的夜晚環境</h4>
-
-
-
-<p>若貓咪夜裡活動依舊頻繁，可以考慮在牠喜歡跑跳的區域放置安靜玩具，避免過度吵鬧影響睡眠。部分飼主也會安排獨立空間，讓貓咪自由活動，又不會打擾家人休息。重要的是，避免在半夜對牠做出回應，以免形成「吵你＝有反應」的行為獎勵。</p>
-
-
-
-<p>看似調皮的凌晨暴衝，其實藏著貓咪天生的狩獵需求與精力釋放。只要了解牠的作息邏輯，並善加引導與安排，讓牠在白天就能得到滿足，就能慢慢讓這場「午夜大狂奔」回歸平靜。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e5%8d%8a%e5%a4%9c%e5%97%a8%e7%bf%bb%e5%a4%a9%e6%80%8e%e9%ba%bc%e8%be%a6%ef%bc%9f%e5%8e%9f%e4%be%86%e7%89%a0%e5%80%91%e6%98%af%e5%9c%a8%e3%80%8c%e7%8b%a9%e7%8d%b5%e8%a8%93%e7%b7%b4/">貓咪半夜嗨翻天怎麼辦？原來牠們是在「狩獵訓練中」!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪不可貌相！懷孕流浪母貓竟一口氣生下９隻小貓 </title>
-		<link>https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e4%b8%8d%e5%8f%af%e8%b2%8c%e7%9b%b8%ef%bc%81%e6%87%b7%e5%ad%95%e6%b5%81%e6%b5%aa%e6%af%8d%e8%b2%93%e7%ab%9f%e4%b8%80%e5%8f%a3%e6%b0%a3%e7%94%9f%e4%b8%8b%ef%bc%99%e9%9a%bb%e5%b0%8f/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 06:01:59 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[流浪貓]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[生產]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226370</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1790" src="https://firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=768%2C537&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=1536%2C1074&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=2048%2C1432&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=209%2C146&amp;ssl=1 209w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 近日美國一名動保志工分享了親身經歷，一隻流浪貓在被她接回家短短三小時內便開始分 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e4%b8%8d%e5%8f%af%e8%b2%8c%e7%9b%b8%ef%bc%81%e6%87%b7%e5%ad%95%e6%b5%81%e6%b5%aa%e6%af%8d%e8%b2%93%e7%ab%9f%e4%b8%80%e5%8f%a3%e6%b0%a3%e7%94%9f%e4%b8%8b%ef%bc%99%e9%9a%bb%e5%b0%8f/">貓咪不可貌相！懷孕流浪母貓竟一口氣生下９隻小貓 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1790" src="https://firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=768%2C537&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=1536%2C1074&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=2048%2C1432&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?resize=209%2C146&amp;ssl=1 209w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/mahdi-rezaei-7CpzdqR-1vU-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>近日美國一名動保志工分享了親身經歷，一隻流浪貓在被她接回家短短三小時內便開始分娩，最終一共誕下9隻健康的小貓，讓志工和整個照護團隊驚呼連連，迅速引發網上熱議，也讓社會大眾對於流浪貓的議題再度掀起討論與關注。&nbsp;</p>
-
-
-
-<p>據了解，這名資深的貓咪動保志工多年來致力於救援和照護流浪貓，在不久前得知一隻即將臨盆的母貓急需庇護所生產，於是便立刻將牠接回家安置，並為流浪貓媽媽取名為「瑪姬（Maggie）」，希望日後能順利找到人收養。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="933" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?resize=1220%2C933&#038;ssl=1" alt="" class="wp-image-226396" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?resize=768%2C587&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?resize=1536%2C1174&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?resize=2048%2C1566&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?resize=191%2C146&amp;ssl=1 191w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/the-lucky-neko-JYhw8TtoxTg-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「瑪姬」一次生下9隻幼貓刷新了動保志工團隊的紀錄，所幸牠們的身體都相當健康<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>「瑪姬」的體型相當瘦弱，從外表看來孕肚也不明顯，讓志工評估可能還需數日才能生產，胎兒數預測為三胎，但沒想到僅過了不到三個小時，「瑪姬」突然進入了產程，一隻接著一隻地生下小貓，竟足足誕下9隻幼貓。&nbsp;</p>
-
-
-
-<p>「瑪姬」的生產過程讓志工團隊們目瞪口呆，志工坦言從未見過如此密集且數量驚人的分娩情況，同時刷新了團隊多年從業以來最高的小貓誕生紀錄，所幸「瑪姬」與小貓的身體狀況都很健康，如今也已經健康成長並順利找到認養家庭。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e4%b8%8d%e5%8f%af%e8%b2%8c%e7%9b%b8%ef%bc%81%e6%87%b7%e5%ad%95%e6%b5%81%e6%b5%aa%e6%af%8d%e8%b2%93%e7%ab%9f%e4%b8%80%e5%8f%a3%e6%b0%a3%e7%94%9f%e4%b8%8b%ef%bc%99%e9%9a%bb%e5%b0%8f/">貓咪不可貌相！懷孕流浪母貓竟一口氣生下９隻小貓 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>肚子餓到森氣氣？鄰居貓每到中午變隔窗開罵讓網友笑翻 </title>
-		<link>https://firenews.com.tw/2025/07/14/%e8%82%9a%e5%ad%90%e9%a4%93%e5%88%b0%e6%a3%ae%e6%b0%a3%e6%b0%a3%ef%bc%9f%e9%84%b0%e5%b1%85%e8%b2%93%e6%af%8f%e5%88%b0%e4%b8%ad%e5%8d%88%e8%ae%8a%e9%9a%94%e7%aa%97%e9%96%8b%e7%bd%b5%e8%ae%93%e7%b6%b2/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 06:00:23 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[搞笑]]></category>
-		<category><![CDATA[放飯]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226369</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導 最近國外有名飼主分享了鄰居貓咪的有趣行為引起網上熱議，他表示每天中午一到放飯時 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%82%9a%e5%ad%90%e9%a4%93%e5%88%b0%e6%a3%ae%e6%b0%a3%e6%b0%a3%ef%bc%9f%e9%84%b0%e5%b1%85%e8%b2%93%e6%af%8f%e5%88%b0%e4%b8%ad%e5%8d%88%e8%ae%8a%e9%9a%94%e7%aa%97%e9%96%8b%e7%bd%b5%e8%ae%93%e7%b6%b2/">肚子餓到森氣氣？鄰居貓每到中午變隔窗開罵讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/francis-painchaud-vSaiyYyS0cw-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近國外有名飼主分享了鄰居貓咪的有趣行為引起網上熱議，他表示每天中午一到放飯時間，鄰居家的貓咪就會準時出現在窗邊，露出咬牙切齒的模樣，對著自己擺臭臉甚至發出激烈叫聲，令他覺得相當好笑。&nbsp;</p>
-
-
-
-<p>該名飼主表示，自己每天都會在固定時間餵食自家貓咪，而餵食地點恰巧靠近與鄰居相連的窗，鄰居家的貓咪又經常待在窗邊休息，這導致他們慢慢地產生了一種奇妙的連結。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-226398" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samuel-gartmann-qQrsiSahpXE-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">鄰居家的貓咪每到中午時，就會準時出現在窗邊對著飼主開罵<br>(示意圖/Unsplash) </figcaption></figure>
-
-
-
-<p>每當飼主拿起肉泥條準備餵食自家愛貓時，總是會在窗邊故意搖晃，試圖引起對方注意，這讓鄰居家的貓咪漸漸開始出現異常行為，從原本只是安靜地觀察，到最後露出極度不爽的表情，甚至頻頻發出尖銳喵叫，反應越來越激烈。&nbsp;</p>
-
-
-
-<p>這樣日復一日的相處模式，讓鄰居家的貓咪每到中午就會準時出現在窗邊開罵，搞怪又有趣的行為迅速引起網友熱烈討論，不少人紛紛表示「貓咪好無辜」、「活該欠罵」、「飼主要小心，貓咪很記仇的」、「搞不好哪一天真的破窗」。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%82%9a%e5%ad%90%e9%a4%93%e5%88%b0%e6%a3%ae%e6%b0%a3%e6%b0%a3%ef%bc%9f%e9%84%b0%e5%b1%85%e8%b2%93%e6%af%8f%e5%88%b0%e4%b8%ad%e5%8d%88%e8%ae%8a%e9%9a%94%e7%aa%97%e9%96%8b%e7%bd%b5%e8%ae%93%e7%b6%b2/">肚子餓到森氣氣？鄰居貓每到中午變隔窗開罵讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪愛「黏人」又不給摸？其實牠在測試你的反應 !</title>
-		<link>https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e6%84%9b%e3%80%8c%e9%bb%8f%e4%ba%ba%e3%80%8d%e5%8f%88%e4%b8%8d%e7%b5%a6%e6%91%b8%ef%bc%9f%e5%85%b6%e5%af%a6%e7%89%a0%e5%9c%a8%e6%b8%ac%e8%a9%a6%e4%bd%a0%e7%9a%84%e5%8f%8d%e6%87%89/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 05:30:36 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[反應]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226119</guid>
-
-					<description><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-142.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-142.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-142.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導 當飼主發現自家貓咪整天圍繞在腳邊，卻又在伸手想摸時突然閃躲時，往往會感到困惑甚至有些受 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e6%84%9b%e3%80%8c%e9%bb%8f%e4%ba%ba%e3%80%8d%e5%8f%88%e4%b8%8d%e7%b5%a6%e6%91%b8%ef%bc%9f%e5%85%b6%e5%af%a6%e7%89%a0%e5%9c%a8%e6%b8%ac%e8%a9%a6%e4%bd%a0%e7%9a%84%e5%8f%8d%e6%87%89/">貓咪愛「黏人」又不給摸？其實牠在測試你的反應 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-142.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-142.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-142.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>當飼主發現自家貓咪整天圍繞在腳邊，卻又在伸手想摸時突然閃躲時，往往會感到困惑甚至有些受傷。其實，這是貓咪特有的社交方式。牠正在觀察，也在測試，這一切都是牠與人建立關係的一部分。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">靠近不是撒嬌，是一種接觸試探</h4>
-
-
-
-<p>貓咪會主動靠近飼主，蹭腿、陪在身邊，這些行為往往被誤認為是撒嬌，實則牠只是想接近熟悉的人、尋找安全感。但這不代表牠想被撫摸。對多數貓咪而言，肢體接觸是需要被允許的親密互動，牠們會以自己的節奏來決定何時可以被摸。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="334" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-140.png?resize=500%2C334&#038;ssl=1" alt="" class="wp-image-226142" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-140.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-140.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪靠近蹭腿是尋求安全感，不一定代表想被摸。牠們對肢體接觸有界線，會依自己的節奏決定親密互動。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">每一次接觸，都是在測試界線</h4>
-
-
-
-<p>當飼主伸出手，貓咪卻突然跳開，不代表牠排斥親密，而是在觀察對方是否懂得尊重。若飼主總是強硬地想摸、想抱，貓咪可能會感到壓力，甚至開始避免接近。但當飼主展現出耐心、等待牠主動靠近，貓咪反而會逐漸卸下心防，慢慢加深依附關係。</p>
-
-
-
-<h4 class="wp-block-heading">不愛被摸的貓，也有自己的親密方式</h4>
-
-
-
-<p>有些貓天生不喜歡被抱或摸頭，牠們的親密表達是安靜地陪伴。例如默默地坐在沙發旁、窩在主人的床腳，這些行為對牠們來說就是「我喜歡你」的表現。當飼主能理解這種溫柔的語言時，與貓咪的關係反而會更緊密。</p>
-
-
-
-<h4 class="wp-block-heading">看似忽冷忽熱，其實是慎重對待感情</h4>
-
-
-
-<p>貓咪的行為往往帶有高度警戒與謹慎。今天願意靠近，並不保證明天也會如此。這樣反覆的互動，其實是牠們在用自己的節奏建立信任。貓咪會不斷透過行為觀察，確認飼主是否值得信賴，也是否能給予情感上的安全。</p>
-
-
-
-<h4 class="wp-block-heading">給牠空間，是建立關係的關鍵</h4>
-
-
-
-<p>真正懂貓的人，會知道不要一見面就急著伸手，而是給貓咪自由的選擇權。當牠想被摸，會主動靠近並表現出願意的姿態。尊重這樣的步調，不但能避免壓力，還能讓貓咪覺得自己受到理解與珍惜，進而更願意親近。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="333" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-141.png?resize=500%2C333&#038;ssl=1" alt="" class="wp-image-226143" style="width:718px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-141.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-141.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">真正懂貓的人會尊重牠的節奏，給予選擇權。圖:unsplash</figcaption></figure></div>
-
-
-<p>貓咪看似矛盾的行為，其實是高度社交智慧的展現。當飼主能夠跳脫人類慣用的理解模式，學會用牠的語言與牠互動，就能發現，貓咪並不難親近，牠只是在尋找一個真正懂牠的朋友。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e8%b2%93%e5%92%aa%e6%84%9b%e3%80%8c%e9%bb%8f%e4%ba%ba%e3%80%8d%e5%8f%88%e4%b8%8d%e7%b5%a6%e6%91%b8%ef%bc%9f%e5%85%b6%e5%af%a6%e7%89%a0%e5%9c%a8%e6%b8%ac%e8%a9%a6%e4%bd%a0%e7%9a%84%e5%8f%8d%e6%87%89/">貓咪愛「黏人」又不給摸？其實牠在測試你的反應 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>比特幣飆破 12 萬再創歷史新高 ! 機構資金大量流入</title>
-		<link>https://firenews.com.tw/2025/07/14/%e6%af%94%e7%89%b9%e5%b9%a3%e9%a3%86%e7%a0%b4-12-%e8%90%ac%e5%89%b5%e6%ad%b7%e5%8f%b2%e6%96%b0%e9%ab%98-%e6%a9%9f%e6%a7%8b%e8%b3%87%e9%87%91%e5%a4%a7%e9%87%8f%e6%b5%81%e5%85%a5/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 05:27:22 +0000</pubDate>
-				<category><![CDATA[時事]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[機構]]></category>
-		<category><![CDATA[歷史新高]]></category>
-		<category><![CDATA[比特幣]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226333</guid>
-
-					<description><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-148.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-148.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-148.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 陳銳/報導 比特幣週一在亞洲交易時段首次突破 12 萬美元大關，創下歷史新高，投資人預期美國即將展開 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e6%af%94%e7%89%b9%e5%b9%a3%e9%a3%86%e7%a0%b4-12-%e8%90%ac%e5%89%b5%e6%ad%b7%e5%8f%b2%e6%96%b0%e9%ab%98-%e6%a9%9f%e6%a7%8b%e8%b3%87%e9%87%91%e5%a4%a7%e9%87%8f%e6%b5%81%e5%85%a5/">比特幣飆破 12 萬再創歷史新高 ! 機構資金大量流入</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-148.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-148.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-148.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 陳銳/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>比特幣週一在亞洲交易時段首次突破 12 萬美元大關，創下歷史新高，投資人預期美國即將展開的政策討論將為加密貨幣產業帶來重大利多。</strong></p>
-</blockquote>
-
-
-
-<p>根據市場數據，比特幣盤中一度攀升至 121,207.55 美元，最新報價為 120,856.34 美元，日內上漲約 1.5%。今年以來，比特幣已上漲 29%，成為全球資產市場表現最亮眼的金融工具之一。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-149.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-226361" style="width:708px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-149.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-149.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">比特幣盤中觸及 121,207 美元，日內漲約 1.5%，年內已升 29%，成為表現最亮眼的資產之一。圖:istockphoto</figcaption></figure></div>
-
-
-<p>分析人士指出，此波漲勢受到政策面消息推動。本週，美國眾議院預計將討論一系列法案，目標是建立統一的數位資產監管框架，回應業界對長期監管不確定性的關切。</p>
-
-
-
-<p>美國總統川普上週重申對加密產業的支持，稱自己是“加密貨幣總統”，並公開呼籲國會修法，為數位資產創造友善的監管環境。此言論被市場視為積極訊號，加強投資人對監管鬆綁的預期。</p>
-
-
-
-<p>除了比特幣外，其他加密貨幣亦同步上漲。以太幣（Eth）價格週一漲至五個月高點 3,048.23 美元，稍後報價為 3,036.24 美元。</p>
-
-
-
-<p>根據 CoinMarketCap 數據，加密貨幣市場的總市值已達約 3.78 兆美元，顯示資金正加速湧入數位資產市場。儘管面臨美國貿易政策不確定性，整體投資情緒仍明顯偏多。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/14/%e6%af%94%e7%89%b9%e5%b9%a3%e9%a3%86%e7%a0%b4-12-%e8%90%ac%e5%89%b5%e6%ad%b7%e5%8f%b2%e6%96%b0%e9%ab%98-%e6%a9%9f%e6%a7%8b%e8%b3%87%e9%87%91%e5%a4%a7%e9%87%8f%e6%b5%81%e5%85%a5/">比特幣飆破 12 萬再創歷史新高 ! 機構資金大量流入</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
