@@ -1,115 +1,735 @@
-<!DOCTYPE html>
-<html dir='ltr'>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<title>Database Error</title>
-	<style type="text/css">
-		html {
-			background: #f1f1f1;
-		}
-		body {
-			background: #fff;
-			border: 1px solid #ccd0d4;
-			color: #444;
-			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-			margin: 2em auto;
-			padding: 1em 2em;
-			max-width: 700px;
-			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
-			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
-		}
-		h1 {
-			border-bottom: 1px solid #dadada;
-			clear: both;
-			color: #666;
-			font-size: 24px;
-			margin: 30px 0 0 0;
-			padding: 0;
-			padding-bottom: 7px;
-		}
-		#error-page {
-			margin-top: 50px;
-		}
-		#error-page p,
-		#error-page .wp-die-message {
-			font-size: 14px;
-			line-height: 1.5;
-			margin: 25px 0 20px;
-		}
-		#error-page code {
-			font-family: Consolas, Monaco, monospace;
-		}
-		ul li {
-			margin-bottom: 10px;
-			font-size: 14px ;
-		}
-		a {
-			color: #2271b1;
-		}
-		a:hover,
-		a:active {
-			color: #135e96;
-		}
-		a:focus {
-			color: #043959;
-			box-shadow: 0 0 0 2px #2271b1;
-			outline: 2px solid transparent;
-		}
-		.button {
-			background: #f3f5f6;
-			border: 1px solid #016087;
-			color: #016087;
-			display: inline-block;
-			text-decoration: none;
-			font-size: 13px;
-			line-height: 2;
-			height: 28px;
-			margin: 0;
-			padding: 0 10px 1px;
-			cursor: pointer;
-			-webkit-border-radius: 3px;
-			-webkit-appearance: none;
-			border-radius: 3px;
-			white-space: nowrap;
-			-webkit-box-sizing: border-box;
-			-moz-box-sizing:    border-box;
-			box-sizing:         border-box;
-
-			vertical-align: top;
-		}
-
-		.button.button-large {
-			line-height: 2.30769231;
-			min-height: 32px;
-			padding: 0 12px;
-		}
-
-		.button:hover,
-		.button:focus {
-			background: #f1f1f1;
-		}
-
-		.button:focus {
-			background: #f3f5f6;
-			border-color: #007cba;
-			-webkit-box-shadow: 0 0 0 1px #007cba;
-			box-shadow: 0 0 0 1px #007cba;
-			color: #016087;
-			outline: 2px solid transparent;
-			outline-offset: 0;
-		}
-
-		.button:active {
-			background: #f3f5f6;
-			border-color: #7e8993;
-			-webkit-box-shadow: none;
-			box-shadow: none;
-		}
-
-			</style>
-</head>
-<body id="error-page">
-	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>政治 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%94%bf%e6%b2%bb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/政治/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Mon, 21 Apr 2025 02:32:09 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>政治 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/政治/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>419大遊行｜新中國聯邦喊「中共不代表中國人」</title>
+		<link>https://firenews.com.tw/2025/04/21/419%e5%a4%a7%e9%81%8a%e8%a1%8c%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e5%96%8a%e3%80%8c%e4%b8%ad%e5%85%b1%e4%b8%8d%e4%bb%a3%e8%a1%a8%e4%b8%ad%e5%9c%8b%e4%ba%ba%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[新崙通訊社]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 02:32:07 +0000</pubDate>
+				<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=187969</guid>
+
+					<description><![CDATA[<p><img width="1144" height="1430" src="https://firenews.com.tw/wp-content/uploads/2025/04/image-208.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?w=1144&amp;ssl=1 1144w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?resize=117%2C146&amp;ssl=1 117w" sizes="(max-width: 1144px) 100vw, 1144px" /></p>
+<p>2025年4月19日，台北「419大遊行」掀起熱潮，吸引數千民眾參與。新中國聯邦台灣農場亦響應號召，高舉「消滅 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/04/21/419%e5%a4%a7%e9%81%8a%e8%a1%8c%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e5%96%8a%e3%80%8c%e4%b8%ad%e5%85%b1%e4%b8%8d%e4%bb%a3%e8%a1%a8%e4%b8%ad%e5%9c%8b%e4%ba%ba%e3%80%8d/">419大遊行｜新中國聯邦喊「中共不代表中國人」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1144" height="1430" src="https://firenews.com.tw/wp-content/uploads/2025/04/image-208.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?w=1144&amp;ssl=1 1144w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-208.png?resize=117%2C146&amp;ssl=1 117w" sizes="(max-width: 1144px) 100vw, 1144px" /></p>
+<p>2025年4月19日，台北「419大遊行」掀起熱潮，吸引數千民眾參與。新中國聯邦台灣農場亦響應號召，高舉「消滅共產黨」、「中共不代表中國人」等抗爭理念，譴責中國共產黨（CCP）的專制統治以及對外壓迫。遊行氣氛激昂，參與者不僅表達了對民主自由的堅定決心，亦高度認同「非民選政府無法代表人民意志」的主張。</p>
+
+
+
+<p>新中國聯邦是郭文貴與前白宮首席顧問史蒂芬·班農於2020年聯合發起，旨在推翻中共極權，實現民主中國。是次「419大遊行」除抗議中共專制外，亦紀念2017年4月19日的「郭文貴美國之音斷播事件」。當日，郭文貴原定於美國之音（VOA）直播揭露中共高層如何貪腐，惟節目播出約一小時後突遭中斷，引起國際關注。美國之音稱斷播因節目超時，惟之後有內部消息證，斷播實乃中共施壓所致，該事件成為郭文貴決心掀起全球滅共浪潮的關鍵時刻。</p>
+
+
+
+<p>多年以來，郭文貴一直遭受來自中共暗中授意的司法壓迫。</p>
+
+
+
+<p>2017年4月18日，即斷播事件前一天，Pacific Alliance Asia Opportunity Fund（PAX）於香港及紐約對郭提起訴訟，指控其違約及詐欺，涉及2008年約4000萬美元的貸款爭議。2022年，紐約州法院裁定郭須向PAX賠償1.34億美元。2023年3月，美國司法部在沒有明確受害者的情況下，以涉嫌詐騙逾10億美元為由拘捕郭文貴。目前，郭仍被羈押於紐約布魯克林大都會拘留所，惟他堅信司法公義最終一定會還他公道。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1108" height="1478" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-209.png?resize=1108%2C1478&#038;ssl=1" alt="" class="wp-image-187971" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-209.png?w=1108&amp;ssl=1 1108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-209.png?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-209.png?resize=109%2C146&amp;ssl=1 109w" sizes="(max-width: 1108px) 100vw, 1108px" data-recalc-dims="1" /></figure>
+
+
+
+<p>最近，中共對郭文貴的壓迫行徑開始逐漸被揭露。</p>
+
+
+
+<p>2025年4月，美國參議院司法委員會聽證會披露，2017年中共高層曾向Facebook施壓，要求永久封禁郭文貴的帳戶。前Facebook全球公共政策總監莎拉·溫-威廉姆斯供稱，內部文件顯示，中共要求封號以示「共同利益」合作，Facebook最終遵從。此事揭示中共對全球言論自由的干預，凸顯其對郭文貴所揭露的中共陰謀的恐懼。</p>
+
+
+
+<p>新中國聯邦希望通過郭文貴的遭遇為警示，讓世界看到中共如何利用司法、外交及網絡宣傳等手段，跨國打壓異己，以掩蓋其想要執掌國際秩序的霸權企圖。中共不希望世界意識到，中共不能代表中國人。中共將中國人綁上「戰車」，操縱「14億民眾意願」來要脅他國屈服。新中國聯邦台灣農場表示，「無論如何，我們將繼續揭露中共惡行，直至推翻中共。」</p>
+
+
+
+<p class="has-text-align-center"><strong>*以上言論不代表本報立場</strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/04/21/419%e5%a4%a7%e9%81%8a%e8%a1%8c%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e5%96%8a%e3%80%8c%e4%b8%ad%e5%85%b1%e4%b8%8d%e4%bb%a3%e8%a1%a8%e4%b8%ad%e5%9c%8b%e4%ba%ba%e3%80%8d/">419大遊行｜新中國聯邦喊「中共不代表中國人」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《$TDCCP的起義：反對暴政的運動》</title>
+		<link>https://firenews.com.tw/2025/04/10/%e3%80%8atdccp%e7%9a%84%e8%b5%b7%e7%be%a9%ef%bc%9a%e5%8f%8d%e5%b0%8d%e6%9a%b4%e6%94%bf%e7%9a%84%e9%81%8b%e5%8b%95%e3%80%8b/</link>
+		
+		<dc:creator><![CDATA[新崙通訊社]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 07:42:34 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=183714</guid>
+
+					<description><![CDATA[<p><img width="2048" height="2048" src="https://firenews.com.tw/wp-content/uploads/2025/04/image-91.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>由平民時報工作人員撰寫 / 2025年3月31日 一種新的加密貨幣讓中國共產黨感到恐慌。他們不再壟斷公民的交易 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/04/10/%e3%80%8atdccp%e7%9a%84%e8%b5%b7%e7%be%a9%ef%bc%9a%e5%8f%8d%e5%b0%8d%e6%9a%b4%e6%94%bf%e7%9a%84%e9%81%8b%e5%8b%95%e3%80%8b/">《$TDCCP的起義：反對暴政的運動》</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2048" height="2048" src="https://firenews.com.tw/wp-content/uploads/2025/04/image-91.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-91.png?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>由平民時報工作人員撰寫 / 2025年3月31日</p>
+
+
+
+<p>一種新的加密貨幣讓中國共產黨感到恐慌。他們不再壟斷公民的交易方式。</p>
+
+
+
+<p>今年初剛剛推出的這種貨幣 $TDCCP（代表「推翻中共」）以空投的方式發放給每一位忠於 NFSC（新聯邦中國）運動事業的人。</p>
+
+
+
+<p>NFSC 是一場由政治囚犯郭文貴和前唐納·川普競選經理史蒂夫·班農發起的運動，旨在推翻中共。</p>
+
+
+
+<p>NFSC 在全球擁有 5 億支持者——是中共成員數量的五倍——並在世界各地設有 21 個分會。他們自稱是中共的頭號敵人，而他們的數量也證實了這一點。</p>
+
+
+
+<p>長期以來，NFSC 通過揭露中共的惡行來對抗他們——如今，他們發起了對中共巨獸迄今為止最具雄心的攻擊，直接針對中共對金融體系的控制。</p>
+
+
+
+<p>《$TDCCP 直衝月球》</p>
+
+
+
+<p>$TDCCP 在三月初開始交易時，每枚幣值略低於 10 美分。兩天內，其市值飆升超過 1 億美元，證明它並非普通的「迷因幣」。兩週內，它的價格火箭般上升至近 2 美元，市值更是突破 10 億美元。相比之下，比特幣在首次交易後花了三年才達到 10 億美元的市值。這標誌著這枚迷因幣背後訊息的徹底驗證：自由將戰勝中共。</p>
+
+
+
+<p>今天（3月31日），它的價值超過了18億美元，自那時起幾乎翻倍。</p>
+
+
+
+<p>在二月底，每位 NFSC 成員獲得了幸運的 777 枚代幣，隨後於 3 月 1 日開始公開鑄造代幣，交易則於 3 月 5 日開始。</p>
+
+
+
+<p>$TDCCP 在去中心化交易所（DEX）上開始交易，這意味著代幣直接在用戶之間交換，無需依賴中心化交易所。通過 DEX 交易簡化了購買過程，因為人們可以用任何加密資產來換取它，而不是受限於中心化交易所選擇提供的貨幣兌換組合。但更重要的是，在 $TDCCP 的背景下，去中心化交易所遠遠不太可能因壓力而移除某個資產的交易。</p>
+
+
+
+<p>但這並不代表中共不會嘗試阻止。</p>
+
+
+
+<p>《中共反擊》</p>
+
+
+
+<p>3月10日，交易所 OKX 無故將 $TDCCP 下架——這是中共介入的典型跡象。隨後，歐盟對 OKX 展開調查，將該交易所與一項涉及價值1億美元的洗錢計劃連結起來。但這些錢是為誰的利益而洗的呢？</p>
+
+
+
+<p>儘管中共試圖立即加以打壓，但他們無法抗衡人民的意志，因此 $TDCCP 的價格在中共多次攻擊下依然爆炸性成長。</p>
+
+
+
+<p>另一波攻擊來自中共的壓力行動，導致 Raydium 交易所移除了 $TDCCP 的所有元數據，包括名稱、標誌和所有官方記錄，彷彿這枚代幣從未在他們的平台上存在過。</p>
+
+
+
+<p>每當有一個交易所向中共屈服，就有上百家願意站出來對抗他們。中共試圖讓 $TDCCP 下架的努力只是徒勞無功，不過是砍掉九頭蛇的一個頭罷了。一些交易所則驕傲地選擇了反抗。在 $TDCCP 遭到針對後，BiFinance 交易所宣布將上架 $TDCCP，並稱其「不僅是一枚迷因幣，更是自由、抵抗和區塊鏈創新的象徵」。</p>
+
+
+
+<p>在最初的策略適得其反後，中共開始製造假冒版本的$TDCCP，試圖混淆購買者，讓他們誤買假幣，從而騙取他們的資金。我在單一交易所 Jupiter 上搜索 $TDCCP 時，結果顯示超過 30 種代幣，它們在名稱或標誌上與 $TDCCP 幾乎相同。要避免這種情況，可以通過代幣的合約地址（在此為 Hg8bKz4mvs8KNj9zew1cEF9tDw1x2GViB4RFZjVEmfrD）來搜索，但許多加密貨幣新手還是被騙了。</p>
+
+
+
+<p>中國只喜歡他們能掌控的加密貨幣，卻假借反對加密貨幣的名義掩飾這一點。2017年，中共關停了加密貨幣交易所並禁止新代幣發行（新幣推出）；到了2021年，更是全面禁止加密貨幣交易和挖礦。他們為此找了些荒唐的理由，比如聲稱加密貨幣挖礦危害環境。中國可是全球最大的二氧化碳排放國，恕我直言，他們突然關心起環境，未免太過虛假了吧。</p>
+
+
+
+<p>一個明顯的例子就是中共大力推動發展數位人民幣（e-CNY）。數位人民幣於2021年以試點形式推出，這是一種由國家支持的數位貨幣，旨在取代流通中的現金，並加強政府對資金流動的監控與控制能力。數位人民幣完全由中央掌控，讓政府對交易的掌控力達到前所未有的程度。通過禁止加密貨幣交易和挖礦，中國消除了競爭，確保數位人民幣在其境內保持主導地位。</p>
+
+
+
+<p>中共聲稱他們想限制比特幣，因為它可能被用來洗錢，但實際上，這是因為他們想獨佔洗錢的管道，而他們自己也在利用比特幣洗錢。</p>
+
+
+
+<p>2021年的加密貨幣交易禁令並未消除這種可能性，反而將其推向地下化，讓奸巧的官員仍能加以利用。有報導指出，中國的「加密貨幣巨鯨」從海外運作，這些人往往與富豪精英有關，這表明比特幣依然是一個可行的洗錢渠道。習近平近年來一直在「打擊」腐敗，逮捕了數千名黨內官員，但正如共產主義政權一貫的情況，這其實只是個針對黨內異議人士的木馬屠城計。習假裝針對「與加密貨幣相關的腐敗」，但最終目的是掩護他黨內盟友的腐敗行為。</p>
+
+
+
+<p>他們永遠無法消滅這個新對手競爭者。</p>
+
+
+
+<p>《$TDCCP的成功讓獨裁者驚惶失措》</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="431" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-90.png?resize=1220%2C431&#038;ssl=1" alt="" class="wp-image-183716" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-90.png?w=1442&amp;ssl=1 1442w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-90.png?resize=768%2C271&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/04/image-90.png?resize=260%2C92&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>$TDCCP 在面對中共立即試圖破壞的情況下仍迅速崛起，證明了對不滿現狀，追尋替代方案的巨大需求，即便是掌控14億人口的獨裁巨獸中共也無法阻擋。</p>
+
+
+
+<p>$TDCCP 的崛起不僅是對中共獨裁策略的短暫勝利，更是一個強烈的信號，顯示全球對抗中共壓迫的浪潮正在轉變崛起。</p>
+
+
+
+<p>它的快速普及預示了一個未來：$TDCCP 的使用將有助於瓦解中共的權力結構及中共對人民的控制。</p>
+
+
+
+<p>成敗關鍵在此一刻。$TDCCP 只是星星之火—但它點燃的烈焰可能重塑世界。</p>
+
+
+
+<p><strong>*審慎投資理財!本文僅供參考，不代表本網(報)立場</strong></p>
+
+
+
+<p><strong>*以上言論不代表本報立場</strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/04/10/%e3%80%8atdccp%e7%9a%84%e8%b5%b7%e7%be%a9%ef%bc%9a%e5%8f%8d%e5%b0%8d%e6%9a%b4%e6%94%bf%e7%9a%84%e9%81%8b%e5%8b%95%e3%80%8b/">《$TDCCP的起義：反對暴政的運動》</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>情報戰升級：美國聯手新中國聯邦設「B隊」直擊中共</title>
+		<link>https://firenews.com.tw/2025/03/30/%e6%83%85%e5%a0%b1%e6%88%b0%e5%8d%87%e7%b4%9a%ef%bc%9a%e7%be%8e%e5%9c%8b%e8%81%af%e6%89%8b%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%a8%ad%e3%80%8cb%e9%9a%8a%e3%80%8d%e7%9b%b4%e6%93%8a%e4%b8%ad/</link>
+		
+		<dc:creator><![CDATA[新崙通訊社]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2025 09:31:14 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=179007</guid>
+
+					<description><![CDATA[<p><img width="1168" height="1402" src="https://firenews.com.tw/wp-content/uploads/2025/03/image-348.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?w=1168&amp;ssl=1 1168w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?resize=768%2C922&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?resize=122%2C146&amp;ssl=1 122w" sizes="(max-width: 1168px) 100vw, 1168px" /></p>
+<p>近日，前白宮首席策略師史蒂夫·班農爆出了震驚全球的消息：美國將與新中國聯邦合作，成立一個專門針對中共威脅的情報 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/03/30/%e6%83%85%e5%a0%b1%e6%88%b0%e5%8d%87%e7%b4%9a%ef%bc%9a%e7%be%8e%e5%9c%8b%e8%81%af%e6%89%8b%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%a8%ad%e3%80%8cb%e9%9a%8a%e3%80%8d%e7%9b%b4%e6%93%8a%e4%b8%ad/">情報戰升級：美國聯手新中國聯邦設「B隊」直擊中共</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1168" height="1402" src="https://firenews.com.tw/wp-content/uploads/2025/03/image-348.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?w=1168&amp;ssl=1 1168w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?resize=768%2C922&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-348.png?resize=122%2C146&amp;ssl=1 122w" sizes="(max-width: 1168px) 100vw, 1168px" /></p>
+<p>近日，前白宮首席策略師史蒂夫·班農爆出了震驚全球的消息：美國將與新中國聯邦合作，成立一個專門針對中共威脅的情報機構——「B隊」，並計劃於今年6月3日至4日的美國建國紀念日前後在華盛頓正式宣布。據了解，這支「B隊」將由中共頭號敵人——郭文貴與美國情報界合作，旨在揭露並打擊中共的虛假宣傳與滲透策略。此舉不僅彰顯了美國對新中國聯邦的重視與支持，更有可能成為對中共政權的致命一擊。</p>
+
+
+
+<p><strong>「B隊」的歷史淵源：里根的反共行動</strong></p>
+
+
+
+<p>「B隊」的概念並非全新構想。早在冷戰時期，里根總統便設立了類似機構，「反共作戰部隊」（Counter-Communist Task Force），簡稱「B隊」，旨在應對蘇聯共產主義對全球安全的威脅。這一行動小組並非正式政府機構，而是由美國政府支持的秘密行動小組，專注於推動隱秘的反共行動。</p>
+
+
+
+<p>當年，「B隊」成功削弱蘇聯的背後，少不了商界力量的資金與情報支持，其中包括雅詩蘭黛家族等關鍵支持者，他們的協助對美國的反共行動至關重要。</p>
+
+
+
+<p>如今，中共的發展軌跡與蘇聯有著諸多相似之處。中共依靠經濟滲透和強大的宣傳機器，對美國及西方世界的影響力遠超蘇聯當年。儘管中共在全球經濟中占有舉足輕重的地位，但其表面強大掩蓋了內部深層的腐敗與脆弱，這一結構性缺陷與蘇聯崩潰前的情況頗為相似。</p>
+
+
+
+<p><strong>郭文貴：情報戰的關鍵力量</strong></p>
+
+
+
+<p>歷史總在重演。里根總統設立的「B隊」在推翻蘇聯政權過程中起到了關鍵作用。今天，郭文貴作為川普政府「B隊」戰略中的核心人物之一，正站在對抗中共的最前沿。</p>
+
+
+
+<p>作為爆料革命和新中國聯邦的發起人，郭文貴多年來揭露的中共內部腐敗及虛假宣傳，已引起美國政府的高度重視。他與美國情報機構的深入合作，使得有關中共真相的資料被重新審視，並成為美方制定對中共策略的重要依據。郭文貴的情報支持，無疑為美國對抗中共的行動注入最關鍵的力量。</p>
+
+
+
+<p>與此同時，美國國防部長近期訪問亞洲，頻繁與盟友協調軍事與經濟合作，明顯表明美國正在將戰略重心轉向亞洲。這不僅是對中共軍事擴張的回應，更是對其全球霸權野心的全面遏制。從情報到軍事，美國已下定決心，聯手新中國聯邦，共同直面中共威脅。</p>
+
+
+
+<p class="has-text-align-center"><strong>*以上言論不代表本報立場</strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/03/30/%e6%83%85%e5%a0%b1%e6%88%b0%e5%8d%87%e7%b4%9a%ef%bc%9a%e7%be%8e%e5%9c%8b%e8%81%af%e6%89%8b%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%a8%ad%e3%80%8cb%e9%9a%8a%e3%80%8d%e7%9b%b4%e6%93%8a%e4%b8%ad/">情報戰升級：美國聯手新中國聯邦設「B隊」直擊中共</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>中國大陸公布台軍資通電軍個資侯漢廷質疑國防部防禦能力</title>
+		<link>https://firenews.com.tw/2025/03/17/%e4%b8%ad%e5%9c%8b%e5%a4%a7%e9%99%b8%e5%85%ac%e5%b8%83%e5%8f%b0%e8%bb%8d%e8%b3%87%e9%80%9a%e9%9b%bb%e8%bb%8d%e5%80%8b%e8%b3%87%e4%be%af%e6%bc%a2%e5%bb%b7%e8%b3%aa%e7%96%91%e5%9c%8b%e9%98%b2%e9%83%a8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 14:44:30 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[政治]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=172784</guid>
+
+					<description><![CDATA[<p><img width="865" height="475" src="https://firenews.com.tw/wp-content/uploads/2025/03/image-194.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?resize=768%2C422&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?resize=260%2C143&amp;ssl=1 260w" sizes="(max-width: 865px) 100vw, 865px" /></p>
+<p>中國大陸近日公布一批疑似台灣資通電軍人員的個資，包括姓名、照片、生日及身分證字號等詳細資訊，並指控這些人參與對 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/03/17/%e4%b8%ad%e5%9c%8b%e5%a4%a7%e9%99%b8%e5%85%ac%e5%b8%83%e5%8f%b0%e8%bb%8d%e8%b3%87%e9%80%9a%e9%9b%bb%e8%bb%8d%e5%80%8b%e8%b3%87%e4%be%af%e6%bc%a2%e5%bb%b7%e8%b3%aa%e7%96%91%e5%9c%8b%e9%98%b2%e9%83%a8/">中國大陸公布台軍資通電軍個資侯漢廷質疑國防部防禦能力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="865" height="475" src="https://firenews.com.tw/wp-content/uploads/2025/03/image-194.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?w=865&amp;ssl=1 865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?resize=768%2C422&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/03/image-194.png?resize=260%2C143&amp;ssl=1 260w" sizes="(max-width: 865px) 100vw, 865px" /></p>
+<p>中國大陸近日公布一批疑似台灣資通電軍人員的個資，包括姓名、照片、生日及身分證字號等詳細資訊，並指控這些人參與對大陸的網軍作戰行動。對此，國防部嚴正否認，批評此舉為「指鹿為馬」，指責對岸無端拼湊指控。然而，台北市議員侯漢廷對此提出質疑，認為國防部的回應並未能消除外界的疑慮，反而凸顯了台灣在網路安全防禦上的漏洞。</p>
+
+
+
+<p><strong>侯漢廷：國防部急於否認，是否掩蓋軍中問題？</strong></p>
+
+
+
+<p>侯漢廷指出，按照獨派長期強調的「抗中」邏輯，若台灣軍方真的能成功癱瘓對岸系統，這應該被視為戰功，甚至應該受到政府的高度表揚，而不是急於否認。他質疑，國防部如此迅速地撇清關係，是否顯示軍方內部確實存在問題，甚至可能暴露了不願面對的現實——台軍的網路防禦能力極為薄弱？</p>
+
+
+
+<p>他強調，這起事件真正令人擔憂的不是中國大陸的指控，而是對岸是否真的能夠掌握台灣軍方人員的詳細個資。如果敵對勢力能夠如此精準地挖掘軍中人員資料，那麼台灣的資通電軍防線究竟薄弱到何種程度？更可怕的是，當基層官兵發現自己「未戰先被起底」，這種集體恐慌將直接影響軍心士氣，進而削弱國防戰力。</p>
+
+
+
+<p><strong>侯漢廷批民進黨：軍人第一線犧牲，權貴卻安享太平</strong></p>
+
+
+
+<p>針對台灣軍方的困境，侯漢廷進一步批評民進黨政府未能提供軍人應有的保障，反而將軍人視為政治鬥爭的工具。他直言，民進黨政府高喊「對抗中國」，但軍中基層官兵卻得不到實際的福利保障，反而背負「有罪推定」的壓力，甚至被懷疑為通匪。他更質疑：「當戰爭爆發，最先犧牲的是軍人，然而高層權貴的子女卻早已身在美國，逍遙自在，這種現象是否合理？」</p>
+
+
+
+<p>侯漢廷警告，軍中人員若被大規模起底，甚至可能成為未來中國懲戒的對象，這將讓許多軍人心生恐懼，對前線作戰產生極大的心理壓力。然而，決策高層卻無視這樣的威脅，仍舊享受權力與生活，不曾思考如何真正保護軍人。</p>
+
+
+
+<p><strong>網軍作戰是否成為打擊在野黨工具？</strong></p>
+
+
+
+<p>除了軍方資訊外洩問題，侯漢廷還提出另一個值得關注的疑點——資通電軍的真正角色。他質疑，這支軍事單位在執行對中國大陸的網路攻擊時，是否同時散播對台灣在野黨不利的資訊？換言之，這支部隊是否已經不只是對外作戰，而是變成執政黨的網軍，對內操控輿論，甚至影響選舉？</p>
+
+
+
+<p>他強調，軍人應該效忠國家憲法，而不是特定政黨，軍隊的職責是捍衛全民安全，而非成為政治鬥爭的工具。然而，若政府默許軍方參與對內政治操作，甚至運用軍審法來當作政治鬥爭的手段，那麼軍人最終將淪為政爭的祭品。</p>
+
+
+
+<p><strong>軍方防禦能力堪憂，政府應提出具體作為</strong></p>
+
+
+
+<p>面對這次個資外洩事件，侯漢廷強調，民進黨政府應該提出具體的網路防禦計畫，而不是僅僅靠否認來掩蓋問題。他表示，台灣需要建立真正有效的網路安全體系，確保軍方人員的個資不被洩露，更應該保障軍人的權益，避免讓軍人成為政爭下的犧牲品。</p>
+
+
+
+<p>他呼籲政府應該正視此事，徹查軍中是否存在資安漏洞，並提出有效應對措施，而不是任由高層決策者置身事外，繼續享受安逸生活，讓基層軍人獨自面對來自對岸的威脅。</p>
+
+
+
+<p>文章、圖 / 擷取侯漢廷臉書</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/03/17/%e4%b8%ad%e5%9c%8b%e5%a4%a7%e9%99%b8%e5%85%ac%e5%b8%83%e5%8f%b0%e8%bb%8d%e8%b3%87%e9%80%9a%e9%9b%bb%e8%bb%8d%e5%80%8b%e8%b3%87%e4%be%af%e6%bc%a2%e5%bb%b7%e8%b3%aa%e7%96%91%e5%9c%8b%e9%98%b2%e9%83%a8/">中國大陸公布台軍資通電軍個資侯漢廷質疑國防部防禦能力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>川普就職前夕｜新中國聯邦與班農陣營匯師華府</title>
+		<link>https://firenews.com.tw/2025/01/21/%e5%b7%9d%e6%99%ae%e5%b0%b1%e8%81%b7%e5%89%8d%e5%a4%95%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%88%87%e7%8f%ad%e8%be%b2%e9%99%a3%e7%87%9f%e5%8c%af%e5%b8%ab%e8%8f%af%e5%ba%9c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 15:52:19 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=153226</guid>
+
+					<description><![CDATA[<p>美國前總統川普（Donald Trump）即將正式宣誓就任美國第47任總統，由新中國聯邦與前白宮首席戰略顧問史 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/01/21/%e5%b7%9d%e6%99%ae%e5%b0%b1%e8%81%b7%e5%89%8d%e5%a4%95%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%88%87%e7%8f%ad%e8%be%b2%e9%99%a3%e7%87%9f%e5%8c%af%e5%b8%ab%e8%8f%af%e5%ba%9c/">川普就職前夕｜新中國聯邦與班農陣營匯師華府</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>美國前總統川普（Donald Trump）即將正式宣誓就任美國第47任總統，由新中國聯邦與前白宮首席戰略顧問史蒂夫·班農（Steve Bannon）的「戰情室」(War Room)聯合主辦的集會於華盛頓特區舉行，吸引近三百名與會者雲集。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-153227" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?w=1600&amp;ssl=1 1600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/01/image-254.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p><strong>人民力量再現傑克遜時代</strong></p>
+
+
+
+<p>班農於致辭中援引美國第七任總統安德魯·傑克遜時期的草根精神，形容是次集會猶如1829年「平民總統」傑克遜就職時期的人民運動再現。「這將是美國立國以來最具歷史意義的週末之一」，班農如是說。</p>
+
+
+
+<p>觀乎美國政治史，傑克遜時期被史學界譽為「傑克遜式民主」(Jacksonian Democracy)年代，標誌著美國政治走向全民參與的分水嶺。班農提到，他希望本次聚會能成為週末熱潮的開端，為川普總統即將到來的就職典禮預熱。</p>
+
+
+
+<p><strong>新中國聯邦陣營擲地有聲</strong></p>
+
+
+
+<p>新中國聯邦代表於會上發表措辭強硬的演說，闡述該組織的政治理念。他指出：「中國共產黨並不能代表全體中國人」，並引用美國開國元勳傑佛遜「人人生而平等」的理念，強調建立以普選為基礎的民主制度乃該組織之終極目標。</p>
+
+
+
+<p><strong>反共呼聲震動會場</strong></p>
+
+
+
+<p>集會高潮之際，全場高呼「Take down the CCP（打倒中共）」的口號，場面震撼。此情此景，令人想起1989年天安門民主運動期間，中國人奮勇追求自由的歷史畫面，兩者遙相呼應。</p>
+
+
+
+<p>會上，班農預告川普將於本月20日中午宣誓就職。新中國聯邦此番參與活動，將被視為該組織在國際舞台上的一次重要亮相。自創立以來，該組織就備受中共當局的打壓，北京當局傾一國之力，多管齊下進行抹黑，包括發起人郭文貴先生的司法霸凌、人格污衊、以及對整個新中國聯邦的全平台網絡攻擊等。</p>
+
+
+
+<p>有美國政治評論認為，新中國聯邦能在重重阻力下生存發展，某程度上印證了法國思想家托克維爾在《論美國的民主》中所言：「結社自由乃民主社會的基石」。該組織此次與班農陣營的合作，被視為滅共行動的又一次重要突破。</p>
+
+
+
+<p class="has-text-align-center"><strong>*以上言論不代表本報立場</strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/01/21/%e5%b7%9d%e6%99%ae%e5%b0%b1%e8%81%b7%e5%89%8d%e5%a4%95%ef%bd%9c%e6%96%b0%e4%b8%ad%e5%9c%8b%e8%81%af%e9%82%a6%e8%88%87%e7%8f%ad%e8%be%b2%e9%99%a3%e7%87%9f%e5%8c%af%e5%b8%ab%e8%8f%af%e5%ba%9c/">川普就職前夕｜新中國聯邦與班農陣營匯師華府</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>民間黑客松推動國會透明，呼籲立法院韓國瑜院長別停滯改革！</title>
+		<link>https://firenews.com.tw/2024/12/11/%e6%b0%91%e9%96%93%e9%bb%91%e5%ae%a2%e6%9d%be%e6%8e%a8%e5%8b%95%e5%9c%8b%e6%9c%83%e9%80%8f%e6%98%8e%ef%bc%8c%e5%91%bc%e7%b1%b2%e7%ab%8b%e6%b3%95%e9%99%a2%e9%9f%93%e5%9c%8b%e7%91%9c%e9%99%a2%e9%95%b7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 12:27:01 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=137065</guid>
+
+					<description><![CDATA[<p><img width="1090" height="876" src="https://firenews.com.tw/wp-content/uploads/2024/12/image-172.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?w=1090&amp;ssl=1 1090w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=768%2C617&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=182%2C146&amp;ssl=1 182w" sizes="(max-width: 1090px) 100vw, 1090px" /></p>
+<p>文 / 社團法人公民監督國會聯盟 有鑑於國會在民主社會中的重要性，因此需要更多公民關注國會、監督國會，才能防止 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/12/11/%e6%b0%91%e9%96%93%e9%bb%91%e5%ae%a2%e6%9d%be%e6%8e%a8%e5%8b%95%e5%9c%8b%e6%9c%83%e9%80%8f%e6%98%8e%ef%bc%8c%e5%91%bc%e7%b1%b2%e7%ab%8b%e6%b3%95%e9%99%a2%e9%9f%93%e5%9c%8b%e7%91%9c%e9%99%a2%e9%95%b7/">民間黑客松推動國會透明，呼籲立法院韓國瑜院長別停滯改革！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1090" height="876" src="https://firenews.com.tw/wp-content/uploads/2024/12/image-172.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?w=1090&amp;ssl=1 1090w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=768%2C617&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=182%2C146&amp;ssl=1 182w" sizes="(max-width: 1090px) 100vw, 1090px" /></p>
+<p>文 / 社團法人公民監督國會聯盟</p>
+
+
+
+<p>有鑑於國會在民主社會中的重要性，因此需要更多公民關注國會、監督國會，才能防止國會腐化；在這個前提之下，「國會議事透明化」–讓一般民眾容易取得的國會議事資料便是達到此目標的關鍵。因此，公民監督國會聯盟(公督盟)在12月6日、7日，舉辦「開放國會黑客松」的工作坊，吸引許多民眾報名參加，希望讓更多公民了解如何應用立法院的議事資料，並且透過黑客松（hackthon）的形式，讓講者和民眾一起腦力激盪，透過團隊合作，提出當前「開放國會」的不足之處，透過程式語言進行立法院資料查找的改善工程。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1090" height="876" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=1090%2C876&#038;ssl=1" alt="" class="wp-image-137066" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?w=1090&amp;ssl=1 1090w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=768%2C617&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/12/image-172.png?resize=182%2C146&amp;ssl=1 182w" sizes="(max-width: 1090px) 100vw, 1090px" data-recalc-dims="1" /><figcaption class="wp-element-caption">開放國會黑客松12月6日第一場次合照，由左至右分別是，台灣人工智慧學校基金會秘書長侯宜秀、開放文化基金會執行秘書林韋丞、歐噴公司負責人王向榮、公督盟副執行長甘順基</figcaption></figure>
+
+
+
+<p><strong>導入AI新科技監督國會，讓公共議題參與門檻大幅降低！</strong></p>
+
+
+
+<p>2016年，在公督盟…等多個民間組織多年倡議下，立法院設立國會頻道，讓人民隨時隨地都可以觀看立法委員質詢影片，並且將許多正式會議資料上網公開，期待藉由民主、公開、透明的原則，讓人民重新信任立法院，不過，如今八年過去了，雖然立法院議事資料的開放程度已經有顯著進步，但繁雜的議事資料卻未經過整理，導致一般民眾仍然難以查詢議事資料，變相地提高公民參與公共議題討論的門檻；為此，有許多公民工程師，和國會資料的專業使用者（包含：NGO、媒體、國會助理）相互討論，利用APP、聊天機器人，以及導入人工智慧（AI）等概念，期待將複雜的國會資料，做出更視覺化的揭露，讓民眾公共政策討論的門檻大幅降低！讓參與式民主的種子在台灣國會成長茁壯！</p>
+
+
+
+<p><strong>呼籲立法院長韓國瑜應持續推動「開放國會」，增加我國民主能見度！</strong></p>
+
+
+
+<p>為使國會資訊更加公開透明，讓人民更能容易參與國會議事並監督國會，上一屆立法院在朝野支持下，依循國際上，開放政府夥伴聯盟(Open Government Partnership,OGP)的核心價值及原則推動「開放國會」計畫。由立法院民意代表、技術官僚、民間團體，三方共同合作，提出五大主題，和二十項具體的開放國會承諾，讓當前多數議事資料都具有開源格式（open source），使工程師能夠更方便統整複雜的議事資料，也讓民眾有更多可能性將國會議事資料加值利用。</p>
+
+
+
+<p>當前，「開放國會」已是民主社會顯學，公督盟呼籲立法院長韓國瑜應持續推動「開放國會」的工作進行，除了參考國際案例，持續精進立法院議事開放程度，讓民眾重新信任立法院，更應該要將台灣立法院的透明經驗向國際分享，讓世界看見台灣民主發展的活力！</p>
+
+
+
+<p>副執行長 甘順基0975-172-814</p>
+
+
+
+<p><a href="mailto:policykan@ccw.org.tw">policykan@ccw.org.tw</a></p>
+
+
+
+<p>政策部主任 陳利益0908-797-007</p>
+
+
+
+<p>policyliyi@ccw.org.tw</p>
+
+
+
+<p>電話02-2367-1571 傳真 02-2364-1694<br></p>
+
+
+
+<p><br><br></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/12/11/%e6%b0%91%e9%96%93%e9%bb%91%e5%ae%a2%e6%9d%be%e6%8e%a8%e5%8b%95%e5%9c%8b%e6%9c%83%e9%80%8f%e6%98%8e%ef%bc%8c%e5%91%bc%e7%b1%b2%e7%ab%8b%e6%b3%95%e9%99%a2%e9%9f%93%e5%9c%8b%e7%91%9c%e9%99%a2%e9%95%b7/">民間黑客松推動國會透明，呼籲立法院韓國瑜院長別停滯改革！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>最新民調出爐！台南市民憂心電力不足 逾七成：應提高台南電力自給率</title>
+		<link>https://firenews.com.tw/2024/10/26/%e6%9c%80%e6%96%b0%e6%b0%91%e8%aa%bf%e5%87%ba%e7%88%90%ef%bc%81%e5%8f%b0%e5%8d%97%e5%b8%82%e6%b0%91%e6%86%82%e5%bf%83%e9%9b%bb%e5%8a%9b%e4%b8%8d%e8%b6%b3-%e9%80%be%e4%b8%83%e6%88%90%ef%bc%9a%e6%87%89/</link>
+					<comments>https://firenews.com.tw/2024/10/26/%e6%9c%80%e6%96%b0%e6%b0%91%e8%aa%bf%e5%87%ba%e7%88%90%ef%bc%81%e5%8f%b0%e5%8d%97%e5%b8%82%e6%b0%91%e6%86%82%e5%bf%83%e9%9b%bb%e5%8a%9b%e4%b8%8d%e8%b6%b3-%e9%80%be%e4%b8%83%e6%88%90%ef%bc%9a%e6%87%89/#respond</comments>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2024 06:41:50 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[政治]]></category>
+		<category><![CDATA[台南市民]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=120080</guid>
+
+					<description><![CDATA[<p><img width="612" height="458" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-299.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>根據最新出爐的「台南市民電力議題民調」結果顯示，高達63.4%不相信「台灣整體完全不會有缺電問題」，70.8% &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/26/%e6%9c%80%e6%96%b0%e6%b0%91%e8%aa%bf%e5%87%ba%e7%88%90%ef%bc%81%e5%8f%b0%e5%8d%97%e5%b8%82%e6%b0%91%e6%86%82%e5%bf%83%e9%9b%bb%e5%8a%9b%e4%b8%8d%e8%b6%b3-%e9%80%be%e4%b8%83%e6%88%90%ef%bc%9a%e6%87%89/">最新民調出爐！台南市民憂心電力不足 逾七成：應提高台南電力自給率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="458" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-299.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>根據最新出爐的「台南市民電力議題民調」結果顯示，高達63.4%不相信「台灣整體完全不會有缺電問題」，70.8%的台南市民認為台南應該提高整體供電的自給率，給予產業未來更好的發展環境。至於該提高多少電力自給率？46.1%民眾認為應該超過40%-80%，另有25.1%民眾認為應該超過80%-100%。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="612" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?resize=612%2C458&#038;ssl=1" alt="" class="wp-image-120081" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-299.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">電廠。圖:istock</figcaption></figure>
+
+
+
+<p>如果要提高電力自給率，電廠應該蓋在那裡？63.3%台南市民眾認為應該蓋在<a>「工業區」</a>，但也有近二成民眾認為可以蓋在「農業區」，「住宅區」、「商業區」僅0.2%、2.2%，顯示民眾認為電廠<a>蓋在「工業區」</a>最佳，離電力大用戶最近，也是對於民眾生活影響範圍最小的。</p>
+
+
+
+<p>至於政府所稱<a>「台灣整體完全不會有缺電問題」，</a>台南市民只有29.4%願意相信（非常同意6.8%、還算同意22.6%），但卻有<a>高達</a>63.4%不相信台灣可以完全不缺電（不太同意者33.1%、非常不同意者28.3%），不知道/沒竟見者9.2%。</p>
+
+
+
+<p>值得關切的是，政黨傾向方面，民進黨32.5%，國民黨14.8%，民眾黨6.6%，無政黨傾向34.3%，不知道或其他政黨11.7%，顯示台南地區中間選民對於電力的需求非常重視，並且持續關切電力議題。在教育程度方面，大專、大學、研究所以上達49.4%，年齡層遍布20-70歲以上。</p>
+
+
+
+<p>此一問卷調查時間，自2024年10月21日至2024年10月23日，調查地區以居住在台南市37個行政區，且年滿20歲的一般民眾，有效樣本1,213份。在95%的信心水準下，抽樣誤差在正負2.81個百分點內。</p>
+
+
+
+<p>調查方法，採用市話方式進行調查，採用中華電信住宅電話簿進行抽樣，並且尾數2位進行隨機；再依照數位發展部最新人口資料針對行政區、性別、年齡以及教育程度進行加權處理。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/26/%e6%9c%80%e6%96%b0%e6%b0%91%e8%aa%bf%e5%87%ba%e7%88%90%ef%bc%81%e5%8f%b0%e5%8d%97%e5%b8%82%e6%b0%91%e6%86%82%e5%bf%83%e9%9b%bb%e5%8a%9b%e4%b8%8d%e8%b6%b3-%e9%80%be%e4%b8%83%e6%88%90%ef%bc%9a%e6%87%89/">最新民調出爐！台南市民憂心電力不足 逾七成：應提高台南電力自給率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://firenews.com.tw/2024/10/26/%e6%9c%80%e6%96%b0%e6%b0%91%e8%aa%bf%e5%87%ba%e7%88%90%ef%bc%81%e5%8f%b0%e5%8d%97%e5%b8%82%e6%b0%91%e6%86%82%e5%bf%83%e9%9b%bb%e5%8a%9b%e4%b8%8d%e8%b6%b3-%e9%80%be%e4%b8%83%e6%88%90%ef%bc%9a%e6%87%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>九崴電廠設置中央地方不同調 黃偉哲：電廠蓋好 南科才不缺電</title>
+		<link>https://firenews.com.tw/2024/10/23/%e4%b9%9d%e5%b4%b4%e9%9b%bb%e5%bb%a0%e8%a8%ad%e7%bd%ae%e4%b8%ad%e5%a4%ae%e5%9c%b0%e6%96%b9%e4%b8%8d%e5%90%8c%e8%aa%bf-%e9%bb%83%e5%81%89%e5%93%b2%ef%bc%9a%e9%9b%bb%e5%bb%a0%e8%93%8b%e5%a5%bd-%e5%8d%97/</link>
+					<comments>https://firenews.com.tw/2024/10/23/%e4%b9%9d%e5%b4%b4%e9%9b%bb%e5%bb%a0%e8%a8%ad%e7%bd%ae%e4%b8%ad%e5%a4%ae%e5%9c%b0%e6%96%b9%e4%b8%8d%e5%90%8c%e8%aa%bf-%e9%bb%83%e5%81%89%e5%93%b2%ef%bc%9a%e9%9b%bb%e5%bb%a0%e8%93%8b%e5%a5%bd-%e5%8d%97/#respond</comments>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2024 10:00:54 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[政治]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=118802</guid>
+
+					<description><![CDATA[<p><img width="2250" height="1500" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-268.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?w=2250&amp;ssl=1 2250w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 2250px) 100vw, 2250px" /></p>
+<p>九崴天然氣電廠設置案爭議持續，近日民進黨台南立委、議會黨團都帶頭反對電廠設置在新選址在樹谷園區，但台南市長黃偉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/23/%e4%b9%9d%e5%b4%b4%e9%9b%bb%e5%bb%a0%e8%a8%ad%e7%bd%ae%e4%b8%ad%e5%a4%ae%e5%9c%b0%e6%96%b9%e4%b8%8d%e5%90%8c%e8%aa%bf-%e9%bb%83%e5%81%89%e5%93%b2%ef%bc%9a%e9%9b%bb%e5%bb%a0%e8%93%8b%e5%a5%bd-%e5%8d%97/">九崴電廠設置中央地方不同調 黃偉哲：電廠蓋好 南科才不缺電</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2250" height="1500" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-268.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?w=2250&amp;ssl=1 2250w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 2250px) 100vw, 2250px" /></p>
+<p>九崴天然氣電廠設置案爭議持續，近日民進黨台南立委、議會黨團都帶頭反對電廠設置在新選址在樹谷園區，但台南市長黃偉哲表示，行政院長卓榮泰指未來5至8年的工業電力不會短缺，前提應是電廠能夠順利興建；南科管理局說不缺電，但那也必須要有蓋好的電廠，南科才能不缺電，台南市政府尊重民意，但事實上台南是用電不足。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-118803" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?w=2250&amp;ssl=1 2250w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-268.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖說：九崴電廠遷址仍受阻，恐影響台南未來經濟發展（圖片來源：Pexels）</figcaption></figure>
+
+
+
+<p>綠營人士表示，九崴電廠議題能從兩個面向討論，首先是國家能源轉型階段，火力發電轉型成為燃氣電廠是中央政府力推大方向，無論藍綠，勢在必行；再者是牽涉綠營內部政治角力，這點從黃偉哲和民進黨民代立場不一致，就可觀察出來。</p>
+
+
+
+<p>綠營人士指出，北中南地區目前皆加速推動興建燃氣機組，連國民黨籍的台中市長盧秀燕日前也喊出配合「以氣換煤」，反而是台南作為民進黨本命區，卻和中央意見不一致。在國家政策推動方向不變前提下，台南勢必也得跟上「國家隊」腳步，發展新興燃氣電廠。</p>
+
+
+
+<p>該人士說，近來AI產業成為各縣市積極爭取設廠標的，電力供應無虞正是發展該產業關鍵因素。正如黃偉哲日前在議會備詢所言，「台南市每年用電量達328億度，自給發電僅約89億度，不足部分由台中、高雄供應」。台南用電自給率在6都排名倒數是擺在眼前事實，這攸關台南未來經濟發展、產業轉型，盼能以地方放展為重，莫因事涉台南市長卡位戰，而捲入更多不必要的政治、派系因素。</p>
+
+
+
+<p>黃偉哲除了點出台南工業用電吃緊，用電自給率不足，談及九崴電廠爭議也表示，台南市府對於電廠受到抗爭態度保持中立。先前九崴於安定、安南區周邊規畫電廠，遭到5000份連署抗爭，也因此議會決議要電廠搬到工業區，該案是中央許可；中央認為在那可以蓋，市府從事件緣起到選址都沒有參與，現在樹谷園區抗爭，是因為電力製造業非屬園區許可進駐之產業。</p>
+
+
+
+<p>台南市經發局表示，工業區為台南主要用電標的，為配合中央分散式電力規畫，未來工業區土地規畫將設置「電力設施用地」，引進產業別將增加「電力及燃氣供應業」或「配合能源政策」，以確保電力事業可進入工業區內。</p>
+
+
+
+<p>蘇子喬總結，目前的僵局和對立，在大法官是中立、公正的前提下，若能透過釋憲程序解決問題，其實是有意義的。只是現在大法官的公正性受到很大的質疑，國民黨、民眾黨在政治上，自然無法接受聲請䆁憲這樣的做法。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/23/%e4%b9%9d%e5%b4%b4%e9%9b%bb%e5%bb%a0%e8%a8%ad%e7%bd%ae%e4%b8%ad%e5%a4%ae%e5%9c%b0%e6%96%b9%e4%b8%8d%e5%90%8c%e8%aa%bf-%e9%bb%83%e5%81%89%e5%93%b2%ef%bc%9a%e9%9b%bb%e5%bb%a0%e8%93%8b%e5%a5%bd-%e5%8d%97/">九崴電廠設置中央地方不同調 黃偉哲：電廠蓋好 南科才不缺電</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://firenews.com.tw/2024/10/23/%e4%b9%9d%e5%b4%b4%e9%9b%bb%e5%bb%a0%e8%a8%ad%e7%bd%ae%e4%b8%ad%e5%a4%ae%e5%9c%b0%e6%96%b9%e4%b8%8d%e5%90%8c%e8%aa%bf-%e9%bb%83%e5%81%89%e5%93%b2%ef%bc%9a%e9%9b%bb%e5%bb%a0%e8%93%8b%e5%a5%bd-%e5%8d%97/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>蔣市府該勒令京華城停工？律師揭1前提：否則恐面臨國賠</title>
+		<link>https://firenews.com.tw/2024/10/16/%e8%94%a3%e5%b8%82%e5%ba%9c%e8%a9%b2%e5%8b%92%e4%bb%a4%e4%ba%ac%e8%8f%af%e5%9f%8e%e5%81%9c%e5%b7%a5%ef%bc%9f%e5%be%8b%e5%b8%ab%e6%8f%ad1%e5%89%8d%e6%8f%90%ef%bc%9a%e5%90%a6%e5%89%87%e6%81%90%e9%9d%a2/</link>
+					<comments>https://firenews.com.tw/2024/10/16/%e8%94%a3%e5%b8%82%e5%ba%9c%e8%a9%b2%e5%8b%92%e4%bb%a4%e4%ba%ac%e8%8f%af%e5%9f%8e%e5%81%9c%e5%b7%a5%ef%bc%9f%e5%be%8b%e5%b8%ab%e6%8f%ad1%e5%89%8d%e6%8f%90%ef%bc%9a%e5%90%a6%e5%89%87%e6%81%90%e9%9d%a2/#respond</comments>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2024 07:38:39 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=116775</guid>
+
+					<description><![CDATA[<p><img width="2364" height="1774" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-188.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2364px) 100vw, 2364px" /></p>
+<p>台北地檢署逕行扣押京華城土地後，蔣市府應否勒令京華城停工，引發爭議。律師蘇芝昇表示，北檢偵查標的是京華城「20 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/16/%e8%94%a3%e5%b8%82%e5%ba%9c%e8%a9%b2%e5%8b%92%e4%bb%a4%e4%ba%ac%e8%8f%af%e5%9f%8e%e5%81%9c%e5%b7%a5%ef%bc%9f%e5%be%8b%e5%b8%ab%e6%8f%ad1%e5%89%8d%e6%8f%90%ef%bc%9a%e5%90%a6%e5%89%87%e6%81%90%e9%9d%a2/">蔣市府該勒令京華城停工？律師揭1前提：否則恐面臨國賠</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2364" height="1774" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-188.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 2364px) 100vw, 2364px" /></p>
+<p>台北地檢署逕行扣押京華城土地後，蔣市府應否勒令京華城停工，引發爭議。律師蘇芝昇表示，北檢偵查標的是京華城「20%容積獎勵」不法所得，並不是土地，京華城尚未蓋好，容積獎勵犯罪所得未實現，檢方此時「扣押土地」做法將會衍生法律糾紛，加上刑事案件未經判決有罪確定，蔣市府若未釐清即恣意宣佈停工，將面臨國家賠償責任。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-116777" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-188.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">現場人員拍攝</figcaption></figure>
+
+
+
+<p>蘇芝昇指出，京華城<a href="https://udn.com/search/tagging/2/%E5%AE%B9%E7%A9%8D%E7%8E%87"><strong>容積率</strong></a>案，台北地檢署目前的偵查作為遇到瓶頸，才會使出在偵查中扣押「第三人」鼎越開發公司土地的殺手鐧，逼使民眾黨主席<a href="https://udn.com/search/tagging/2/%E6%9F%AF%E6%96%87%E5%93%B2"><strong>柯文哲</strong></a>和相關人等認罪。然而，偵查中扣押這種辦案手段要用得謹慎，否則不僅違反正當法律程序，造成的後遺症更是無法挽回。</p>
+
+
+
+<p>蘇芝昇舉例，特偵組偵辦<a href="https://udn.com/search/tagging/2/%E9%84%A7%E6%96%87%E8%81%B0"><strong>鄧文聰</strong></a>掏空案時，在2016年刑事訴訟法剛通過增列偵查中扣押的條文，特偵組立馬運用偵查中扣押第三人財產的手段，結果摧毀了一家無辜的企業和六百多名員工生計。</p>
+
+
+
+<p>蘇芝昇表示，又如當時位在高雄市地標85大樓的<a href="https://udn.com/search/tagging/2/%E5%90%9B%E9%B4%BB%E9%85%92%E5%BA%97"><strong>君鴻酒店</strong></a>，因特偵組檢察官「懷疑」該酒店與幸福人壽前董座鄧文聰掏空案有資金往來，逕行對「第三人」君鴻酒店扣押，並通知地政機關實施「禁止處分」登記，五年後，高院判決「君鴻酒店與鄧文聰案無關，財產也不須沒收」，但是傷害已造成，君鴻酒店已倒閉。</p>
+
+
+
+<p>蘇芝昇指出，檢方在偵查中扣押第三人的資產，是一種強度極大且干預人民財產權的強制處分，當然必須依循正當法律程序，以符合憲法保障人民基本權的要求。</p>
+
+
+
+<p>蘇芝昇說，台北市政府在2018年公告京華城變更細部計畫容積率為840%（560%基準容積率x30%容積移轉x20%容積獎勵），細部計畫在行政法上被視為行政處分，在行政處分未經撤銷或廢止之前，人民皆受信賴利益的保護；畢竟，國家應該對自己所做出的行為或承諾守信用，維護法律安定性，人民也才有一個準則可以依循。</p>
+
+
+
+<p>蘇芝昇質疑，蔣市府該不該即刻對京華城停工？<strong>在2018年細部計畫的行政處分未被廢止撤銷前，當然就不能恣意片面宣佈停工。否則，<a href="https://udn.com/search/tagging/2/%E5%8C%97%E5%B8%82%E5%BA%9C"><strong>北市府</strong></a>將負擔國家賠償責任</strong>。另外，台北地檢署目前偵辦的是京華城的「容積率」案，並不是「土地不法」案。</p>
+
+
+
+<p>蘇芝昇表示，京華城土地早已經國際標售由第三人鼎越公司購入，京華城的20%容積獎勵則是在京華城賣地前即向北市府申請所得，與鼎越並無直接關連性。目前京華城仍在興建中，房子沒蓋好，檢方視為不法利得的20%容積獎勵，尚未實現，如何扣押？況且，20%容積獎勵占840%總容積面積比例僅8.4%，檢方卻扣押京華城全部土地，豈不是超額查封？概念上就像是，「我只欠你80萬元，你卻查封我1000萬元的房子」。</p>
+
+
+
+<p>蘇芝昇指出，<a href="https://udn.com/search/tagging/2/%E4%BA%AC%E8%8F%AF%E5%9F%8E%E6%A1%88"><strong>京華城案</strong></a>紛擾數十年，就是因為北市府的立法與行政怠墮所致。在當今政治氛圍下，檢察官扣押京華城可以沒有國家賠償責任，但是蔣市府沒有依法行政，恣意停工，當然有國家賠償責任。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/16/%e8%94%a3%e5%b8%82%e5%ba%9c%e8%a9%b2%e5%8b%92%e4%bb%a4%e4%ba%ac%e8%8f%af%e5%9f%8e%e5%81%9c%e5%b7%a5%ef%bc%9f%e5%be%8b%e5%b8%ab%e6%8f%ad1%e5%89%8d%e6%8f%90%ef%bc%9a%e5%90%a6%e5%89%87%e6%81%90%e9%9d%a2/">蔣市府該勒令京華城停工？律師揭1前提：否則恐面臨國賠</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://firenews.com.tw/2024/10/16/%e8%94%a3%e5%b8%82%e5%ba%9c%e8%a9%b2%e5%8b%92%e4%bb%a4%e4%ba%ac%e8%8f%af%e5%9f%8e%e5%81%9c%e5%b7%a5%ef%bc%9f%e5%be%8b%e5%b8%ab%e6%8f%ad1%e5%89%8d%e6%8f%90%ef%bc%9a%e5%90%a6%e5%89%87%e6%81%90%e9%9d%a2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>基隆市長罷免倒數！鄭正鈐：一定要出來投「不同意罷免」</title>
+		<link>https://firenews.com.tw/2024/10/11/%e5%9f%ba%e9%9a%86%e5%b8%82%e9%95%b7%e7%bd%b7%e5%85%8d%e5%80%92%e6%95%b8%ef%bc%81%e9%84%ad%e6%ad%a3%e9%88%90%ef%bc%9a%e4%b8%80%e5%ae%9a%e8%a6%81%e5%87%ba%e4%be%86%e6%8a%95%e3%80%8c%e4%b8%8d%e5%90%8c/</link>
+					<comments>https://firenews.com.tw/2024/10/11/%e5%9f%ba%e9%9a%86%e5%b8%82%e9%95%b7%e7%bd%b7%e5%85%8d%e5%80%92%e6%95%b8%ef%bc%81%e9%84%ad%e6%ad%a3%e9%88%90%ef%bc%9a%e4%b8%80%e5%ae%9a%e8%a6%81%e5%87%ba%e4%be%86%e6%8a%95%e3%80%8c%e4%b8%8d%e5%90%8c/#respond</comments>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 11 Oct 2024 03:47:31 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[政治]]></category>
+		<category><![CDATA[罷免]]></category>
+		<category><![CDATA[謝國樑]]></category>
+		<category><![CDATA[鄭正鈐]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=115217</guid>
+
+					<description><![CDATA[<p><img width="902" height="994" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-104.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?w=902&amp;ssl=1 902w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=768%2C846&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=132%2C146&amp;ssl=1 132w" sizes="(max-width: 902px) 100vw, 902px" /></p>
+<p>新竹市立法委員鄭正鈐今日（11號）前往基隆市，與基隆市長謝國樑一同合體掃街，希望能爭取更多市民對謝國樑的支持。 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/11/%e5%9f%ba%e9%9a%86%e5%b8%82%e9%95%b7%e7%bd%b7%e5%85%8d%e5%80%92%e6%95%b8%ef%bc%81%e9%84%ad%e6%ad%a3%e9%88%90%ef%bc%9a%e4%b8%80%e5%ae%9a%e8%a6%81%e5%87%ba%e4%be%86%e6%8a%95%e3%80%8c%e4%b8%8d%e5%90%8c/">基隆市長罷免倒數！鄭正鈐：一定要出來投「不同意罷免」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="902" height="994" src="https://firenews.com.tw/wp-content/uploads/2024/10/image-104.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?w=902&amp;ssl=1 902w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=768%2C846&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=132%2C146&amp;ssl=1 132w" sizes="(max-width: 902px) 100vw, 902px" /></p>
+<p>新竹市立法委員鄭正鈐今日（11號）前往基隆市，與基隆市長謝國樑一同合體掃街，希望能爭取更多市民對謝國樑的支持。這次行動的目的在於呼籲選民在即將到來的10月13日罷免投票日，站出來投下「不同意罷免」的一票，以確保謝國樑及其市府團隊能繼續推動基隆市的建設和發展。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="902" height="994" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=902%2C994&#038;ssl=1" alt="" class="wp-image-115218" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?w=902&amp;ssl=1 902w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=768%2C846&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-104.png?resize=132%2C146&amp;ssl=1 132w" sizes="(max-width: 902px) 100vw, 902px" data-recalc-dims="1" /></figure>
+
+
+
+<p>謝國樑在掃街過程中強調，這次投票日對基隆市民和市政發展具有重要意義。他表示，市府團隊在這段時間內積極推動各項政策和建設，努力為市民謀求更多福祉。他呼籲基隆市民，不要輕易被不實的指控或負面言論影響，應該冷靜思考，用行動來支持能夠實際做事的市府團隊，讓基隆市能夠在穩定的環境下持續發展。他強調，市民的每一票都至關重要，只有站出來投下「不同意罷免」票，才能讓會做事的團隊繼續為大家打拚，也讓台灣回歸穩定。</p>
+
+
+
+<p>鄭正鈐則指出，自己特地從新竹到基隆來，目的是因為他對謝國樑的政績和領導能力非常認同。他認為，謝國樑在市政推動上的成果顯著，這些政績不僅提升了基隆市的整體面貌，也為市民的生活品質帶來了實質的改善。鄭正鈐強調，在民主制度下，民選公職應該在任期結束時才進行檢驗，而非在中途因選舉失利就動用罷免手段，這違背了公平的民主精神。</p>
+
+
+
+<p>鄭正鈐呼籲支持謝國樑的市民，不要認為坐在家裡不投票就是表達對罷免的不支持。他強調，這種沉默的方式在投票過程中無法有效發揮作用。為了讓基隆市的發展不因政治操作而中斷，市民必須積極行動，出來投下「不同意罷免」票，為謝國樑的市政團隊加油打氣，讓他們能在穩定的環境下繼續為基隆市民努力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="834" height="1188" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-105.png?resize=834%2C1188&#038;ssl=1" alt="" class="wp-image-115219" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-105.png?w=834&amp;ssl=1 834w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-105.png?resize=768%2C1094&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2024/10/image-105.png?resize=102%2C146&amp;ssl=1 102w" sizes="(max-width: 834px) 100vw, 834px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在掃街過程中，鄭正鈐和謝國樑的言論引起了許多民眾的共鳴。謝國樑強調，市府團隊的工作需要時間來推動和落實，許多政策和建設正在進行中，未來還有更多計劃等待實施。他相信，只要基隆市能保持政策的連續性，未來將會有更多的發展機會，市民生活質量也會不斷提升。因此，他呼籲市民珍惜這次投票機會，用行動來捍衛基隆的進步與穩定。</p>
+
+
+
+<p>鄭正鈐進一步闡述，民主社會中的罷免制度，應是為了制衡不適任或違法失德的公職人員，而不是成為選舉失利後的報復手段。他認為，基隆市民應該以理性態度來看待這次罷免案，明辨是非，支持真正為市民謀福利的領導者。鄭正鈐特別強調，民主的真諦在於透過定期選舉來檢視公職人員的表現，而不是在選舉過後因不滿而發起罷免，這樣不僅對城市發展無益，還會影響市府團隊的施政穩定性。</p>
+
+
+
+<p>最後，鄭正鈐再次強調，希望市民能在10月13日這個關鍵日子裡，站出來為基隆市的未來投下一票。他呼籲，投下「不同意罷免」票，不僅是對謝國樑市政團隊的肯定，也是對基隆市未來穩定發展的承諾。鄭正鈐和謝國樑一致表示，唯有在穩定的政治環境下，基隆市才能持續向前邁進，實現更繁榮、更美好的未來。</p>
+
+
+
+<p>這次合體掃街的行動展現了「挺善樑」團結合作的力量，也向基隆市民傳遞了明確的信息：支持謝國樑也支持基隆市的未來發展。鄭正鈐的聲援和謝國樑的訴求，無疑在市民心中引起了共鳴，他們希望能透過這次的掃街活動，凝聚更多民眾的力量，共同推動基隆市朝著更美好的方向邁進。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2024/10/11/%e5%9f%ba%e9%9a%86%e5%b8%82%e9%95%b7%e7%bd%b7%e5%85%8d%e5%80%92%e6%95%b8%ef%bc%81%e9%84%ad%e6%ad%a3%e9%88%90%ef%bc%9a%e4%b8%80%e5%ae%9a%e8%a6%81%e5%87%ba%e4%be%86%e6%8a%95%e3%80%8c%e4%b8%8d%e5%90%8c/">基隆市長罷免倒數！鄭正鈐：一定要出來投「不同意罷免」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://firenews.com.tw/2024/10/11/%e5%9f%ba%e9%9a%86%e5%b8%82%e9%95%b7%e7%bd%b7%e5%85%8d%e5%80%92%e6%95%b8%ef%bc%81%e9%84%ad%e6%ad%a3%e9%88%90%ef%bc%9a%e4%b8%80%e5%ae%9a%e8%a6%81%e5%87%ba%e4%be%86%e6%8a%95%e3%80%8c%e4%b8%8d%e5%90%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
