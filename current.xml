@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 16 Jul 2025 06:43:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jul 2025 05:43:17 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI開發購物結帳系統 從ChatGPT訂單中賺取傭金</title>
+		<link>https://firenews.com.tw/2025/07/17/openai%e9%96%8b%e7%99%bc%e8%b3%bc%e7%89%a9%e7%b5%90%e5%b8%b3%e7%b3%bb%e7%b5%b1-%e5%be%9echatgpt%e8%a8%82%e5%96%ae%e4%b8%ad%e8%b3%ba%e5%8f%96%e5%82%ad%e9%87%91/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 05:43:14 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[購物]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=228043</guid>
+
+					<description><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-183.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-183.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-183.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>火報記者 陳銳/報導 根據《金融時報》週三援引多位知情人士的報道，人工智慧公司 OpenAI 正在開發一套內建 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/17/openai%e9%96%8b%e7%99%bc%e8%b3%bc%e7%89%a9%e7%b5%90%e5%b8%b3%e7%b3%bb%e7%b5%b1-%e5%be%9echatgpt%e8%a8%82%e5%96%ae%e4%b8%ad%e8%b3%ba%e5%8f%96%e5%82%ad%e9%87%91/">OpenAI開發購物結帳系統 從ChatGPT訂單中賺取傭金</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-183.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-183.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-183.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>根據《金融時報》週三援引多位知情人士的報道，人工智慧公司 OpenAI 正在開發一套內建於 ChatGPT 的支付結帳系統，計劃從通過聊天機器人完成的電商訂單中收取佣金。</strong></p>
+</blockquote>
+
+
+
+<p>消息人士稱，OpenAI 已向主要品牌展示了該系統的早期版本，並與合作夥伴 Shopify 商討佣金比例與財務條款。未來，用戶在 ChatGPT 中直接下單購買商品後，商家將按照約定比率向 OpenAI 支付手續費。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="500" height="333" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-184.png?resize=500%2C333&#038;ssl=1" alt="" class="wp-image-228063" style="width:718px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-184.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-184.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /><figcaption class="wp-element-caption">OpenAI 擬推聊天結帳功能，與 Shopify 協商抽成，商家將就每筆訂單支付手續費。圖:unsplash</figcaption></figure></div>
+
+
+<p>此舉將使 OpenAI 在現有訂閱收入之外，開拓全新商業模式。該公司今年稍早與 Shopify 建立了合作關係，並在 ChatGPT 中推出增強型購物功能，將產品推薦與用戶對話結合。先前，ChatGPT 僅提供導購連結，將用戶引導至零售網站完成付款。</p>
+
+
+
+<p>一位知情人士表示，支付結帳功能目前仍處於內部測試階段，尚未對外公開推出。OpenAI 與 Shopify 均拒絕對此置評。</p>
+
+
+
+<p>OpenAI 去年底宣布的年化收入運行率約為 55 億美元，截至今年 6 月已增至約 100 億美元，但公司去年仍錄得約 50 億美元虧損。新結帳系統若能順利上線，將為 OpenAI 帶來更多交易手續費收入，並加深其在電商生態的布局。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/17/openai%e9%96%8b%e7%99%bc%e8%b3%bc%e7%89%a9%e7%b5%90%e5%b8%b3%e7%b3%bb%e7%b5%b1-%e5%be%9echatgpt%e8%a8%82%e5%96%ae%e4%b8%ad%e8%b3%ba%e5%8f%96%e5%82%ad%e9%87%91/">OpenAI開發購物結帳系統 從ChatGPT訂單中賺取傭金</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>做錯事也罵不得？超萌薩摩耶一臉無辜擄獲網友們芳心 </title>
 		<link>https://firenews.com.tw/2025/07/16/%e5%81%9a%e9%8c%af%e4%ba%8b%e4%b9%9f%e7%bd%b5%e4%b8%8d%e5%be%97%ef%bc%9f%e8%b6%85%e8%90%8c%e8%96%a9%e6%91%a9%e8%80%b6%e4%b8%80%e8%87%89%e7%84%a1%e8%be%9c%e6%93%84%e7%8d%b2%e7%b6%b2%e5%8f%8b%e5%80%91/</link>
 		
@@ -46,7 +96,7 @@
 		<category><![CDATA[薩摩耶]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=227548</guid>
 
-					<description><![CDATA[<p><img width="1280" height="1280" src="https://firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+					<description><![CDATA[<p><img width="1280" height="1280" src="https://firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/samoyed-2400687_1280.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <p>火報記者 洪瑜蓉 / 綜合報導&#160; 你有看過這麼軟萌無辜的狗狗嗎？近日國外一名飼主分享自家薩摩耶犬的無 &#8230;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/16/%e5%81%9a%e9%8c%af%e4%ba%8b%e4%b9%9f%e7%bd%b5%e4%b8%8d%e5%be%97%ef%bc%9f%e8%b6%85%e8%90%8c%e8%96%a9%e6%91%a9%e8%80%b6%e4%b8%80%e8%87%89%e7%84%a1%e8%be%9c%e6%93%84%e7%8d%b2%e7%b6%b2%e5%8f%8b%e5%80%91/">做錯事也罵不得？超萌薩摩耶一臉無辜擄獲網友們芳心 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
@@ -614,63 +664,6 @@
 
 <p>最長壽的貓咪其實是隨處可見的混種家貓，平均壽命約15至22年，由於牠們的遺傳基因多樣、抗病力強，並不容易罹患遺傳性疾病，此外混種貓的適應力強、不挑環境，加上體型適中、個性穩定，非常有可能才是默默陪著你最久的那一隻貓咪。&nbsp;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/%e6%8d%a8%e4%b8%8d%e5%be%97%e6%84%9b%e8%b2%93%e9%9b%a2%e9%96%8b%ef%bc%9f%e9%80%99%e5%9b%9b%e7%a8%ae%e9%95%b7%e5%a3%bd%e8%b2%93%e5%92%aa%e5%93%81%e7%a8%ae%e5%8f%af%e8%83%bd%e6%9c%80%e9%81%a9%e5%90%88/">捨不得愛貓離開？這四種長壽貓咪品種可能最適合你！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meta宣布投資千億美元 支援「超級智慧」技術發展</title>
-		<link>https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 05:27:14 +0000</pubDate>
-				<category><![CDATA[時事]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[超級智慧]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=226874</guid>
-
-					<description><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-160.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 陳銳/報導 Meta執行長祖克柏週一宣布，該公司將斥資數千億美元，在未來數年內打造多座大型人工智慧資 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/">Meta宣布投資千億美元 支援「超級智慧」技術發展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="500" height="333" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-160.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-160.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>火報記者 陳銳/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>Meta執行長祖克柏週一宣布，該公司將斥資數千億美元，在未來數年內打造多座大型人工智慧資料中心，以支援其「超級智慧」（Artificial Superintelligence）技術的發展。</strong></p>
-</blockquote>
-
-
-
-<p>祖克柏在 Threads 平台發文指出，首座名為「Prometheus」的多千兆瓦資料中心預計將於 2026 年投入使用。另一座「Hyperion」資料中心則預計可在未來數年內擴展至 5 千兆瓦，支援大規模 AI 模型訓練。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-226893" style="width:720px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-161.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Meta 將啟用「Prometheus」與「Hyperion」資料中心，支援大規模 AI 模型訓練。圖:istockphoto</figcaption></figure></div>
-
-
-<p>他表示：「我們還在建造多個巨型集群，其中之一的規模相當於曼哈頓的大部分區域。」<br>根據 AI 業界分析機構 SemiAnalysis 的報告，Meta 有望成為全球首家運行千兆瓦級 AI 超級集群的公司。</p>
-
-
-
-<p>Meta 近月來啟動高階工程師招募行動，並在 AI 領域與競爭對手 OpenAI、Google 及 Anthropic 正面交鋒。該公司近期將人工智慧業務重組為「超級智慧實驗室」（Superintelligence Lab），並由前 Scale AI 執行長 Alexandr Wang 及 GitHub 前執行長 Nat Friedman 領導。</p>
-
-
-
-<p>祖克柏強調，Meta 具備充足資源支持這項長期投資。他表示：「我們有自己的業務資本來做這件事。」Meta 去年營收達 1,650 億美元，目前股價年內已上漲逾 20%。祖克柏並指出，公司廣告業務的穩健表現為這類基礎建設提供了財務支撐。</p>
-
-
-
-<p>根據《紐約時報》報導，Meta 內部正在重新評估其原本以開源方式開發的 Llama 系列 AI 模型，未來可能轉向封閉模式以強化競爭力。</p>
-
-
-
-<p>Meta 今年 4 月已將 2025 年資本支出預估上調至 640 億至 720 億美元之間，顯示公司在 AI 基礎設施上的投入將持續加大。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/15/meta%e5%ae%a3%e5%b8%83%e6%8a%95%e8%b3%87%e6%95%b8%e5%8d%83%e5%84%84%e7%be%8e%e5%85%83-%e6%94%af%e6%8f%b4%e3%80%8c%e8%b6%85%e7%b4%9a%e6%99%ba%e6%85%a7%e3%80%8d%e6%8a%80%e8%a1%93%e7%99%bc%e5%b1%95/">Meta宣布投資千億美元 支援「超級智慧」技術發展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
