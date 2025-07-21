@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Mon, 21 Jul 2025 06:43:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 07:31:10 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>微軟示警遭駭客攻擊！籲企業政府加快修補安全漏洞</title>
+		<link>https://firenews.com.tw/2025/07/21/%e5%be%ae%e8%bb%9f%e7%a4%ba%e8%ad%a6%e9%81%ad%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a%ef%bc%81%e7%b1%b2%e4%bc%81%e6%a5%ad%e6%94%bf%e5%ba%9c%e5%8a%a0%e5%bf%ab%e4%bf%ae%e8%a3%9c%e5%ae%89%e5%85%a8%e6%bc%8f/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 07:31:06 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[微軟]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[駭客]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=229807</guid>
+
+					<description><![CDATA[<p><img width="500" height="888" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-233.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-233.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-233.png?resize=82%2C146&amp;ssl=1 82w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>火報記者 陳銳/報導 微軟近日發布安全警報，稱旗下用於組織內部文件共享的伺服器軟體 SharePoint，正遭 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%be%ae%e8%bb%9f%e7%a4%ba%e8%ad%a6%e9%81%ad%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a%ef%bc%81%e7%b1%b2%e4%bc%81%e6%a5%ad%e6%94%bf%e5%ba%9c%e5%8a%a0%e5%bf%ab%e4%bf%ae%e8%a3%9c%e5%ae%89%e5%85%a8%e6%bc%8f/">微軟示警遭駭客攻擊！籲企業政府加快修補安全漏洞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="500" height="888" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-233.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-233.png?w=500&amp;ssl=1 500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-233.png?resize=82%2C146&amp;ssl=1 82w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>微軟近日發布安全警報，稱旗下用於組織內部文件共享的伺服器軟體 SharePoint，正遭遇「主動攻擊」，呼籲所有使用該軟體的政府機構與企業，立即套用安全更新，以防止系統遭到入侵。</strong></p>
+</blockquote>
+
+
+
+<p>微軟表示，此次攻擊僅影響部署於本地的 SharePoint Server，不包含其雲端產品 SharePoint Online。根據微軟說法，攻擊者利用一項「零日漏洞」進行欺騙攻擊（spoofing attack），可藉此繞過身分驗證，冒充合法用戶進行惡意行動。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-234.png?resize=612%2C449&#038;ssl=1" alt="" class="wp-image-229815" style="width:720px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-234.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-234.png?resize=199%2C146&amp;ssl=1 199w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">微軟表示，攻擊者利用零日漏洞繞過驗證冒充用戶。圖:istockphoto</figcaption></figure></div>
+
+
+<p>美國聯邦調查局（FBI）週日表示，已注意到相關駭客活動，並正與國土安全部轄下的 CISA（網路安全暨基礎設施安全局）、國防部網路防禦司令部，以及私營企業密切合作，以掌握事件狀況。FBI 未進一步透露攻擊的細節。</p>
+
+
+
+<p>根據《華盛頓郵報》報導，這波攻擊已波及多個美國與國際組織，受害對象涵蓋政府機構與企業，數萬台伺服器面臨風險。報導引述專家說法，指出這是一場「零日攻擊」，意味著漏洞在遭利用前從未被揭露，防禦方毫無預警。</p>
+
+
+
+<p>微軟已針對受影響的 SharePoint 2016 與 2019 版本發布安全修補程式，並建議尚未完成更新的用戶，應暫時將伺服器與網際網路斷開連結，以降低風險。如果無法立即啟用建議的安全防護功能，也應採取其他臨時措施。</p>
+
+
+
+<p>微軟發言人表示：「我們持續與全球網路安全合作夥伴密切協調，並已提供詳細的安全建議，希望企業與政府單位能儘速應對此次威脅。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%be%ae%e8%bb%9f%e7%a4%ba%e8%ad%a6%e9%81%ad%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a%ef%bc%81%e7%b1%b2%e4%bc%81%e6%a5%ad%e6%94%bf%e5%ba%9c%e5%8a%a0%e5%bf%ab%e4%bf%ae%e8%a3%9c%e5%ae%89%e5%85%a8%e6%bc%8f/">微軟示警遭駭客攻擊！籲企業政府加快修補安全漏洞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>狗狗的理解力超乎想像！竟然可理解高達「165種」指令</title>
 		<link>https://firenews.com.tw/2025/07/21/%e7%8b%97%e7%8b%97%e7%9a%84%e7%90%86%e8%a7%a3%e5%8a%9b%e8%b6%85%e4%b9%8e%e6%83%b3%e5%83%8f%ef%bc%81%e7%ab%9f%e7%84%b6%e5%8f%af%e7%90%86%e8%a7%a3%e9%ab%98%e9%81%94%e3%80%8c165%e7%a8%ae%e3%80%8d/</link>
 		
@@ -43,7 +96,7 @@
 		<category><![CDATA[理解力]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=229770</guid>
 
-					<description><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-232.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-232.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-232.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+					<description><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-232.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-232.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-232.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
 <p>火報記者 張舜傑/報導 根據研究顯示，狗狗的理解力遠比我們想像中更強大，尤其是在語言指令上，更是展現出驚人的學 &#8230;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e7%8b%97%e7%8b%97%e7%9a%84%e7%90%86%e8%a7%a3%e5%8a%9b%e8%b6%85%e4%b9%8e%e6%83%b3%e5%83%8f%ef%bc%81%e7%ab%9f%e7%84%b6%e5%8f%af%e7%90%86%e8%a7%a3%e9%ab%98%e9%81%94%e3%80%8c165%e7%a8%ae%e3%80%8d/">狗狗的理解力超乎想像！竟然可理解高達「165種」指令</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
@@ -591,79 +644,6 @@
 
 <p>隨著越來越多貓奴們參與活動，各種千奇百怪的如廁姿勢的出現也讓網友們笑翻紛紛留言「也太奇葩」、「貓貓真的好可愛」、「原來每隻貓咪上廁所的習慣差這麼多」、「站著大號也太狂」、「每隻都很大便臉」、「看完都想養貓了」。&nbsp;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/07/20/%e4%b8%8a%e5%bb%81%e6%89%80%e4%b9%9f%e6%9c%89%e6%af%94%e8%b3%bd%ef%bc%9f%e9%a3%bc%e4%b8%bb%e5%80%91%e5%88%86%e4%ba%ab%e6%84%9b%e8%b2%93%e5%a6%82%e5%bb%81%e8%a1%a8%e6%83%85%e8%ae%93%e7%b6%b2%e5%8f%8b/">上廁所也有比賽？飼主們分享愛貓如廁表情讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪最愛的「4種」互動方式 原來牠在邀請你一起玩！</title>
-		<link>https://firenews.com.tw/2025/07/19/%e8%b2%93%e5%92%aa%e6%9c%80%e6%84%9b%e7%9a%844%e7%a8%ae%e4%ba%92%e5%8b%95%e6%96%b9%e5%bc%8f-%e5%8e%9f%e4%be%86%e7%89%a0%e5%9c%a8%e9%82%80%e8%ab%8b%e4%bd%a0%e4%b8%80%e8%b5%b7%e7%8e%a9%ef%bc%81/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Sat, 19 Jul 2025 06:48:06 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[互動]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=229133</guid>
-
-					<description><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-213.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-213.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-213.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 張舜傑/報導 多數人以為貓咪高冷、難親近，但其實貓咪只是用屬於自己的語言表達情感。牠們不常主動黏人， &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/19/%e8%b2%93%e5%92%aa%e6%9c%80%e6%84%9b%e7%9a%844%e7%a8%ae%e4%ba%92%e5%8b%95%e6%96%b9%e5%bc%8f-%e5%8e%9f%e4%be%86%e7%89%a0%e5%9c%a8%e9%82%80%e8%ab%8b%e4%bd%a0%e4%b8%80%e8%b5%b7%e7%8e%a9%ef%bc%81/">貓咪最愛的「4種」互動方式 原來牠在邀請你一起玩！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/07/image-213.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-213.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-213.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>多數人以為貓咪高冷、難親近，但其實貓咪只是用屬於自己的語言表達情感。牠們不常主動黏人，但當真正願意和人互動時，那是一種深刻的信任。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">1. 追逐遊戲：本能驅使下的快樂</h4>
-
-
-
-<p>當貓咪主動撲向飼主的腳、追著線繩滿屋跑時，牠其實是在進行模擬狩獵的「遊戲」。這種活動不僅滿足牠的天性，也是一種與飼主建立連結的方式。貓咪特別喜歡移動中的小物，如羽毛棒、逗貓棒、雷射點，只要對手會動，牠就興致高昂。這時，牠的瞳孔放大、耳朵前傾，整隻貓充滿專注與快樂。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-214.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-229135" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-214.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-214.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當貓咪撲腳或追逗貓棒時，其實是在「狩獵遊戲」，既滿足天性，也是在跟飼主互動。圖:istockphoto</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">2. 輕輕碰觸：信任的身體語言</h4>
-
-
-
-<p>貓咪輕輕用頭頂蹭飼主，或用身體擦過對方的腿，這不是偶然。這些動作是牠釋放費洛蒙、宣示親密關係的一種方式。牠希望透過氣味把「你」也納入牠的地盤，這代表深深的認同與信賴。若牠在蹭完後停下腳步，回頭看你，那往往是一種「我準備好了，來互動吧」的邀請。</p>
-
-
-
-<h4 class="wp-block-heading">3. 安靜陪伴：沉默中的深層連結</h4>
-
-
-
-<p>不是所有貓咪都喜歡肢體接觸，有些貓更偏好「默契式互動」：當牠悄悄跳上沙發，安靜地窩在飼主旁邊，不需要觸碰，也不發出聲音，那是一種溫柔的陪伴。這類互動方式可能最容易被忽略，卻往往是貓咪表達依戀最深的方式之一。</p>
-
-
-
-<h4 class="wp-block-heading">4. 互相凝視與眨眼：情感的「貓式對話」</h4>
-
-
-
-<p>當貓咪用溫柔的眼神望著飼主，並慢慢地眨眼，那不是打瞌睡，而是一種極具意義的「貓式示好」。這被稱為「愛的慢眨眼」，是一種傳遞安全與信任的訊號。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-215.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-229136" style="width:612px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-215.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-215.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當貓咪慢慢眨眼，是在向你傳達信任與喜愛。圖:istockphoto</figcaption></figure></div>
-
-
-<p>貓咪不會說話，但牠們會透過細膩的行為和肢體語言與人互動。當牠主動靠近、發出咕嚕聲、或靜靜地待在你身邊時，那都不是偶然，而是牠在用「牠的語言」表達喜歡與信任。學會理解、適度回應，就能與貓咪建立起深厚又溫暖的連結！</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/19/%e8%b2%93%e5%92%aa%e6%9c%80%e6%84%9b%e7%9a%844%e7%a8%ae%e4%ba%92%e5%8b%95%e6%96%b9%e5%bc%8f-%e5%8e%9f%e4%be%86%e7%89%a0%e5%9c%a8%e9%82%80%e8%ab%8b%e4%bd%a0%e4%b8%80%e8%b5%b7%e7%8e%a9%ef%bc%81/">貓咪最愛的「4種」互動方式 原來牠在邀請你一起玩！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
