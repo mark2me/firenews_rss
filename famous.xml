@@ -1,120 +1,865 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Fri, 25 Jul 2025 04:06:16 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>循環經濟時代：SGS推動再生塑料含量測試技術</title>
+		<link>https://firenews.com.tw/2025/07/25/%e5%be%aa%e7%92%b0%e7%b6%93%e6%bf%9f%e6%99%82%e4%bb%a3%ef%bc%9asgs%e6%8e%a8%e5%8b%95%e5%86%8d%e7%94%9f%e5%a1%91%e6%96%99%e5%90%ab%e9%87%8f%e6%b8%ac%e8%a9%a6%e6%8a%80%e8%a1%93/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 04:06:11 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=231729</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p><img width="2400" height="1040" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=768%2C333&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=1536%2C666&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=2048%2C887&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=260%2C113&amp;ssl=1 260w" sizes="(max-width: 2400px) 100vw, 2400px" /></p>
+<p>隨著全球對減少碳排放的重視日益增加，超過135個國家已設定2050年邁向淨零碳排的目標。2022年於聯合國環境 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/25/%e5%be%aa%e7%92%b0%e7%b6%93%e6%bf%9f%e6%99%82%e4%bb%a3%ef%bc%9asgs%e6%8e%a8%e5%8b%95%e5%86%8d%e7%94%9f%e5%a1%91%e6%96%99%e5%90%ab%e9%87%8f%e6%b8%ac%e8%a9%a6%e6%8a%80%e8%a1%93/">循環經濟時代：SGS推動再生塑料含量測試技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2400" height="1040" src="https://firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=768%2C333&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=1536%2C666&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=2048%2C887&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image_5030523_12652114.jpg?resize=260%2C113&amp;ssl=1 260w" sizes="(max-width: 2400px) 100vw, 2400px" /></p>
+<p>隨著全球對減少碳排放的重視日益增加，超過135個國家已設定2050年邁向淨零碳排的目標。2022年於聯合國環境大會上，175 個國家及地區領袖通過「全球塑膠公約」決議，要求各國針對市場上的塑膠產品制定再生含量標準。隨著這一政策的推進，各類商品如何證明其使用回收原料將成為未來的重要課題。</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>目前全球僅有14%的塑膠被回收，只有2%的塑膠在原有的用途上重覆再利用，8%的塑膠再利用於更低階用途，約4%在回收過程中損失。多數品牌業者以2025年或2030年為目標，設定使用20~50%再生塑膠，廢塑膠回收製成再生材料已是全球減塑、減碳採行的主要策略之一。現行國際常用的塑膠再生含量驗證方法多採用物質流分析，透過質量平衡模式及稽核員查核表單紀錄來進行驗證，然而，該驗證方法在產品實體的後市場追溯上，仍有其限制。再生塑膠科學驗證技術之可行性研究一直是全世界亟待突破的創新研究！</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>SGS身為世界一員也為國際供應鏈一份子，自然無法置身事外。為協助產業加速邁向淨零排放目標且符合全球塑膠公約政策，SGS正式推動「再生塑料含量測試」後市場機制，成為全球少數可以執行再生材料比例驗證及測試的企業之一，此舉不僅展現企業對環境責任的承諾，也為消費者提供更透明、可驗證的綠色產品資訊。</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>本次SGS創新發布的二項再生塑料含量測試，一則是透過化學分析技術直接偵測產品中實際含有的再生原料比例，並透過建立再生料與原生料的「指紋資料庫」比對，可以有效地監控產品的塑膠再生含量。SGS的研究展示了一種高效、簡化的定性方法，樣品在裂解器中熱分解，然後透過氣相層析分離，用於在GC-MS/MS系統上使用多反應監測模式檢測再生材料，同時也可應用於PFAS物種。目前，SGS在化學分析技術方面已完成多項再生塑料含量測試，包含再生酯粒及或成品塑膠件，以常應用於電子電器產品機構件的聚碳酸酯(rPC)為例，廣泛流通於市場，此機制將可擴展至再生產品後市場監控，讓品牌商更容易管控物料。</p>
+
+
+
+<p>為響應循環經濟與綠色製造趨勢，SGS材料暨工程實驗室正式推出再生塑膠「物性分級分析技術」，透過熱重分析（TGA）、傅立葉轉換紅外光譜儀（FTIR）等物理性質檢測手段，結合SGS材料專家的專業判讀與多年實務經驗，深入剖析塑膠製品中實際含有的再生材料比例與種類。此技術可協助企業釐清原料組成，強化品質控管與永續標示依據，同時也為政府與市場提供科學驗證的第三方佐證，推動綠色產品資訊透明化與信任度提升。</p>
+
+
+
+<p>其二為物性分析技術，透過熱重分析（TGA）、傅立葉轉換紅外光譜儀（FTIR）等物理性質檢測手段，結合SGS材料專家的專業判讀與多年實務經驗，深入剖析塑膠製品中實際含有的再生材料比例與種類。進一步整合首創「物性辨識技術」，建立再生與原生材料的指紋資料庫，精準解析產品中再生原料的實際比例、主材結構與異材混摻狀況，有效突破市場長期無法實證的技術瓶頸。該技術已廣泛應用於酯粒與塑膠應用部件，並取得技術專利認可，可支援原料、製造至成品的三階段驗證架構，協助企業釐清原料組成、強化品質控管與永續標示依據，也為政府與市場提供科學驗證的第三方佐證，推動綠色產品資訊的透明化與信任度提升。</p>
+
+
+
+<p>塑膠製造業做為提供品牌業者之料源或製品供應者，受到品牌業者對於料源減碳之需求，加上製造業者本身的減碳壓力，進一步推升塑膠製造業者供應再生塑膠的驅動力。透過再生塑料含量測試，SGS可以協助業者更精準地掌握原料組成，並有助於品牌商提升供應鏈管理的透明度與可信度。讓真正的永續不只是口號，而是從產品源頭開始的實踐。</p>
+
+
+
+<p>SGS也將於7/29於台大集思會館舉辦「化性x物性雙驗證，再生材料真相一次搞懂 &#8211; SGS 再生材料定性定量測試研討會」發布相關技術。此次SGS再生塑料含量測試機制的導入，已獲多家客戶的高度肯定與多國專利技術認可，這不僅有助於企業管控供應鏈，更是邁向循環經濟的重要一步。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/25/%e5%be%aa%e7%92%b0%e7%b6%93%e6%bf%9f%e6%99%82%e4%bb%a3%ef%bc%9asgs%e6%8e%a8%e5%8b%95%e5%86%8d%e7%94%9f%e5%a1%91%e6%96%99%e5%90%ab%e9%87%8f%e6%b8%ac%e8%a9%a6%e6%8a%80%e8%a1%93/">循環經濟時代：SGS推動再生塑料含量測試技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全球首創背膜再進化！新肌霓× LAIMO來貘聯名療癒上市</title>
+		<link>https://firenews.com.tw/2025/07/25/%e8%ba%ba%e8%91%97%e5%b0%b1%e8%83%bd%e8%ae%8a%e6%bc%82%e4%ba%ae%ef%bc%8c%e6%96%b0%e8%82%8c%e9%9c%93%ef%bd%98laimo%e4%be%86%e8%b2%98-%e8%ae%93%e4%bd%a0%e5%be%9e%e8%83%8c%e5%bd%b1%e9%96%8b%e5%a7%8b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 01:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[INGENI]]></category>
+		<category><![CDATA[LAIMO來貘]]></category>
+		<category><![CDATA[新肌霓]]></category>
+		<category><![CDATA[新肌霓INGENI]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=231536</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 綜合報導 以全球首創「背膜保養」聞名的身體肌膚保養專家新肌霓INGENI，在品牌邁入第八年之 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/25/%e8%ba%ba%e8%91%97%e5%b0%b1%e8%83%bd%e8%ae%8a%e6%bc%82%e4%ba%ae%ef%bc%8c%e6%96%b0%e8%82%8c%e9%9c%93%ef%bd%98laimo%e4%be%86%e8%b2%98-%e8%ae%93%e4%bd%a0%e5%be%9e%e8%83%8c%e5%bd%b1%e9%96%8b%e5%a7%8b/">全球首創背膜再進化！新肌霓× LAIMO來貘聯名療癒上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 綜合報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>以全球首創「背膜保養」聞名的身體肌膚保養專家新肌霓INGENI，在品牌邁入第八年之際，首度與療癒系插畫角色馬來貘跨界聯名，推出2025夏日限定【美背名貘計畫】。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="896" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名1-1.jpg?resize=896%2C610&#038;ssl=1" alt="" class="wp-image-231721" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名1-1.jpg?w=896&amp;ssl=1 896w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名1-1.jpg?resize=768%2C523&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名1-1.jpg?resize=220%2C150&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名1-1.jpg?resize=214%2C146&amp;ssl=1 214w" sizes="(max-width: 896px) 100vw, 896px" data-recalc-dims="1" /><figcaption class="wp-element-caption">新肌霓X馬來貘聯名。圖片來源：新肌霓 提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>懶人「名貘」登場，讓你躺著就能變漂亮</strong><strong></strong></h2>
+
+
+
+<p>靈感來自兩個品牌對「療癒與真實」的共同追求。馬來貘代表著現代人想要躺著耍廢卻又渴望安慰的內心，而新肌霓 INGENI則相信：保養不該是壓力，而是一種溫柔對待自己的選擇。 </p>
+
+
+
+<p>熱銷8年的經典產品「背膜」，以特殊的尺寸設計與專利背心，解決了背部保養的最大痛點，使用時只需像穿背心一樣將背膜穿上，就能達到完整敷膜效果，不必擔心死角問題，無需他人協助，讓身體保養能夠輕鬆自在，成為一種居家享受<strong>。</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-231541" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】新肌霓X馬來貘聯名_黑色背心示意1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">新肌霓X馬來貘聯名_黑色背心示意。圖片來源：新肌霓 提供</figcaption></figure>
+
+
+
+<p>聯名商品延續原本機能性設計，特別使用馬來貘的黑色主色，以防水布料製作限量版純黑背心敷膜，搭配馬來貘幽默視覺插畫外包裝，打造療癒又實用的背部保養配件。背膜配方則延續品牌八年來經典的三重酸成分，針對粉刺痘痘肌設計，讓每一次敷膜不只是清爽，更是背部肌膚的深層調理。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>讓保養成為日常裡最期待的時刻</strong> </h2>
+
+
+
+<p>這次與馬來貘聯名推出的【美背名貘計畫】，不只是療癒與風格的結合，更是一種邀請，邀請人們重新定義「照顧自己」的方式，從最常被忽略的背部保養開始，開啟一場身體保養的革新之路，讓每一個人都能展現自信美，成為自己成為舒服喜歡的樣子。</p>
+
+
+
+<p>此外，購買聯名背膜加贈「限量名貘紋身貼紙」，由插畫家 Cherng 親繪多款慵懶又可愛的馬來貘，可以貼在肩膀、手臂，或是背上的小角落，陪你躺平保養當個懶貘。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="750" height="750" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】官網-商品圖_馬來貘聯名7.jpg?resize=750%2C750&#038;ssl=1" alt="" class="wp-image-231542" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】官網-商品圖_馬來貘聯名7.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】官網-商品圖_馬來貘聯名7.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/【主】官網-商品圖_馬來貘聯名7.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /><figcaption class="wp-element-caption">官網-商品圖_馬來貘聯名。圖片來源：新肌霓 提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>7/25 起新肌霓官網限量發售</strong></h2>
+
+
+
+<p>買聯名款背膜贈 名貘紋身貼紙，夏天可愛再加分</p>
+
+
+
+<p>滿 $2,000 再贈 名貘提袋，讓你自信袋著走</p>
+
+
+
+<p>【活動連結】：<a href="https://ingeni.cc/N3rO9">https://ingeni.cc/N3rO9</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1569" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?resize=1220%2C1569&#038;ssl=1" alt="" class="wp-image-231543" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?w=1991&amp;ssl=1 1991w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?resize=768%2C987&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?resize=1195%2C1536&amp;ssl=1 1195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?resize=1593%2C2048&amp;ssl=1 1593w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/新肌霓X馬來貘聯名_情境照1-scaled.jpg?resize=114%2C146&amp;ssl=1 114w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">新肌霓X馬來貘聯名_情境照。圖片來源：新肌霓 提供</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/25/%e8%ba%ba%e8%91%97%e5%b0%b1%e8%83%bd%e8%ae%8a%e6%bc%82%e4%ba%ae%ef%bc%8c%e6%96%b0%e8%82%8c%e9%9c%93%ef%bd%98laimo%e4%be%86%e8%b2%98-%e8%ae%93%e4%bd%a0%e5%be%9e%e8%83%8c%e5%bd%b1%e9%96%8b%e5%a7%8b/">全球首創背膜再進化！新肌霓× LAIMO來貘聯名療癒上市</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>impact怡寶 CANBI設計師聯名書包－用美學，讓孩子探索無限的自己</title>
+		<link>https://firenews.com.tw/2025/07/24/impact%e6%80%a1%e5%af%b6-canbi%e8%a8%ad%e8%a8%88%e5%b8%ab%e8%81%af%e5%90%8d%e6%9b%b8%e5%8c%85%ef%bc%8d%e7%94%a8%e7%be%8e%e5%ad%b8%ef%bc%8c%e8%ae%93%e5%ad%a9%e5%ad%90%e6%8e%a2%e7%b4%a2%e7%84%a1-2/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 07:59:14 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=231333</guid>
+
+					<description><![CDATA[<p><img width="800" height="450" src="https://firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>生活中心/綜合報導 impact怡寶深耕台灣護脊書包近30年，專注研發減壓背負技術，同時結合學童喜好推出多款熱 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/24/impact%e6%80%a1%e5%af%b6-canbi%e8%a8%ad%e8%a8%88%e5%b8%ab%e8%81%af%e5%90%8d%e6%9b%b8%e5%8c%85%ef%bc%8d%e7%94%a8%e7%be%8e%e5%ad%b8%ef%bc%8c%e8%ae%93%e5%ad%a9%e5%ad%90%e6%8e%a2%e7%b4%a2%e7%84%a1-2/">impact怡寶 CANBI設計師聯名書包－用美學，讓孩子探索無限的自己</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="800" height="450" src="https://firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265223_0.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>生活中心/綜合報導</p>
+
+
+
+<p>impact怡寶深耕台灣護脊書包近30年，專注研發減壓背負技術，同時結合學童喜好推出多款熱門IP聯名包款，穩居市佔率第一。今年首次跨界合作，攜手台灣設計師馮宇打造CANBI美學護脊書包，歷時兩年半開發，從設計到功能，傳遞「自主選擇」的理念，讓每位孩子勇敢做自己。</p>
+
+
+
+<p>馮宇自2014年投身美感教育設計，視書包為孩子探索學習的重要夥伴，打破傳統書包框架，強調多功能與自由搭配，鼓勵孩子依需求打造專屬風格，在日常中學習自主與負責。CANBI不只是書包，更是一場生活品味與教育理念的結合。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265222_0.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-231334" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265222_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265222_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265222_0.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265222_0.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption class="wp-element-caption">impact怡寶X馮宇聯名CANBI系列護脊書包/側背包。圖/impact怡寶提供</figcaption></figure>
+
+
+
+<p>簡約質感設計，讓孩子日常中培養美感與藝術敏銳度。書包前側採流線U型拉鍊，視覺時尚、轉角圓滑，大開口方便操作，小手也能輕鬆上手。搭配塑鋼拉鍊，齒牙立體、不易卡齒，兼具滑順與耐用，提升使用體驗。</p>
+
+
+
+<p>CANBI 推出三款主題色：深藍與金黃象徵專注與自信，紫色系展現夢幻優雅，綠色調則喚起想像與希望。每一種配色都傳遞對孩子個性的理解與鼓勵，打破性別框架，以中性與包容設計，鼓勵孩子勇敢選擇喜歡的風格，自由表達自我。這款美學護脊書包由怡寶團隊與設計師馮宇共同打造，融合校園美學與親子品味，讓孩子在日常生活中培養設計與藝術的敏銳度，每一次背上書包，都是對自我風格的探索與成長。</p>
+
+
+
+<p>4–12 歲是孩子成長關鍵期，CANBI 特別採用 FIT 多段式可調背墊與 Y 型立體彈力設計，符合人體工學並通過德國 IGR 護脊認證，有效支撐肩背與腰部。肩帶調節設計與減壓腰帶，可隨孩子體型成長調整背負高度，兼顧美學與護脊需求。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265220_0.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-231335" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265220_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265220_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265220_0.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265220_0.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption class="wp-element-caption">CANBI 特別採用 FIT 多段式可調背墊與 Y 型立體彈力設計。圖/impact怡寶提供</figcaption></figure>
+
+
+
+<p>全系列包含可調式兩用側背包、午餐袋、筆袋與兒童水壺，以極簡風格自由搭配，滿足大人與小孩的喜好，成為實用與流行兼具的上學夥伴。側背包可側背或斜背，背帶可拆卸單用，附伸縮拉繩扣便於吊掛使用。午餐袋與筆袋實用耐看，兒童水壺則具備彈蓋直飲、便攜提把，並設有日出日落刻度，提醒每日飲水量，聰明喝水，健康成長。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265224_0.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-231336" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265224_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265224_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265224_0.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/S__464265224_0.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption class="wp-element-caption">impact怡寶X馮宇聯名CANBI系列鉛筆盒/午餐袋/兒童水壺。圖/impact怡寶提供</figcaption></figure>
+
+
+
+<p><strong>美感先決！impact怡寶護脊書包的新革命&nbsp; 開學季完美首選</strong></p>
+
+
+
+<p>當孩子在每一階段成長，每一個選擇都在悄悄形塑他們的世界觀。CANBI 系列護脊書包秉持「I CAN BE MYSELF」的核心理念，順應時代潮流，將高效收納機能與設計美學完美融合。不僅兼顧輕量與耐用，更以回收再製尼龍打造高性能布料，實踐低碳足跡的環保目標，讓永續精神落實於每一個看得見與看不見的細節中，引領孩子從書包開始，與世界共好。</p>
+
+
+
+<p>impact怡寶X馮宇設計師聯名款系列販售資訊</p>
+
+
+
+<p>快閃櫃期間：統一時代百貨台北店 1樓&nbsp;&nbsp; 2025/7/26 (五)~8/20(三)</p>
+
+
+
+<p>全系列販售店舖：BAGTOYOU網路商店、SOGO巨城店、宏匯廣場、impact怡寶LaLaport南港店、impact怡寶LaLaport台中店、大樂購物中心等</p>
+
+
+
+<p>＊特輯頁面： <a href="https://btu.tw/s4qF8">https://btu.tw/s4qF8</a></p>
+
+
+
+<p></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/24/impact%e6%80%a1%e5%af%b6-canbi%e8%a8%ad%e8%a8%88%e5%b8%ab%e8%81%af%e5%90%8d%e6%9b%b8%e5%8c%85%ef%bc%8d%e7%94%a8%e7%be%8e%e5%ad%b8%ef%bc%8c%e8%ae%93%e5%ad%a9%e5%ad%90%e6%8e%a2%e7%b4%a2%e7%84%a1-2/">impact怡寶 CANBI設計師聯名書包－用美學，讓孩子探索無限的自己</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PTT網友不聽勸請了居家整理師  實測結果兩極！有人狂讚超實用、有人嗆是智商稅</title>
+		<link>https://firenews.com.tw/2025/07/23/ptt%e7%b6%b2%e5%8f%8b%e4%b8%8d%e8%81%bd%e5%8b%b8%e8%ab%8b%e4%ba%86%e5%b1%85%e5%ae%b6%e6%95%b4%e7%90%86%e5%b8%ab-%e5%af%a6%e6%b8%ac%e7%b5%90%e6%9e%9c%e5%85%a9%e6%a5%b5%ef%bc%81%e6%9c%89%e4%ba%ba/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 00:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[居家整理師]]></category>
+		<category><![CDATA[除濕機]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=230584</guid>
+
+					<description><![CDATA[<p>一名網友近日於 PTT 分享自己請居家整理師的實際體驗，引發廣大討論。 原本只是單純想了解「居家整理師值不值得 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/23/ptt%e7%b6%b2%e5%8f%8b%e4%b8%8d%e8%81%bd%e5%8b%b8%e8%ab%8b%e4%ba%86%e5%b1%85%e5%ae%b6%e6%95%b4%e7%90%86%e5%b8%ab-%e5%af%a6%e6%b8%ac%e7%b5%90%e6%9e%9c%e5%85%a9%e6%a5%b5%ef%bc%81%e6%9c%89%e4%ba%ba/">PTT網友不聽勸請了居家整理師  實測結果兩極！有人狂讚超實用、有人嗆是智商稅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>一名網友近日於 PTT 分享自己請居家整理師的實際體驗，引發廣大討論。</strong></p>
+</blockquote>
+
+
+
+<p>原本只是單純想了解「居家整理師值不值得請」，卻意外因朋友介紹實際體驗了服務，並將整理臥室與衣櫃的過程與成果詳盡分享。不少人留言力挺，也有網友直言這是「智商稅」。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197699398-1.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-230696" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197699398-1.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197699398-1.jpg?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197699398-1.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197699398-1.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">網友分享請居家整理師的服務體驗。圖/擷取自PTT</figcaption></figure>
+
+
+
+<p>該名網友表示，原以為居家整理只是「斷捨離」加「收納」，沒想到整理師介入後，連家具都大幅調整。他的臥室書桌因不常使用，在溝通後拆解處理，只保留必要的儲物空間。整理後，房間變得前所未有的空曠，生活動線也更加順暢。</p>
+
+
+
+<p>在衣櫃部分，雖然實際丟棄的衣物不多，但透過分類與擺放調整，整體空間明顯提升。整理師建議能掛就掛，減少折疊造成的折痕與死角堆積，並依使用頻率安排位置，讓物品取得更直覺。 </p>
+
+
+
+<p>由於原本房間有潮濕問題，整理師建議搭配輕型家具與除濕機，提升整理與清潔便利性。該網友一開始擔心輕型家具會吸濕損壞衣物，但整理師表示若環境已有防潮處理、且長期使用除濕機，並不影響使用。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="612" height="350" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197855807.jpg?resize=612%2C350&#038;ssl=1" alt="" class="wp-image-230592" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197855807.jpg?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/messageImage_1753197855807.jpg?resize=255%2C146&amp;ssl=1 255w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">整理師建議搭配輕型家具與除濕機，提升整理與清潔便利性。圖 / istock</figcaption></figure>
+
+
+
+<p>整理師表示，很多人只重視「把東西整理好」，卻忽略環境濕度對生活品質的影響。像這次發霉情況，其實與長期濕氣積聚有關。她建議除了空間整頓，更應該正確使用除濕機，特別是在濕氣重的區域或氣候下，才不會讓整理好的空間「表面整齊、實際發霉」。</p>
+
+
+
+<p>她提到，像屋主原本就有在使用 <strong>Winix </strong><strong>除濕機</strong>，但因沒習慣把剛洗好的衣物拿進來一併除濕，才導致局部濕氣累積。「除濕機不是只放著開，要搭配使用習慣一起調整，效果才會出來。」她補充說道。</p>
+
+
+
+<p>該名屋主在文末也自嘲：「房間那麼大一台 winix 天天在運轉，卻從沒想過把窗外晾的內褲拿進來一起除，真的被自己打敗……」</p>
+
+
+
+<p>文章在 PTT 上引起不少反響，網友紛紛留言「同款 winix 除濕機，我家也是用 DX16L，整天開著才能壓住濕氣，不然衣櫃真的很難乾爽。」「輕型家具真的有差，實木好看但太難移動，下面全是灰塵，我家異膚小孩也是用輕家具＋除濕機搭配，改善很多。」「我家dx16l幾乎開24小時，被子被單這些比較大型的，會拿去洗衣店烘乾再收。」 </p>
+
+
+
+<p>但也有網友表示「真智商稅/懶人稅 有點智商都可以自己整理。」「除濕機本來就是居家必備，很多狀況其實只要平常注意一點，也不一定要請專人。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/23/ptt%e7%b6%b2%e5%8f%8b%e4%b8%8d%e8%81%bd%e5%8b%b8%e8%ab%8b%e4%ba%86%e5%b1%85%e5%ae%b6%e6%95%b4%e7%90%86%e5%b8%ab-%e5%af%a6%e6%b8%ac%e7%b5%90%e6%9e%9c%e5%85%a9%e6%a5%b5%ef%bc%81%e6%9c%89%e4%ba%ba/">PTT網友不聽勸請了居家整理師  實測結果兩極！有人狂讚超實用、有人嗆是智商稅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>壓力爆表？小心，血糖也在暗中失控！</title>
+		<link>https://firenews.com.tw/2025/07/22/%e5%a3%93%e5%8a%9b%e7%88%86%e8%a1%a8%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e8%a1%80%e7%b3%96%e4%b9%9f%e5%9c%a8%e6%9a%97%e4%b8%ad%e5%a4%b1%e6%8e%a7%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2025 01:56:30 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[血糖]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=230134</guid>
+
+					<description><![CDATA[<p>忙碌的工作、緊繃的生活、反覆的壓力，你是否也曾有過這樣的經驗？一緊張就吃太多，半夜翻來覆去睡不好，隔天精神不濟 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/22/%e5%a3%93%e5%8a%9b%e7%88%86%e8%a1%a8%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e8%a1%80%e7%b3%96%e4%b9%9f%e5%9c%a8%e6%9a%97%e4%b8%ad%e5%a4%b1%e6%8e%a7%ef%bc%81/">壓力爆表？小心，血糖也在暗中失控！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1096" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-244.png?resize=1096%2C573&#038;ssl=1" alt="" class="wp-image-230218" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-244.png?w=1096&amp;ssl=1 1096w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-244.png?resize=768%2C402&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-244.png?resize=260%2C136&amp;ssl=1 260w" sizes="(max-width: 1096px) 100vw, 1096px" data-recalc-dims="1" /></figure>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>忙碌的工作、緊繃的生活、反覆的壓力，你是否也曾有過這樣的經驗？一緊張就吃太多，半夜翻來覆去睡不好，隔天精神不濟、工作表現低落，壓力越滾越大，陷入惡性循環……</strong></p>
+</blockquote>
+
+
+
+<p>這些看似「日常」的不良生活習慣，其實可能正悄悄影響你的血糖控制！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="758" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-238.png?resize=758%2C400&#038;ssl=1" alt="" class="wp-image-230151" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-238.png?w=758&amp;ssl=1 758w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-238.png?resize=260%2C137&amp;ssl=1 260w" sizes="(max-width: 758px) 100vw, 758px" data-recalc-dims="1" /></figure>
+
+
+
+<p>朝九晚八的上班族宋小姐，在最近一次公司健康檢查中發現醣化血紅素（HbA1c）略高，屬於糖尿病前期。但她平常作息規律、飲食也不算差，一時找不到血糖偏高的原因。經醫師建議，她開始使用&nbsp;<strong>連續葡萄糖監測系統（CGM）</strong>觀察血糖趨勢。 </p>
+
+
+
+<p>沒想到透過 CGM 她發現，每當壓力特別大，像是與國外客戶開會、與家人爭執、或情緒緊繃時，血糖都會明顯升高；更令人驚訝的是，即使壓力事件過後，血糖還是需要更長時間才能恢復穩定。這讓她第一次意識到，原來生活中的壓力與情緒起伏，也可能成為血糖失控的隱形推手。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>血糖波動的真相：不只是甜食，生活習慣也是關鍵</strong></h2>
+
+
+
+<p>血糖波動，從來不是單靠「吃得甜不甜」就能完全說明的。事實上，血糖控制是一連串生活因素交互作用的結果。食物種類、進食時間、進食順序都可能影響血糖反應，這也是為什麼有人吃同樣的食物，血糖卻比別人升得快。</p>
+
+
+
+<p>透過 CGM，我們可以清楚觀察不同食物與習慣對個人體質的影響，找出是讓血糖迅速飆升的「高風險食物」，及能維持穩定血糖的「安心選擇」。</p>
+
+
+
+<p>再來不得不提的，就是&nbsp;<strong>身體活動的重要性</strong>。持續而適度的運動可以提升胰島素敏感性，幫助身體更有效地利用血糖，是長期穩定血糖的關鍵因素。特別是&nbsp;<strong>餐後短暫的散步，能有效避免餐後血糖急升，也可減少久坐對代謝造成的負擔</strong>。因此，許多醫師會建議有血糖問題的民眾，日常除了規律運動，也應避免長時間久坐，讓身體保持一定的活動頻率。</p>
+
+
+
+<p>除了飲食與身體活動，壓力其實也是影響血糖波動的重要因素。當壓力來臨時，身體會分泌皮質醇、腎上腺素、升糖素與生長激素等荷爾蒙，促使肝臟釋放葡萄糖，讓血糖上升以備應對挑戰。</p>
+
+
+
+<p>如果這樣的壓力反應經常發生或長期存在，血糖就不只是短暫上升，而是更容易長時間處於偏高狀態。久而久之，還可能影響體內這些荷爾蒙的分泌節律。所以別以為壓力只是「心理事」，身體也正在為你承擔代價。</p>
+
+
+
+<p>久坐、飲食不規律、長期壓力——幾乎已成為現代上班族的日常。我們常以為血糖問題只跟吃太甜有關，但事實上，血糖控制是一連串生活習慣交織而成的結果。日常中每一個看似微不足道的行為，像是熬夜、壓力累積、缺乏運動，都可能讓血糖在不知不覺中開始失衡。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="768" height="399" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-239.png?resize=768%2C399&#038;ssl=1" alt="" class="wp-image-230152" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-239.png?w=768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-239.png?resize=260%2C135&amp;ssl=1 260w" sizes="(max-width: 768px) 100vw, 768px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>CGM 的好處：用數據了解你的血糖生活</strong></h2>
+
+
+
+<p>「連續葡萄糖監測系統」（CGM）是一種能全天候追蹤血糖變化的科技工具。透過在皮膚下方放入一個小小的感測器，CGM 會持續量測你皮下組織間液中的葡萄糖濃度，這通常能反映出血糖變化的趨勢，並把數據傳送到手機或接收器上，讓你隨時掌握自己的血糖狀況。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>CGM 到底有哪些好處呢？</strong></h2>
+
+
+
+<p><strong>・即時掌握血糖變化</strong>&nbsp;</p>
+
+
+
+<p>不管是吃完一頓大餐，還是運動過後，CGM 都能即時顯示血糖的變化趨勢，還可以設定警報提醒，預防低血糖的危險。</p>
+
+
+
+<p><strong>・幫助你找到適合自己的生活節奏</strong></p>
+
+
+
+<p>藉由連續的血糖數據，你可以更容易找到影響血糖的食物或習慣，進一步調整飲食、運動或藥物，讓控糖更有效率。</p>
+
+
+
+<p><strong>・減少未知，讓日常控糖更有依據與彈性</strong></p>
+
+
+
+<p>不再擔心血糖忽高忽低，因為有數據當後盾，你可以更安心地安排日常生活和飲食選擇。</p>
+
+
+
+<p><strong>・不限糖尿病，人人都能用</strong>&nbsp;</p>
+
+
+
+<p>不只是糖尿病患者，想更了解自己身體、擔心糖尿病發生或追求健康生活的人，也可以從 CGM 得到很多變得更健康的線索。</p>
+
+
+
+<p>簡單來說，CGM 就像你身體的「血糖導航系統」，幫你看見平常感覺不到的血糖變化，做出更有根據的健康選擇。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="768" height="395" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-240.png?resize=768%2C395&#038;ssl=1" alt="" class="wp-image-230153" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-240.png?w=768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-240.png?resize=260%2C134&amp;ssl=1 260w" sizes="(max-width: 768px) 100vw, 768px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>壓力不再是你的「隱形敵人」—看懂血糖，守住健康</strong></h2>
+
+
+
+<p>提醒自己：生活型態，就是你血糖的「隱形遙控器」！調整飲食、穩定作息、定期運動、情緒管理，甚至好好睡覺，都是讓血糖穩定的關鍵。</p>
+
+
+
+<p>別讓壓力成為你血糖的「隱形敵人」。透過理解生活對血糖的影響，你不只能更了解身體，也更有力量做出調整。從現在開始，觀察身體的訊號，調整節奏，也許就是你預防慢性病、重啟健康的關鍵第一步。</p>
+
+
+
+<p>擔心的你血糖狀況嗎？可以裝上&nbsp;<strong>連續葡萄糖監測系統（CGM）</strong>試試看喔！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="755" height="251" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-241.png?resize=755%2C251&#038;ssl=1" alt="" class="wp-image-230154" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-241.png?w=755&amp;ssl=1 755w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-241.png?resize=260%2C86&amp;ssl=1 260w" sizes="(max-width: 755px) 100vw, 755px" data-recalc-dims="1" /></figure>
+
+
+
+<p><br><br><br><br><br></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/22/%e5%a3%93%e5%8a%9b%e7%88%86%e8%a1%a8%ef%bc%9f%e5%b0%8f%e5%bf%83%ef%bc%8c%e8%a1%80%e7%b3%96%e4%b9%9f%e5%9c%a8%e6%9a%97%e4%b8%ad%e5%a4%b1%e6%8e%a7%ef%bc%81/">壓力爆表？小心，血糖也在暗中失控！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>中化裕民攜手Dr. Reddy&#8217;s，深化合作提升藥品可近性</title>
+		<link>https://firenews.com.tw/2025/07/21/%e4%b8%ad%e5%8c%96%e8%a3%95%e6%b0%91%e6%94%9c%e6%89%8bdr-reddys%ef%bc%8c%e6%b7%b1%e5%8c%96%e5%90%88%e4%bd%9c%e6%8f%90%e5%8d%87%e8%97%a5%e5%93%81%e5%8f%af%e8%bf%91%e6%80%a7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 07:36:36 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=229817</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1440" src="https://firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>中化控股旗下的中化裕民，自2020年起便與印度知名製藥公司Dr. Reddy&#8217;s Laborato &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e4%b8%ad%e5%8c%96%e8%a3%95%e6%b0%91%e6%94%9c%e6%89%8bdr-reddys%ef%bc%8c%e6%b7%b1%e5%8c%96%e5%90%88%e4%bd%9c%e6%8f%90%e5%8d%87%e8%97%a5%e5%93%81%e5%8f%af%e8%bf%91%e6%80%a7/">中化裕民攜手Dr. Reddy&#8217;s，深化合作提升藥品可近性</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1440" src="https://firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/左為中化裕民總經理林旭輝；右為Dr-Reddys-中國大陸和台灣總經理Satheeshkumar-Sriharan-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>中化控股旗下的中化裕民，自2020年起便與印度知名製藥公司Dr. Reddy&#8217;s Laboratories建立了穩固的策略聯盟。雙方致力於引進高品質學名藥和創新製劑，以提供台灣病患更多元且可負擔的治療選擇，並強調以病患為中心的醫療照護。</p>
+
+
+
+<p>中化裕民總經理林旭輝表示：「為提升病患的用藥權益與台灣藥品的供應鏈韌性，我們與全球最具規模與研發實力的製藥公司之一 Dr. Reddy&#8217;s展開深度合作。中化裕民在台灣擁有廣泛的市場覆蓋率與強大的市場影響力，協助合作夥伴高效推廣，進一步擴大藥品的可近性。這段合作不僅是產品層面的結盟，更是基於相同的信念 —— 以病患為中心，提供可負擔且具品質保證的治療方案。我們堅信，真正的夥伴關係來自於價值的共鳴與長期的信任。」</p>
+
+
+
+<p>中化裕民與Dr. Reddy&#8217;s的合作已持續超過五年，雙方在多項治療領域皆有深入且穩健的策略協作，亦是其在亞太區最具代表性的長期夥伴之一。在過去五年的合作中，雙方已成功導入多項重大癌症領域的用藥，包括治療前列腺癌、乳癌、卵巢癌與血液腫瘤的化療藥、類荷爾蒙治療藥品與標靶藥物，為臨床提供更多的用藥選擇，強化醫療系統的藥品韌性。</p>
+
+
+
+<p>此次合作亦呼應健保署推動鼓勵癌症治療學名藥政策，積極與國際製藥夥伴合作擴增藥物來源與種類，降低對單一供應鏈的依賴，以確保病患的用藥權益。</p>
+
+
+
+<p>展望未來，中化裕民與 Dr. Reddy&#8217;s將持續深化合作，規劃引進更多全球市場使用經驗豐富的各治療領域產品；同時，中化裕民也正在積極地與其他國際知名製藥公司合作引進更多台灣民眾所需要的、可負擔的藥品；實踐「促進健康平權，造福社會人群」的願景，為更多病患及家屬帶來希望與信任。</p>
+
+
+
+<p>關於中化裕民</p>
+
+
+
+<p>中化裕民成立於2004年，為中化控股旗下負責銷售和市場推廣的公司，提供高品質的全方位醫療健康解決方案，以滿足多元健康需求，並專注於藥品和創新醫療產品的銷售，確保大眾能享有可負擔的醫療服務。</p>
+
+
+
+<p>中化控股(3716)自1952年成立（前身為中化製藥），為台灣領先的醫療保健公司，其子公司及關係企業業務涵蓋人用與動物藥品、原料藥、健康營養品、非處方藥、家庭與美容用品及老人照護服務。中化控股秉持「促進健康平權，造福社會人群」的願景，透過合作與策略聯盟，提供具影響力的健康照護服務，並提升對公共衛生領域的投入。如需瞭解更多資訊，請造訪<a href="http://www.cenra.com/" target="_blank" rel="noreferrer noopener">www.cenra.com</a>。</p>
+
+
+
+<p><strong>關於瑞迪博士</strong><strong></strong></p>
+
+
+
+<p>瑞迪博士實驗室有限公司（BSE: 500124, NSE: DRREDDY, NYSE: RDY, NSEIFSC: DRREDDY）成立於 1984 年，總部位於印度海德拉巴。秉承「健康不能等待」的使命，我們致力於提供可負擔的、創新的藥物。我們的產品和服務涵蓋原料藥、包括生物相似性藥和 OTC 產品在內的學名藥、創新藥品和客製化製藥服務，產品專注於胃腸道、心血管和腫瘤等領域關鍵疾病的治療。瑞迪博士業務遍及全球80餘國家，主要市場包括美國、印度、俄羅斯和其他獨立國家國協、中國、巴西和歐洲。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e4%b8%ad%e5%8c%96%e8%a3%95%e6%b0%91%e6%94%9c%e6%89%8bdr-reddys%ef%bc%8c%e6%b7%b1%e5%8c%96%e5%90%88%e4%bd%9c%e6%8f%90%e5%8d%87%e8%97%a5%e5%93%81%e5%8f%af%e8%bf%91%e6%80%a7/">中化裕民攜手Dr. Reddy&#8217;s，深化合作提升藥品可近性</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>台塑石化攜手家扶基金會與國家兩廳院  助力兒少關懷與文化親子共融</title>
+		<link>https://firenews.com.tw/2025/07/21/%e5%8f%b0%e5%a1%91%e7%9f%b3%e5%8c%96%e6%94%9c%e6%89%8b%e5%ae%b6%e6%89%b6%e5%9f%ba%e9%87%91%e6%9c%83%e8%88%87%e5%9c%8b%e5%ae%b6%e5%85%a9%e5%bb%b3%e9%99%a2-%e5%8a%a9%e5%8a%9b%e5%85%92%e5%b0%91%e9%97%9c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 20 Jul 2025 19:44:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[台塑石化]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=229187</guid>
+
+					<description><![CDATA[<p>台塑石化長期秉持對社會的承諾，努力為下一代鋪設更美好的道路。台塑石化不僅投入環境減碳，更在每一個行動中注入「以 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%8f%b0%e5%a1%91%e7%9f%b3%e5%8c%96%e6%94%9c%e6%89%8b%e5%ae%b6%e6%89%b6%e5%9f%ba%e9%87%91%e6%9c%83%e8%88%87%e5%9c%8b%e5%ae%b6%e5%85%a9%e5%bb%b3%e9%99%a2-%e5%8a%a9%e5%8a%9b%e5%85%92%e5%b0%91%e9%97%9c/">台塑石化攜手家扶基金會與國家兩廳院  助力兒少關懷與文化親子共融</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>台塑石化長期秉持對社會的承諾，努力為下一代鋪設更美好的道路。台塑石化不僅投入環境減碳，更在每一個行動中注入「以人為本」的理念，關心每一個生命的成長與發展。多年來，台塑石化與家扶基金會攜手並肩，積極參與 「無窮世代」與 「用愛包圍」專案 ，捐款和實際行動傳遞著溫暖與關愛。弱勢孩子們不僅需要物質上的支持，更需要在心靈與教育上得到滋養。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2694-1.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-229215" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2694-1.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2694-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2694-1.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2694-1.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台塑石化攜手家扶基金會與國家兩廳院 助力兒少關懷與文化親子共融</figcaption></figure>
+
+
+
+<p>今年，台塑石化再次與國家兩廳院攜手合作，延續對於藝文、親子及兒少福利的關注 ，全力支持《少年PI的奇幻漂流》舞台劇展演。不必遠赴歐美，在台灣就能與國際劇場同步欣賞《少年PI的奇幻漂流》，作品以巨大且生動細膩的動物戲偶與獨特舞臺技術，榮獲歐美多項劇場大獎，掀起國際劇場界熱潮 。今夏也登上亞洲舞台，於7月17至27日首度在臺北國家戲劇院演出，引領台灣觀眾進入奇幻多元的劇場世界。台塑石化以經費與實際行動支持 《少年PI的奇幻漂流》，讓民眾在台灣就能接觸到國際上的高品質作品，進而培養國家文化軟實力。台塑石化總經理林克彥此次更邀請了家扶基金會扶助孩童共同享受這場藝文盛宴，第一次看到舞台劇的孩童直呼：「非常震撼，戲裡的老虎跟猩猩，每一個動物都像是真的一樣。舞台 、燈光不斷變化，讓人目不轉睛，非常好看！」。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2981.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-229189" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2981.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2981.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2981.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/3R4A2981.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台塑石化支持公益活動不遺餘力，圖右為林克彥總經理及兩廳院總監劉怡汝</figcaption></figure>
+
+
+
+<p>《少年PI的奇幻漂流》講述PI在海上漂流的冒險，與恐懼共存卻始終能相信自己 、堅定信念的過程 ，帶給觀眾在逆境中堅持下去的勇氣與希望，這種與命運奮戰、不輕言放棄的精神，正好呼應了台塑石化的信念。即使近年面臨全球局勢變動和激烈競爭，台塑石化依然穩健前行，不僅積極推動能源轉型，也持續落實以人為本、擁抱多元、追求共好。未來，台塑石化會繼續以「綠色工廠」、「綠色能源」和「綠色創新」為核心理念，攜手產業夥伴共同轉型，支持藝術文化並深化與社福組織的合作，關心弱勢孩童、支持多元族群，讓愛與永續同行。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%8f%b0%e5%a1%91%e7%9f%b3%e5%8c%96%e6%94%9c%e6%89%8b%e5%ae%b6%e6%89%b6%e5%9f%ba%e9%87%91%e6%9c%83%e8%88%87%e5%9c%8b%e5%ae%b6%e5%85%a9%e5%bb%b3%e9%99%a2-%e5%8a%a9%e5%8a%9b%e5%85%92%e5%b0%91%e9%97%9c/">台塑石化攜手家扶基金會與國家兩廳院  助力兒少關懷與文化親子共融</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>從台青自詡「厭世代」看賴清德兩次「死亡交叉」及深遠影響</title>
+		<link>https://firenews.com.tw/2025/07/21/%e5%be%9e%e5%8f%b0%e9%9d%92%e8%87%aa%e8%a9%a1%e3%80%8c%e5%8e%ad%e4%b8%96%e4%bb%a3%e3%80%8d%e7%9c%8b%e8%b3%b4%e6%b8%85%e5%be%b7%e5%85%a9%e6%ac%a1%e3%80%8c%e6%ad%bb%e4%ba%a1%e4%ba%a4%e5%8f%89%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 20 Jul 2025 16:11:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[厭世代]]></category>
+		<category><![CDATA[大罷免]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=229539</guid>
+
+					<description><![CDATA[<p>文 / 香港中觀研究所研究員 鐘鳴 賴清德自2024年5月上任以來，其民調支持率在 2024 年 11 月與  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%be%9e%e5%8f%b0%e9%9d%92%e8%87%aa%e8%a9%a1%e3%80%8c%e5%8e%ad%e4%b8%96%e4%bb%a3%e3%80%8d%e7%9c%8b%e8%b3%b4%e6%b8%85%e5%be%b7%e5%85%a9%e6%ac%a1%e3%80%8c%e6%ad%bb%e4%ba%a1%e4%ba%a4%e5%8f%89%e3%80%8d/">從台青自詡「厭世代」看賴清德兩次「死亡交叉」及深遠影響</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>文 / 香港中觀研究所研究員 鐘鳴</p>
+
+
+
+<p>賴清德自2024年5月上任以來，其民調支持率在 2024 年 11 月與 2025 年 7 月兩次出現 “死亡交叉”（即不支持率超過支持率）。許多政評家指，這是其執政下台灣政經環境惡化的反映。事實上，台灣青年無奈的自稱為“厭世代”，恐怕更能看出對民進黨當局的憤懣，亦可見對「大罷免」結局及未來政局的深遠影響。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="735" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?resize=1220%2C735&#038;ssl=1" alt="" class="wp-image-229608" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?resize=1536%2C926&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?resize=780%2C470&amp;ssl=1 780w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-226.png?resize=242%2C146&amp;ssl=1 242w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>臺灣民意基金會2024 年11月19日公佈的民調顯示，賴清德施政滿意度為 42.8%，不滿意度 43%，首次出現“死亡交叉”。一般研判，原因是，台立法機構改革案的“釋憲”判決引發社會強烈反彈，被批評為 “破壞制衡”，同時政黨惡鬥持續擾攘，民眾對台灣內耗感到厭倦。還有就是，對於賴清德重要人事安排不滿。</p>
+
+
+
+<p>第二次“死亡交叉”在今年7 月。臺灣民意基金會於15日公佈的民調顯示，賴清德滿意度 42.9%，不滿意度 44.5%，再次出現死亡交叉，且不滿意度差距擴大至 1.6 個百分點，創上任以來新低。評論分析，大罷免爭議是首因。民調顯示，48% 民眾反對大罷免，44% 明確表示若投票將反對罷免。另外就是“團結十講”翻車，賴清德僅完成四講就暫停。被批“名為團結實則加劇社會分裂”。再加上，臺北市前副市長彭振聲妻子因捲入京華城案跳樓輕生，社會責疑“司法成政治劊子手”。</p>
+
+
+
+<p>事實上，台灣青年自我標籤“厭世代”，“三拒世代”，以至“出走世代”等等，瀰漫全台南北城鄉，字裡行間的無奈、無力、無感，是那般強烈。臺灣青年對當前生存環境的無比焦慮與失望，集中體現在對經濟壓力、社會不公、政治操弄的批判，形成了一系列具有時代特徵的表達，既反映個體困境，也折射出臺灣社會的深層矛盾。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>“厭世代”：對未來的集體絕望。</strong></h2>
+
+
+
+<p>“厭世代” 是臺灣青年對自身處境的主流標籤，源自對 “努力也無法改變命運” 的集體認知。他們用 “看不到天亮”“被困在玻璃罩裡” 形容生存狀態。就業層面：“3 萬新臺幣的起薪，十年沒漲過，扣掉房租和生活費，每月存不到 5000 元，買房是天方夜譚。” 許多青年自嘲 “領死薪水、做死工作”，即便名校畢業，也可能陷入 “高學歷低就業” 的困境，如台大畢業生從事奶茶店店員、網約車司機的案例屢見不鮮。生活層面：“電價漲、房價漲、什麼都漲，就是薪水不漲。” 有青年用 “7-11 世代” 調侃自己 —— 收入僅夠在便利店解決三餐，“連吃一頓火鍋都要猶豫半個月”。臺北市青年平均租房成本占收入的 40%，“蟻居” 在 10-15 平方米隔間的現象普遍，被稱為 “膠囊人生”。這種 “厭” 不僅是對物質匱乏的不滿，更源於對社會流動性停滯的絕望。臺灣《聯合報》調查顯示，72% 的青年認為“再努力也趕不上通脹和房價的速度”。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>“三拒世代”：對傳統生活路徑的放棄。</strong></h2>
+
+
+
+<p>面對高成本壓力，臺灣青年用 “三拒”：拒婚、拒育、拒購來概括自己的生存策略，也是對傳統人生軌跡的主動割裂。拒婚拒育：“養不起自己，更養不起家庭。” 臺灣青年平均結婚年齡升至 34.5 歲，創全球新高，生育率跌破 1.0，被調侃為 “滅絕邊緣的世代”。有青年直言：“孩子不是生命的延續，是經濟的災難 —— 奶粉、學費、托育費，每月至少 2 萬新臺幣，相當於半個月工資。”拒購房產：“臺北房價收入比 22 倍，不吃不喝 22 年才能買房，不如躺平。” 許多青年放棄 “有房才有家” 的觀念，選擇長期租房，甚至 “以車為家”（改裝貨車作為居所），被稱為 “遊牧青年”。其實，“三拒”並非青年主動所位，而是被動被迫的妥協。“當基本的生活安全感都成奢望，年輕人只能用‘減法’對抗現實。”</p>
+
+
+
+<p>“出走世代”：用腳投票的無奈。面對困局，越來越多臺灣青年選擇 “出走”，用 “逃離”“彼岸” 形容對外部環境的嚮往。“全球流浪的打工人”：半導體、金融等領域青年流向美日歐，“在臺灣拿 20 萬新臺幣年薪，去德國能賺 40 萬，還包住宿，為什麼不走？” 但他們也自嘲 “國際難民”——“離開是為了生存，卻成了家鄉的‘叛徒’”。據內政部統計，2020-2025 年，30 歲以下青年淨流出人數達 12 萬，創歷史新高，“出走” 成為青年對抗困局的最後手段。</p>
+
+
+
+<p>作家龍應台說：“當年輕人用「厭」定義自己時，不是真的厭惡生活，而是厭惡那個讓努力失去意義的環境。” 這種集體情緒，既是對當下的控訴，也是對未來的無聲吶喊。</p>
+
+
+
+<p>在這種生活氛圍之下，“政治冷感”是必然之路，難道還要去迎合對意識形態的操弄。何不做一個“綠恐怖下的失語者”，那些“整天喊口號的能使我們吃飽飯？”引申至民進黨推動的大罷免，那還不是“政黨鬥爭的工具”，“他們忙著內鬥，我們何必要趟渾水”。世新大學調查顯示，65% 的青年不願參與任何政治活動，“投票改變不了什麼，不如躺平看他們演戲”。但是，對於賴清德“重政治、輕民生”路線，青年不冷感，直接表達不滿溢於言表。新竹就業青年得青年說：“台積電外移，我們擔心失業；電價上漲，我們擔心倒閉；但民進黨只關心‘罷免誰’，這種政治與我們無關。”</p>
+
+
+
+<p>值得指出的是，臺灣經濟在全球經濟格局變化以及民進黨當局政策的雙重影響下，就業市場呈現出全面惡化的態勢。從產業結構來看，傳統產業如工具機、螺絲扣件等，由於美國加征高關稅，出口銳減 20%，大量中小企業難以承受成本壓力，紛紛陷入破產困境。這直接導致相關產業崗位大幅減少，許多青年面臨失業風險。而在新興產業方面，半導體產業作為臺灣經濟的支柱之一，也出現了產業外移的趨勢。台積電為規避地緣風險，加速在日美德佈局 12-28 納米通用晶片產能，2025 年熊本工廠量產、亞利桑那工廠投產，使得臺灣半導體產值占比從 70% 降至 65%。這一變化不僅使得半導體工程師等專業人才面臨流失，也讓許多青年失去了在半導體產業就業的機會。</p>
+
+
+
+<p>薪資方面，大學畢業生起薪連續十年停滯在 3 萬新臺幣，這反映出青年薪資增長的停滯不前。Z 世代中有 77.7% 對薪資不滿，47.4% 換過兩份以上工作，頻繁更換工作卻難以獲得薪資提升，這嚴重打擊了青年的職業發展信心。並且，服務業在臺灣經濟中占比高達七成，但行業門檻低、薪資增長緩慢，青年在服務業中難以獲得足夠的收入和職業晉升空間，不得不從事兼職或非正式工作來維持生計，進一步加劇了青年就業的不穩定。</p>
+
+
+
+<p>同時，房價和能源成本的飆升，極大地壓縮了臺灣青年的生存空間。在房價方面，臺北市房價收入比達 22 倍，這意味著青年購房需不吃不喝 22 年，如此高昂的房價使得許多青年望而卻步。儘管臺灣當局鬆綁房市政策，但 2025 年房價仍再創新高，青年購房的希望愈發渺茫。還有，能源政策方面，因為民進黨當局推行的 “非核家園” 政策，使得燃氣發電占比升至 50%。然而，燃氣儲備僅 10 &#8211; 15 天，且受國際價格波動影響巨大，導致夏季電價漲至 8.46 元新臺幣 / 度，創歷史新高。企業為應對高電價，被迫自購發電機，成本增加 15%，這進一步壓縮了企業的利潤空間和青年的就業機會。桃園市 2025 年 4 月停電 35 次，頻繁的停電不僅影響了居民的正常生活，也給青年創業團隊帶來了巨大損失。</p>
+
+
+
+<p>2025 年上半年臺灣青年失業率飆升至 13.4%，較 2024 年的 12.3% 進一步惡化。青年失業率是整體失業率的 2.8 倍，且多集中於低薪服務業。</p>
+
+
+
+<p>無疑，台灣青年的現實困境，必然對政治普遍無感。什麼“大罷免”，不如“小確幸”。或許，青年的困境，對賴清德當局施政的不滿，在“大罷免”投票中會不支持民進黨；不過，他們對政治的冷感又影響了投票率，亦對藍營有所不利。重要的，“厭世代”在台灣出現，或許對台灣政治環境會有深遠的影響，不但影響明年的縣市長選戰，影響2028的大位之戰，更會重塑台灣的政治生態。</p>
+
+
+
+<p class="has-text-align-center"><strong>*以上言論不代表本報立場</strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/21/%e5%be%9e%e5%8f%b0%e9%9d%92%e8%87%aa%e8%a9%a1%e3%80%8c%e5%8e%ad%e4%b8%96%e4%bb%a3%e3%80%8d%e7%9c%8b%e8%b3%b4%e6%b8%85%e5%be%b7%e5%85%a9%e6%ac%a1%e3%80%8c%e6%ad%bb%e4%ba%a1%e4%ba%a4%e5%8f%89%e3%80%8d/">從台青自詡「厭世代」看賴清德兩次「死亡交叉」及深遠影響</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>微風精品線上攜手安然科技，運用UpGPT AI技術重塑消費者購物體驗</title>
+		<link>https://firenews.com.tw/2025/07/18/%e5%be%ae%e9%a2%a8%e7%b2%be%e5%93%81%e7%b7%9a%e4%b8%8a%e6%94%9c%e6%89%8b%e5%ae%89%e7%84%b6%e7%a7%91%e6%8a%80%ef%bc%8c%e9%81%8b%e7%94%a8upgpt-ai%e6%8a%80%e8%a1%93%e9%87%8d%e5%a1%91%e6%b6%88%e8%b2%bb/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 10:57:58 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=228730</guid>
+
+					<description><![CDATA[<p><img width="1547" height="791" src="https://firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?w=1547&amp;ssl=1 1547w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=768%2C393&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=1536%2C785&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=260%2C133&amp;ssl=1 260w" sizes="(max-width: 1547px) 100vw, 1547px" /></p>
+<p>隨著人工智慧技術的迅速演進，企業在數位轉型中愈加倚賴AI解決方案。微風集團旗下的微風數位時代股份有限公司今日宣 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/18/%e5%be%ae%e9%a2%a8%e7%b2%be%e5%93%81%e7%b7%9a%e4%b8%8a%e6%94%9c%e6%89%8b%e5%ae%89%e7%84%b6%e7%a7%91%e6%8a%80%ef%bc%8c%e9%81%8b%e7%94%a8upgpt-ai%e6%8a%80%e8%a1%93%e9%87%8d%e5%a1%91%e6%b6%88%e8%b2%bb/">微風精品線上攜手安然科技，運用UpGPT AI技術重塑消費者購物體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1547" height="791" src="https://firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?w=1547&amp;ssl=1 1547w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=768%2C393&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=1536%2C785&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/微風精品線上攜手安然科技導入UpGPT生成式AI，打造精品電商智慧新體驗.jpg?resize=260%2C133&amp;ssl=1 260w" sizes="(max-width: 1547px) 100vw, 1547px" /></p>
+<p>隨著人工智慧技術的迅速演進，企業在數位轉型中愈加倚賴AI解決方案。微風集團旗下的微風數位時代股份有限公司今日宣布與安然科技合作，引入生成式AI工具「UpGPT」，以提升其線上精品平台的消費者互動體驗。此舉不僅強化了商品推薦及搜尋功能，更使得購物過程變得更加智能化和個性化。</p>
+
+
+
+<p><strong>AI</strong><strong>導入精品電商，提升搜尋與推薦體驗</strong></p>
+
+
+
+<p>作為台灣頂尖的精品百貨集團旗下電商平台，微風精品線上一直以來致力於提供高品質、創新的購物體驗。 面對線上購物市場日益激烈的競爭，如何透過數位科技精準觸及消費者需求、增加用戶黏著度，成為微風集團積極投入數位轉型的主要動力。</p>
+
+
+
+<p>此次與安然科技合作導入UpGPT生成式AI，正是著眼於AI技術強大的自然語言理解及生成能力。 UpGPT不僅能理解消費者透過口語化、日常化的自然語言表達，更可即時生成豐富、多元的商品推薦清單，打破以往僅靠關鍵字或單一條件篩選的局限性，帶給消費者前所未有的智能購物體驗。</p>
+
+
+
+<p><strong>創新</strong><strong>AI</strong><strong>補充描述，全面提升商品資訊</strong></p>
+
+
+
+<p>在商品資料進行分析之前，微風數位特別進行了一次創新的AI補充描述程序。透過先進的自然語言生成技術，系統自動為每一件商品生成更加完整且細緻的描述，涵蓋商品的基本特性、材質、功能，並融入消費者可能感興趣的具體細節與實際使用情境，提供更貼近消費者需求的資訊。此外，AI技術更進一步透過對商品圖片的深度分析，自動生成多元且豐富的商品描述與標籤，包含色彩風格、搭配建議及不同的使用場景。這種創新的資料增值程序有效強化了商品資訊的完整性及可搜尋性，讓每項商品更具吸引力，進一步提升消費者在平台上的搜尋精確度、推薦滿意度，最終有效帶動整體銷售業績與顧客忠誠度的持續提升。</p>
+
+
+
+<p><strong>自然語言理解，精準掌握消費者需求</strong></p>
+
+
+
+<p>微風數位時代負責人表示：「精品消費群對於商品選擇的需求越來越細緻且多元，傳統的搜尋方式已無法滿足高端顧客的期待。透過導入UpGPT，我們能讓消費者用最直觀、自然的方式描述他們所希望的商品，例如『適合晚宴穿著且優雅低調』或『適合送給喜歡戶外活動的朋友』，AI便能即時精準推薦符合需求的商品，大幅提高消費效率與滿意度。」</p>
+
+
+
+<p>UpGPT亦具備深度的語意理解與關鍵字優化功能，消費者在描述商品時，即使未能明確表達所需細節，系統也能自動分析語意，提取並提供適合的關鍵字選項，幫助使用者更精準地找到理想商品。 微風數位指出，自導入UpGPT以來，網站內的使用者搜尋轉換率明顯提升，使用者回訪率亦呈現顯著成長趨勢。</p>
+
+
+
+<p>此外，UpGPT也支援多語系環境，可滿足不同國籍消費者的需求，使微風精品更有效地擴展國際市場，透過AI的跨語言能力，降低語言與文化間的購物障礙。</p>
+
+
+
+<p><strong>結合</strong><strong>Azure OpenAI</strong><strong>，實現智慧零售新典範</strong></p>
+
+
+
+<p>安然科技產品總監表示：「UpGPT的核心優勢在於其透過Azure OpenAI Service強大的語言模型能力，不僅能迅速理解消費者多元且複雜的需求描述，更能持續透過機器學習優化推薦策略，精確捕捉市場趨勢變化，實現智能與人性化的完美融合。」</p>
+
+
+
+<p>微風精品線上此次透過導入AI應用，不僅強化自身的競爭力，更成為電商行業內導入生成式AI的領先案例。未來，微風精品線上亦計畫進一步擴展UpGPT的應用範圍，涵蓋更廣泛的行銷活動、客戶服務以及消費者洞察分析，持續推動數位精品產業邁向智慧零售新時代。</p>
+
+
+
+<p>微風精品線上強調：「消費者體驗始終是我們經營的核心價值，藉由UpGPT的引入，將徹底改變傳統線上購物體驗，使購物過程不再是冷冰冰的交易，而是充滿人性化、精準且貼心的互動旅程。我們期待透過更多創新科技的結合，持續引領台灣電商市場的創新潮流。」 安然科技表示，此次與微風集團的合作，不僅展現AI在高端零售領域的應用價值，更進一步拓展Azure OpenAI生態圈的發展潛力，未來將持續攜手合作夥伴，共同推動各產業數位化轉型。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/18/%e5%be%ae%e9%a2%a8%e7%b2%be%e5%93%81%e7%b7%9a%e4%b8%8a%e6%94%9c%e6%89%8b%e5%ae%89%e7%84%b6%e7%a7%91%e6%8a%80%ef%bc%8c%e9%81%8b%e7%94%a8upgpt-ai%e6%8a%80%e8%a1%93%e9%87%8d%e5%a1%91%e6%b6%88%e8%b2%bb/">微風精品線上攜手安然科技，運用UpGPT AI技術重塑消費者購物體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【兩次跌落谷底，他仍選擇設計人生｜從榜首少年到創業實踐者，維翔的重生路】</title>
+		<link>https://firenews.com.tw/2025/07/18/%e3%80%90%e5%85%a9%e6%ac%a1%e8%b7%8c%e8%90%bd%e8%b0%b7%e5%ba%95%ef%bc%8c%e4%bb%96%e4%bb%8d%e9%81%b8%e6%93%87%e8%a8%ad%e8%a8%88%e4%ba%ba%e7%94%9f%ef%bd%9c%e5%be%9e%e6%a6%9c%e9%a6%96%e5%b0%91%e5%b9%b4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 04:03:11 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=228480</guid>
+
+					<description><![CDATA[<p>「你是不是讀書讀到腦袋壞掉，以為人生什麼事都能解決？」 這是維翔在研究所時，一位摯友對他說的一句話。當時他不太 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/18/%e3%80%90%e5%85%a9%e6%ac%a1%e8%b7%8c%e8%90%bd%e8%b0%b7%e5%ba%95%ef%bc%8c%e4%bb%96%e4%bb%8d%e9%81%b8%e6%93%87%e8%a8%ad%e8%a8%88%e4%ba%ba%e7%94%9f%ef%bd%9c%e5%be%9e%e6%a6%9c%e9%a6%96%e5%b0%91%e5%b9%b4/">【兩次跌落谷底，他仍選擇設計人生｜從榜首少年到創業實踐者，維翔的重生路】</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>「你是不是讀書讀到腦袋壞掉，以為人生什麼事都能解決？」</p>
+
+
+
+<p>這是維翔在研究所時，一位摯友對他說的一句話。當時他不太懂這句話的重量，直到多年後經歷兩次人生的崩壞，才真正明白，成功從來不是靠努力堆砌的直線上升，而是經得起跌倒後重來的勇氣與設計。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="613" height="804" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-194.png?resize=613%2C804&#038;ssl=1" alt="" class="wp-image-228481" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-194.png?w=613&amp;ssl=1 613w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-194.png?resize=111%2C146&amp;ssl=1 111w" sizes="(max-width: 613px) 100vw, 613px" data-recalc-dims="1" /></figure>
+
+
+
+<p><strong>來自鄉下的榜首少年：以為努力就能無敵</strong></p>
+
+
+
+<p>維翔來自彰化鄉下，一個沒有網咖、撞球場、漫畫店，只有菜市場與補習班的小地方。國中就讀新設立的學校，學校簡陋、環境乏味，他選擇把時間都花在讀書上。基測時考出全國滿分榜首，校長親自到他家放鞭炮。此後，一路從台中一中、台大心理、政大企研所，無不是前三名進入。他相信只要自己夠努力，未來一切都在掌握中。</p>
+
+
+
+<p><strong>拒絕世界名企，選擇網路創業熱土</strong></p>
+
+
+
+<p>研究所時，他看不上Google、IBM、P&amp;G這些人人爭搶的機會，反而選擇去2012年的上海電商市場實習。雙十一熱潮讓他見證一天等同台灣三年百貨業績的瘋狂數字，也讓他義無反顧投身創業。回台後開始經營網路事業，第一年收入就超越外商，退伍後再拓展新馬市場，營業額連年創高，滿懷信心以為人生已經抵達「勝利組」。</p>
+
+
+
+<p><strong>第一場崩壞：事業背叛與情感破裂</strong></p>
+
+
+
+<p>然而，光鮮亮麗的背後，埋藏著團隊文化衝突、核心成員利益對立，終於爆發。合作破裂、關係決裂，讓事業如進加護病房一般搖搖欲墜。原本以為能攜手一生的伴侶也在此時離去，家、愛情、事業三重打擊席捲而來。</p>
+
+
+
+<p>之後數年，他在台北幾乎每年搬一次家，失眠、過敏、免疫系統失調，鏡中的自己滿臉紅疹、眼匡凹陷，完全陌生。他說：「當你健康的時候，腦袋裡有無數想解決的問題；但當你病了，腦中只剩下身體的痛。」爸媽每天打電話提醒他吃飯睡覺，不說大道理，只默默守護。他也終於鼓起勇氣，重新學習、重新出發。</p>
+
+
+
+<p><strong>第二場重擊：五千萬債務與奶奶的離世</strong></p>
+
+
+
+<p>好不容易振作，在金融領域找回動力時，命運再度給予重擊。某天上午十一點，一通電話傳來：「老闆做假帳，所有人的錢都沒了！」他瞬間背上五千萬債務，同時摯愛的奶奶也因中風住進加護病房，最終不幸離世。坐在奶奶靈堂，他擔心父母的情緒，也擔心他們擔心自己。但爸爸只說：「還好你三十幾歲跌倒，還爬得起來。」媽媽則說：「媽媽都知道，你好好吃飯睡覺就好。」</p>
+
+
+
+<p><strong>東山再起：從內外重建，再造信心與事業</strong></p>
+
+
+
+<p>這句話成為他再次爬起來的理由。他退掉台北的房子，搬回彰化重新整頓。他說：「這次我知道不能再靠熱情或幻想，要用系統和邏輯來重建。」</p>
+
+
+
+<p>他全力投入金融和醫美產業，從零學習資產配置與財務策略，協助客戶從開源節流到風險控管。另一方面，過去因為身心狀況導致對外貌的自卑，他也在醫美貴人的幫助下改善膚況與外型，發現改善外表不只是改變形象，更是一種重新定義自我價值的過程。</p>
+
+
+
+<p>他說：「形象走在能力前面，財務規劃就是人生規劃。」</p>
+
+
+
+<p><strong>失敗不是終點，而是「商業信仰」的起點</strong></p>
+
+
+
+<p>維翔說：「我曾經以為努力就一定成功，但人生不是這樣算的。商業不是一場追錢遊戲，而是一場看見人心、設計生活的修行。」他開始大量培育團隊、建立個人品牌輔導體系，協助成千上萬的夥伴完成收入、形象與自信的蛻變。他的事業不只是賣產品，更賣出「一種活法」。他說：「創業，不只是開公司，而是用盡一切方法，讓生活變成你想要的樣子。」</p>
+
+
+
+<p><strong>創業流派不只一種：維翔的生存法則</strong></p>
+
+
+
+<p>今日的維翔，已是結合個人成長、財富自由、品牌塑造等多重能力的實踐者。他說：「不是每個人都能一步到位，但每個人都可以從跌倒的地方再站起來。」</p>
+
+
+
+<p>他用自己的故事告訴世人：不論你是天之驕子還是絕地求生者，人生的關鍵不在於起點，而是你願不願意重新設計它。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="484" height="726" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-195.png?resize=484%2C726&#038;ssl=1" alt="" class="wp-image-228482" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-195.png?w=484&amp;ssl=1 484w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/image-195.png?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 484px) 100vw, 484px" data-recalc-dims="1" /></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/07/18/%e3%80%90%e5%85%a9%e6%ac%a1%e8%b7%8c%e8%90%bd%e8%b0%b7%e5%ba%95%ef%bc%8c%e4%bb%96%e4%bb%8d%e9%81%b8%e6%93%87%e8%a8%ad%e8%a8%88%e4%ba%ba%e7%94%9f%ef%bd%9c%e5%be%9e%e6%a6%9c%e9%a6%96%e5%b0%91%e5%b9%b4/">【兩次跌落谷底，他仍選擇設計人生｜從榜首少年到創業實踐者，維翔的重生路】</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
