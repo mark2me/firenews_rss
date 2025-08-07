@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 06 Aug 2025 16:25:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Aug 2025 04:00:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,182 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</title>
+		<link>https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 04:00:02 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=237901</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1439" src="https://firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="企業該如何建置完整資料保護基礎架構？" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>近期全球知名遊樂業者遭大規模資料外洩，勒索軟體不僅加密資料更暗藏「毀滅模式」，顯示網路攻擊已升級至癱瘓業務核心 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/">勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1439" src="https://firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="企業該如何建置完整資料保護基礎架構？" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>近期全球知名遊樂業者遭大規模資料外洩，勒索軟體不僅加密資料更暗藏「毀滅模式」，顯示網路攻擊已升級至癱瘓業務核心。企業需構建多層防禦，而 ActiveProtect 備份隔離機制作為資料保護的最後關鍵防線，可有效抵禦此類威脅。</p>
+
+
+
+<p>這帶給企業的提醒，是即便擁有龐大預算與完整團隊，仍難以抵擋高度組織化與產業化的網路攻擊。同時，這帶出資安早已不是有部署就夠，從端點、網路、資料、存取控制，到網路韌性的每個環節都不能鬆懈，必須建構系統性資料保護架構，企業才能以完善的防禦措施面對網路攻擊，確保持續營運。</p>
+
+
+
+<p><strong>多層次防禦系統當道，從端點防護到備份能力缺一不可</strong></p>
+
+
+
+<p>仔細拆解這個惡意攻擊的過程，會發現駭客並非正面突破，而是透過合作供應商的資安破口，竊取超過上萬份機密檔案。更可怕的是，該勒索病毒還採用「邊勒索、邊毀檔」的雙重攻擊模式，即使企業付錢也無法保證資料能復原。</p>
+
+
+
+<p>因此，企業若要有效抵禦攻擊，不可只依賴防火牆或單一防毒工具，而是必須建構整套從內到外的多層次防禦系統。更重要的是，企業現在不能「獨善其身」，更得嚴格要求與管理供應鏈，確保所有合作夥伴都符合相同資安標準，定期評估與稽核供應商資安情形，並建立明確的資安合規條款，才能避免碰上類似的窘境。</p>
+
+
+
+<p>而要達到完整的多層次防禦，就必須具備以下幾個關鍵構面：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>端點防護：</strong>部署 EDR（Endpoint Detection &amp; Response）或進階防毒軟體，可以主動偵測並阻擋勒索軟體與可疑行為。許多攻擊都是從單一端點滲透企業內網，因此端點若失守，整個系統就可能淪陷。</li>
+
+
+
+<li><strong>網路防護：</strong>實施網路區隔、設置內網防火牆等，有效分隔關鍵業務系統與一般用戶，並透過 IDS/IPS 或 NDR 等工具，進行流量分析與異常偵測，即時攔截異常連線。</li>
+
+
+
+<li><strong>資料安全：</strong>保護企業最關鍵的資料內容，包括個資、機密商業資料，加密資料以降低外洩風險。同時搭配 DLP（Data Loss Prevention）機制，防止資料遭異常複製、匯出或上傳到不明位置。</li>
+
+
+
+<li><strong>存取控管：</strong>落實零信任、最小權限原則，且導入多因子驗證（MFA），防止帳號盜用後被攻擊者濫用。組織亦可整合 SSO 與 IAM 平台，統一控管企業內外部的身分與授權行為。</li>
+
+
+
+<li><strong>系統監控：</strong>部署 SIEM（Security Information and Event Management）平台，可集中收集並關聯分析來自系統、網路、應用的安全事件，還能提早察覺資料異常存取、大量寫入等攻擊前兆。</li>
+
+
+
+<li><strong>備份與還原：</strong>定期備份重要資料，保存多個版本與異地副本，企業才能在遭受攻擊時無需支付贖金，即可利用備份資料還原系統狀態，減少停機所造成的損失。</li>
+</ul>
+
+
+
+<p><strong>ActiveProtect 內建不可竄改與離線備份，有效守護備份資料安全性</strong></p>
+
+
+
+<p>整套企業資安防禦體系中，備份與還原經常被視為最後一道防線：當所有防禦措施失效、資料遭加密或刪除時，備份能幫助組織恢復營運、避免支付高額贖金。然而，當前駭客不再滿足加密原始資料，還會進一步攻擊備份系統。對此 Synology 推出備份專用一體機 ActiveProtect，就著重備份伺服器本身安全性，打造備份資料隔離機制，確保備份堅不可摧。</p>
+
+
+
+<p>首先，ActiveProtect 提供不可竄改備份（Immutable backup）功能，結合了版本鎖定（Retention lock）機制，能為每個備份標的、各個版本都套用不可變鎖定，相較於傳統備份軟體僅能在儲存空間的快照層級進行鎖定，ActiveProtect 的保護層級更為全面。</p>
+
+
+
+<p>這種機制也大幅減輕了管理負擔，無需為不同保留時間的標的，切割不同儲存空間，等於能降低人為疏失造成的安全漏洞。當備份資料一旦上鎖，面對勒索病毒攻擊或內部惡意操作，就無法被修改或刪除，從而使資料安全性達到零信任標準。</p>
+
+
+
+<p>再來 Synology 要從另一個面向，防堵惡意攻擊進入備份伺服器的可能。ActiveProtect 內建自動化的實體/網路隔離技術（Air-gap）。當備份資料從備份伺服器，複製到異地的 ActiveProtect 裝置時，系統會自動識別資料傳輸階段，僅允許指定來源伺服器傳送資料，有效阻絕非必要連線。備份任務完成後，異地的備份伺服器，還會自動關閉網卡或裝置電源，防止任何非授權連線或滲透風險。</p>
+
+
+
+<p>過往類似的離線備份，多是靠人工移除網路線或手動移除硬碟的方式，相當不便利。而 ActiveProtect 提供更智慧、即時且自動化的解決方案。此外，由於 ActiveProtect 能自動偵測來源端的資料傳輸狀態，若備份提前結束，系統也會相應提前自動關閉網路，將備份伺服器的暴露風險降至最低，確保企業擁有一份乾淨且可靠的可還原資料。</p>
+
+
+
+<p>面對日益複雜且持續演進的資安威脅，企業需建立起多層次的防禦架構，免於自身成為資安事件的受害者。從端點防護、網路安全、資料保護到存取控管，各個環節都得做到滴水不漏，尤其作為最後防線的備份系統，更需要具備不可竄改及網路隔離等進階功能，才能在危急時刻發揮功用，確保企業在遭受攻擊時迅速復原、達成營運不中斷的目標。</p>
+
+
+
+<p>&gt;&gt; 欲打造高度韌性的資料保護架構，歡迎與專家免費諮詢：<a href="https://sy.to/nlfbc" target="_blank" rel="noreferrer noopener">https://sy.to/nlfbc</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/">勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</title>
+		<link>https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 03:51:10 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=237894</guid>
+
+					<description><![CDATA[<p><img width="1280" height="720" src="https://firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>台灣3D列印品牌普羅森宣佈，旗下首款FDM機種 ARCO 將於8月20日在台開賣。該機型曾於Kickstart &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/">普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1280" height="720" src="https://firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>台灣3D列印品牌普羅森宣佈，旗下首款FDM機種 ARCO 將於8月20日在台開賣。該機型曾於Kickstarter平台創下逾140萬美元的募資佳績，展現強大國際市場潛力。此次回歸台灣市場，普羅森鎖定專業創作者與中小型工作室，以高穩定、高效率的列印能力，回應大尺寸與多色列印等多元應用需求。</p>
+
+
+
+<p><strong>從機構到出料，打造極速不中斷的列印體驗</strong><strong></strong></p>
+
+
+
+<p>有別於傳統機台採取移動平台設計，&nbsp;<a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">ARCO</a>&nbsp;採用低重心列印結構，大幅提升列印穩定與速度表現。除此之外， ARCO 還搭載 AI 伺服器等級散熱技術與專利擠出系統，出料高速穩定不卡卡。有列印雕像、大型 cosplay 配件、還是經營工作室等需求的用戶， ARCO 都能讓你高效出貨、安心接單！</p>
+
+
+
+<p><strong>四色獨立供料管線，多色列印一樣快又穩</strong><strong></strong></p>
+
+
+
+<p>ARCO 採用四色獨立供料管線設計，比傳統換色快上 50%，讓原本耗時的多色列印變得高效又流暢。創作者能在最短時間內看到列印成果，不僅能拓展更多元的創作形式，也更適合接單工作室快速交付成品。從驗證樣品原型、即時調整設計，到大量製作快速出貨， ARCO 讓你把心力放在設計與創作，而不是浪費在漫長的等待上。</p>
+
+
+
+<p><strong>加裝五重鎧甲，降噪除味更安心</strong><strong></strong></p>
+
+
+
+<p>ARCO 可加購晶透五重盾外罩，有效降噪 15%。搭載 AI 控溫與活性碳濾網，能智慧調節艙內溫度與空氣品質。不管放在家裡、教室還是工作室，使用起來都更安靜、無負擔，讓列印成為舒適日常的一部分。</p>
+
+
+
+<p><strong>標配歐美高階噴嘴，從日常到工程都能印</strong><strong></strong></p>
+
+
+
+<p><a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">ARCO</a>&nbsp;標配普羅森黃銅噴嘴，滿足日常模型需求。若有高速列印或大型模型需求，也可切換瑞典 Bondtech 的高流量噴嘴；針對更進階的工程應用，則能搭配美國 Slice Engineering 的專業耐磨噴嘴，應對工程材料列印。</p>
+
+
+
+<p>普羅森執行長暨共同創辦人吳彝任表示：「 ARCO 的誕生，是我們為創作者打造更完整工具組的其中一步。無論你是模型創作、開發產品、參與展演還是批量製作，ARCO 都能提供穩定、有力的支持。」</p>
+
+
+
+<p>普羅森 ARCO 將於 8/20 早上十點在台灣開放預購，首日搭配訂金折扣更可達 65 折，更多資訊可見<a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">普羅森官網</a>。</p>
+
+
+
+<p>若想親自體驗機台，歡迎於 8/20-23 於台灣3D列印暨積層製造設備展期間，前往台北南港展覽館二館 4 樓 S403 攤位參觀。</p>
+
+
+
+<p><strong>關於普羅森</strong><strong></strong></p>
+
+
+
+<p>普羅森為台灣3D列印品牌，以<strong>光固化</strong>技術起家，以高精準度、高品質的產品特性打響國際知名度。其專注於開發專業且易於使用的 3D 列印解決方案，致力於激發創意、提升生產效率。旗下產品生態系涵蓋列印機、材料與軟體，廣泛應用於個人創作、牙科醫療、工程開發與製造等多元領域。了解更多，請造訪官方網站：<a href="https://phrozen3d.com.tw/" target="_blank" rel="noreferrer noopener">https://phrozen3d.com.tw</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/">普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>永安社區綠色照顧跨域活動手作木玫瑰感受療癒與溫暖</title>
 		<link>https://firenews.com.tw/2025/08/07/%e6%b0%b8%e5%ae%89%e7%a4%be%e5%8d%80%e7%b6%a0%e8%89%b2%e7%85%a7%e9%a1%a7%e8%b7%a8%e5%9f%9f%e6%b4%bb%e5%8b%95%e6%89%8b%e4%bd%9c%e6%9c%a8%e7%8e%ab%e7%91%b0%e6%84%9f%e5%8f%97%e7%99%82%e7%99%92%e8%88%87/</link>
 		
@@ -56,7 +232,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-237681" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">長輩們展示親手製作的木玫瑰與活動手牌，臉上洋溢著笑容。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-237681" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">長輩們展示親手製作的木玫瑰與活動手牌，臉上洋溢著笑容。</figcaption></figure>
 
 
 
@@ -518,159 +694,6 @@
 
 <p>TAVI 副理事長、宇斻管顧執行合夥人尤齊著補充，「台灣需要更多像台宇這樣商模靈活的創新型公司，以合作代替競爭，來填補疫苗產業鏈中從研發到量產的關鍵缺口。」本次募得資金將用於完成臨床前試驗，並規劃2026年提出新藥臨床試驗申請、2028年興櫃，力拚成為閃亮的疫苗台灣隊。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/08/01/%e3%80%8c%e5%8f%b0%e5%ae%87%e7%94%9f%e9%86%ab%e3%80%8d%e7%8d%b26%e5%8d%83%e8%90%ac%e7%a8%ae%e5%ad%90%e8%bc%aa%e5%8b%9f%e8%b3%87-%e5%ae%87%e6%96%bb%e7%a8%ae%e5%ad%90%e5%9f%ba%e9%87%91%e9%a0%98%e6%8a%95/">「台宇生醫」獲6千萬種子輪募資 宇斻種子基金領投基金領投</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>父親節送禮靈感全靠AI？ 網友瘋傳男人三寶標配， 七成老爸都少不了「這樣東西」！</title>
-		<link>https://firenews.com.tw/2025/07/31/%e7%88%b6%e8%a6%aa%e7%af%80%e9%80%81%e7%a6%ae%e9%9d%88%e6%84%9f%e5%85%a8%e9%9d%a0ai%ef%bc%9f-%e7%b6%b2%e5%8f%8b%e7%98%8b%e5%82%b3%e7%94%b7%e4%ba%ba%e4%b8%89%e5%af%b6%e6%a8%99%e9%85%8d%ef%bc%8c/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 06:52:04 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[威士忌]]></category>
-		<category><![CDATA[百齡罈]]></category>
-		<category><![CDATA[百齡罈威士忌]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=234588</guid>
-
-					<description><![CDATA[<p>父親節將近，送禮更是一門學問，不少人已開始思考該如何為爸爸挑選一份有誠意又不失創意的禮物。 近期在社群平台 T &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/31/%e7%88%b6%e8%a6%aa%e7%af%80%e9%80%81%e7%a6%ae%e9%9d%88%e6%84%9f%e5%85%a8%e9%9d%a0ai%ef%bc%9f-%e7%b6%b2%e5%8f%8b%e7%98%8b%e5%82%b3%e7%94%b7%e4%ba%ba%e4%b8%89%e5%af%b6%e6%a8%99%e9%85%8d%ef%bc%8c/">父親節送禮靈感全靠AI？ 網友瘋傳男人三寶標配， 七成老爸都少不了「這樣東西」！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>父親節將近，送禮更是一門學問，不少人已開始思考該如何為爸爸挑選一份有誠意又不失創意的禮物。</strong></p>
-</blockquote>
-
-
-
-<p>近期在社群平台 Threads 上，一股<a href="https://www.threads.com/@a.dodo0714/post/DMcQpA0TrU6">「AI爸爸模型」</a>的風潮席捲網路，許多網友透過OpenAI旗下的ChatGPT圖像生成功能，紛紛曬出自家的爸爸的AI圖片，從髮型、穿搭到配件細節滿滿，不少人笑說根本是從潮流公仔盒走出來的Q版老爸。原PO也大方分享「AI生成咒語」，引來大批網友跟風製作，讓原本充滿溫馨的節慶多了一絲幽默與趣味性。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1116" height="1154" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友AI生成爸爸模型，成為父親節送禮靈感來源。圖／Threads網友提供_.jpg?resize=1116%2C1154&#038;ssl=1" alt="" class="wp-image-234590" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友AI生成爸爸模型，成為父親節送禮靈感來源。圖／Threads網友提供_.jpg?w=1116&amp;ssl=1 1116w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友AI生成爸爸模型，成為父親節送禮靈感來源。圖／Threads網友提供_.jpg?resize=768%2C794&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友AI生成爸爸模型，成為父親節送禮靈感來源。圖／Threads網友提供_.jpg?resize=141%2C146&amp;ssl=1 141w" sizes="(max-width: 1116px) 100vw, 1116px" data-recalc-dims="1" /></figure>
-
-
-
-<p>▲ 網友AI生成爸爸模型，成為父親節送禮靈感來源。(圖／<a href="https://www.threads.com/@a.dodo0714/post/DMcQpA0TrU6">Threads</a>網友提供)</p>
-
-
-
-<p>在這股AI爸爸模型風潮中，大家開始討論起「爸爸們的標配到底是什麼？」並從眾多網友的生成圖片可見，不少模型手中都配備「男人三寶」——名錶、車鑰匙與威士忌。也有網友根據爸爸的興趣打造專屬角色，像是登山爸爸必備登山杖、茶經爸爸搭配茶杯，甚至還有人做出水電職人爸爸，配件直接放上螺絲起子，展現出不同風格老爸的可愛神韻。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="851" height="315" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友依照爸爸興趣打造不同造型，從登山客、茶道職人到水電工爸爸。（圖／Threads網友提供）.jpg?resize=851%2C315&#038;ssl=1" alt="" class="wp-image-234593" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友依照爸爸興趣打造不同造型，從登山客、茶道職人到水電工爸爸。（圖／Threads網友提供）.jpg?w=851&amp;ssl=1 851w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友依照爸爸興趣打造不同造型，從登山客、茶道職人到水電工爸爸。（圖／Threads網友提供）.jpg?resize=768%2C284&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-網友依照爸爸興趣打造不同造型，從登山客、茶道職人到水電工爸爸。（圖／Threads網友提供）.jpg?resize=260%2C96&amp;ssl=1 260w" sizes="(max-width: 851px) 100vw, 851px" data-recalc-dims="1" /></figure>
-
-
-
-<p>▲ 網友依照爸爸興趣打造不同造型，從登山客、茶道職人到水電工爸爸。（圖／<a href="https://www.threads.com/@a.dodo0714/post/DMcQpA0TrU6">Threads</a>網友提供）</p>
-
-
-
-<p>不過討論最熱烈的，莫過於威士忌的出現頻率。據觀察，超過七成的AI爸爸手中都拿著威士忌酒瓶，網友笑翻表示：「果然爸爸都必備一支威！」、「看來大家爸爸的共同點就是酒跟錶啊」、「爸爸就是要滿滿的酒啊！」。</p>
-
-
-
-<p>更值得一提的是，眾多AI模型中的威士忌品牌也引起熱烈討論，除了皇家禮炮、百富等高端品牌外，更有眼尖網友發現：「怎麼刷一排都是百齡罈的威！大家的爸爸們很懂喝欸XD」也有不少網友表示：「百齡罈之前蠻常喝，算是可以自己深的品嚐，也可以聚會喝的威士忌，CP值夠高」、「這支真心好喝，我今年父親節也送酒」、「百齡罈年份高好看也不到太貴，預算夠也可以上30年，木盒更好看」。</p>
-
-
-
-<p>從網友留言中不難看出，百齡罈憑藉細膩果香、圓潤順口的特色，著重風味的層次與平衡，相較於市面上風格強烈的酒款，更容易被威士忌老饕爸爸們接受與喜愛。不論是適合日常佐餐的 17 年到展現成熟品味的 21 年，還是體面大方的 30 年，都能在不同場合滿足品飲需求，也難怪會成為父親節討論度最高的「爸爸指定款」，更是許多人表達心意的獻禮首選。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-百齡罈威士忌擁有豐富多元的年份選擇。（圖／百齡罈官方網站）.jpg?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-234589" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-百齡罈威士忌擁有豐富多元的年份選擇。（圖／百齡罈官方網站）.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-百齡罈威士忌擁有豐富多元的年份選擇。（圖／百齡罈官方網站）.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-百齡罈威士忌擁有豐富多元的年份選擇。（圖／百齡罈官方網站）.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/圖說-_-百齡罈威士忌擁有豐富多元的年份選擇。（圖／百齡罈官方網站）.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
-
-
-
-<p>▲ 百齡罈威士忌擁有豐富多元的年份選擇。（圖／<a href="https://www.ballantines.com/zh-tw/">百齡罈官方網站</a>）</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/31/%e7%88%b6%e8%a6%aa%e7%af%80%e9%80%81%e7%a6%ae%e9%9d%88%e6%84%9f%e5%85%a8%e9%9d%a0ai%ef%bc%9f-%e7%b6%b2%e5%8f%8b%e7%98%8b%e5%82%b3%e7%94%b7%e4%ba%ba%e4%b8%89%e5%af%b6%e6%a8%99%e9%85%8d%ef%bc%8c/">父親節送禮靈感全靠AI？ 網友瘋傳男人三寶標配， 七成老爸都少不了「這樣東西」！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>消暑神器升級！TORRAS 推冷熱雙模「頸掛空調」COOLiFY 系列全面進化夏日降溫體驗</title>
-		<link>https://firenews.com.tw/2025/07/30/%e6%b6%88%e6%9a%91%e7%a5%9e%e5%99%a8%e5%8d%87%e7%b4%9a%ef%bc%81torras-%e6%8e%a8%e5%86%b7%e7%86%b1%e9%9b%99%e6%a8%a1%e3%80%8c%e9%a0%b8%e6%8e%9b%e7%a9%ba%e8%aa%bf%e3%80%8dcoolify-%e7%b3%bb%e5%88%97/</link>
-		
-		<dc:creator><![CDATA[火報 hy]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 07:51:24 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[COOLiFY]]></category>
-		<category><![CDATA[TORRAS 頸掛空調]]></category>
-		<category><![CDATA[手持風扇]]></category>
-		<category><![CDATA[頸掛風扇]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=234123</guid>
-
-					<description><![CDATA[<p><img width="1364" height="648" src="https://firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?w=1364&amp;ssl=1 1364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?resize=768%2C365&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 1364px) 100vw, 1364px" /></p>
-<p>消費中心/綜合報導 全台熱到發紅！連日高溫讓氣象署頻發高溫特報，體感溫度飆破40度，夏日「防中暑裝備」也成為熱 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/30/%e6%b6%88%e6%9a%91%e7%a5%9e%e5%99%a8%e5%8d%87%e7%b4%9a%ef%bc%81torras-%e6%8e%a8%e5%86%b7%e7%86%b1%e9%9b%99%e6%a8%a1%e3%80%8c%e9%a0%b8%e6%8e%9b%e7%a9%ba%e8%aa%bf%e3%80%8dcoolify-%e7%b3%bb%e5%88%97/">消暑神器升級！TORRAS 推冷熱雙模「頸掛空調」COOLiFY 系列全面進化夏日降溫體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1364" height="648" src="https://firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?w=1364&amp;ssl=1 1364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?resize=768%2C365&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Air情境圖-1.png?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 1364px) 100vw, 1364px" /></p>
-<p>消費中心/綜合報導</p>
-
-
-
-<p>全台熱到發紅！連日高溫讓氣象署頻發高溫特報，體感溫度飆破40度，夏日「防中暑裝備」也成為熱搜關鍵字。TORRAS作為不斷創新設計、打造便利生活的品牌，同時也是「隨身風扇」的專家，近期熱銷的COOLiFY系列商品，以領先業界的半導體製冷／製熱技術、智慧App操控等高階規格，重新定義「頸掛風扇」的高端標準，為今年夏季帶來全新消暑選擇。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-2S情境圖.png?resize=1220%2C576&#038;ssl=1" alt="" class="wp-image-234127" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-2S情境圖.png?w=1369&amp;ssl=1 1369w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-2S情境圖.png?resize=768%2C362&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-2S情境圖.png?resize=260%2C123&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">COOLiFY 2S 旗艦AI智慧頸掛冷暖空調風扇，C型可彎曲機身設計，完美貼合不同頸部，是炎炎夏日的最佳拍檔。（圖／TORRAS提供）</figcaption></figure>
-
-
-
-<p><strong>輕量舒適到高階智慧，三款機型滿足不同使用情境</strong><strong></strong></p>
-
-
-
-<p>COOLiFY系列商品主打「頸掛空調」，顛覆傳統風扇僅能送風降溫的限制，結合半導體製冷技術與人體工學設計，打造從入門到高階皆具備專業涼感的隨身解熱神器。</p>
-
-
-
-<p>若重視輕便與日常長時間使用，入門款 <strong>COOLiFY Air</strong>（售價 $4,290）是最親民實用的選擇。主打輕量化機身與4個出風道結合製冷面設計，實現全方位送風體驗，支援三種空調模式與最長 24 小時續航，輕鬆應對日常通勤、辦公與戶外活動。</p>
-
-
-
-<p>對智慧操作與效能表現有更高要求者，可選擇高階款 <strong>COOLiFY 2S</strong>（售價 $6,990）。搭載大風量出風口與 C 型可彎曲機身，佩戴更貼合頸部，同時支援 App 連線調整功能，可細緻控制風量與空調模式，續航力最高可達 28 小時，是兼顧效能與智慧科技的理想機型。</p>
-
-
-
-<p>針對追求極致降溫與科技質感體驗，旗艦款 <strong>COOLiFY Cyber</strong>（售價 $10,990）則具備三塊超大半導體製冷面積、8 個出風口、App 智慧操控分區調節，LED 螢幕能顯示剩餘電量、空調模式與風量段數一目瞭然，操作直覺、降溫即時有感！機身更攜手 LG 共同開發防火、防汗、防腐蝕材質，整合智慧快充、安全電池與多重保護機制，為講究效能與質感的消費者，提供真正全方位且安心的穿戴式空調體驗。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="600" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Cyber美照.png?resize=1220%2C600&#038;ssl=1" alt="" class="wp-image-234128" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Cyber美照.png?w=1436&amp;ssl=1 1436w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Cyber美照.png?resize=768%2C378&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/COOLIFY-Cyber美照.png?resize=260%2C128&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">COOLiFY Cyber有超大冷熱半導體面積可進行全方位降溫，拯救了黏膩悶熱的夏季。（圖／TORRAS提供）</figcaption></figure>
-
-
-
-<p><strong>同步推出精品質感手持風扇，輔助身體各部位降溫散熱</strong></p>
-
-
-
-<p>COOLiFY頸掛製冷風扇全系列皆採用無葉風扇設計，有效防止頭髮捲入，兼具安靜、舒適與長效續航等多重優勢。全系列內建半導體製冷／製熱晶片，支援冷熱雙模式，實現四季皆適用的體感調節！除了頸掛式設計，TORRAS 今年也貼心推出適合隨身攜帶的 <strong>COOLiFY iva</strong> 製冷冰敷高速手持風扇（售價 $1,590），延續 COOLiFY 系列的核心製冷技術，將強效降溫功能融入輕巧便攜的手持機身中，質感小巧機身結合頂規的大風量輸出，滿足不同情境下的涼感需求。</p>
-
-
-
-<p>隨著極端高溫成為常態，TORRAS 以 COOLiFY 系列展現穿戴式降溫裝置的新標準，消暑需求不再僅止於「吹風涼快」，而是講求更有效率、科技與舒適並重的體感解決方案。</p>
-
-
-
-<p>COOLiFY 系列商品打破傳統頸掛風扇僅能送風的限制，從入門到旗艦，多元機型滿足不同使用情境，成為面對炎炎夏日最不可或缺的降溫利器，也凸顯 TORRAS 在隨身風扇市場中難以取代的領導地位！</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1080" height="1440" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/SaveClip.App_509338267_18082385548805541_8504053331993354127_n.jpg?resize=1080%2C1440&#038;ssl=1" alt="" class="wp-image-234129" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/SaveClip.App_509338267_18082385548805541_8504053331993354127_n.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/SaveClip.App_509338267_18082385548805541_8504053331993354127_n.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/07/SaveClip.App_509338267_18082385548805541_8504053331993354127_n.jpg?resize=110%2C146&amp;ssl=1 110w" sizes="(max-width: 1080px) 100vw, 1080px" data-recalc-dims="1" /><figcaption class="wp-element-caption">COOLiFY iva 手持式製冷高速引擎風扇支援 USB Type-C 充電，握把上附有隱藏式支架，也能當扣環掛在包包上。（圖／TORRAS提供）</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/07/30/%e6%b6%88%e6%9a%91%e7%a5%9e%e5%99%a8%e5%8d%87%e7%b4%9a%ef%bc%81torras-%e6%8e%a8%e5%86%b7%e7%86%b1%e9%9b%99%e6%a8%a1%e3%80%8c%e9%a0%b8%e6%8e%9b%e7%a9%ba%e8%aa%bf%e3%80%8dcoolify-%e7%b3%bb%e5%88%97/">消暑神器升級！TORRAS 推冷熱雙模「頸掛空調」COOLiFY 系列全面進化夏日降溫體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		

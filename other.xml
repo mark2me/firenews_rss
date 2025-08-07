@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/其他/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 06 Aug 2025 16:25:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Aug 2025 04:00:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,249 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</title>
+		<link>https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 04:00:02 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=237901</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1439" src="https://firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="企業該如何建置完整資料保護基礎架構？" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>近期全球知名遊樂業者遭大規模資料外洩，勒索軟體不僅加密資料更暗藏「毀滅模式」，顯示網路攻擊已升級至癱瘓業務核心 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/">勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1439" src="https://firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="企業該如何建置完整資料保護基礎架構？" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/237899-360166727134301220041932409292737546281485781624843602-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>近期全球知名遊樂業者遭大規模資料外洩，勒索軟體不僅加密資料更暗藏「毀滅模式」，顯示網路攻擊已升級至癱瘓業務核心。企業需構建多層防禦，而 ActiveProtect 備份隔離機制作為資料保護的最後關鍵防線，可有效抵禦此類威脅。</p>
+
+
+
+<p>這帶給企業的提醒，是即便擁有龐大預算與完整團隊，仍難以抵擋高度組織化與產業化的網路攻擊。同時，這帶出資安早已不是有部署就夠，從端點、網路、資料、存取控制，到網路韌性的每個環節都不能鬆懈，必須建構系統性資料保護架構，企業才能以完善的防禦措施面對網路攻擊，確保持續營運。</p>
+
+
+
+<p><strong>多層次防禦系統當道，從端點防護到備份能力缺一不可</strong></p>
+
+
+
+<p>仔細拆解這個惡意攻擊的過程，會發現駭客並非正面突破，而是透過合作供應商的資安破口，竊取超過上萬份機密檔案。更可怕的是，該勒索病毒還採用「邊勒索、邊毀檔」的雙重攻擊模式，即使企業付錢也無法保證資料能復原。</p>
+
+
+
+<p>因此，企業若要有效抵禦攻擊，不可只依賴防火牆或單一防毒工具，而是必須建構整套從內到外的多層次防禦系統。更重要的是，企業現在不能「獨善其身」，更得嚴格要求與管理供應鏈，確保所有合作夥伴都符合相同資安標準，定期評估與稽核供應商資安情形，並建立明確的資安合規條款，才能避免碰上類似的窘境。</p>
+
+
+
+<p>而要達到完整的多層次防禦，就必須具備以下幾個關鍵構面：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>端點防護：</strong>部署 EDR（Endpoint Detection &amp; Response）或進階防毒軟體，可以主動偵測並阻擋勒索軟體與可疑行為。許多攻擊都是從單一端點滲透企業內網，因此端點若失守，整個系統就可能淪陷。</li>
+
+
+
+<li><strong>網路防護：</strong>實施網路區隔、設置內網防火牆等，有效分隔關鍵業務系統與一般用戶，並透過 IDS/IPS 或 NDR 等工具，進行流量分析與異常偵測，即時攔截異常連線。</li>
+
+
+
+<li><strong>資料安全：</strong>保護企業最關鍵的資料內容，包括個資、機密商業資料，加密資料以降低外洩風險。同時搭配 DLP（Data Loss Prevention）機制，防止資料遭異常複製、匯出或上傳到不明位置。</li>
+
+
+
+<li><strong>存取控管：</strong>落實零信任、最小權限原則，且導入多因子驗證（MFA），防止帳號盜用後被攻擊者濫用。組織亦可整合 SSO 與 IAM 平台，統一控管企業內外部的身分與授權行為。</li>
+
+
+
+<li><strong>系統監控：</strong>部署 SIEM（Security Information and Event Management）平台，可集中收集並關聯分析來自系統、網路、應用的安全事件，還能提早察覺資料異常存取、大量寫入等攻擊前兆。</li>
+
+
+
+<li><strong>備份與還原：</strong>定期備份重要資料，保存多個版本與異地副本，企業才能在遭受攻擊時無需支付贖金，即可利用備份資料還原系統狀態，減少停機所造成的損失。</li>
+</ul>
+
+
+
+<p><strong>ActiveProtect 內建不可竄改與離線備份，有效守護備份資料安全性</strong></p>
+
+
+
+<p>整套企業資安防禦體系中，備份與還原經常被視為最後一道防線：當所有防禦措施失效、資料遭加密或刪除時，備份能幫助組織恢復營運、避免支付高額贖金。然而，當前駭客不再滿足加密原始資料，還會進一步攻擊備份系統。對此 Synology 推出備份專用一體機 ActiveProtect，就著重備份伺服器本身安全性，打造備份資料隔離機制，確保備份堅不可摧。</p>
+
+
+
+<p>首先，ActiveProtect 提供不可竄改備份（Immutable backup）功能，結合了版本鎖定（Retention lock）機制，能為每個備份標的、各個版本都套用不可變鎖定，相較於傳統備份軟體僅能在儲存空間的快照層級進行鎖定，ActiveProtect 的保護層級更為全面。</p>
+
+
+
+<p>這種機制也大幅減輕了管理負擔，無需為不同保留時間的標的，切割不同儲存空間，等於能降低人為疏失造成的安全漏洞。當備份資料一旦上鎖，面對勒索病毒攻擊或內部惡意操作，就無法被修改或刪除，從而使資料安全性達到零信任標準。</p>
+
+
+
+<p>再來 Synology 要從另一個面向，防堵惡意攻擊進入備份伺服器的可能。ActiveProtect 內建自動化的實體/網路隔離技術（Air-gap）。當備份資料從備份伺服器，複製到異地的 ActiveProtect 裝置時，系統會自動識別資料傳輸階段，僅允許指定來源伺服器傳送資料，有效阻絕非必要連線。備份任務完成後，異地的備份伺服器，還會自動關閉網卡或裝置電源，防止任何非授權連線或滲透風險。</p>
+
+
+
+<p>過往類似的離線備份，多是靠人工移除網路線或手動移除硬碟的方式，相當不便利。而 ActiveProtect 提供更智慧、即時且自動化的解決方案。此外，由於 ActiveProtect 能自動偵測來源端的資料傳輸狀態，若備份提前結束，系統也會相應提前自動關閉網路，將備份伺服器的暴露風險降至最低，確保企業擁有一份乾淨且可靠的可還原資料。</p>
+
+
+
+<p>面對日益複雜且持續演進的資安威脅，企業需建立起多層次的防禦架構，免於自身成為資安事件的受害者。從端點防護、網路安全、資料保護到存取控管，各個環節都得做到滴水不漏，尤其作為最後防線的備份系統，更需要具備不可竄改及網路隔離等進階功能，才能在危急時刻發揮功用，確保企業在遭受攻擊時迅速復原、達成營運不中斷的目標。</p>
+
+
+
+<p>&gt;&gt; 欲打造高度韌性的資料保護架構，歡迎與專家免費諮詢：<a href="https://sy.to/nlfbc" target="_blank" rel="noreferrer noopener">https://sy.to/nlfbc</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e5%8b%92%e7%b4%a2%e6%94%bb%e6%93%8a%e5%8d%87%e7%b4%9a%e6%af%80%e6%aa%94%e9%a2%a8%e9%9a%aa-activeprotect-%e5%82%99%e4%bb%bd%e9%9a%94%e9%9b%a2%e6%88%90%e4%bc%81%e6%a5%ad%e8%b3%87%e6%96%99/">勒索攻擊升級毀檔風險  ActiveProtect 備份隔離成企業資料防護關鍵防線</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</title>
+		<link>https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 03:51:10 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=237894</guid>
+
+					<description><![CDATA[<p><img width="1280" height="720" src="https://firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>台灣3D列印品牌普羅森宣佈，旗下首款FDM機種 ARCO 將於8月20日在台開賣。該機型曾於Kickstart &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/">普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1280" height="720" src="https://firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/普羅森首款-FDM-3D-列印機-ARCO，8月20日上午十點開放全台預購。.jpg?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>台灣3D列印品牌普羅森宣佈，旗下首款FDM機種 ARCO 將於8月20日在台開賣。該機型曾於Kickstarter平台創下逾140萬美元的募資佳績，展現強大國際市場潛力。此次回歸台灣市場，普羅森鎖定專業創作者與中小型工作室，以高穩定、高效率的列印能力，回應大尺寸與多色列印等多元應用需求。</p>
+
+
+
+<p><strong>從機構到出料，打造極速不中斷的列印體驗</strong><strong></strong></p>
+
+
+
+<p>有別於傳統機台採取移動平台設計，&nbsp;<a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">ARCO</a>&nbsp;採用低重心列印結構，大幅提升列印穩定與速度表現。除此之外， ARCO 還搭載 AI 伺服器等級散熱技術與專利擠出系統，出料高速穩定不卡卡。有列印雕像、大型 cosplay 配件、還是經營工作室等需求的用戶， ARCO 都能讓你高效出貨、安心接單！</p>
+
+
+
+<p><strong>四色獨立供料管線，多色列印一樣快又穩</strong><strong></strong></p>
+
+
+
+<p>ARCO 採用四色獨立供料管線設計，比傳統換色快上 50%，讓原本耗時的多色列印變得高效又流暢。創作者能在最短時間內看到列印成果，不僅能拓展更多元的創作形式，也更適合接單工作室快速交付成品。從驗證樣品原型、即時調整設計，到大量製作快速出貨， ARCO 讓你把心力放在設計與創作，而不是浪費在漫長的等待上。</p>
+
+
+
+<p><strong>加裝五重鎧甲，降噪除味更安心</strong><strong></strong></p>
+
+
+
+<p>ARCO 可加購晶透五重盾外罩，有效降噪 15%。搭載 AI 控溫與活性碳濾網，能智慧調節艙內溫度與空氣品質。不管放在家裡、教室還是工作室，使用起來都更安靜、無負擔，讓列印成為舒適日常的一部分。</p>
+
+
+
+<p><strong>標配歐美高階噴嘴，從日常到工程都能印</strong><strong></strong></p>
+
+
+
+<p><a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">ARCO</a>&nbsp;標配普羅森黃銅噴嘴，滿足日常模型需求。若有高速列印或大型模型需求，也可切換瑞典 Bondtech 的高流量噴嘴；針對更進階的工程應用，則能搭配美國 Slice Engineering 的專業耐磨噴嘴，應對工程材料列印。</p>
+
+
+
+<p>普羅森執行長暨共同創辦人吳彝任表示：「 ARCO 的誕生，是我們為創作者打造更完整工具組的其中一步。無論你是模型創作、開發產品、參與展演還是批量製作，ARCO 都能提供穩定、有力的支持。」</p>
+
+
+
+<p>普羅森 ARCO 將於 8/20 早上十點在台灣開放預購，首日搭配訂金折扣更可達 65 折，更多資訊可見<a href="https://phrozen3d.net/DiK16" target="_blank" rel="noreferrer noopener">普羅森官網</a>。</p>
+
+
+
+<p>若想親自體驗機台，歡迎於 8/20-23 於台灣3D列印暨積層製造設備展期間，前往台北南港展覽館二館 4 樓 S403 攤位參觀。</p>
+
+
+
+<p><strong>關於普羅森</strong><strong></strong></p>
+
+
+
+<p>普羅森為台灣3D列印品牌，以<strong>光固化</strong>技術起家，以高精準度、高品質的產品特性打響國際知名度。其專注於開發專業且易於使用的 3D 列印解決方案，致力於激發創意、提升生產效率。旗下產品生態系涵蓋列印機、材料與軟體，廣泛應用於個人創作、牙科醫療、工程開發與製造等多元領域。了解更多，請造訪官方網站：<a href="https://phrozen3d.com.tw/" target="_blank" rel="noreferrer noopener">https://phrozen3d.com.tw</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e6%99%ae%e7%be%85%e6%a3%ae%e6%8e%a8%e5%87%ba-arco-%e6%97%97%e8%89%a6%e6%a9%9f%e7%a8%ae%ef%bc%8c%e6%90%b6%e6%94%bbfdm%e5%88%97%e5%8d%b0%e9%ab%98%e6%95%88%e5%b8%82%e5%a0%b4/">普羅森推出 ARCO 旗艦機種，搶攻FDM列印高效市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>中國車繞道來台？數據揭：郭智輝強硬表態激起聲量</title>
+		<link>https://firenews.com.tw/2025/08/07/%e4%b8%ad%e5%9c%8b%e8%bb%8a%e7%b9%9e%e9%81%93%e4%be%86%e5%8f%b0%ef%bc%9f%e6%95%b8%e6%93%9a%e6%8f%ad%ef%bc%9a%e9%83%ad%e6%99%ba%e8%bc%9d%e5%bc%b7%e7%a1%ac%e8%a1%a8%e6%85%8b%e6%bf%80%e8%b5%b7%e8%81%b2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 03:40:49 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[政治]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=237888</guid>
+
+					<description><![CDATA[<p><img width="960" height="540" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-62.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>記者 陳聖偉 / 報導 中國汽車以低價策略大量攻佔全球車市，讓各國紛紛祭出高關稅杜防，而如今卻傳出比亞迪試圖透 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e4%b8%ad%e5%9c%8b%e8%bb%8a%e7%b9%9e%e9%81%93%e4%be%86%e5%8f%b0%ef%bc%9f%e6%95%b8%e6%93%9a%e6%8f%ad%ef%bc%9a%e9%83%ad%e6%99%ba%e8%bc%9d%e5%bc%b7%e7%a1%ac%e8%a1%a8%e6%85%8b%e6%bf%80%e8%b5%b7%e8%81%b2/">中國車繞道來台？數據揭：郭智輝強硬表態激起聲量</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="960" height="540" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-62.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>中國汽車以低價策略大量攻佔全球車市，讓各國紛紛祭出高關稅杜防，而如今卻傳出比亞迪試圖透過泰國工廠借「騰勢」品牌準備進軍台灣市場，並夜宴正副院長韓國瑜、江啟臣辦公室幕僚及立院總務處長廖炯志，媒體報導一出引發熱議，在社群平台激起強烈關注與廣泛討論。</p>
+
+
+
+<p>TPOC台灣議題研究中心透過QuickseeK快析輿情資料庫觀察發現，比亞迪來台掀起政治與產業雙重震盪，起初質疑藍營與中國車商接觸，後續更延伸引爆「中國車滲透國安」風暴，讓經濟部部長郭智輝今日強硬表態：「有資安疑慮的車輛，絕不讓它進台灣。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="540" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-60.png?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-237889" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-60.png?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-60.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-60.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-60.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure>
+
+
+
+<p>第一波聲量高峰出現在媒體獨家報導後，引發民眾質疑國民黨與中國車商密會的動機。民進黨立委王定宇更發文指出：「比亞迪想透過藍白施壓經濟部」，進一步喚起社會對國安議題的關注，該貼文也迅速成為熱議焦點。第二波聲量則轉向討論比亞迪對台灣汽車產業的影響，同時引發對「國產車保護政策」的兩派爭論。可見比亞迪試圖登台，牽涉層面不僅限於產業，更觸及敏感的政治與國安議題，使整起事件迅速升溫成為輿論焦點。 </p>
+
+
+
+<p>面對輿論持續延燒，經濟部今日（6日）不僅重申立場，部長郭智輝也正面回應，強調：「將為民眾把關，資安、國安有疑慮的汽車絕不開放。」，顯示即使面對外界質疑，經濟部在守護台灣經濟與國家安全的立場上依然堅定不變。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="540" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-61.png?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-237890" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-61.png?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-61.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-61.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-61.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在好感度表現上，網路上對此議題呈現高度歧見，負面聲量遠高於正面聲量，整體好感度僅為0.28。除被視為藍綠對決延伸外，輿論焦點也涵蓋多重面向，包括：電動車是否涉入國安疑慮、對本土汽車產業的衝擊、中製車輛安全性的疑慮，以及事件發生時機與關稅談判可能對台灣稅率造成的影響。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="540" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-237891" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-62.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure>
+
+
+
+<p>進一步透過主題風向分析觀察網路輿論，民眾對比亞迪繞道進口台灣初期討論多集中在批評國民黨密會中國車商，質疑是否意圖為比亞迪打通入台管道，隨後話題逐漸從政治攻防轉向比亞迪進口對台灣的實質影響。</p>
+
+
+
+<p>其中，近四成聲量聚焦於對中製車款的疑慮，包含：「電動車入台恐涉國安危機」（佔比26%）及「行車安全性問題」（佔比14%）。可見相較於單純的藍綠攻防，輿論更關注中國智慧車輛入台可能引發的資安與監控風險，比亞迪先前更被聯邦政府機構直接點名為「高風險供應商」，不免讓民眾擔憂比亞迪入台對國安的影響性。此外，比亞迪近年頻傳自燃事故，部分網友甚至戲稱其為「移動人體焚化爐」，也反映出民眾對產品安全性的高度不信任。 </p>
+
+
+
+<p>整體而言，比亞迪繞道進軍台灣市場的爭議，不僅牽動台灣汽車產業與貿易政策，更深層地觸及中國勢力介入與智慧載具資安風險等國安疑慮，使事件迅速升溫，成為多方交鋒的輿論風暴核心。在這場風暴中，作為關鍵審查機關的經濟部自然成為關注焦點，也不難理解部長郭智輝為何頻頻成為攻擊箭靶。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/07/%e4%b8%ad%e5%9c%8b%e8%bb%8a%e7%b9%9e%e9%81%93%e4%be%86%e5%8f%b0%ef%bc%9f%e6%95%b8%e6%93%9a%e6%8f%ad%ef%bc%9a%e9%83%ad%e6%99%ba%e8%bc%9d%e5%bc%b7%e7%a1%ac%e8%a1%a8%e6%85%8b%e6%bf%80%e8%b5%b7%e8%81%b2/">中國車繞道來台？數據揭：郭智輝強硬表態激起聲量</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>永安社區綠色照顧跨域活動手作木玫瑰感受療癒與溫暖</title>
 		<link>https://firenews.com.tw/2025/08/07/%e6%b0%b8%e5%ae%89%e7%a4%be%e5%8d%80%e7%b6%a0%e8%89%b2%e7%85%a7%e9%a1%a7%e8%b7%a8%e5%9f%9f%e6%b4%bb%e5%8b%95%e6%89%8b%e4%bd%9c%e6%9c%a8%e7%8e%ab%e7%91%b0%e6%84%9f%e5%8f%97%e7%99%82%e7%99%92%e8%88%87/</link>
 		
@@ -56,7 +299,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-237681" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">長輩們展示親手製作的木玫瑰與活動手牌，臉上洋溢著笑容。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-237681" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/LINE_ALBUM_202586_250806_100-1.jpg?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">長輩們展示親手製作的木玫瑰與活動手牌，臉上洋溢著笑容。</figcaption></figure>
 
 
 
@@ -438,174 +681,6 @@
 
 <p>針對「神隱」指控，有網友在Threads平台揭露，郭智輝於8月1日出席台電員工李元瀚的公祭儀式，慰問遺族。網友表示，在關鍵時刻仍見郭部長親赴現場，展現實際行動，遠比只會鏡頭作秀的政客來得務實。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/08/02/%e6%9e%97%e6%a5%9a%e8%8c%b5%e8%ad%b7%e9%83%ad%e6%99%ba%e8%bc%9d%ef%bc%9a20%e5%8f%aa%e6%98%af%e6%9a%ab%e6%99%82%e7%a8%85%e7%8e%87-%e8%97%8d%e7%99%bd%e5%8b%bf%e8%a3%bd%e9%80%a0%e6%81%90%e6%85%8c/">林楚茵護郭智輝：20%只是暫時稅率 藍白勿製造恐慌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>郭智輝官場適應力提升 綠委：改革企圖心不容忽視</title>
-		<link>https://firenews.com.tw/2025/08/02/%e9%83%ad%e6%99%ba%e8%bc%9d%e5%ae%98%e5%a0%b4%e9%81%a9%e6%87%89%e5%8a%9b%e6%8f%90%e5%8d%87-%e7%b6%a0%e5%a7%94%ef%bc%9a%e6%94%b9%e9%9d%a9%e4%bc%81%e5%9c%96%e5%bf%83%e4%b8%8d%e5%ae%b9%e5%bf%bd%e8%a6%96/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Sat, 02 Aug 2025 09:49:24 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=235780</guid>
-
-					<description><![CDATA[<p><img width="1397" height="797" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-15.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?w=1397&amp;ssl=1 1397w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?resize=768%2C438&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?resize=256%2C146&amp;ssl=1 256w" sizes="(max-width: 1397px) 100vw, 1397px" /></p>
-<p>內閣改組傳聞再起，經濟部長郭智輝再度成為焦點人物。被稱為「內閣話題王」的他，因快人快語的作風屢引爭議，但民進黨 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/02/%e9%83%ad%e6%99%ba%e8%bc%9d%e5%ae%98%e5%a0%b4%e9%81%a9%e6%87%89%e5%8a%9b%e6%8f%90%e5%8d%87-%e7%b6%a0%e5%a7%94%ef%bc%9a%e6%94%b9%e9%9d%a9%e4%bc%81%e5%9c%96%e5%bf%83%e4%b8%8d%e5%ae%b9%e5%bf%bd%e8%a6%96/">郭智輝官場適應力提升 綠委：改革企圖心不容忽視</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1397" height="797" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-15.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?w=1397&amp;ssl=1 1397w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?resize=768%2C438&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-15.png?resize=256%2C146&amp;ssl=1 256w" sizes="(max-width: 1397px) 100vw, 1397px" /></p>
-<p>內閣改組傳聞再起，經濟部長郭智輝再度成為焦點人物。被稱為「內閣話題王」的他，因快人快語的作風屢引爭議，但民進黨立委近日表態力挺，認為郭智輝雖有可精進之處，卻展現出堅持理念、勇於改革的態度，並具備國際觀，這些優點不應被忽略。</p>
-
-
-
-<p>該名綠委指出，郭智輝在多項議題上雖遭批評，但其政策理念多屬正確，只是常在成果未出現前就先發言，導致外界誤解。經歷多次輿論風波後，他在應對立委與媒體方面已有明顯進步，面對敏感議題也懂得收斂語氣、靈活應對，展現出更成熟的官場應對能力。</p>
-
-
-
-<p>綠營智庫幕僚則分析，郭智輝從企業界轉戰公部門，面臨截然不同的工作文化與節奏。在企業，他是決策者，講求效率與果斷；而在政府體系，則需穩健與協調。他身為科技業出身的部長，花了一年多時間逐步適應，如今在政策溝通與執行上已見改善，並在中小企業應對關稅波動方面展現實績，經濟部整體表現有望回升。</p>
-
-
-
-<p>儘管郭智輝逐漸上軌道，綠營內部的質疑聲也明顯減弱，但其去留仍可能受外部因素影響。即將揭曉的對美關稅談判結果，將成為左右內閣人事的重要關鍵。若談判結果未獲市場與民意認同，內閣改組壓力勢必升高，財經內閣成員也可能面臨調整。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/02/%e9%83%ad%e6%99%ba%e8%bc%9d%e5%ae%98%e5%a0%b4%e9%81%a9%e6%87%89%e5%8a%9b%e6%8f%90%e5%8d%87-%e7%b6%a0%e5%a7%94%ef%bc%9a%e6%94%b9%e9%9d%a9%e4%bc%81%e5%9c%96%e5%bf%83%e4%b8%8d%e5%ae%b9%e5%bf%bd%e8%a6%96/">郭智輝官場適應力提升 綠委：改革企圖心不容忽視</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>桃園區114年模範父親代表表揚 王副市長：父親健康是家庭最大的幸福</title>
-		<link>https://firenews.com.tw/2025/08/01/%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e6%a8%a1%e7%af%84%e7%88%b6%e8%a6%aa%e4%bb%a3%e8%a1%a8%e8%a1%a8%e6%8f%9a-%e7%8e%8b%e5%89%af%e5%b8%82%e9%95%b7%ef%bc%9a%e7%88%b6%e8%a6%aa%e5%81%a5%e5%ba%b7/</link>
-		
-		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 10:09:56 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[生活]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=235331</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>生活中心/桃園報導 桃園市副市長王明鉅今（1）日下午出席「桃園區114年模範父親代表表揚大會-桃園相伴・父愛暖 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/01/%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e6%a8%a1%e7%af%84%e7%88%b6%e8%a6%aa%e4%bb%a3%e8%a1%a8%e8%a1%a8%e6%8f%9a-%e7%8e%8b%e5%89%af%e5%b8%82%e9%95%b7%ef%bc%9a%e7%88%b6%e8%a6%aa%e5%81%a5%e5%ba%b7/">桃園區114年模範父親代表表揚 王副市長：父親健康是家庭最大的幸福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361895_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>生活中心/桃園報導</p>
-
-
-
-<p>桃園市副市長王明鉅今（1）日下午出席「桃園區114年模範父親代表表揚大會-桃園相伴・父愛暖陽」活動， 王副市長表示雖然父親在家庭中的付出相對於母親較容易被忽略，但父親在家庭中都是最重要的，對於家庭的穩定與安定具有偉大的貢獻。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-235335" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?resize=1536%2C859&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?resize=2048%2C1145&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?resize=260%2C146&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361897_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年模範父親代表表揚大會。圖/桃園區公所提供</figcaption></figure>
-
-
-
-<p>王副市長也表示，父親的健康是家庭最大的幸福，張善政市長上任後非常重視長者福利，不僅提高三節敬老禮金，也針對長者提出關懷健康的政策，如肺癌篩檢、癌症篩檢，及建立市立醫院，在長者健康照護方面給予最好的協助。</p>
-
-
-
-<p>桃園區本屆模範父親共有81位接受表揚，皆由桃園區各里及團體遴選推薦出來之人選。今年桃園區最年長的模範父親為95歲的孫法勤先生，曾參與金門八二三砲戰，協助保衛臺灣。退役後投身花蓮偏鄉教育35年，培育無數學子。孫先生一生奉獻國家與社會，退休後亦積極參與公益事務，其無私奉獻深獲肯定。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="671" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?resize=1220%2C671&#038;ssl=1" alt="" class="wp-image-235336" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?resize=768%2C423&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?resize=1536%2C846&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?resize=2048%2C1128&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?resize=260%2C143&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361898_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年模範父親代表表揚大會。圖/桃園區公所提供</figcaption></figure>
-
-
-
-<p>另外，來自社團法人桃園市自閉症協進會推薦的徐松恭先生，面對兒子自幼手腳協調及語言表達能力較薄弱，徐先生主動承擔照顧責任，努力學習相關知識。這段歷程雖充滿挑戰，卻也讓徐先生深刻體會家庭支持的重要，展現父親堅毅與無私包容的可貴精神。父親如同溫暖的陽光，默默守護在家庭背後，為家人撐起一片天。他們以堅定的肩膀承擔責任，以沉穩的力量面對挑戰，是家庭的靠山，更是社會穩定的基石。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="646" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?resize=1220%2C646&#038;ssl=1" alt="" class="wp-image-235337" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?resize=768%2C407&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?resize=1536%2C813&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?resize=2048%2C1084&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?resize=260%2C138&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/S__26361899_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年模範父親代表表揚大會。圖/桃園區公所提供</figcaption></figure>
-
-
-
-<p>今日包括立法委員萬美玲、牛煦庭服務處主任關筱藍、桃園市政府社會局專門委員羅炤月、市議員黃瓊慧、余信憲、陳美梅、林政賢、黃婉如、張碩芳、黃家齊、凌濤服務處顧問陳麗玉、張秀菊服務處特助林榮昌、李光達服務處助理徐衍暉、于北辰服務處副主任林玉芬、桃園區長許敏松、桃園區里長聯誼會總會長吳宏泰及各里里長等均一同出席。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/01/%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e6%a8%a1%e7%af%84%e7%88%b6%e8%a6%aa%e4%bb%a3%e8%a1%a8%e8%a1%a8%e6%8f%9a-%e7%8e%8b%e5%89%af%e5%b8%82%e9%95%b7%ef%bc%9a%e7%88%b6%e8%a6%aa%e5%81%a5%e5%ba%b7/">桃園區114年模範父親代表表揚 王副市長：父親健康是家庭最大的幸福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>威強電重磅出擊台北自動化展 邊緣運算+系統整合成亮點</title>
-		<link>https://firenews.com.tw/2025/08/01/%e5%a8%81%e5%bc%b7%e9%9b%bb%e9%87%8d%e7%a3%85%e5%87%ba%e6%93%8a%e5%8f%b0%e5%8c%97%e8%87%aa%e5%8b%95%e5%8c%96%e5%b1%95-%e9%82%8a%e7%b7%a3%e9%81%8b%e7%ae%97%e7%b3%bb%e7%b5%b1%e6%95%b4%e5%90%88%e6%88%90/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 05:29:35 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=235114</guid>
-
-					<description><![CDATA[<p><img width="801" height="801" src="https://firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?w=801&amp;ssl=1 801w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 801px) 100vw, 801px" /></p>
-<p>工業自動化浪潮持續推進，邊緣運算與系統整合已成關鍵戰場！威強電將在「2025台北自動化工業展」展示新一代軟硬整 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/01/%e5%a8%81%e5%bc%b7%e9%9b%bb%e9%87%8d%e7%a3%85%e5%87%ba%e6%93%8a%e5%8f%b0%e5%8c%97%e8%87%aa%e5%8b%95%e5%8c%96%e5%b1%95-%e9%82%8a%e7%b7%a3%e9%81%8b%e7%ae%97%e7%b3%bb%e7%b5%b1%e6%95%b4%e5%90%88%e6%88%90/">威強電重磅出擊台北自動化展 邊緣運算+系統整合成亮點</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="801" height="801" src="https://firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?w=801&amp;ssl=1 801w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/800x800_2.jpg?resize=146%2C146&amp;ssl=1 146w" sizes="(max-width: 801px) 100vw, 801px" /></p>
-<p>工業自動化浪潮持續推進，邊緣運算與系統整合已成關鍵戰場！威強電將在「2025台北自動化工業展」展示新一代軟硬整合平台，主打「打造韌性邊緣，簡化整合部署」，協助企業應對分散式場域的挑戰，實現更敏捷、穩定的智慧化部署。</p>
-
-
-
-<p>本次展出重點聚焦於五大應用亮點：</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>虛擬化邊緣運算平台：</strong>一台裝置可同時執行多系統，顯著加快部署速度，並節省機櫃空間</li>
-
-
-
-<li><strong>混合式備援 + 遠端OS復原：</strong>支援混合式備援與遠端OS復原，系統異常時可自動重啟，維持不中斷運作</li>
-
-
-
-<li><strong>強固型平板電腦：</strong>IP66等級全機防水、防油、防鏽設計，穩定運行於各種惡劣製造環境</li>
-
-
-
-<li><strong>電子紙 + CMS內容平台：</strong>採用低功耗電子紙顯示，搭配CMS平台支援即時資訊更新與遠端管理</li>
-
-
-
-<li><strong>工業級主機板與無風扇電腦：</strong>模組化 I/O 選配與最新 DDR5 記憶體，兼顧高速效能與工控彈性整合。</li>
-</ul>
-
-
-
-<p>展覽資訊:</p>
-
-
-
-<ul class="wp-block-list">
-<li>展覽名稱｜ 2025台北自動化工業展</li>
-
-
-
-<li>展出日期｜ 2025年8月20日（三）至8月23日（六）</li>
-
-
-
-<li>展出地點｜ 台北南港展覽館2館 4樓</li>
-
-
-
-<li>攤位號碼｜ S016 &amp; S017</li>
-</ul>
-
-
-
-<p>威強電誠摯邀請您前來參觀，現場提供實機展示與技術人員說明，協助您深入了解我們如何協助系統整合節省空間、人力與維運成本，並提升運作韌性與整體效率。一次掌握最新工業部署趨勢，強化您的智慧工控佈局！</p>
-
-
-
-<p>更多資訊請參見威強電官方網站：<a href="https://www.ieiworld.com/" target="_blank" rel="noreferrer noopener">https://www.ieiworld.com/</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/01/%e5%a8%81%e5%bc%b7%e9%9b%bb%e9%87%8d%e7%a3%85%e5%87%ba%e6%93%8a%e5%8f%b0%e5%8c%97%e8%87%aa%e5%8b%95%e5%8c%96%e5%b1%95-%e9%82%8a%e7%b7%a3%e9%81%8b%e7%ae%97%e7%b3%bb%e7%b5%b1%e6%95%b4%e5%90%88%e6%88%90/">威強電重磅出擊台北自動化展 邊緣運算+系統整合成亮點</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
