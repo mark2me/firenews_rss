@@ -1,951 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>名家 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/名家/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 13 Aug 2025 11:24:58 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>名家 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/名家/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>「NurAI」全球首個伊斯蘭教義大語言模型問世</title>
-		<link>https://firenews.com.tw/2025/08/13/%e3%80%8cnurai%e3%80%8d%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e4%bc%8a%e6%96%af%e8%98%ad%e6%95%99%e7%be%a9%e5%a4%a7%e8%aa%9e%e8%a8%80%e6%a8%a1%e5%9e%8b%e5%95%8f%e4%b8%96/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 13 Aug 2025 11:24:56 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[NurAI]]></category>
-		<category><![CDATA[新聞]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=241047</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>Zetrix AI 有限公司（「Zetrix AI」）今日在吉隆坡正式發表全球首個符合伊斯蘭教義的大語言模式「 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e3%80%8cnurai%e3%80%8d%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e4%bc%8a%e6%96%af%e8%98%ad%e6%95%99%e7%be%a9%e5%a4%a7%e8%aa%9e%e8%a8%80%e6%a8%a1%e5%9e%8b%e5%95%8f%e4%b8%96/">「NurAI」全球首個伊斯蘭教義大語言模型問世</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Launch_of_NurAI-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>Zetrix AI 有限公司（「Zetrix AI」）今日在吉隆坡正式發表全球首個符合伊斯蘭教義的大語言模式「NurAI」。根據伊斯蘭原則並融合全球南方視角，NurAI 能在涵蓋廣泛領域的各類課題上，提供與伊斯蘭教義一致的指導，從法律、醫療保健和金融服務等當代問題，到歷史、伊斯蘭哲學與古蘭經研究等經典伊斯蘭課題。</p>
-
-
-
-<p>這項發布儀式是於吉隆坡四季酒店舉行，由馬來西亞副首相拿督斯裡阿末扎希（YAB Dato&#8217; Seri Dr. Ahmad Zahid bin Hamidi）主持開幕，並配合2025年東盟人工智能馬來西亞峰會同步舉辦。</p>
-
-
-
-<p>作為首創之舉，NurAI 為穆斯林占大多數的國家和穆斯林社群，提供了有別於現有西方及中國人工智能模型的替代方案。這些現有模型往往與伊斯蘭價值觀及全球南方的發展優先事項缺乏契合。除了面向大眾用戶，NurAI 亦為更廣泛的數字伊斯蘭經濟基礎設施奠定了根基，涵蓋清真貿易、供應鏈、伊斯蘭金融及治理等領域，從而推動新興市場在人工智能領域實現自主權。</p>
-
-
-
-<p>馬來西亞副首相拿督斯裡阿末扎希表示：「這是宗教與科技相輔相成、造福穆斯林社群並推動國家進步的最佳典范。我呼吁包括政府、私人領域、金融機構及宗教機構在內的各方，全力支持像 NurAI 這樣的技術研發與推廣。」</p>
-
-
-
-<p><strong>NurAI </strong><strong>的獨特亮點</strong></p>
-
-
-
-<p>NurAI 的一大亮點就是 AI 虛擬導師（AI Avatar）頻道，用戶能夠與模擬各領域專家的虛擬導師互動交流。這些頻道經過專屬數據集訓練，充分反映專家獨特有的知識體系與教學理念。就好比用戶身邊隨時有一位專屬的宗教導師（ustaz）或伊斯蘭金融顧問，可以根據用戶的情況進行個性化的對話與指導。不同於許多大型語言模型只會在各領域給出籠統答案，NurAI 的 AI 虛擬導師頻道能針對需要嚴謹解讀與深入理解的議題，提供更透徹、更有深度的見解。NurAI 團隊將與馬來西亞國家銀行附屬機構——國際伊斯蘭金融教育中心（INCEIF University）合作推出伊斯蘭金融頻道，並聯合全球頂尖伊斯蘭學者推出多個專家頻道。</p>
-
-
-
-<p>NurAI 可在桌面端與移動端使用，支持馬來語、印尼語、阿拉伯語及英語，為全球多元化的穆斯林用戶群體提供清晰、對話式的使用體驗，同時保持與伊斯蘭教義的一致性。桌面版可通過 <a href="https://nur-ai.ai/" target="_blank" rel="noreferrer noopener">https://nur-ai.ai</a> 訪問。</p>
-
-
-
-<p>NurAI是在伊斯蘭教義監督委員會的指導下研發，並以伊斯蘭倫理為根基，嚴格遵循伊斯蘭教義，提供既有原則又值得信賴的應用程序。</p>
-
-
-
-<p>NurAI 的研發團隊將與主要宗教機構合作，包括馬來西亞伊斯蘭發展局（JAKIM）、印尼伊斯蘭學者理事會（MUI）、國際伊斯蘭教法學會（IIFA）及埃及愛資哈爾大學，共同建立符合伊斯蘭教義的框架。</p>
-
-
-
-<p>NurAI 作為基礎性的大語言模型（LLM），可用於構建更先進的自主型及特定領域生成式人工智能，從而為伊斯蘭金融、教育、治理及清真產業監管等領域的現實應用，提供量身定制的解決方案。</p>
-
-
-
-<p><strong>填補全球差距</strong></p>
-
-
-
-<p>當前的人工智能系統主要在西方和中國背景下開發，可能無法充分體現伊斯蘭視角。這為全球 20 億穆斯林、價值 3 萬億美元的伊斯蘭經濟以及更廣泛的全球南方市場留下了明顯的空缺，這些用戶極需符合其文化價值觀、宗教原則及優先發展事項的人工智能工具。NurAI 正是為滿足這一需求而誕生，為現有平台服務不足的市場提供符合伊斯蘭教義的替代方案。同時，它也響應了來自馬來西亞、印尼及海灣阿拉伯國家合作委員會（GCC）等各國政府與機構，對人工智能主權及符合伊斯蘭教義技術日益增長的需求。</p>
-
-
-
-<p><strong>戰略性推廣與合作</strong></p>
-
-
-
-<p>Zetrix AI 董事 Datuk Mohd Jimmy Wong Bin Abdullah 表示：「NurAI 的推廣將分階段、循序漸進地進行。首階段將在馬來西亞與印尼推出面向消費者（B2C）的免費增值應用，除提供一般伊斯蘭教義指導外，還將推出包括遺產計算器、醫學生物倫理建議等高級功能。 第二階段聚焦於企業對企業（B2B）及企業對政府（B2G）模式實現機構整合，將 NurAI 融入伊斯蘭金融機構、金融科技公司、清真認證機構及伊斯蘭教義法律機構的日常運營中。」</p>
-
-
-
-<p>NurAI 的推出不僅鞏固了馬來西亞在清真認證、伊斯蘭金融及伊斯蘭教義研究領域的領先地位，更在道德人工智能創新方面樹立了標桿。Zetrix AI 將持續投入符合伊斯蘭教義的科技研發，以履行其長期承諾， 即為全球穆斯林社群構建負責任、以價值觀為核心的數字基礎設施。</p>
-
-
-
-<p><strong>關於</strong><strong> Zetrix AI Berhad</strong></p>
-
-
-
-<p>Zetrix AI Berhad（「Zetrix AI」），前稱 MY E.G. Services Berhad，是在東盟地區推動區塊鏈技術與人工智能應用，以賦能公共與私人領域發展的領軍企業。公司總部位於馬來西亞，自 2000年起便在本國率先提供電子政務服務及相關商業解決方案。如今，Zetrix AI 已走在區域科技轉型的前沿，依托其自研的第一層區塊鏈平台 Zetrix，積極融合 Web3、人工智能與機器人技術，推動高效、智能且安全的跨境交易、數字身份互通及自動化解決方案，實現人與人、企業與企業、以及政府之間的無縫連接。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e3%80%8cnurai%e3%80%8d%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e4%bc%8a%e6%96%af%e8%98%ad%e6%95%99%e7%be%a9%e5%a4%a7%e8%aa%9e%e8%a8%80%e6%a8%a1%e5%9e%8b%e5%95%8f%e4%b8%96/">「NurAI」全球首個伊斯蘭教義大語言模型問世</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>網友熱議韓國Dear Dahlia腮紅！化妝師新秘狂推必買</title>
-		<link>https://firenews.com.tw/2025/08/13/%e7%b6%b2%e5%8f%8b%e7%86%b1%e8%ad%b0%e9%9f%93%e5%9c%8bdear-dahlia%e8%85%ae%e7%b4%85%ef%bc%81%e5%8c%96%e5%a6%9d%e5%b8%ab%e6%96%b0%e7%a7%98%e7%8b%82%e6%8e%a8%e5%bf%85%e8%b2%b7/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 13 Aug 2025 06:41:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[Dear Dahlia]]></category>
-		<category><![CDATA[Dear Dahlia腮紅]]></category>
-		<category><![CDATA[化妝師]]></category>
-		<category><![CDATA[腮紅]]></category>
-		<category><![CDATA[韓國Dear Dahlia]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=240841</guid>
-
-					<description><![CDATA[<p>來自韓國的 DEAR DAHLIA 花瓣液體腮紅，近期於 Dcard 美妝版掀起熱議。（圖／DEAR DAHL &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e7%b6%b2%e5%8f%8b%e7%86%b1%e8%ad%b0%e9%9f%93%e5%9c%8bdear-dahlia%e8%85%ae%e7%b4%85%ef%bc%81%e5%8c%96%e5%a6%9d%e5%b8%ab%e6%96%b0%e7%a7%98%e7%8b%82%e6%8e%a8%e5%bf%85%e8%b2%b7/">網友熱議韓國Dear Dahlia腮紅！化妝師新秘狂推必買</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/封面.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-240842" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/封面.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/封面.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/封面.jpg?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">來自韓國的 DEAR DAHLIA 花瓣液體腮紅，近期於 Dcard 美妝版掀起熱議。（圖／DEAR DAHLIA）</figcaption></figure>
-
-
-
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>最近 Dcard 一篇「被新秘燒到的超美腮紅」實測討論文章引發網友熱議。意外讓一款韓國液體腮紅「DEAR DAHLIA 花瓣液體腮紅」衝上討論榜首，短短幾小時就拿下美妝版熱門文章第一名，也讓這款化妝師愛用腮紅單品成為網友熱議焦點。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1076" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文1.png?resize=1220%2C1076&#038;ssl=1" alt="" class="wp-image-240843" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文1.png?w=1700&amp;ssl=1 1700w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文1.png?resize=768%2C678&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文1.png?resize=1536%2C1355&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文1.png?resize=165%2C146&amp;ssl=1 165w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">網友分享第一次被新秘化妝最滿意的就來自韓國的 DEAR DAHLIA 花瓣液體腮紅。（圖／擷取自Dcard）</figcaption></figure>
-
-
-
-<p>這位網友分享，前陣子幫閨蜜當伴娘，人生第一次被新秘化妝，「最滿意的就是腮紅的部分」。新秘替她用的，是來自韓國的 DEAR DAHLIA 花瓣液體腮紅，上臉後呈現自然水光感，就像天生好氣色，讓她忍不住私訊詢問：「這是什麼牌子？」 </p>
-
-
-
-<p>新秘也透露，許多新娘化完妝後都會特地來問這款腮紅的品牌。網友立刻前往康是美試色，明星色號「淡雅」、「柔弱」、「善變」三色全數帶回家。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="861" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文2.jpg?resize=1220%2C861&#038;ssl=1" alt="" class="wp-image-240852" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文2.jpg?w=1329&amp;ssl=1 1329w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文2.jpg?resize=768%2C542&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/內文2.jpg?resize=207%2C146&amp;ssl=1 207w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">網友紛紛留言響應。甚至有網友大讚 DEAR DAHLIA 花瓣液體腮紅好用到想包色。（圖／擷取自Dcard）</figcaption></figure>
-
-
-
-<p>貼文發出後短短 5 小時，就登上 Dcard 美妝版第一名，引發網友推坑接力：「之前一直缺貨」、「彩妝師朋友也推薦」、「出門一整天回家還在臉上」、「好用到想包色」。</p>
-
-
-
-<p>在韓國 DEAR DAHLIA 花瓣液體腮紅早已是美妝榜上的固定班底，累積銷售突破百萬支，不僅多次榮獲韓國知名藥妝店 Olive Young 銷售第一，更獲美妝 KOL Astor、 BLACKPINK Lisa 彩妝師力薦。精華質地搭配水光妝效，即使不是水光底妝，也能打造透亮自然的天生美肌感；同時主打不髒臉、不花妝，可多色疊加自由調色。 </p>
-
-
-
-<p>康是美自 6 月底引進 DEAR DAHLIA 迷你版花瓣液體腮紅＆怦怦手指粉撲組（6 色），現至 8/21 特價 NT$378（原價 NT$430），多款熱門色一上市便迅速完售。近年來，綜合韓流文化全球影響力與韓國旅遊熱潮的推波助瀾，韓系美妝產品持續升溫。DEAR DAHLIA 花瓣液體腮紅不僅在韓國穩坐熱銷寶座，也讓台灣年輕消費者追捧搶購。這款集高顏值外型、專業彩妝師背書與實用妝效於一身的明星腮紅單品，有望在台灣開架市場掀起新一波腮紅風潮，成為消費者化妝包中的必收王牌。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e7%b6%b2%e5%8f%8b%e7%86%b1%e8%ad%b0%e9%9f%93%e5%9c%8bdear-dahlia%e8%85%ae%e7%b4%85%ef%bc%81%e5%8c%96%e5%a6%9d%e5%b8%ab%e6%96%b0%e7%a7%98%e7%8b%82%e6%8e%a8%e5%bf%85%e8%b2%b7/">網友熱議韓國Dear Dahlia腮紅！化妝師新秘狂推必買</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>新北最「廟」的老街－2025新莊廟街藝遊趣 8/9熱鬧開跑！漫遊街區集好禮，一起暢玩廟街文化新風貌</title>
-		<link>https://firenews.com.tw/2025/08/13/%e6%96%b0%e5%8c%97%e6%9c%80%e3%80%8c%e5%bb%9f%e3%80%8d%e7%9a%84%e8%80%81%e8%a1%97%ef%bc%8d2025%e6%96%b0%e8%8e%8a%e5%bb%9f%e8%a1%97%e8%97%9d%e9%81%8a%e8%b6%a3-8-9%e7%86%b1%e9%ac%a7%e9%96%8b%e8%b7%91/</link>
-		
-		<dc:creator><![CDATA[火報 hy]]></dc:creator>
-		<pubDate>Wed, 13 Aug 2025 04:44:18 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[新莊廟街]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=240740</guid>
-
-					<description><![CDATA[<p><img width="1920" height="1080" src="https://firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<p>生活中心/綜合報導 走進歷史百年、香火鼎盛的新莊廟街，這個夏天不只能感受傳統廟宇的莊嚴，還能透過手機參與結合文 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e6%96%b0%e5%8c%97%e6%9c%80%e3%80%8c%e5%bb%9f%e3%80%8d%e7%9a%84%e8%80%81%e8%a1%97%ef%bc%8d2025%e6%96%b0%e8%8e%8a%e5%bb%9f%e8%a1%97%e8%97%9d%e9%81%8a%e8%b6%a3-8-9%e7%86%b1%e9%ac%a7%e9%96%8b%e8%b7%91/">新北最「廟」的老街－2025新莊廟街藝遊趣 8/9熱鬧開跑！漫遊街區集好禮，一起暢玩廟街文化新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1920" height="1080" src="https://firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1來源：新莊廟街發展協會_漫遊廟街集點換限量好禮8月9日開跑.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<p>生活中心/綜合報導</p>
-
-
-
-<p>走進歷史百年、香火鼎盛的新莊廟街，這個夏天不只能感受傳統廟宇的莊嚴，還能透過手機參與結合文化、創意的趣味互動！由新莊廟街發展協會主辦的「<strong>新莊廟街藝遊趣</strong>」將於<strong>2025年8月9日至9月30日</strong>隆重登場，邀請全齡民眾一起用科技集點、用腳步探街、用智慧解謎，重新認識這條蘊藏豐富歷史與故事的街道。</p>
-
-
-
-<h3 class="wp-block-heading"><strong>數位集點＋實境解謎 體驗廟街新魅力</strong><strong></strong></h3>
-
-
-
-<p>本次活動主打「數位集點」與「實境解謎」雙主軸，只要加入<strong>新莊廟街LINE官方帳號</strong>，前往合作店家掃描QRCode，就能獲得數位集點卡，集滿<strong>10點</strong>即可至新莊武聖廟服務台兌換限量「<strong>商圈禮</strong>」，每個帳號限兌換一份，數量有限、換完為止。商圈禮內容包括融合民俗保平安概念的「艾草隨身皂」、富含祈福寓意的「新莊廟街燙金鉛筆」，實用又具紀念價值。</p>
-
-
-
-<p>同時，新莊廟街更推出全新實境解謎活動，只要索取<strong>解謎手冊</strong>，跟著線索遊走老街與廟宇，破解任務，即可兌換<strong>解謎小禮包</strong>。活動設計融合在地廟宇建築與文化，不僅具挑戰性，也帶來沉浸式的探索樂趣。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-240743" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/2來源：新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊-1.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">新莊廟街發展協會_漫遊廟街集點換限量好禮適合全家大小一起同遊。圖/新莊廟街發展協會提供</figcaption></figure>
-
-
-
-<p>新莊廟街發展協會孫松慶理事長表示：「新莊廟街過去是繁華的交通與信仰中心，如今我們希望透過活動讓這條街不再只是被懷念的歷史，而是能被體驗、被記憶的當下。我們很開心能藉由不同形式的活動導入，讓傳統文化和科技人文結合，期望吸引民眾目光，寓教於樂之外也協助店家學習數位應用，一起讓老街變年輕，商圈更有活力！」</p>
-
-
-
-<p>孫理事長也特別呼籲親子家庭、青年朋友、在地居民與觀光旅客，都能把握這段時間一起來新莊廟街「藝遊趣」，不僅好玩有獎，更是認識地方文化的絕佳機會。</p>
-
-
-
-<h3 class="wp-block-heading"><strong>重現老街榮景 推動商圈活化轉型</strong><strong></strong></h3>
-
-
-
-<p>新莊廟街是<strong>臺北盆地最早發展的市鎮</strong>之一，當年因淡水河航運興盛而繁華無比，素有「千帆林立新莊港，市肆聚千家燈火」之譽，繁華程度曾高居全台第三。如今仍可在街上看見多座歷史悠久、香火鼎盛的廟宇，是全新北廟宇密度最高的區域，文化底蘊深厚。</p>
-
-
-
-<p>活動主辦單位表示，透過設計有趣且易於參與的活動形式，將地方文化融入遊戲中，希望讓更多人願意親身走入廟街，感受在地故事與傳統風貌，並引導民眾進入店家消費，活絡商圈經濟，讓古老廟街展現新風貌。</p>
-
-
-
-<h3 class="wp-block-heading"><a></a><strong>活動資訊一覽</strong><strong></strong></h3>
-
-
-
-<ul class="wp-block-list">
-<li>活動名稱｜新莊廟街藝遊趣</li>
-
-
-
-<li>活動時間｜2025年8月9日（六）至2025年9月30日（二）</li>
-
-
-
-<li>活動地點｜新莊廟街商圈</li>
-
-
-
-<li><strong>活動內容｜</strong><ul><li>加入LINE官方帳號掃描店家QRCode集點，滿10點兌換限量商圈禮</li></ul>
-<ul class="wp-block-list">
-<li>索取解謎手冊挑戰實境解謎，完成可兌換解謎小禮包</li>
-</ul>
-</li>
-
-
-
-<li>活動對象｜不限年齡，免費參與，歡迎所有民眾</li>
-
-
-
-<li>更多詳情｜請上Facebook搜尋【新莊廟街商圈】粉絲專頁</li>
-</ul>
-
-
-
-<p></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/13/%e6%96%b0%e5%8c%97%e6%9c%80%e3%80%8c%e5%bb%9f%e3%80%8d%e7%9a%84%e8%80%81%e8%a1%97%ef%bc%8d2025%e6%96%b0%e8%8e%8a%e5%bb%9f%e8%a1%97%e8%97%9d%e9%81%8a%e8%b6%a3-8-9%e7%86%b1%e9%ac%a7%e9%96%8b%e8%b7%91/">新北最「廟」的老街－2025新莊廟街藝遊趣 8/9熱鬧開跑！漫遊街區集好禮，一起暢玩廟街文化新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>肺癌「四冠癌王」威脅大 慎選用藥提升標靶治療續航力</title>
-		<link>https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e3%80%8c%e5%9b%9b%e5%86%a0%e7%99%8c%e7%8e%8b%e3%80%8d%e5%a8%81%e8%84%85%e5%a4%a7-%e6%85%8e%e9%81%b8%e7%94%a8%e8%97%a5%e6%8f%90%e5%8d%87%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e7%ba%8c/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 09:47:46 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=240349</guid>
-
-					<description><![CDATA[<p><img width="702" height="336" src="https://firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg?w=702&amp;ssl=1 702w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 702px) 100vw, 702px" /></p>
-<p>根據台灣衛生福利部統計，肺癌是台灣十大癌症中「發生人數最多、晚期確診比例最高、不分男女死亡率最高」的殺手病。加 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e3%80%8c%e5%9b%9b%e5%86%a0%e7%99%8c%e7%8e%8b%e3%80%8d%e5%a8%81%e8%84%85%e5%a4%a7-%e6%85%8e%e9%81%b8%e7%94%a8%e8%97%a5%e6%8f%90%e5%8d%87%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e7%ba%8c/">肺癌「四冠癌王」威脅大 慎選用藥提升標靶治療續航力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="702" height="336" src="https://firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg?w=702&amp;ssl=1 702w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/Cover_photo.jpg?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 702px) 100vw, 702px" /></p>
-<p>根據台灣衛生福利部統計，肺癌是台灣十大癌症中「發生人數最多、晚期確診比例最高、不分男女死亡率最高」的殺手病。加上健保署公布的癌症費用數據顯示，2023年肺癌醫療費用超過新台幣 243 億元（以每點為 1 元計算），同樣冠絕所有癌種。也就是說肺癌目前是台灣的「四冠癌王」，對國人健康及公衛體系的威脅由此可見一斑。</p>
-
-
-
-<p><strong><em>ALK</em> 突變多見於年輕患者，腫瘤腦轉移風險高不容忽視</strong></p>
-
-
-
-<p>肺癌個案中最常見的組織學分型是非小細胞肺癌（NSCLC），約占總體患者約 80-85%。隨著基因檢測技術持續進步，目前已在NSCLC病人中發現了多個關鍵驅動基因突變（Driver mutation），並且已有相應的標靶藥物，為癌友提供精準治療選項。當中除了最常見的 <em>EGFR</em> 之外，<em>ALK</em> 也是一個值得關注的突變。</p>
-
-
-
-<p><em>ALK</em> 突變呈陽性的 NSCLC 患者占所有病例約 3~7%，雖然比起 <em>EGFR</em> 占整體逾半為低，但是由於 ALK 陽性 NSCLC 好發於非吸菸者和年輕人士（近半數患者確診時為 50 歲或以下）這些昔日被定義為「低風險」的族群，大多數病人因此錯過篩檢良機，確診時病情已屆晚期。尤有甚者，呈現 <em>ALK</em> 突變的個案比其他肺癌更容易發生腦轉移，進一步危及病人存活率及生活品質，因此著實不容忽視。</p>
-
-
-
-<p><strong>口服小分子標靶藥物推陳出新，延長存活期且有效對抗腦轉移</strong></p>
-
-
-
-<p>針對 <em>ALK</em> 基因突變的口服小分子標靶藥物以酪胺酸激酶抑制劑（Tyrosine Kinase Inhibitor，TKI）為大宗。自 2011 年 8 月第一代 TKI 獲美國 FDA 核准用於治療 ALK 陽性 NSCLC 以來，此類藥物在過去十多年間發展迅速，至今已推出第三代，第四代 TKI 也正在如火如荼地開發中。早在第一代藥物問世初期，已有臨床試驗證實其在疾病無惡化存活期（PFS）和客觀反應率（ORR）方面表現優於傳統化療藥物。可是由於它難以穿過血腦屏障，因此對腦轉移的控制方面效果有限。</p>
-
-
-
-<p>有鑑於於 ALK 陽性 NSCLC 容易發生腦轉移，對此科學家開發出能穿透血腦屏障、並在中樞神經系統中保持活性的第二代標靶藥。臨床研究顯示，在未曾接受治療的晚期病人中，無論有否出現腦轉移，使用第二代標靶藥比起第一代可以帶來顯著較長的 PFS，也就是說新一代口服 TKI 的療效比前一代更佳，對抗腦轉移的能力亦更強。這些優勢使第二代藥物逐漸成為晚期 ALK 陽性 NSCLC 一線治療的標準選項。</p>
-
-
-
-<p>近年來，針對 <em>ALK</em> 突變的口服標靶藥持續推陳出新，第三代 TKI 不僅承繼了二代藥物有效控制腫瘤腦轉移的能力，也可克服前代藥物無法處理的 ALK 耐藥性基因突變，使病人用藥時間得以進一步延長。根據在 2024 美國臨床腫瘤學會年會（ASCO 2024）中發表的 3 期臨床試驗數據，與採用第一代藥物的受試者相比，以第三代標靶藥作為一線治療的晚期 ALK 陽性 NSCLC 患者的 PFS 表現為有史以來最佳，5 年無惡化存活率高達 60%（第一代藥物組別則只有 8%）。此外，第三代藥物也能延緩現有腦轉移惡化，以及預防或延遲新的腦轉移發生。</p>
-
-
-
-<p>延伸閱讀：<a href="https://geneonline.news/?s=ALK" target="_blank" rel="noreferrer noopener">基因線上 ALK 相關文章</a></p>
-
-
-
-<p><strong>第三代 TKI 可作一線治療，惟需衡量副作用謹慎選藥</strong></p>
-
-
-
-<p>目前第三代口服標靶藥已獲美國 FDA 核准，用作晚期轉移性 ALK 陽性 NSCLC 一線治療。台灣健保署也在 2023 年 11 月進一步放寬給付標準以接軌國際指引，將其納入一線治療給付範圍，讓醫師和癌友的用藥選擇更為靈活。然而在制訂治療策略時，除了療效之外，用藥安全也不能忽視。第三代標靶藥雖然療效優異，但是病人可能要面對治療所引發的副作用，當中以心血管及中樞神經系統的問題尤其令人憂慮。這些副作用不僅會危及病人生活品質，嚴重個案更恐導致病人被迫中止治療。值得關注的是，第三代藥物至今在整體存活期（Overall survival，OS，即受試者從治療開始起至任何原因造成死亡之期間）方面仍未有明確資料公布，後續情況尚未明朗。</p>
-
-
-
-<p>三軍總醫院內科部胸腔內科主任暨台灣肺癌學會理事蔡鎮良醫師在接受基因線上採訪時表示，第三代標靶藥在臨床上的確能有效控制病情，可是一方面其 OS 數據尚有待釐清，另一方面其副作用也跟前代藥物大不相同，所以醫師在選擇用藥時需多加注意。他強調，醫師要與病人充分溝通，盡量了解他們在意的事情（不願生活品質下降太多，還是希望疾病沒有惡化）。針對第三代藥物，他尤其提到病人在用藥的過程中可能出現體重和體型上的改變；有部分個案則會遭遇高血脂的問題，因而需要長期搭配降脂藥來控制；另外有些個案更可能要面對認知能力和情緒上的困擾。凡此種種都需要醫師跟病人和家屬解釋清楚，權衡利弊之後再讓病人做選擇。</p>
-
-
-
-<p><strong>第二代藥物副作用相對穩定，仍具臨床價值與安全信任度</strong></p>
-
-
-
-<p>至於第二代標靶藥，近日在 OS 數據方面則傳出了喜訊。於 2024 年 12 月舉行的歐洲內科腫瘤學會亞洲年會（ESMO Asia 2024）中，公布了一項名為 ALESIA 的 3 期臨床試驗的最新數據。該試驗以未接受過治療的 ALK 陽性晚期 NSCLC 亞洲患者為對象，追蹤 7 年或以上的結果顯示，使用第二代藥物的<a href="https://www.annalsofoncology.org/article/S0923-7534(24)04718-5/fulltext" target="_blank" rel="noreferrer noopener">病人 7 年整體存活率達 56.0%</a>，5 年整體存活率更高達 65.6%，兩項數據均顯著優於第一代（5 年為 56.2%；7 年為 49.6%）。此外，儘管治療的持續時間較長，第二代藥物的安全性與第一代相當，未發現新的安全性問題，充分證明其在延長存活期及確保用藥安全方面的卓越表現。</p>
-
-
-
-<p>蔡鎮良醫師補充，與第三代藥物相比，第二代標靶藥副作用普遍相對輕微。臨床經驗顯示，常見不良反應多為便秘、肝指數升高或肌肉酵素上升等等，醫師在副作用管理方面難度較低。而且不少病人經第二代標靶藥治療後，病情其實已得到很好的控制，不一定一開始就要用第三代藥物。蔡醫師又坦言，實務上的確有病人因情緒困擾、外觀改變等副作用而不願繼續服用第三代標靶藥，寧願冒疾病惡化的風險，也寧可選擇副作用較低的藥物。在這種情況下，醫師會與病人和家屬反覆溝通，說明不同治療選擇的後果，在病人充分知情的前提下尊重他們的決定。</p>
-
-
-
-<p><strong>「先二後三」接續策略具彈性，加強標靶治療續航力</strong></p>
-
-
-
-<p>在現行健保給付制度下，晚期 ALK 陽性 NSCLC 患者可直接使用第三代口服標靶藥作一線治療，也可先採用第二代 TKI，待病情惡化或產生抗藥性後，再接續以第三代藥物作二線治療。蔡鎮良醫師非常認同這種「先二後三」的階段式策略：「根據文獻記載，有採用此組合的病人整體存活期達到七十幾個月、甚至八十幾個月，也就是說，大約 7 年左右的穩定控制，對晚期肺癌病人來講，是相當珍貴的成果。」當然，他也坦言有個別服用二代標靶藥的病人撐不到三年就惡化，所幸現有框架允許此類個案馬上申請改用第三代藥物，這樣的安排既有助提升治療彈性，也有望延長治療週期，讓癌友有機會期待日後更多新藥出現。</p>
-
-
-
-<p>蔡醫師進一步指出：「第三代標靶藥在延長 PFS 方面的表現確實令人驚艷，只是多數病人本身都不太會在確診頭三年內病情惡化。如果在這個階段就選用副作用較明顯的藥物，病人或許得到了延長 PFS 的好處，卻可能要冒上犧牲三年生活品質的風險。」所以歸根究底，在蔡醫師心目中，最重要的還是要精準判斷不同個案的狀況跟需求（例如基因突變情況、對治療的期待、是否有共病症等等），然後選擇最適切的藥物來治療——畢竟「世界上沒有後悔的藥」。</p>
-
-
-
-<p>談到精準選藥，蔡醫師不忘提到基因檢測、特別是次世代定序（NGS）在當中扮演的角色。他強調，<em>ALK</em> 基因突變可進一步細分為不同亞型，然後不同亞型對於藥物的反應也會有差別。此外，病人如果除 <em>ALK</em> 以外同時具有其他突變，不論是抑癌基因還是另一些驅動基因，同樣有可能縮短病人的 PFS，使其預後變得較差。有鑑於此，若能透過完整的 NGS 檢測掌握相關資訊，將有望為醫師在藥物選擇上提供有力依據。</p>
-
-
-
-<p><strong>晚期肺癌慢性病化時代來臨，醫病溝通釐清誤解至關重要</strong></p>
-
-
-
-<p>不少罹患 ALK 陽性 NSCLC 的病人正值青壯年，甚至是家庭經濟支柱，面對癌魔突然來襲，他們亟欲尋找高療效且能盡量延長壽命的新藥也是無可厚非。另一方面，隨著診斷技術不斷進步，精準療法與標靶藥物應運而生，病人即使在確診時已屆晚期，只要藥物運用得宜，存活期也的確有望大幅延長。事實上，近年來肺癌（包括 ALK 陽性 NSCLC）已逐漸呈現「慢性病化」的趨勢，存活逾 5 年以上的個案也不在少數。然而，療程拉長所帶來的並非只有喜訊，隨之而來的挑戰也是不容忽視。</p>
-
-
-
-<p>除了標靶藥物的選擇以及療效與生活品質的平衡之外，蔡鎮良醫師在訪問的尾聲也分享了在醫病溝通方面所面臨的挑戰。在這個資訊爆炸的世代，病人可以透過媒體、網路、線上社群等途徑輕鬆取得癌症相關資料。可是病人表面上看似知道得更多，但有時候原來可能是一知半解。「我們最擔心的是病人查資料時用了錯誤的關鍵字。」蔡醫師指出，有些病人在網路上看到的是整體肺癌五年死亡率很高的資料，卻沒注意自己是 ALK 突變陽性的特殊亞型，實際上可以控制很久。這樣的資訊錯置會讓病人陷入不必要的憂慮與恐慌。</p>
-
-
-
-<p>在這種情況下，醫療團隊的角色就更顯得重要。除了提供藥物療效與副作用評估，也要幫助病人釐清資訊來源、消弭誤解，並根據個人病程、基因特徵與生活需求，盡可能給予針對性建議。再者，近年來包括抗體藥物複合體（ADC）、雙特異性抗體（BiTE）等創新療法固然備受關注，但畢竟它們仍處於研究階段，副作用強度與長期效果的數據仍有待累積，在尚未證實新療法可充分取代現行標靶藥的前提下，其用藥對象、時機與適合性還是需要審慎觀望。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e3%80%8c%e5%9b%9b%e5%86%a0%e7%99%8c%e7%8e%8b%e3%80%8d%e5%a8%81%e8%84%85%e5%a4%a7-%e6%85%8e%e9%81%b8%e7%94%a8%e8%97%a5%e6%8f%90%e5%8d%87%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e7%ba%8c/">肺癌「四冠癌王」威脅大 慎選用藥提升標靶治療續航力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>肺癌標靶治療新思維：療效與生活品質如何兼得？</title>
-		<link>https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e6%96%b0%e6%80%9d%e7%b6%ad%ef%bc%9a%e7%99%82%e6%95%88%e8%88%87%e7%94%9f%e6%b4%bb%e5%93%81%e8%b3%aa%e5%a6%82%e4%bd%95%e5%85%bc%e5%be%97%ef%bc%9f/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 09:46:37 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=240343</guid>
-
-					<description><![CDATA[<p><img width="702" height="336" src="https://firenews.com.tw/wp-content/uploads/2025/08/1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1.jpg?w=702&amp;ssl=1 702w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1.jpg?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 702px) 100vw, 702px" /></p>
-<p>隨著精準醫療發展，標靶藥物在肺癌治療中的角色日益重要。然而，在治療過程中，患者常面臨副作用帶來的挑戰，當中有些 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e6%96%b0%e6%80%9d%e7%b6%ad%ef%bc%9a%e7%99%82%e6%95%88%e8%88%87%e7%94%9f%e6%b4%bb%e5%93%81%e8%b3%aa%e5%a6%82%e4%bd%95%e5%85%bc%e5%be%97%ef%bc%9f/">肺癌標靶治療新思維：療效與生活品質如何兼得？</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="702" height="336" src="https://firenews.com.tw/wp-content/uploads/2025/08/1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1.jpg?w=702&amp;ssl=1 702w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/1.jpg?resize=260%2C124&amp;ssl=1 260w" sizes="(max-width: 702px) 100vw, 702px" /></p>
-<p>隨著精準醫療發展，標靶藥物在肺癌治療中的角色日益重要。然而，在治療過程中，患者常面臨副作用帶來的挑戰，當中有些患者因標靶藥物的嚴重副作用而被迫減藥甚至中止治療，繼而導致治療進度大受影響的情事亦不在少數。</p>
-
-
-
-<p><strong>三代 ALK 標靶藥 PFS 表現雖領先，二代藥物安全性仍具優勢</strong></p>
-
-
-
-<p>不少 ALK 陽性的 NSCLC 病人在確診時已屆晚期，加上呈現 <em>ALK</em> 基因突變的個案比其他肺癌更容易發生腦轉移，令病人的存活率及生活品質蒙上更大陰影。所幸過去十多年來標靶藥物發展迅速，比起傳統化療不但能進一步延長病人的無惡化存活期（PFS），也能穿透血腦屏障，從而預防腦轉移發生或延緩現有腦轉移惡化。根據在美國臨床腫瘤學會（ASCO）2024 年會中發表的 3 期臨床試驗資料，第三代的口服標靶藥更呈現出優異的 PFS 數據，5 年無惡化存活率可高達 60%。</p>
-
-
-
-<p>然而在選擇晚期肺癌標靶藥物時，療效有多強、存活期能延長多少並非唯一的考慮因素，藥物的安全性，例如相關副作用的類型、發生頻率及嚴重程度等也應當納入考量。以二代標靶藥為例，臨床數據顯示其副作用主要包括疲倦、輕微便秘及肝功能指數上升，且大多屬於輕度至中度。由於副作用相對較為輕微，病人對藥物的耐受性普遍良好，他們在治療期間大都能夠維持正常的生活、社交工作狀態，僅需定期追蹤而無需過多額外干預。這樣不僅能減輕癌友的身心負擔，也減少了醫療資源的占用，使第二代標靶藥物成為需要長期治療的 ALK 陽性 NSCLC 患者的理想選擇之一。</p>
-
-
-
-<p><strong>三代標靶藥副作用包含心血管及中樞神經系統，對相關副作用處理較易成為醫師及癌友困擾</strong></p>
-
-
-
-<p>反觀第三代 ALK 標靶藥，雖然其在延長患者存活方面效果相當優異，但考慮到副作用覆蓋範圍較廣且影響較深，對癌友和醫師都構成挑戰。第三代標靶藥副作用包括以下三方面。</p>
-
-
-
-<ul class="wp-block-list">
-<li>代謝性副作用：有研究顯示，使用第三代標靶藥的患者中逾 7 成出現高膽固醇與高血脂，其中部分案例需服用高劑量降血脂藥物來控制。更有部分患者即使接受治療仍難以緩解其高血脂問題，甚至可能引發胰臟炎等併發症。最近日本也有報告指出，有糖尿病患因服用第三代標靶藥物導致血糖控制不良，引起糖尿病酮酸中毒（DKA）。此外，有逾 4 成患者在治療期間顯著發胖，雖然大多數個案可以靠調整生活和飲食來控制，但是由於持續時間長，對患者還是會造成一定程度的困擾。</li>
-
-
-
-<li>中樞神經系統副作用：第三代標靶藥的副作用包括認知障礙、情緒波動或抑鬱症狀，部分嚴重個案病人甚至會出現幻覺和自殘念頭。部分副作用雖然僅達中等程度，也可能影響病人的正常生活，導致他們在工作、學習和社交活動中面臨困擾。</li>
-
-
-
-<li>心血管副作用：第三代標靶藥可能導致心血管相關問題，例如高血壓或心律不整。病人本身如果已有心血管疾病，風險可能相對更為顯著。</li>
-</ul>
-
-
-
-<p>由於上述副作用發生的時間點和持續時間範圍較廣，監控方面須較為費心。因第三代標靶藥呈現較多種類的副作用，導致病人需要較常就醫及抽血進行生化檢查，並服用額外藥物以控制相關問題，增加治療成本。此外，考慮到藥品之間的交互作用可能影響第三代標靶藥的療效或可能增加副作用，有不少本可用於緩解心血管或中樞神經副作用的藥物因而無法使用，這也會令醫師執行副作用管理的難度增加。</p>
-
-
-
-<p>台灣胸腔暨重症加護醫學會理事長暨臺北榮民總醫院胸腔部主任陳育民醫師在接受基因線上訪問時強調，第二代和第三代的標靶藥在治療 ALK 陽性 NSCLC 方面均有良好效果。可是由於兩者副作用不同，醫師在制訂治療方案時，既要清晰講解副作用，也需掌握病人是否有高血壓、高血脂、糖尿病、心臟病等共病症。另外病人的家庭狀況也是關鍵因素，考慮到第三代標靶藥有可能影響中樞神經系統，引致情緒困擾或認知障礙，對於家庭支援不足或獨居的癌友，一旦服藥後出現心理或認知問題，而又無人及時發現和介入，後果可能非常嚴重。因此醫師對於此類病人的用藥建議會更為謹慎，傾向避免在第一線治療就採用第三代藥物。</p>
-
-
-
-<p><strong>PFS 非存活期唯一指標，生活品質影響也須納入考量</strong></p>
-
-
-
-<p>生活品質與癌症治療的選擇密切相關，畢竟若果單純保住性命而令病人身心飽受副作用摧殘，因而無法正常生活、工作和社交，對病人及其照顧者而言也未必是好事。而且從藥物療效的角度出發，延長 PFS 固然是癌症治療的重要目標，但並不等同於整體存活期（OS）的提升。尤其萬一疾病惡化，目前第三代口服標靶藥只能接續化學藥物治療。加上第三代藥物目前的 OS 數據尚未完全確立，這讓其療效在長期治療中的優勢仍然存疑。</p>
-
-
-
-<p>除了直接使用第三代標靶藥，先採用第二代藥物作為一線治療是另一個醫師與病人的可行選項。病人在治療期間嚴重副作用的困擾相對較少，有機會能繼續進行日常活動，甚至維持工作能力，這對他們的心理健康與家庭生活均具有積極意義。即使後來出現抗藥性，也可以改用第三代藥物作二線治療。至於先使用第三代標靶藥、惡化後接續使用化療，或是先使用第二代標靶藥、惡化後接續使用第三代藥物的情況，目前尚沒有臨床客觀數據可供參考。</p>
-
-
-
-<p><strong>家屬照顧者角色舉足輕重，醫患合作助克服治療挑戰</strong></p>
-
-
-
-<p>總括而言，針對 ALK 陽性 NSCLC，第二代及第三代的口服標靶藥物各有其臨床價值。晚期肺癌患者在選擇治療方案時，除了療效數據之外，也應當將生活品質納入考量，與負責治療的醫師充分溝通治療效果、可能的副作用及其影響，從而做出最符合自身需求的選擇。</p>
-
-
-
-<p>陳育民醫師在訪問中補充，隨著肺癌逐漸趨向「慢性病化」，治療策略不僅要講求精準，也需仰賴醫護人員、病人及其家屬三方共同參與規劃與執行，也就是所謂的「醫病共享決策」。腫瘤科醫師和個案管理護理師應提供清晰客觀的藥物資訊與用藥選項，協助病人理解不同療法的利弊；而家屬作為照顧者，則可以協助病人配合治療，並適時關心他們的身心狀況。</p>
-
-
-
-<p>另一方面，各大癌症醫院、專業團體（例如胸腔重症學會、台灣肺癌學會等）和非政府組織也能協助提供藥物與衛教資訊，協助病人和家屬做出知情選擇。當癌友、醫護和家屬三方能攜手合作，就有望能克服漫長的肺癌治療過程中遭遇的種種挑戰，不僅有助病人爭取更長遠且有品質的存活時間，並讓他們在治療與生活之間取得更好的平衡。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e8%82%ba%e7%99%8c%e6%a8%99%e9%9d%b6%e6%b2%bb%e7%99%82%e6%96%b0%e6%80%9d%e7%b6%ad%ef%bc%9a%e7%99%82%e6%95%88%e8%88%87%e7%94%9f%e6%b4%bb%e5%93%81%e8%b3%aa%e5%a6%82%e4%bd%95%e5%85%bc%e5%be%97%ef%bc%9f/">肺癌標靶治療新思維：療效與生活品質如何兼得？</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>第六屆 ColorPro Awards 國際視覺藝術創作大賽正式開跑</title>
-		<link>https://firenews.com.tw/2025/08/12/%e7%ac%ac%e5%85%ad%e5%b1%86-colorpro-awards-%e5%9c%8b%e9%9a%9b%e8%a6%96%e8%a6%ba%e8%97%9d%e8%a1%93%e5%89%b5%e4%bd%9c%e5%a4%a7%e8%b3%bd%e6%ad%a3%e5%bc%8f%e9%96%8b%e8%b7%91/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 07:09:02 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=240254</guid>
-
-					<description><![CDATA[<p><img width="2520" height="1248" src="https://firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?w=2520&amp;ssl=1 2520w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=768%2C380&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=1536%2C761&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=2048%2C1014&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=260%2C129&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2520px) 100vw, 2520px" /></p>
-<p>全球視訊與教育科技解決方案領導品牌ViewSonic正式宣布，第六屆ColorPro Awards國際視覺藝術 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e7%ac%ac%e5%85%ad%e5%b1%86-colorpro-awards-%e5%9c%8b%e9%9a%9b%e8%a6%96%e8%a6%ba%e8%97%9d%e8%a1%93%e5%89%b5%e4%bd%9c%e5%a4%a7%e8%b3%bd%e6%ad%a3%e5%bc%8f%e9%96%8b%e8%b7%91/">第六屆 ColorPro Awards 國際視覺藝術創作大賽正式開跑</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2520" height="1248" src="https://firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?w=2520&amp;ssl=1 2520w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=768%2C380&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=1536%2C761&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=2048%2C1014&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?resize=260%2C129&amp;ssl=1 260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ColorPro_Banner.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2520px) 100vw, 2520px" /></p>
-<p>全球視訊與教育科技解決方案領導品牌ViewSonic正式宣布，第六屆ColorPro Awards國際視覺藝術大賽即日起向全球徵件。以「心流(FLOW)」為年度主題，本屆賽事鼓勵以律動與流動感為創作靈感，詮釋充滿生命力的藝術能量。徵件期間自即日起至臺灣時間 2025 年 9 月 21 日7點59分截止。總獎項價值超過 33,000 美元，並舉辦抽獎活動，參加者有機會贏得高效能 ColorPro 專業顯示器。</p>
-
-
-
-<p>ViewSonic 臺灣區總經理連育仁表示：「創造力，是心流中最純粹的能量。ViewSonic 以視覺為語言，持續邀請全球創作者一同探索靈感流動的節奏。我們深信，藝術的律動能跨越疆界，也能啟動人們內在的創意本能。ColorPro Awards 不只是競賽，更是一場視覺美感與創作精神的禮讚。我們期待看見更多來自臺灣在地、獨具風格的作品，將這份投入的『心流』之美被世界看見。」</p>
-
-
-
-<p>今年的主題「FLOW」旨在歌頌流暢且富有生命的創作狀態，當靈感如泉湧般自然流動，創作者全情投入、沉浸其中，作品也隨之成形。無論是透過靜態影像或動態視覺作品，本次徵件皆鼓勵創作者捕捉這份專注的當下，呈現充滿流動感與清晰藝術表現的作品。</p>
-
-
-
-<p><strong>聚焦全球創意交流</strong> <strong>四大類別徵件中</strong></p>
-
-
-
-<p>ColorPro Awards 今年邁入第六屆，持續表彰「靜態攝影、動態攝影、數位藝術與生成藝術」四大類別中的卓越視覺藝術作品。今年大賽亦獲得Calibrite、 Lexar、Pantone<sup>®</sup>、Shoot The Face、Shooters 與Vertex Mode等業界領導品牌的鼎力支持，共同為全球創意社群的成長注入動能。</p>
-
-
-
-<p>評審團陣容則聚集來自國際的知名視覺藝術、影像創作及創意領域專家，將根據美學、創意、故事性、年度主題「FLOW」相關性，以及作品的整體執行表現等五大標準進行評選。</p>
-
-
-
-<p>為協助創作者的專業發展，獲獎者將獲得一系列豐富獎勵，包含現金大獎、ColorPro 專業顯示器，以及來自Pantone、Calibrite、Lexar、AMD 等知名品牌的專業創作設備與工具。此外，更享有Tinyspace為期12個月會員資格等多項專屬資源。獲獎作品也將透過 ColorPro 官方線上平台、國內外展覽和官方頒獎活動中公開亮相，進一步拓展創作影響力。</p>
-
-
-
-<p><strong>「FLOW」主題創作者故事</strong> <strong>首波釋出靈感詮釋</strong></p>
-
-
-
-<p>ViewSonic亦特別邀請多位國際創作者分享他們以「FLOW」為題的作品，呈現橫跨自然、人文與日常中的藝術表現。靜態與動態攝影師暨內容創作者 <a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/pro-tips-forrest" target="_blank" rel="noreferrer noopener">Forrest Funk</a>以自然景觀為靈感，拍攝了美國科羅拉多州凱布勒山口（Kebler Pass）的秋景。作品中，金色光線引導觀者目光穿梭於色彩斑斕的林間，沉浸在大自然的韻律之美。</p>
-
-
-
-<p>獲獎旅行與人像攝影師 <a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/pro-tips-chris" target="_blank" rel="noreferrer noopener">Chris Ha</a> 捕捉越南工匠製作漁網的過程，藍色漁網於空中盤旋，動態線條律動如水波般柔和，表達專注於手工藝時的寧靜與詩意。視覺藝術家與攝影師<a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/pro-tips-ashraful" target="_blank" rel="noreferrer noopener">Ashraful Arefin</a> 則以細膩鏡頭描繪日常流動，他拍下男子倒熱茶的瞬間，蒸氣與茶液優雅交織，詮釋日常生活的節奏與儀式感。數位藝術家 <a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/pro-tips-sara" target="_blank" rel="noreferrer noopener">Sara Pardo Vázquez </a>則以當下融合光線、空氣與自然的和諧畫面，呈現出氛圍感強烈的靜謐片刻，傳遞「FLOW」稍縱即逝的本質。</p>
-
-
-
-<p>如欲欣賞更多專業創作者的靈感與作品，請造訪 <a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/pro-tips" target="_blank" rel="noreferrer noopener">ColorPro Awards 「專業建議」頁面</a>。</p>
-
-
-
-<p><strong>月月抽好禮：參賽即有機會贏得 ColorPro 顯示器</strong></p>
-
-
-
-<p>參賽者只需完成投稿、填寫問卷並追蹤 ColorPro 官方 Instagram（@ColorPro），即可參加每月抽獎活動，贏得ColorPro 專業顯示器。（8 月投稿者可參與 8 月與 9 月雙重抽獎機會，9 月投稿者僅參與 9 月抽獎。）</p>
-
-
-
-<p>欲知第六屆 ColorPro Awards 比賽詳情、報名方式、獎項內容、評審陣容與規則，請造訪<a href="https://www.viewsonic.com/tw/colorpro/event/colorproawards2025/" target="_blank" rel="noreferrer noopener"> ColorPro Awards 官方網站</a>。</p>
-
-
-
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>*本競賽由位於台灣新北市的優派國際股份有限公司(ViewSonic International Corp.)主辦和贊助。優派國際股份有限公司為美國加州的美商優派股份有限公司(ViewSonic Corp.)之子公司。 *第六屆&nbsp;ColorPro Awards 國際視覺藝術大賽徵件期間自&nbsp;2025 年&nbsp;8 月&nbsp;1 日世界協調時間（UTC）上午&nbsp;12:01 起開始，至&nbsp;2025 年&nbsp;9 月&nbsp;20 日世界協調時間（UTC）晚上&nbsp;11:59 止結束。<br>*不須購買和支付任何費用即可參加本活動。關於競賽條款與條件，請參考活動網站中關於條款的更多說明。 *本活動與 Instagram 無任何贊助、支持、管理或關聯。</td></tr></tbody></table></figure>
-
-
-
-<p><strong>關於ViewSonic </strong></p>
-
-
-
-<p>ViewSonic為全球視訊與教育科技解決方案的領導品牌，1987年創立於美國加州，業務遍及全球100多國，橫跨教育、商務與消費市場。公司致力打造整合硬體、軟體、內容及服務的全方位生態系，實現無縫連結的跨場域協作。產品組合涵蓋顯示器、投影機、互動顯示器、LED顯示器、商用顯示設備、視訊會議系統及工業應用解決方案，靈活支援多元應用場景，亦提供一系列創新軟體解決方案，包括myViewBoard、ClassSwift、TeamOne、Manager 和 AirSync，結合 AI 技術以提升協作體驗、裝置管理與遠端營運效率。ViewSonic秉持以客戶為核心的理念，積極協助企業與組織實現不同階段的成長與轉型目標，創造深遠影響。透過科技賦能人與人之間的連結，實踐讓客戶「See the Difference 」的品牌使命。欲了解更多ViewSonic重要訊息，請參見 <a href="https://www.viewsonic.com/tw/" target="_blank" rel="noreferrer noopener">https://www.viewsonic.com/tw/</a>。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/12/%e7%ac%ac%e5%85%ad%e5%b1%86-colorpro-awards-%e5%9c%8b%e9%9a%9b%e8%a6%96%e8%a6%ba%e8%97%9d%e8%a1%93%e5%89%b5%e4%bd%9c%e5%a4%a7%e8%b3%bd%e6%ad%a3%e5%bc%8f%e9%96%8b%e8%b7%91/">第六屆 ColorPro Awards 國際視覺藝術創作大賽正式開跑</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>全球保險菁英齊聚阿布達比 國際龍獎IDA年會盛大舉辦</title>
-		<link>https://firenews.com.tw/2025/08/11/%e5%85%a8%e7%90%83%e4%bf%9d%e9%9a%aa%e8%8f%81%e8%8b%b1%e9%bd%8a%e8%81%9a%e9%98%bf%e5%b8%83%e9%81%94%e6%af%94-%e5%9c%8b%e9%9a%9b%e9%be%8d%e7%8d%8eida%e5%b9%b4%e6%9c%83%e7%9b%9b%e5%a4%a7%e8%88%89/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 08:43:27 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=239824</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>2025年國際龍獎IDA年會於8月9日至12日在阿布達比盛大舉行，吸引超過7,000餘位來自世界各地金融保險業 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/%e5%85%a8%e7%90%83%e4%bf%9d%e9%9a%aa%e8%8f%81%e8%8b%b1%e9%bd%8a%e8%81%9a%e9%98%bf%e5%b8%83%e9%81%94%e6%af%94-%e5%9c%8b%e9%9a%9b%e9%be%8d%e7%8d%8eida%e5%b9%b4%e6%9c%83%e7%9b%9b%e5%a4%a7%e8%88%89/">全球保險菁英齊聚阿布達比 國際龍獎IDA年會盛大舉辦</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/MGC_5440-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>2025年國際龍獎IDA年會於8月9日至12日在阿布達比盛大舉行，吸引超過7,000餘位來自世界各地金融保險業精英、保險公司高層領導、行業專家學者齊聚一堂，共同探討、交流保險行業的新趨勢、新挑戰與新機遇。</p>
-
-
-
-<p>2025年8月9日至12日，2025國際龍獎IDA年會於阿拉伯聯合大公國首都——享有「石油之都」美譽的阿布達比舉辦。本次大會7,000餘位來自世界各地金融保險業精英、保險公司高層領導、行業專家學者齊聚一堂，共同探討、交流保險行業的新趨勢、新挑戰與新機遇。</p>
-
-
-
-<p>1998年，保險行銷集團正式宣布設立國際龍獎IDA榮譽，其初衷是為世界金融保險行業提供一個客觀公正的標準，積極推崇「典範、完美、尊貴」之理念。歷經二十餘載的深厚積澱，國際龍獎IDA已廣獲業界的重視與肯定，成為備受金融保險從業者推崇的國際級榮譽。如今，全球眾多金融保險機構已將國際龍獎IDA納入公司的榮譽體系。</p>
-
-
-
-<p>截至2025年，已有17個國家及地區，超過250家金融保險機構，累計18.1萬餘名金融保險精英榮獲國際龍獎IDA榮譽，國際龍獎IDA終身會員累計達585位，國際龍獎IDA名人堂成員累計達16位。同時，2025年全球共有17支傑出的保險團隊榮獲「國際龍獎IDA百人團隊」榮譽稱號。</p>
-
-
-
-<p>國際龍獎IDA年會是對全球保險業有著重要意義的高品質、高規格會議，大會在表彰國際龍獎IDA會員的同時，致力於為全球金融保險從業者提供最前沿的行業資訊、行銷技能和管理理念。從2000年起，保險行銷集團每年於世界各地舉辦國際龍獎IDA年會，迄今已累計在清邁、新加坡、首爾、悉尼、吉隆玻、迪拜、墨爾本、曼谷及中國諸多城市舉辦了24屆。2025年，國際龍獎IDA年會很榮幸來到了阿布達比。</p>
-
-
-
-<p>2025國際龍獎IDA年會以「拼」為主題，特邀120餘位來自全球各地不同保險企業的高層管理者、行銷團隊的傑出領軍人、頂尖的業務精英，以及保險業外多個領域的專家學者，呈現60餘場高專業價值、極具深度的精彩分享，其中有12場主場分享、43場分場分享，以及10場彙聚全球保險市場險企高管、金融領域專家的「IFOF國際金融前瞻論壇」，為推動保險業的繁榮與發展共建了一個多元、開放、跨領域的深度交流平臺。</p>
-
-
-
-<p><strong>IDA榮耀盛典：數千位IDA精英登上榮耀舞臺</strong></p>
-
-
-
-<p>2025年，全球保險行業於多變的經濟環境中面臨新的挑戰，但依然有一批優秀的保險精英逆勢而上，以超凡卓絕的業績和百折不撓的精神榮獲了國際龍獎IDA榮譽。</p>
-
-
-
-<p>為向行業的中流砥柱致以最高敬意，本次大會精心策劃「榮耀禮讚」及「龍之夜」環節，誠邀超過4,000位國際龍獎IDA會員踏上象徵「典範、完美、尊貴」的星光大道、走向頒獎舞臺，共赴屬於奮鬥者的榮耀時刻。</p>
-
-
-
-<p>在國際龍獎IDA榮譽的指引下，這些傑出的IDA榮譽獲得者勠力完成每年照顧36個家庭的使命。憑藉專業能力和無私奉獻的精神，他們不僅為客戶築起了堅實的保險屏障，更為全球保險業界樹立了典範。「榮耀禮讚」及「龍之夜」的頒獎，不僅是對他們個人成就的認可，更是對其所代表的專業精神和服務價值的肯定。</p>
-
-
-
-<p>在諸多榮譽獎項中，尤其值得一提的兩個獎項是：</p>
-
-
-
-<ol start="1" class="wp-block-list">
-<li>「世界華人保險終身成就獎」。它是世界保險業崇高的榮譽獎項，要求獲獎者必須在行業服務40年以上且有重大建樹與貢獻的德高望重者。2025年，大會特別將該獎項頒發給紮根行業40載，曾在馬來西亞保誠保險、信誠人壽、友邦集團等多家海內外保險公司擔任總經理、首席執行官、董事等高層管理職位的先鋒人物——陳嘉虎先生，旨在鼓勵更多保險從業人員不畏挑戰、勇毅前行。</li>
-
-
-
-<li>「國際龍獎IDA名人堂會員」。對於連續24年或累計30年榮獲IDA榮譽的國際龍獎IDA名人堂會員，大會特別以印璽為其榮耀加冕，嘉獎其堅守行業的定力與勇於創新的進取精神。</li>
-</ol>
-
-
-
-<p><strong>奉獻行業 榮光共築：IDA會員公司全球排名數據公布</strong></p>
-
-
-
-<p>2024年，國際龍獎IDA在中國香港首次發布《首屆國際龍獎IDA會員公司全球排名數據公告》，揭示了全球金融保險行業的發展趨勢與榮譽指標，為各金融保險機構和業務團隊的經營提供了寶貴的指引與參考。對保險機構來說，國際龍獎IDA會員的數量彰顯的是高生產力與高素質，當一家金融保險機構擁有的IDA會員數量愈多，代表其公司整體的績效產能、招募培訓、人員留存等方面皆與時俱進，且向著長期穩健的方向發展。</p>
-
-
-
-<p>為持續奉獻行業，國際龍獎IDA執行委員會將於阿布達比發布「2025年國際龍獎IDA會員公司全球排名數據公告」，特別成立「國際龍獎IDA數據分析專家委員會」，邀請保險行業具備深刻洞察力和前瞻性見解、兼具專業素養與公信力的專業人士擔任委員會委員，與國際龍獎IDA共同為全球金融保險業的蓬勃發展貢獻力量。</p>
-
-
-
-<p>同時，本年度的數據公告特別設立了「國際龍獎IDA世界之最」獎項，旨在通過記錄巔峰成就，激勵全球金融保險從業人員以這些頂尖成績者為榜樣，提升自我，持續精進，並創造屬於自己的IDA榮譽紀錄。</p>
-
-
-
-<p>國際龍獎IDA會員公司全球排名數據公告，不僅體現著保險行銷集團及國際龍獎IDA在推動世界金融保險從業人員的專業素養、形象與社會地位上的使命與奉獻的決心，更為從業者樹立了追求卓越、持續成長的標杆，為金融保險機構的制度、產品的設計提供國際化的參考、指引與助力，為全球保險行業的高品質轉型與革新之路指明了方向。 放眼未來，國際龍獎IDA將持續為世界金融保險業的繁榮與發展、進步與成長奉獻力量，並與各大金融保險機構及優秀金融保險從業人員相伴同行，邁向卓越！</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/%e5%85%a8%e7%90%83%e4%bf%9d%e9%9a%aa%e8%8f%81%e8%8b%b1%e9%bd%8a%e8%81%9a%e9%98%bf%e5%b8%83%e9%81%94%e6%af%94-%e5%9c%8b%e9%9a%9b%e9%be%8d%e7%8d%8eida%e5%b9%b4%e6%9c%83%e7%9b%9b%e5%a4%a7%e8%88%89/">全球保險菁英齊聚阿布達比 國際龍獎IDA年會盛大舉辦</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>臺東大學「RE喜待鹿樂源」團隊進駐瑞源綠照社區開創樂齡共學</title>
-		<link>https://firenews.com.tw/2025/08/11/%e8%87%ba%e6%9d%b1%e5%a4%a7%e5%ad%b8%e3%80%8cre%e5%96%9c%e5%be%85%e9%b9%bf%e6%a8%82%e6%ba%90%e3%80%8d%e5%9c%98%e9%9a%8a%e9%80%b2%e9%a7%90%e7%91%9e%e6%ba%90%e7%b6%a0%e7%85%a7%e7%a4%be%e5%8d%80%e9%96%8b/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 03:40:40 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[RE喜待鹿樂源]]></category>
-		<category><![CDATA[國立臺東大學提供]]></category>
-		<category><![CDATA[臺東大學]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=239651</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 盛夏的鹿野瑞源社區，傳來陣陣歡笑聲。來自國立臺東大學文化資源與休閒產業學系的「RE喜待 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/%e8%87%ba%e6%9d%b1%e5%a4%a7%e5%ad%b8%e3%80%8cre%e5%96%9c%e5%be%85%e9%b9%bf%e6%a8%82%e6%ba%90%e3%80%8d%e5%9c%98%e9%9a%8a%e9%80%b2%e9%a7%90%e7%91%9e%e6%ba%90%e7%b6%a0%e7%85%a7%e7%a4%be%e5%8d%80%e9%96%8b/">臺東大學「RE喜待鹿樂源」團隊進駐瑞源綠照社區開創樂齡共學</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>盛夏的鹿野瑞源社區，傳來陣陣歡笑聲。來自國立臺東大學文化資源與休閒產業學系的「RE喜待鹿樂源」團隊，自七月起進駐瑞源社區，參與農業部農村發展及水土保持署舉辦的「第十五屆大專生洄游農村競賽」，透過<strong>樂齡共學、世代共創、文化共融</strong>三大行動主軸，將青春創意與在地智慧緊密交織，讓原本靜謐的農村空間綻放出新活力。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>樂齡共學 串起世代情感</strong></h2>
-
-
-
-<p>在每週三的「大原綠照課程」中，團隊陪伴長者參與 <strong>記憶分享、延緩失能運動、桌遊互動、社區食農教育</strong> 等活動，並與小朋友一起動手復刻童玩。課堂中，長輩娓娓道來兒時故事，小朋友則專心聆聽、眼神充滿好奇；在桌遊與運動中，長者的笑容與孩子的活力交織成溫暖畫面。此次課程總參與人次突破百人，不僅促進長者身心健康，也讓社區不同世代間有了更多交流與連結，具體落實 <strong>SDGs 3.4 良好健康與福祉</strong> 的目標。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="451" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/01.png?resize=1220%2C451&#038;ssl=1" alt="" class="wp-image-239658" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/01.png?w=1436&amp;ssl=1 1436w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/01.png?resize=768%2C284&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/01.png?resize=260%2C96&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">大學生以講者身分帶著長者及小朋友進行桌遊活動（國立臺東大學提供）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>世代共創 活化半廢棄空間</strong></h2>
-
-
-
-<p>在駐村過程中，團隊發現社區中一棟「花布燈籠館」內部部分空間長期閒置的。這原本塵封的空間，在居民與團隊攜手下，經歷了 <strong>揭開歷史、清理整治、創意改造</strong> 三個階段，搖身一變成為充滿故事氛圍的「記憶館」。館內展示花布燈籠工藝、地方老照片及居民捐贈的生活器物，成為社區居民聚會、遊客感受在地文化的全新據點，呼應 <strong>SDGs 11.3 促進社會融合</strong> 與 <strong>SDGs 11.7 提供包容公共空間</strong> 的精神。未來將營造成「記憶故事館」展區，蒐集長輩的生活故事與照片，讓更多人看見瑞源的歷史脈絡與人情味。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="302" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/02.jpg?resize=1220%2C302&#038;ssl=1" alt="" class="wp-image-239659" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/02.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/02.jpg?resize=768%2C190&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/02.jpg?resize=260%2C64&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">活化半廢棄空間大家協力營造社區居民的記憶館（國立臺東大學提供）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>學生深入在地 發現農村魅力</strong></h2>
-
-
-
-<p>在駐村期間，學生們不僅是活動的策劃者，更是社區生活的觀察者。他們走訪長輩們生活的地方，從居民口中聽到關於瑞源的歷史與故事。有學生分享：「瑞源的慢節奏，讓我們重新思考生活的價值。這裡的長輩雖然年紀大了，但笑容和故事比任何教科書都生動。」另一位成員則說：「我們在課堂上學到的理論，在這裡找到了真實的樣貌，也看見了人與土地之間的深厚連結。」這段經歷，讓年輕學子更理解農村的多元面貌，也激發了未來持續投入地方發展的熱情。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="451" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/03.jpg?resize=1220%2C451&#038;ssl=1" alt="" class="wp-image-239660" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/03.jpg?w=1267&amp;ssl=1 1267w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/03.jpg?resize=768%2C284&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/03.jpg?resize=260%2C96&amp;ssl=1 260w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">學生至長輩家分享瑞源社區的故事及活動合影（國立臺東大學提供）</figcaption></figure>
-
-
-
-<p>國立臺東大學指導老師陳盈如表示：「這不僅是一次駐村，更是一場跨世代的生命交流。學生們帶著專業進入社區，也從居民身上學到腳踏實地的生活智慧。」瑞源社區發展協會曾瑞惠理事長則感謝團隊的投入：「有了年輕人的創意與活力，我們的社區不只是更熱鬧，還多了對未來的想像與希望。」</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/%e8%87%ba%e6%9d%b1%e5%a4%a7%e5%ad%b8%e3%80%8cre%e5%96%9c%e5%be%85%e9%b9%bf%e6%a8%82%e6%ba%90%e3%80%8d%e5%9c%98%e9%9a%8a%e9%80%b2%e9%a7%90%e7%91%9e%e6%ba%90%e7%b6%a0%e7%85%a7%e7%a4%be%e5%8d%80%e9%96%8b/">臺東大學「RE喜待鹿樂源」團隊進駐瑞源綠照社區開創樂齡共學</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ViewSonic蟬聯亞洲最佳雇主　人才策略再獲國際肯定</title>
-		<link>https://firenews.com.tw/2025/08/11/viewsonic%e8%9f%ac%e8%81%af%e4%ba%9e%e6%b4%b2%e6%9c%80%e4%bd%b3%e9%9b%87%e4%b8%bb%e3%80%80%e4%ba%ba%e6%89%8d%e7%ad%96%e7%95%a5%e5%86%8d%e7%8d%b2%e5%9c%8b%e9%9a%9b%e8%82%af%e5%ae%9a/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 03:12:35 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=239612</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>全球視訊與教育科技領導品牌ViewSonic，再度榮獲《HR Asia》「亞洲最佳企業雇主獎」，連續三年入選該 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/viewsonic%e8%9f%ac%e8%81%af%e4%ba%9e%e6%b4%b2%e6%9c%80%e4%bd%b3%e9%9b%87%e4%b8%bb%e3%80%80%e4%ba%ba%e6%89%8d%e7%ad%96%e7%95%a5%e5%86%8d%e7%8d%b2%e5%9c%8b%e9%9a%9b%e8%82%af%e5%ae%9a/">ViewSonic蟬聯亞洲最佳雇主　人才策略再獲國際肯定</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ViewSonic三度蟬聯《HR-Asia》亞洲最佳雇主獎，打造有溫度的職場成長力。-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>全球視訊與教育科技領導品牌ViewSonic，再度榮獲《HR Asia》「亞洲最佳企業雇主獎」，連續三年入選該指標性名單。評選結果顯示，ViewSonic在組織文化、人才培育與創新實踐等多項指標皆優於市場平均，展現其持續深耕人力資源與強化企業競爭力的成果。</p>
-
-
-
-<p>「我們始終相信，人才不只是資源，更是企業創新的核心引擎。」ViewSonic亞太區人力資源部協理王克禮表示，這份肯定來自每一位主管與員工對成長的投入與參與。「培養人才，是最具長期影響力的投資；而文化與制度的改變，則能創造真正的職場永續。我們致力提供多樣化學習資源，鼓勵團隊合作與創新。未來，ViewSonic將持續以人為核心，推動組織成長與人才發展，並串聯社會永續目標，打造一個讓員工安心投入和實踐自我價值的理想職場，實現企業與員工共好的正向循環。」</p>
-
-
-
-<p><strong>打造正向循環，推動全員賦能與學習轉型</strong></p>
-
-
-
-<p>為持續打造具備競爭力的成長型組織，ViewSonic從制度設計出發，深化文化實踐，推動主管與員工的雙向賦能，建立可長期運作且具持續創新的人才發展機制。</p>
-
-
-
-<p>今年，公司推動「主管領導力躍升計畫」，協助新任與中階管理者從傳統的指令式管理，轉型為強調溝通與啟發的教練型領導者。透過課程設計與實境演練，使主管能更有效激發團隊潛力，並培養開放對話與正向回饋的團隊氛圍。課後調查顯示，超過九成主管已將課堂所學實踐於日常管理之中，展現出管理風格的實質轉變。</p>
-
-
-
-<p>在員工發展方面，ViewSonic也同步推動「職能架構」與「職能實踐應用課程」，協助同仁明確掌握職務所需的核心能力。透過具體的行為指標與案例討論，讓員工更清楚地辨識卓越表現與自我優化空間，進而提升績效對話的品質。這套以人為本的管理模式，不僅為組織建立起持續學習與創新的正向循環，也讓管理文化從過去的單向指示，邁向強調對話與共成長的新型態。</p>
-
-
-
-<p><strong>強化制度與人才結構，打造共融平等的人才環境</strong></p>
-
-
-
-<p>除了軟性的管理與文化改革，ViewSonic也積極完善制度設計，建立穩固的人才發展基礎。公司持續調整假別制度，增加休假天數，並評估為有學齡前子女的員工提供彈性假，協助同仁兼顧工作與家庭。同時導入新一代HR系統，提升行政流程效率，讓員工能專注於核心任務與創新挑戰。</p>
-
-
-
-<p>在人才政策與組織發展方面，ViewSonic落實《平等就業機會政策》（Equal Employment Opportunity, EEO），並積極推動多元共融（DEI）理念，致力打造性別平等與文化包容的工作場域。目前全球員工性別比例已趨近1:1，公司亦持續強化資源配置與支持系統，著重提升女性於STEM領域的參與比例，進一步提升整體職場的包容性與成長動能。</p>
-
-
-
-<p><strong>從企業內部到社會擴散，實踐科技與永續影響力</strong></p>
-
-
-
-<p>ViewSonic不僅在內部實踐公平與包容，也積極將這樣的文化擴展至更大的社會與產業場域，透過具體行動落實企業社會責任。公司長期關注教育平等與數位落差議題，運用科技協助偏鄉學校提升學習資源，並與在地組織合作，推動多元族群、不同年齡與弱勢群體的數位素養。</p>
-
-
-
-<p>這樣的社會參與精神，也延伸至環境永續的實際行動中。公司榮獲國際永續評比平台 EcoVadis 的銀級認證，名列全球逾13萬家企業前8%，進一步鞏固其在ESG領域的領導地位。在實際執行面，ViewSonic積極推廣無紙化解決方案，協助教育與商業場域加速數位轉型，同時有效降低資源消耗與環境衝擊。多款顯示產品也陸續通過國際最高等級如 EPEAT（電子產品環境評估工具）金級等環保標章認證，展現公司從設計階段即導入減碳思維，將永續理念融入產品生命週期的每一環節。</p>
-
-
-
-<p><strong>關於《</strong><strong>HR Asia</strong><strong>》亞洲最佳企業雇主獎</strong></p>
-
-
-
-<p>「亞洲最佳企業雇主獎」是《HR Asia》舉辦的年度指標性獎項，也是亞太地區規模最大的雇主品牌獎項之一。該獎項採用全面參與評估模型（Total Engagement Assessment Model, TEAM），結合員工問卷調查與第三方數據，深入評估企業在組織文化、員工參與與領導效能等多個面向的整體表現。</p>
-
-
-
-<p><strong>關於</strong><strong>ViewSonic</strong> ViewSonic為全球視訊與教育科技解決方案的領導品牌，1987年創立於美國加州，業務遍及全球100多國，橫跨教育、商務與消費市場。公司致力打造整合硬體、軟體、內容及服務的全方位生態系，實現無縫連結的跨場域協作。產品組合涵蓋顯示器、投影機、互動顯示器、LED顯示器、商用顯示設備、視訊會議系統及工業應用解決方案，靈活支援多元應用場景，亦提供一系列創新軟體解決方案，包括myViewBoard、ClassSwift、TeamOne、Manager 和 AirSync，結合 AI 技術以提升協作體驗、裝置管理與遠端營運效率。ViewSonic秉持以客戶為核心的理念，積極協助企業與組織實現不同階段的成長與轉型目標，創造深遠影響。透過科技賦能人與人之間的連結，實踐讓客戶「See the Difference」的品牌使命。欲了解更多ViewSonic重要訊息，請參見&nbsp;<a href="https://www.viewsonic.com/tw/" target="_blank" rel="noreferrer noopener">https://www.viewsonic.com/tw/</a>。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/11/viewsonic%e8%9f%ac%e8%81%af%e4%ba%9e%e6%b4%b2%e6%9c%80%e4%bd%b3%e9%9b%87%e4%b8%bb%e3%80%80%e4%ba%ba%e6%89%8d%e7%ad%96%e7%95%a5%e5%86%8d%e7%8d%b2%e5%9c%8b%e9%9a%9b%e8%82%af%e5%ae%9a/">ViewSonic蟬聯亞洲最佳雇主　人才策略再獲國際肯定</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>TutorABC成為亞太首家獲美國WASC最高級別認證的線上教育品牌</title>
-		<link>https://firenews.com.tw/2025/08/08/tutorabc%e6%88%90%e7%82%ba%e4%ba%9e%e5%a4%aa%e9%a6%96%e5%ae%b6%e7%8d%b2%e7%be%8e%e5%9c%8bwasc%e6%9c%80%e9%ab%98%e7%b4%9a%e5%88%a5%e8%aa%8d%e8%ad%89%e7%9a%84%e7%b7%9a%e4%b8%8a%e6%95%99%e8%82%b2/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 11:24:08 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=238785</guid>
-
-					<description><![CDATA[<p><img width="2560" height="1804" src="https://firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=768%2C541&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=1536%2C1083&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=2048%2C1443&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=207%2C146&amp;ssl=1 207w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>TutorABC正式取得美國西部院校聯盟（WASC）最高級別認證，成為亞太區首家獲此肯定的線上教育平台，展現其 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/08/tutorabc%e6%88%90%e7%82%ba%e4%ba%9e%e5%a4%aa%e9%a6%96%e5%ae%b6%e7%8d%b2%e7%be%8e%e5%9c%8bwasc%e6%9c%80%e9%ab%98%e7%b4%9a%e5%88%a5%e8%aa%8d%e8%ad%89%e7%9a%84%e7%b7%9a%e4%b8%8a%e6%95%99%e8%82%b2/">TutorABC成為亞太首家獲美國WASC最高級別認證的線上教育品牌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="2560" height="1804" src="https://firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=768%2C541&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=1536%2C1083&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=2048%2C1443&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?resize=207%2C146&amp;ssl=1 207w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/TutorABC-聯合董事長-Rodney-Miles-與聯合董事長暨執行長楊順銓-Samuel-Yang-共同慶祝公司榮獲美國-WASC-最高級別認證，為亞太區線上教育樹立了新的里程碑。-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
-<p>TutorABC正式取得美國西部院校聯盟（WASC）最高級別認證，成為亞太區首家獲此肯定的線上教育平台，展現其在教學設計、學習成效與國際接軌上的全面實力，也為學員提供獲得全球認可學分的嶄新途徑。</p>
-
-
-
-<p>全球線上學習領導品牌TutorABC今日寫下歷史新頁，宣布成為亞太區首家榮獲「美國西部院校聯盟(WASC)」最高級別認證的教育機構。這項極具份量的認可，讓TutorABC正式躋身世界頂尖學府之列，與史丹佛大學(Stanford University)、加州大學柏克萊分校(UC Berkeley)、洛杉磯分校(UCLA)、南加州大學(USC)、聖塔克拉拉大學(Santa Clara University)，以及台北美國學校(Taipei American School)、香港國際學校(Hong Kong International School)、上海美國學校(Shanghai American School)等全球頂尖國際學校齊名。</p>
-
-
-
-<p>此一成就意味著，TutorABC學員將能獲取通行全球的可轉移大學學分，其學術表現在國際上將獲得正式認可，為未來升學與職涯發展，奠定最穩固的基礎。</p>
-
-
-
-<p><strong>WASC</strong><strong>認證：為學員開創全球通行的升學管道</strong></p>
-
-
-
-<p>TutorABC獲WASC認證，為學員開創了直通世界頂尖學府的康莊大道：</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>通行全球的可轉移學分</strong>：學員修習的學分可獲全球WASC體系內院校承認，讓升學之路暢通無阻。</li>
-
-
-
-<li><strong>大學申請中更具優勢</strong>：WASC認證成績單是學術含金量的最佳保證，讓學員在全球大學激烈申請競爭中，更具競爭力、脫穎而出。</li>
-
-
-
-<li><strong>無縫銜接高等教育</strong>：課程內容與全球學術標準同步，確保學員能從容因應大學課業挑戰，順利銜接。</li>
-</ul>
-
-
-
-<p><strong>嚴謹評鑑，</strong><strong>TutorABC</strong><strong>卓越辦學獲</strong><strong>WASC</strong><strong>高度肯定</strong></p>
-
-
-
-<p>WASC訪視報告盛讚TutorABC的多項卓越表現，在13項評鑑指標中，高達12項獲得「高效卓越(Highly Effective)」的頂級評價。報告特別肯定：</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>國際頂規的課程設計</strong>：課程嚴格對標CEFR與美國CCSS等全球權威學術架構，學術嚴謹度與世界一流標準並駕齊驅。</li>
-
-
-
-<li><strong>數據驅動的個人化教學</strong>：運用尖端數據分析技術，為每位學員量身打造最切合需求的學習體驗，落實因材施教理念。</li>
-
-
-
-<li><strong>溫暖共融的學習社群</strong>：成功營造充滿支持與信任的線上學習環境，有效激發學員參與度和學習熱忱。</li>
-
-
-
-<li><strong>卓越頂尖的領導團隊</strong>：領導層對追求卓越、引領線上教育創新的承諾與遠見，獲得高度評價。</li>
-</ul>
-
-
-
-<p><strong>WASC</strong><strong>認證：教育界權威最高標竿</strong></p>
-
-
-
-<p>美國西部院校聯盟(WASC)是美國教育部官方認可的權威區域性認證機構。自1962年成立以來，WASC專責評鑑美國西部及太平洋地區各級學校與大專院校，評鑑項目涵蓋學術標準、學校治理及學生成就，是全球公認的最高教育品質標竿之一。</p>
-
-
-
-<p><strong>放眼全球的教育願景</strong></p>
-
-
-
-<p>這項非凡成就，是TutorABC全新國際團隊自2022年啟動策略轉型以來，最亮眼的成果。</p>
-
-
-
-<p>TutorABC聯合董事長Rodney Miles表示：「我們的初衷，就是將TutorABC打造成一個能代表亞洲、站上世界舞台的頂級教育品牌。獲頒WASC認證，證明了我們的願景和路線是正確的，也實現了我們為學員提供世界一流教育的堅定承諾。」</p>
-
-
-
-<p>聯合董事長暨執行長楊順銓(Samuel Yang)補充道：「獲得WASC最高認證，不僅證明TutorABC師生共同努力已獲得國際最高肯定，更代表TutorABC早已不只是頂尖的語言學習平台。我們是全方位的教育夥伴，致力於協助所有學習者，在全球化的世界中邁向成功。」</p>
-
-
-
-<p>*了解更多WASC對於留學的好處：<br><a href="https://www.tutorabc.com/count.asp?code=TkdWYA0mbo" target="_blank" rel="noreferrer noopener">https://www.tutorabc.com/count.asp?code=TkdWYA0mbo</a></p>
-
-
-
-<p><strong>全球學習者的信賴首選</strong></p>
-
-
-
-<p>透過取得WASC認證，TutorABC進一步鞏固其在競爭激烈的線上教育市場中的領導地位。</p>
-
-
-
-<p><strong>關於</strong><strong>TutorABC</strong></p>
-
-
-
-<p>TutorABC作為全球領先的線上教育平台，專精於提供頂級英語與中文語言學習課程。與Oxford University Press(牛津大學出版社)、Cambridge University Press(劍橋大學出版社)、National Geographic Learning(國家地理學習)、Kaplan(卡普蘭教育集團)及Barron&#8217;s Educational Series(巴倫教育出版社)等全球頂尖教育機構攜手合作，TutorABC已深耕線上教育產業逾20年。目前服務範圍遍及全球100個國家，累積學員人數突破1億大關，企業培訓客戶超過3,000家，並擁有3萬名經過專業認證的菁英教師團隊。 </p>
-
-
-
-<p>憑藉領先業界的AI智慧學習平台與世界級企業培訓解決方案，TutorABC致力於協助個人學習者與企業夥伴在高度競爭的全球化環境中脫穎而出，創造卓越非凡的成就。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/08/tutorabc%e6%88%90%e7%82%ba%e4%ba%9e%e5%a4%aa%e9%a6%96%e5%ae%b6%e7%8d%b2%e7%be%8e%e5%9c%8bwasc%e6%9c%80%e9%ab%98%e7%b4%9a%e5%88%a5%e8%aa%8d%e8%ad%89%e7%9a%84%e7%b7%9a%e4%b8%8a%e6%95%99%e8%82%b2/">TutorABC成為亞太首家獲美國WASC最高級別認證的線上教育品牌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>The page is temporarily unavailable</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #900;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #900;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #000;
+            }
+            h3 {
+                text-align: center;
+                background-color: #ff0000;
+                padding: 0.5em;
+                color: #fff;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1><strong>nginx error!</strong></h1>
+
+        <div class="content">
+
+            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>Something has triggered missing webpage on your
+                    website. This is the default error page for
+                    <strong>nginx</strong> that is distributed with
+                    Red Hat Enterprise Linux.  It is located
+                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+
+                    <p>You should customize this error page for your own
+                    site or edit the <tt>error_page</tt> directive in
+                    the <strong>nginx</strong> configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+                <a href="http://www.redhat.com/"><img
+                    src="poweredby.png"
+                    alt="[ Powered by Red Hat Enterprise Linux ]"
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</html>
