@@ -1,120 +1,755 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Sun, 17 Aug 2025 18:28:56 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>跨越課桌，走向永續：百位教育領袖共議治理新未來</title>
+		<link>https://firenews.com.tw/2025/08/18/%e8%b7%a8%e8%b6%8a%e8%aa%b2%e6%a1%8c%ef%bc%8c%e8%b5%b0%e5%90%91%e6%b0%b8%e7%ba%8c%ef%bc%9a%e7%99%be%e4%bd%8d%e6%95%99%e8%82%b2%e9%a0%98%e8%a2%96%e5%85%b1%e8%ad%b0%e6%b2%bb%e7%90%86%e6%96%b0%e6%9c%aa/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242933</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>文／永續教科書團隊 百位教育領導者共聚金華國中 — 《永續教科書》跨域賦能共識營現場，與會者共同探討校園永續與 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e8%b7%a8%e8%b6%8a%e8%aa%b2%e6%a1%8c%ef%bc%8c%e8%b5%b0%e5%90%91%e6%b0%b8%e7%ba%8c%ef%bc%9a%e7%99%be%e4%bd%8d%e6%95%99%e8%82%b2%e9%a0%98%e8%a2%96%e5%85%b1%e8%ad%b0%e6%b2%bb%e7%90%86%e6%96%b0%e6%9c%aa/">跨越課桌，走向永續：百位教育領袖共議治理新未來</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>文／永續教科書團隊</strong></p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-242938" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-182.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>百位教育領導者共聚金華國中</strong> — 《永續教科書》跨域賦能共識營現場，與會者共同探討校園永續與數位轉型藍圖</figcaption></figure>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>8月13日至14日於台北市金華國中舉辦的《永續教科書：學校影響力團隊・跨域賦能共識營》，不只是一場教育活動，更是一套專為「教育現場主導產學合作」所設計的系統性行動方案。</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<h2 class="wp-block-heading"><strong>【從願景到藍圖：教育與企業如何對話？】</strong></h2>
+
+
+
+<p>第一日議程聚焦「學校永續 × 數位雙軸轉型」，由社會設計平台5% Design Action總監伍志翔開場。他以自身十多年服務設計經驗指出：「永續教育不能只談KPI，更要能定義影響力。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-242936" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?w=2365&amp;ssl=1 2365w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?resize=2048%2C1535&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-180.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">華碩永續長吳澤欣分享企業永續策略，鼓勵學校從自身條件創造長期影響。</figcaption></figure>
+
+
+
+<p>華碩永續長吳澤欣指出，ESG不應流於形式或對外展示，而應與核心策略整合、創造實質價值。以華碩永續為例，華碩始終堅持「崇本務實」的永續發展策略，結合核心能力，推動「數據化衡量、科技化管理」的策略性永續。從量化的明確目標制定到將永續視為產品設計的參數，創造差異化競爭優勢。因此，他也鼓勵學校從自身條件出發，思考能為學生、社區與環境創造哪些長期影響。對學校而言，這意味著永續不只是課程或活動，而是一套深植校務治理的思維轉型。</p>
+
+
+
+<p>李惠銘校長也在活動中分享：「這次的共識營，不只是技術與工具的學習，更是一次集體找回初心的過程。當我們開始用『影響力』來定義學校，那就是教育重新被社會看見的起點。」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>【AI如何協助學校打造品牌與永續價值？】</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-242935" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?w=2258&amp;ssl=1 2258w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-179.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">SoWork創辦人王俊人於共識營下午場分享「AI賦能的學校品牌形塑」，解析AI在數位形象與外部連結上的應用</figcaption></figure>
+
+
+
+<p>下午場，由SoWork創辦人王俊人主講「AI賦能的學校品牌形塑」，分享AI如何協助學校建立數位形象、強化對外連結並提升師生參與度。</p>
+
+
+
+<p>他提出關鍵提問：「在數位世界中，你的學校被誰看見？又傳遞了什麼價值？」強調品牌不再是標語，而是永續影響力的起點。 </p>
+
+
+
+<p>擔任引導夥伴的「環境友善種子」團隊執行長王書貞指出：「設計教育行動的關鍵，不在於給答案，而是陪伴學校找到自己的問題與可能。」，也運用其系統思維與環境教育經驗，協助各校釐清現況、定錨願景。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>【從藍圖到實踐：讓學校提案不再是難事】</strong></h2>
+
+
+
+<p>本次兩天課程設計，採用「定錨 → 設計 → 執行 → 驗證 → 擴散」的五段式實作框架，從校本願景出發，逐步引導教師團隊產出具體的「永續藍圖」與「企業提案簡報」。現場透過多項專業工具如利害關係人地圖、資源盤點表、合作模組卡牌等協助學校進行完整方案設計與行動路徑規劃。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>【教育現場的下一步：從計畫變成典範】</strong></h2>
+
+
+
+<p>此次共識營背後的《永續教科書》平台，也同步公布未來行動藍圖，將持續協助學校深化執行力並擴大影響力。接下來，平台將提供永續藍圖實作工具包與產學合作提案輔導，協助學校具體化行動方案；同時培育具備示範潛力的學校，啟動陪跑與資源導入機制，讓好的實踐不只落地，更能成為他校參照的典範。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>下一步行動｜攜手企業與學校，推動教育影響力的長期實踐</strong></h2>
+
+
+
+<p>接下來，《永續教科書》不僅將持續作為平台推手，更將扮演教育轉型的長期陪伴者。 平台將陸續啟動永續企劃輔導、產學合作媒合與數位工具支持，讓更多學校從「被動參與」成為「主動設計者」，共同打造「學校提案 × 企業共創」的新型合作場域。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-242937" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-181.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>《永續教科書》跨域賦能共識營現場，百位教育者共同探討校園永續與數位轉型藍圖</strong></figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e8%b7%a8%e8%b6%8a%e8%aa%b2%e6%a1%8c%ef%bc%8c%e8%b5%b0%e5%90%91%e6%b0%b8%e7%ba%8c%ef%bc%9a%e7%99%be%e4%bd%8d%e6%95%99%e8%82%b2%e9%a0%98%e8%a2%96%e5%85%b1%e8%ad%b0%e6%b2%bb%e7%90%86%e6%96%b0%e6%9c%aa/">跨越課桌，走向永續：百位教育領袖共議治理新未來</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>男子從暴雨中拯救小貓遭拒絕？真相出爐讓網友感到超溫暖！ </title>
+		<link>https://firenews.com.tw/2025/08/17/%e7%94%b7%e5%ad%90%e5%be%9e%e6%9a%b4%e9%9b%a8%e4%b8%ad%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%81%ad%e6%8b%92%e7%b5%95%ef%bc%9f%e7%9c%9f%e7%9b%b8%e5%87%ba%e7%88%90%e8%ae%93%e7%b6%b2%e5%8f%8b%e6%84%9f/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 06:18:20 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[團圓]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[山貓]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242752</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1700" src="https://firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=1536%2C1020&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=2048%2C1360&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=220%2C146&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 美國堪薩斯州一名男子在暴風雨中發現一隻瑟縮在屋外的小貓，原本出自於同情將牠帶進 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e7%94%b7%e5%ad%90%e5%be%9e%e6%9a%b4%e9%9b%a8%e4%b8%ad%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%81%ad%e6%8b%92%e7%b5%95%ef%bc%9f%e7%9c%9f%e7%9b%b8%e5%87%ba%e7%88%90%e8%ae%93%e7%b6%b2%e5%8f%8b%e6%84%9f/">男子從暴雨中拯救小貓遭拒絕？真相出爐讓網友感到超溫暖！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1700" src="https://firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=1536%2C1020&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=2048%2C1360&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?resize=220%2C146&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/max-22x7fxFpl_8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>美國堪薩斯州一名男子在暴風雨中發現一隻瑟縮在屋外的小貓，原本出自於同情將牠帶進家中避難，並打算收編，卻意外得知這其實是一隻野生的小山貓，最後在動保人員協助下與牠的母親團聚，溫馨結局令網友感動不已。&nbsp;</p>
+
+
+
+<p>根據外媒報導，先前堪薩斯州的萊內克薩市遭遇強烈暴風及龍捲風警報，狂風驟雨席捲當地的街道，一名男子在家中透過窗戶發現一隻虎斑花色的小貓孤零零地在屋外躲雨，看起來既無助又害怕，讓他十分擔心牠的安危。&nbsp;</p>
+
+
+
+<p>男子見狀猶豫了一會，還是決定開門將小貓抱進屋內，並安置在客廳角落，起初以為牠只是走失的浪貓幼崽，因此心理萌生出收養的念頭，但小貓的行為舉止相當怪異，引起了男子疑慮，於是聯繫了當地動保前來檢查。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-242754" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jack-bulmer-NYNF6DqGCkM-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">原來小貓其實是野生的山貓，最後男子協助動保志工幫助山貓媽媽與孩子團圓<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>經過工作人員仔細觀察，發現小貓並不是一般貓咪，而是一隻剛出生不久的小山貓，由於山貓屬於野生動物，法律禁止私人飼養，這讓男子只能先將牠安置在保溫運輸籠中，確保小貓能安全度過這場暴風雨。&nbsp;</p>
+
+
+
+<p>不久後動保志工接獲多起居民通報，稱有一隻山貓媽媽在附近民宅徘徊不去，似乎正在尋找走失的孩子，男子便與工作人員合力將小山貓帶到戶外，同時播放山貓幼崽的叫聲吸引母親現身，最後成功幫助山貓媽媽與孩子團圓，為這起溫暖的寵物故事畫下句點。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e7%94%b7%e5%ad%90%e5%be%9e%e6%9a%b4%e9%9b%a8%e4%b8%ad%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%81%ad%e6%8b%92%e7%b5%95%ef%bc%9f%e7%9c%9f%e7%9b%b8%e5%87%ba%e7%88%90%e8%ae%93%e7%b6%b2%e5%8f%8b%e6%84%9f/">男子從暴雨中拯救小貓遭拒絕？真相出爐讓網友感到超溫暖！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>跨越種族的友誼！小馬遭遺棄被好心人收養迎來新生 </title>
+		<link>https://firenews.com.tw/2025/08/17/%e8%b7%a8%e8%b6%8a%e7%a8%ae%e6%97%8f%e7%9a%84%e5%8f%8b%e8%aa%bc%ef%bc%81%e5%b0%8f%e9%a6%ac%e9%81%ad%e9%81%ba%e6%a3%84%e8%a2%ab%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%94%b6%e9%a4%8a%e8%bf%8e%e4%be%86%e6%96%b0/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 06:17:17 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[小馬]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[暖心]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242751</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1706" src="https://firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 近日國外傳出一起暖心的寵物故事，一匹名叫「皮博迪」（Peabody）」的迷你小 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e8%b7%a8%e8%b6%8a%e7%a8%ae%e6%97%8f%e7%9a%84%e5%8f%8b%e8%aa%bc%ef%bc%81%e5%b0%8f%e9%a6%ac%e9%81%ad%e9%81%ba%e6%a3%84%e8%a2%ab%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%94%b6%e9%a4%8a%e8%bf%8e%e4%be%86%e6%96%b0/">跨越種族的友誼！小馬遭遺棄被好心人收養迎來新生 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1706" src="https://firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/peter-hoogmoed-LUInjCfB4a8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>近日國外傳出一起暖心的寵物故事，一匹名叫「皮博迪」（Peabody）」的迷你小馬，因先天條件特殊而被前主人棄養，原本被認為無法生存，如今卻在新飼主的細心照顧下健康成長，與最好的狗朋友們一起生活迎來幸福新生。&nbsp;</p>
+
+
+
+<p>據了解，「皮博迪」剛出生時體型異常嬌小，被認為是世界上最小的馬之一，前主人認定牠既聾又瞎，無法正常進食或行走，且永遠不會長大，因而放棄飼養，所幸一名好心的馴馬師並未被這些說法嚇退，而是決定將牠帶回家細心照料。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-242756" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/bruce-warrington-WSAOGHKEqFc-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「皮博迪」抵達新家後與家中狗狗相處融洽，如今已平安健康長大<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>馴馬師將「皮博迪」帶回新家後，驚訝地發現牠除了體型小巧之外，並沒有任何前主人所描述的缺陷，不僅視力與聽力正常，行走與進食也沒有障礙，因此懷疑小馬可能僅是因為身型太小，不符合一般馬匹的外觀期待而被棄養。&nbsp;</p>
+
+
+
+<p>如今「皮博迪」已經平安健康地長大，但由於牠的體型與小型犬相近，平時多數時間都與家中的狗狗作伴，久而久之也開始模仿狗的行為，完全融入全新的生活模式，故事曝光引起網上熱議，網友紛紛大讚訓馬師的善良，也感嘆著動物之間最珍貴的情誼。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e8%b7%a8%e8%b6%8a%e7%a8%ae%e6%97%8f%e7%9a%84%e5%8f%8b%e8%aa%bc%ef%bc%81%e5%b0%8f%e9%a6%ac%e9%81%ad%e9%81%ba%e6%a3%84%e8%a2%ab%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%94%b6%e9%a4%8a%e8%bf%8e%e4%be%86%e6%96%b0/">跨越種族的友誼！小馬遭遺棄被好心人收養迎來新生 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪總愛在窗邊曬太陽？5大原因解析牠們的情有獨鍾！</title>
+		<link>https://firenews.com.tw/2025/08/17/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e5%9c%a8%e7%aa%97%e9%82%8a%e6%9b%ac%e5%a4%aa%e9%99%bd%ef%bc%9f5%e5%a4%a7%e5%8e%9f%e5%9b%a0%e8%a7%a3%e6%9e%90%e7%89%a0%e5%80%91%e7%9a%84%e6%83%85%e6%9c%89%e7%8d%a8/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 02:28:26 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[曬太陽]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242626</guid>
+
+					<description><![CDATA[<p><img width="612" height="459" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-177.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-177.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-177.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導 很多貓奴家裡都會發現，貓咪總喜歡窩在窗邊，慵懶地曬著陽光。牠們的這份偏愛，看似隨性，其 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e5%9c%a8%e7%aa%97%e9%82%8a%e6%9b%ac%e5%a4%aa%e9%99%bd%ef%bc%9f5%e5%a4%a7%e5%8e%9f%e5%9b%a0%e8%a7%a3%e6%9e%90%e7%89%a0%e5%80%91%e7%9a%84%e6%83%85%e6%9c%89%e7%8d%a8/">貓咪總愛在窗邊曬太陽？5大原因解析牠們的情有獨鍾！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="459" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-177.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-177.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-177.png?resize=195%2C146&amp;ssl=1 195w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>很多貓奴家裡都會發現，貓咪總喜歡窩在窗邊，慵懶地曬著陽光。牠們的這份偏愛，看似隨性，其實背後有著多重原因，結合生理需求、心理安全與天性本能，形成了獨特的曬太陽習慣。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">享受溫暖，放鬆身心</h4>
+
+
+
+<p>貓咪的體溫比人類略高，但家貓仍然會感到寒冷，尤其是在冬天或陰冷的室內環境。陽光灑在窗台上，溫暖的光線能讓牠們的肌肉完全放鬆，降低緊張感。這種舒適感不只是身體上的，對心理也是一種安撫作用，讓貓咪能安心小睡或靜靜休息，是牠們放鬆的重要時刻。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-175.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242649" style="width:718px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-175.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-175.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪雖體溫高，但仍怕冷。陽光讓牠們暖和放鬆，身心舒適，安心休息。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">日光助於健康代謝</h4>
+
+
+
+<p>雖然貓咪不像人類能直接靠皮膚製造維生素D，但陽光能促進牠們的代謝，幫助鈣質吸收與骨骼發育。尤其是年紀較小或較年長的貓咪，曬太陽能幫助維持關節與骨骼健康，長期累積下來，也對整體活力與免疫力有正面影響。</p>
+
+
+
+<h4 class="wp-block-heading">觀察外界，滿足好奇心</h4>
+
+
+
+<p>窗邊是貓咪的最佳觀察點。牠們可以靜靜地看鳥兒飛過、樹葉隨風搖擺，或偶爾街上的行人與車輛。這種視覺刺激不僅能滿足天生的好奇心，也提供心理上的娛樂與模擬狩獵體驗，讓貓咪即使在室內，也能保持心智活躍。</p>
+
+
+
+<h4 class="wp-block-heading">安全的高地，掌握領地感</h4>
+
+
+
+<p>窗台或窗邊通常高於地面，對貓咪來說是一個安全的高地。從這個位置，牠們可以全面觀察環境、掌握領地，同時保持安全距離，不易受到突如其來的干擾或威脅。這種高處的優勢感，使貓咪在曬太陽時，也能安心休息或沉思，增強安全感與舒適感。</p>
+
+
+
+<h4 class="wp-block-heading">心情調節與儀式感</h4>
+
+
+
+<p>貓咪喜歡固定的生活節奏，窗邊曬太陽對牠們而言是一種「每日儀式」。每天固定時間到窗台曬光，不僅有助於生理時鐘的調節，也能安定情緒，讓貓咪形成穩定的生活習慣。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-176.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242650" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-176.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-176.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">對貓咪來說，窗邊曬太陽是一種每日儀式，有助生理時鐘與情緒穩定。圖:istockphoto</figcaption></figure></div>
+
+
+<p>貓咪愛曬太陽，其實是生理、心理與天性多重因素的綜合表現。溫暖、安全、觀察外界、心情調節，每一個細節都讓牠們情有獨鍾。理解這些習性，不僅能更貼近毛孩，也能打造更適合牠們的窗邊小天地 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e5%9c%a8%e7%aa%97%e9%82%8a%e6%9b%ac%e5%a4%aa%e9%99%bd%ef%bc%9f5%e5%a4%a7%e5%8e%9f%e5%9b%a0%e8%a7%a3%e6%9e%90%e7%89%a0%e5%80%91%e7%9a%84%e6%83%85%e6%9c%89%e7%8d%a8/">貓咪總愛在窗邊曬太陽？5大原因解析牠們的情有獨鍾！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>原來貓咪這樣是在撒嬌！盤點「4種」最常見的親密動作</title>
+		<link>https://firenews.com.tw/2025/08/17/%e5%8e%9f%e4%be%86%e8%b2%93%e5%92%aa%e9%80%99%e6%a8%a3%e6%98%af%e5%9c%a8%e6%92%92%e5%ac%8c%ef%bc%81%e7%9b%a4%e9%bb%9e%e3%80%8c4%e7%a8%ae%e3%80%8d%e6%9c%80%e5%b8%b8%e8%a6%8b%e7%9a%84%e8%a6%aa%e5%af%86/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 02:27:44 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[撒嬌]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242591</guid>
+
+					<description><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-174.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>火報記者 張舜傑/報導 很多人覺得貓咪高冷，不像狗狗會熱情地撲過來撒嬌。但事實上，貓咪只是用更含蓄、更特別的方 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e5%8e%9f%e4%be%86%e8%b2%93%e5%92%aa%e9%80%99%e6%a8%a3%e6%98%af%e5%9c%a8%e6%92%92%e5%ac%8c%ef%bc%81%e7%9b%a4%e9%bb%9e%e3%80%8c4%e7%a8%ae%e3%80%8d%e6%9c%80%e5%b8%b8%e8%a6%8b%e7%9a%84%e8%a6%aa%e5%af%86/">原來貓咪這樣是在撒嬌！盤點「4種」最常見的親密動作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1280" height="853" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-174.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-174.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>很多人覺得貓咪高冷，不像狗狗會熱情地撲過來撒嬌。但事實上，貓咪只是用更含蓄、更特別的方式來表達愛，只要細心觀察，就能發現牠們的親密小動作 !</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">輕輕的蹭，是牠的專屬標記</h4>
+
+
+
+<p>當貓咪主動用頭、臉頰或身體側邊蹭你時，那不是單純的摩擦，而是一種氣味標記。牠們臉部的腺體會釋放費洛蒙，留下專屬的味道，就像在對你宣告：「這是我的人！」這份動作帶著領地感與歸屬感，也代表牠把你視為最信任的存在。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-172.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-242622" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-172.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-172.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當貓咪用頭或身體蹭你時，是在做氣味標記，表達信任與歸屬感。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">踩奶，是回到幼年的依戀</h4>
+
+
+
+<p>貓咪在柔軟的毯子或主人的腿上，用前腳有節奏地踩壓，這個舉動源自幼貓時期討奶水的本能。成年後依然保留這個動作，代表牠感到極度安心，就像回到母親懷裡一樣。如果牠在踩奶時還發出呼嚕聲，甚至流口水，那就是幸福到滿溢的最佳證明。</p>
+
+
+
+<h4 class="wp-block-heading">尾巴，是牠最誠實的告白</h4>
+
+
+
+<p>別忽略貓咪的尾巴語言，那是牠最誠實的情緒表達。當牠用尾巴輕纏住你的腿，就像人類牽手般親密；而當牠尾巴高高豎起，還微微顫抖，那是控制不住的喜悅，就像在說：「我真的好愛你！」這些細微的動作，其實都是最直接的示愛。</p>
+
+
+
+<h4 class="wp-block-heading">慢慢的眨眼，就是溫柔的親吻</h4>
+
+
+
+<p>直視在貓咪的世界裡往往是一種挑釁，但如果牠看著你，卻慢慢地閉上眼睛，再緩緩睜開，那是一種深深的信任。這個舉動被稱為「貓咪之吻」。當你回以同樣的慢眨眼，等於在告訴牠：「我也愛你。」這種無聲的交流，是貓與主人間最溫柔的默契。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-173.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242623" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-173.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-173.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">在貓咪世界中，直視常是挑釁；慢慢閉眼再睜開，則是表達信任。圖:istockphoto</figcaption></figure></div>
+
+
+<p>其實，貓咪並不冷漠，只是牠們的愛需要更細膩的解讀。當牠蹭你、踩奶、用尾巴輕纏你，甚至給你一個眨眼的吻時，那都是牠最真摯的告白。學會理解這些小動作，你會發現，高冷只是外表，貓咪的心裡，其實滿滿都是你。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/%e5%8e%9f%e4%be%86%e8%b2%93%e5%92%aa%e9%80%99%e6%a8%a3%e6%98%af%e5%9c%a8%e6%92%92%e5%ac%8c%ef%bc%81%e7%9b%a4%e9%bb%9e%e3%80%8c4%e7%a8%ae%e3%80%8d%e6%9c%80%e5%b8%b8%e8%a6%8b%e7%9a%84%e8%a6%aa%e5%af%86/">原來貓咪這樣是在撒嬌！盤點「4種」最常見的親密動作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>YouTube推AI年齡驗證！若遭誤判恐需提供「證明」</title>
+		<link>https://firenews.com.tw/2025/08/17/youtube%e6%8e%a8ai%e5%b9%b4%e9%bd%a1%e9%a9%97%e8%ad%89%ef%bc%81%e8%8b%a5%e9%81%ad%e8%aa%a4%e5%88%a4%e6%81%90%e9%9c%80%e6%8f%90%e4%be%9b%e3%80%8c%e8%ad%89%e6%98%8e%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2025 02:26:43 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[年齡驗證]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242563</guid>
+
+					<description><![CDATA[<p><img width="612" height="398" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-171.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-171.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-171.png?resize=225%2C146&amp;ssl=1 225w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 陳銳/報導 YouTube 宣布將在美國推出人工智慧年齡驗證系統，透過分析用戶的觀看與搜尋行為來判斷 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/youtube%e6%8e%a8ai%e5%b9%b4%e9%bd%a1%e9%a9%97%e8%ad%89%ef%bc%81%e8%8b%a5%e9%81%ad%e8%aa%a4%e5%88%a4%e6%81%90%e9%9c%80%e6%8f%90%e4%be%9b%e3%80%8c%e8%ad%89%e6%98%8e%e3%80%8d/">YouTube推AI年齡驗證！若遭誤判恐需提供「證明」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="398" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-171.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-171.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-171.png?resize=225%2C146&amp;ssl=1 225w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>YouTube 宣布將在美國推出人工智慧年齡驗證系統，透過分析用戶的觀看與搜尋行為來判斷其是否未滿 18 歲，藉此加強青少年安全措施。</strong></p>
+</blockquote>
+
+
+
+<p>根據 YouTube 的說明，若系統判定用戶為未成年人，將自動套用平台現有的青少年保護規範，包括限制涉及暴力或性暗示的內容、調整推薦演算法、禁止重複觀看特定影片、提供「休息一下」提醒，以及停用個人化廣告。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="407" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-170.png?resize=612%2C407&#038;ssl=1" alt="" class="wp-image-242574" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-170.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-170.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">YouTube 指出，若判定用戶未成年，將限制敏感內容、調整推薦、禁止重播、提醒休息並停用個人化廣告。圖:istockphoto</figcaption></figure></div>
+
+
+<p>對於被錯誤識別的成年用戶，平台要求必須提交政府核發的身份證件、信用卡或自拍照來驗證年齡。此舉引發部分用戶不滿，不少人透過 X 和 Reddit 以 #boycottyoutube 標籤表達抗議。隱私專家則擔憂，成年人被迫交出敏感資料，可能增加個資風險。</p>
+
+
+
+<p>非營利研究機構電子隱私資訊中心律師蘇珊娜·伯恩斯坦指出：「需要提供信用卡、身分證甚至生物特徵資料來完成驗證，確實可能讓人感到不安。」</p>
+
+
+
+<p>YouTube 母公司 Google 則強調，會採取最高等級的安全措施保護資料，且不會將身份驗證資訊用於廣告用途，用戶仍可依需求刪除數據。</p>
+
+
+
+<p>該舉措是科技平台加強青少年保護的更廣泛趨勢之一。Meta 去年在 Instagram 也導入類似 AI 機制，TikTok 亦用於檢測未達最低年齡的用戶。隨著英國《網路安全法》近期生效，Reddit 與 Discord 也開始推行部分年齡驗證措施。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/17/youtube%e6%8e%a8ai%e5%b9%b4%e9%bd%a1%e9%a9%97%e8%ad%89%ef%bc%81%e8%8b%a5%e9%81%ad%e8%aa%a4%e5%88%a4%e6%81%90%e9%9c%80%e6%8f%90%e4%be%9b%e3%80%8c%e8%ad%89%e6%98%8e%e3%80%8d/">YouTube推AI年齡驗證！若遭誤判恐需提供「證明」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>好心男子拯救小貓送收容所！隔天反悔了立刻將牠領回家 </title>
+		<link>https://firenews.com.tw/2025/08/16/%e5%a5%bd%e5%bf%83%e7%94%b7%e5%ad%90%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%80%81%e6%94%b6%e5%ae%b9%e6%89%80%ef%bc%81%e9%9a%94%e5%a4%a9%e5%8f%8d%e6%82%94%e4%ba%86%e7%ab%8b%e5%88%bb%e5%b0%87%e7%89%a0/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 06:09:20 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[暖心]]></category>
+		<category><![CDATA[流浪貓]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242382</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 美國印第安納州近日傳出一則暖心的寵物故事，一名男子在暴雨中的危急時刻將一隻流浪 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e5%a5%bd%e5%bf%83%e7%94%b7%e5%ad%90%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%80%81%e6%94%b6%e5%ae%b9%e6%89%80%ef%bc%81%e9%9a%94%e5%a4%a9%e5%8f%8d%e6%82%94%e4%ba%86%e7%ab%8b%e5%88%bb%e5%b0%87%e7%89%a0/">好心男子拯救小貓送收容所！隔天反悔了立刻將牠領回家 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1920" src="https://firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?resize=195%2C146&amp;ssl=1 195w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/reza-shayestehpour-Nw_D8v79PM4-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>美國印第安納州近日傳出一則暖心的寵物故事，一名男子在暴雨中的危急時刻將一隻流浪小奶貓從積水中救出，隨後送往收容所安置，卻因日夜惦記，最終又衝回收容所將牠領回，展開全新的生活，引發網友們的共鳴。&nbsp;</p>
+
+
+
+<p>根據外媒報導，今年4月印第安納州當地突降特大暴雨，導致當地街道多處積水，而一名叫做「馬克斯（Maxine）」的男子經過時，偶然發現一隻年幼的小奶貓被困在積水中，情況相當危急，隨時可能被淹沒。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-242388" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nine-koepfer-lpgAlv8I7V8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「馬克斯」將小貓送往收容所後內心久久不能平靜，最終還是將牠領回照顧<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>「馬克斯」見狀後立即將小貓救出，由於貓咪尚未斷奶，男子擔心自己無法妥善照顧，便將牠送往附近的收容所安置，然而小貓離開後，「馬克斯」的心理卻久久不能平靜，連續幾天輾轉難眠，仿佛像是失去了某個重要的寶物。&nbsp;</p>
+
+
+
+<p>最終「馬克斯」忍不住致電收容所，詢問小貓是否仍在，並表達領養意願，所幸收容所在確認其背景與飼養條件後，也欣然同意將小貓交還給他，這段暖心的救援經歷引起廣大飼主共鳴，不少網友留言「這就是緣分」、「好感人」、「小貓一定還記得馬克斯」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e5%a5%bd%e5%bf%83%e7%94%b7%e5%ad%90%e6%8b%af%e6%95%91%e5%b0%8f%e8%b2%93%e9%80%81%e6%94%b6%e5%ae%b9%e6%89%80%ef%bc%81%e9%9a%94%e5%a4%a9%e5%8f%8d%e6%82%94%e4%ba%86%e7%ab%8b%e5%88%bb%e5%b0%87%e7%89%a0/">好心男子拯救小貓送收容所！隔天反悔了立刻將牠領回家 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>零食的魅力有多大？狗狗愛上藥局天天到店裡報到！ </title>
+		<link>https://firenews.com.tw/2025/08/16/%e9%9b%b6%e9%a3%9f%e7%9a%84%e9%ad%85%e5%8a%9b%e6%9c%89%e5%a4%9a%e5%a4%a7%ef%bc%9f%e7%8b%97%e7%8b%97%e6%84%9b%e4%b8%8a%e8%97%a5%e5%b1%80%e5%a4%a9%e5%a4%a9%e5%88%b0%e5%ba%97%e8%a3%a1%e5%a0%b1%e5%88%b0/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 06:08:32 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[藥局]]></category>
+		<category><![CDATA[零食]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242381</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1709" src="https://firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 美國佛羅里達州一隻名叫「瑞奇（Ritchie）」的大白熊犬，牠與一般的狗狗不同 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e9%9b%b6%e9%a3%9f%e7%9a%84%e9%ad%85%e5%8a%9b%e6%9c%89%e5%a4%9a%e5%a4%a7%ef%bc%9f%e7%8b%97%e7%8b%97%e6%84%9b%e4%b8%8a%e8%97%a5%e5%b1%80%e5%a4%a9%e5%a4%a9%e5%88%b0%e5%ba%97%e8%a3%a1%e5%a0%b1%e5%88%b0/">零食的魅力有多大？狗狗愛上藥局天天到店裡報到！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1709" src="https://firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/nathaniel-yeo-747NDboAWNY-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>美國佛羅里達州一隻名叫「瑞奇（Ritchie）」的大白熊犬，牠與一般的狗狗不同，每天最期待的並不是去公園奔跑，而是準時到藥局報到討零食，甚至還學會了乖乖排隊等候，直到店員遞上點心才心滿意足離開，意外地成為當地藥局的「吉祥物」。&nbsp;</p>
+
+
+
+<p>據了解，「瑞奇」與這家藥局結下的特殊緣分起源於一年前，當時牠跟著飼主到住家附近的藥局購物，一位親切的店員看見狗狗後覺得可愛，便打開餅乾袋遞給牠一塊狗狗專用點心，而這個小小舉動非常成功地擄獲了「瑞奇」的心。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="815" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?resize=1220%2C815&#038;ssl=1" alt="" class="wp-image-242390" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?resize=1536%2C1026&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?resize=2048%2C1368&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/mike-turner-pMRZjKmRVh8-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「瑞奇」以前最喜歡到公園和朋友玩，但現在更愛跑去藥局討零食<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>從此之後「瑞奇」每次外出散步時，都會特地經過藥局向店員討零食，大多數情況下牠會自行走進藥局直奔櫃台，若遇到有人排隊，也會耐心地站在後面等待，全程不吵不鬧，直到輪到自己才會將前腳放在櫃檯上，滿臉期待地盯著工作人員。&nbsp;</p>
+
+
+
+<p>對此「瑞奇」的飼主無奈表示，愛犬以前最喜歡去公園與狗朋友「克蘿伊（Chloe）」相聚，如今卻更熱衷於藥局探訪，故事曝光後迅速引起網上熱議，不少人留言表示「店員好有愛心」、「從沒見過愛逛藥局的狗」、「克蘿伊難過了」、「也太奇葩」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e9%9b%b6%e9%a3%9f%e7%9a%84%e9%ad%85%e5%8a%9b%e6%9c%89%e5%a4%9a%e5%a4%a7%ef%bc%9f%e7%8b%97%e7%8b%97%e6%84%9b%e4%b8%8a%e8%97%a5%e5%b1%80%e5%a4%a9%e5%a4%a9%e5%88%b0%e5%ba%97%e8%a3%a1%e5%a0%b1%e5%88%b0/">零食的魅力有多大？狗狗愛上藥局天天到店裡報到！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>紙箱魅力大揭秘 ! 貓咪為什麼這麼愛、怎麼讓牠們更開心</title>
+		<link>https://firenews.com.tw/2025/08/16/%e7%b4%99%e7%ae%b1%e9%ad%85%e5%8a%9b%e5%a4%a7%e6%8f%ad%e7%a7%98-%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e3%80%81%e6%80%8e%e9%ba%bc%e8%ae%93%e7%89%a0%e5%80%91%e6%9b%b4%e9%96%8b/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 05:06:46 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[紙箱]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242339</guid>
+
+					<description><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-167.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-167.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-167.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導 當在家中放下一個普通的紙箱，結果貓咪立刻跳進去、躺了半天不出來，其實紙箱對貓咪來說，有 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e7%b4%99%e7%ae%b1%e9%ad%85%e5%8a%9b%e5%a4%a7%e6%8f%ad%e7%a7%98-%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e3%80%81%e6%80%8e%e9%ba%bc%e8%ae%93%e7%89%a0%e5%80%91%e6%9b%b4%e9%96%8b/">紙箱魅力大揭秘 ! 貓咪為什麼這麼愛、怎麼讓牠們更開心</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-167.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-167.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-167.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>當在家中放下一個普通的紙箱，結果貓咪立刻跳進去、躺了半天不出來，其實紙箱對貓咪來說，有著不可思議的魅力！本文將揭開貓咪愛紙箱的原因，和如何讓牠們玩得更開心、更安全!</strong></p>
+</blockquote>
+
+
+
+<h3 class="wp-block-heading">為什麼貓咪愛紙箱？</h3>
+
+
+
+<h4 class="wp-block-heading">1. <strong>安全感滿分的避風港</strong></h4>
+
+
+
+<p>貓咪是天生的掠食者，但同時也是潛在獵物。紙箱提供封閉的小空間，讓貓咪能感受到安全與隱密，隨時觀察周圍而不被打擾。</p>
+
+
+
+<h4 class="wp-block-heading">2. <strong>舒適的溫暖小天地</strong></h4>
+
+
+
+<p>紙箱的紙材有一定的隔熱效果，可以幫助貓咪保持體溫。特別是在冷天，紙箱成了天然的小暖窩，讓牠們愛不釋手。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>天生的好奇心與探索慾</strong></h4>
+
+
+
+<p>貓咪對新奇事物充滿好奇，紙箱提供了新奇的氣味、形狀和入口，能激發牠們的探索與玩耍本能，甚至可以磨爪或打滾。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>心理上的領地象徵</strong></h4>
+
+
+
+<p>紙箱是一個屬於貓咪的小天地，牠們可以在裡面撒尿或磨爪，留下自己的氣味，增強安全感與自我認同。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-168.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242376" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-168.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-168.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪天生既是掠食者，也可能成為獵物。紙箱提供安全的封閉空間，讓牠們能隱密觀察周圍而不受打擾。圖:istockphoto</figcaption></figure></div>
+
+
+<h3 class="wp-block-heading">怎麼讓貓咪更開心地玩紙箱？</h3>
+
+
+
+<h4 class="wp-block-heading">1. <strong>選擇合適大小與材質</strong></h4>
+
+
+
+<p>紙箱不宜過小或過大，最好剛好能讓貓咪舒適地進出與翻身。材質要結實，但不需太硬，以免造成傷害。</p>
+
+
+
+<h4 class="wp-block-heading">2. <strong>創造多層次玩法</strong></h4>
+
+
+
+<p>可以在紙箱上剪洞、疊高或連接多個紙箱，形成貓咪迷宮般的探險空間，激發牠們的狩獵本能與運動量。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>添加舒適元素</strong></h4>
+
+
+
+<p>在紙箱內放置軟墊或小毯子，提高舒適度，也可以放些玩具或小球，讓貓咪在裡面休息或玩耍都更開心。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>保持清潔與安全</strong></h4>
+
+
+
+<p>紙箱容易藏灰塵或被抓破，定期更換或清理，確保環境乾淨。避免紙箱有釘子、膠帶或尖銳邊緣，以免貓咪受傷。</p>
+
+
+
+<h4 class="wp-block-heading">5. <strong>觀察貓咪偏好</strong></h4>
+
+
+
+<p>每隻貓咪喜歡的紙箱位置不同，有的喜歡角落、有的喜歡高處。觀察牠們的行為，選擇最適合的擺放位置，才能真正提升快樂感。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-169.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242377" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-169.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-169.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">每隻貓喜歡的紙箱位置不同，有的愛角落、有的愛高處。圖:istockphoto</figcaption></figure></div>
+
+
+<p>紙箱看似平凡，卻是貓咪生活中不可或缺的小天地。透過合理安排與安全設計，不僅能滿足貓咪的好奇心與安全感，還能增進互動與遊戲樂趣！ </p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e7%b4%99%e7%ae%b1%e9%ad%85%e5%8a%9b%e5%a4%a7%e6%8f%ad%e7%a7%98-%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e3%80%81%e6%80%8e%e9%ba%bc%e8%ae%93%e7%89%a0%e5%80%91%e6%9b%b4%e9%96%8b/">紙箱魅力大揭秘 ! 貓咪為什麼這麼愛、怎麼讓牠們更開心</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>提升毛孩快樂指數！7個最實用的方法讓寵物更幸福</title>
+		<link>https://firenews.com.tw/2025/08/16/%e6%8f%90%e5%8d%87%e6%af%9b%e5%ad%a9%e5%bf%ab%e6%a8%82%e6%8c%87%e6%95%b8%ef%bc%817%e5%80%8b%e6%9c%80%e5%af%a6%e7%94%a8%e7%9a%84%e6%96%b9%e6%b3%95%e8%ae%93%e5%af%b5%e7%89%a9%e6%9b%b4%e5%b9%b8%e7%a6%8f/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2025 02:42:34 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[快樂]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[毛孩]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=242326</guid>
+
+					<description><![CDATA[<p><img width="612" height="456" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-165.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-165.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-165.png?resize=196%2C146&amp;ssl=1 196w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導 寵物的幸福感不只是靠美味的飼料或偶爾的撫摸而已，更需要在日常生活中給予適當的陪伴、運動 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e6%8f%90%e5%8d%87%e6%af%9b%e5%ad%a9%e5%bf%ab%e6%a8%82%e6%8c%87%e6%95%b8%ef%bc%817%e5%80%8b%e6%9c%80%e5%af%a6%e7%94%a8%e7%9a%84%e6%96%b9%e6%b3%95%e8%ae%93%e5%af%b5%e7%89%a9%e6%9b%b4%e5%b9%b8%e7%a6%8f/">提升毛孩快樂指數！7個最實用的方法讓寵物更幸福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="456" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-165.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-165.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-165.png?resize=196%2C146&amp;ssl=1 196w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>寵物的幸福感不只是靠美味的飼料或偶爾的撫摸而已，更需要在日常生活中給予適當的陪伴、運動、心理刺激與安全感，以下整理出 7 個最實用的方法，幫助全面提升毛孩的幸福指數！</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>建立規律的生活作息</strong></h4>
+
+
+
+<p>和人類一樣，寵物也需要固定的作息來獲得安全感。固定的餵食時間、散步時間與休息時間，能讓牠們感到安心並減少焦慮。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-164.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-242333" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-164.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-164.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">像人一樣，寵物也需要固定作息。規律的餵食、散步與休息能讓牠們更安心，減少焦慮。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>適量運動，釋放活力</strong></h4>
+
+
+
+<p>不論是狗狗需要每天散步，還是貓咪需要追逐玩具，運動都是毛孩快樂的來源。透過跑跳、攀爬、玩耍，不僅能促進健康，也能避免破壞家具或焦躁行為。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>提供多樣化的玩具與刺激</strong></h4>
+
+
+
+<p>毛孩需要心智刺激，就像人類需要娛樂一樣。可以準備互動玩具、嗅聞墊、磨牙用品，或定期更換不同的玩具，避免無聊與壓力累積。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>高品質的飲食</strong></h4>
+
+
+
+<p>均衡營養是幸福的基礎。根據毛孩的年齡、體型、健康狀況挑選合適的飼料，並適時補充鮮食或保健品。良好的飲食不僅影響壽命，更直接影響心情與活力。</p>
+
+
+
+<h4 class="wp-block-heading">5. <strong>定期健康檢查與清潔</strong></h4>
+
+
+
+<p>帶毛孩定期看獸醫，能及早發現健康隱憂。日常也要注意牙齒清潔、毛髮梳理與洗澡，這些小細節都能讓牠更舒適自在。</p>
+
+
+
+<h4 class="wp-block-heading">6. <strong>陪伴與互動，增進情感連結</strong></h4>
+
+
+
+<p>毛孩最需要的，往往是主人的陪伴。花時間撫摸、對話、一起玩耍，能讓牠們感受到愛與歸屬感，這是任何零食都無法取代的幸福來源。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="373" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-166.png?resize=612%2C373&#038;ssl=1" alt="" class="wp-image-242335" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-166.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-166.png?resize=240%2C146&amp;ssl=1 240w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">毛孩最需要主人陪伴。撫摸、對話與玩耍能讓牠感受愛與歸屬感，是零食無法替代的幸福。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">7. <strong>打造安全又舒適的環境</strong></h4>
+
+
+
+<p>提供柔軟的睡眠空間、乾淨的飲水，以及安全的活動環境，能讓毛孩自在休息與探索。特別是貓咪，喜歡高處與隱密角落，也別忘了準備合適的貓跳台或躲藏空間。</p>
+
+
+
+<p>毛孩的幸福來自於「身心健康」與「被愛的感受」。只要在日常生活中用心安排，透過運動、飲食、陪伴與環境的全方位照顧，就能大幅提升牠們的快樂指數！</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/16/%e6%8f%90%e5%8d%87%e6%af%9b%e5%ad%a9%e5%bf%ab%e6%a8%82%e6%8c%87%e6%95%b8%ef%bc%817%e5%80%8b%e6%9c%80%e5%af%a6%e7%94%a8%e7%9a%84%e6%96%b9%e6%b3%95%e8%ae%93%e5%af%b5%e7%89%a9%e6%9b%b4%e5%b9%b8%e7%a6%8f/">提升毛孩快樂指數！7個最實用的方法讓寵物更幸福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
