@@ -1,120 +1,686 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Tue, 19 Aug 2025 07:36:42 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>養貓必看！這「六種」日常習慣幫助貓咪更健康長壽</title>
+		<link>https://firenews.com.tw/2025/08/19/%e9%a4%8a%e8%b2%93%e5%bf%85%e7%9c%8b%ef%bc%81%e9%80%99%e3%80%8c%e5%85%ad%e7%a8%ae%e3%80%8d%e6%97%a5%e5%b8%b8%e7%bf%92%e6%85%a3%e5%b9%ab%e5%8a%a9%e8%b2%93%e5%92%aa%e6%9b%b4%e5%81%a5%e5%ba%b7%e9%95%b7/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 07:31:35 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[健康]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[長壽]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243673</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-214.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-214.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-214.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>火報記者 張舜傑/報導 每一位貓奴都希望毛孩能陪伴自己更久、更健康快樂地生活。除了定期看獸醫、提供良好飲食之外 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e9%a4%8a%e8%b2%93%e5%bf%85%e7%9c%8b%ef%bc%81%e9%80%99%e3%80%8c%e5%85%ad%e7%a8%ae%e3%80%8d%e6%97%a5%e5%b8%b8%e7%bf%92%e6%85%a3%e5%b9%ab%e5%8a%a9%e8%b2%93%e5%92%aa%e6%9b%b4%e5%81%a5%e5%ba%b7%e9%95%b7/">養貓必看！這「六種」日常習慣幫助貓咪更健康長壽</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-214.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-214.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-214.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>火報記者 張舜傑/報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>每一位貓奴都希望毛孩能陪伴自己更久、更健康快樂地生活。除了定期看獸醫、提供良好飲食之外，其實在日常生活中，還有許多小習慣能默默影響貓咪的壽命與幸福感。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<h4 class="wp-block-heading">1. 提供均衡飲食</h4>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>飲食是貓咪健康的基礎。選擇高品質的主食罐或乾糧，確保含有足夠蛋白質、脂肪與必需營養素，是維持活力的關鍵。同時避免過多零食，控制體重，能有效預防肥胖與相關疾病。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="426" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-212.png?resize=640%2C426&#038;ssl=1" alt="" class="wp-image-243692" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-212.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-212.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-element-caption">飲食是貓咪健康關鍵，選擇高品質主食確保營養均衡，並控制零食避免肥胖與疾病。圖:pixabay</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 隨時準備新鮮飲水</h4>
+
+
+
+<p>貓咪天生喝水量不多，但水分攝取不足會增加腎臟與泌尿道疾病的風險。每天提供乾淨、新鮮的水源，最好使用流動飲水機，能鼓勵牠們多喝水，有助於維持泌尿系統健康。</p>
+
+
+
+<h4 class="wp-block-heading">3. 保持適度運動與遊戲</h4>
+
+
+
+<p>規律的遊戲時間，不僅能幫助貓咪消耗體力，也能刺激牠們的狩獵本能。每天安排至少 15 分鐘與貓咪互動，利用逗貓棒、球類或益智玩具，都能避免肥胖，減少壓力，提升生活品質。</p>
+
+
+
+<h4 class="wp-block-heading">4. 定期梳毛與基礎照護</h4>
+
+
+
+<p>梳毛不只是維持外觀，更能減少毛球問題與皮膚疾病。長毛貓建議每天梳理，短毛貓則每週數次即可。除此之外，定期修剪指甲、清潔耳朵與檢查牙齒，也能讓貓咪遠離小病痛。</p>
+
+
+
+<h4 class="wp-block-heading">5. 創造安全舒適的生活環境</h4>
+
+
+
+<p>環境對貓咪的壽命有很大影響。提供安靜、安全的休息空間，並避免接觸危險物品（如百合花、巧克力或細小零件），都是保護牠們的重要步驟。適度的高低跳台、窗邊觀景點，也能讓牠們更放鬆快樂。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-213.png?resize=640%2C427&#038;ssl=1" alt="" class="wp-image-243693" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-213.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-213.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-element-caption">環境影響貓咪壽命，提供安全安靜的空間、避免危險物品，並設置跳台或觀景點可提升幸福感。圖:pixabay</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">6. 定期健康檢查與預防醫療</h4>
+
+
+
+<p>再細心的照顧，也無法取代專業檢查。每年至少帶貓咪做一次健康檢查，包含血液、尿液與口腔檢查，能及早發現潛在疾病並治療。同時，按時施打疫苗、驅蟲，也是確保健康長壽的必要步驟。</p>
+
+
+
+<p>想讓貓咪陪伴自己更久，不只要「愛牠」，更需要透過日常習慣去守護牠的健康。從飲食、喝水、運動，到環境與醫療，每一個小細節都能累積成長壽的關鍵。只要用心照顧，貓咪就能在你的陪伴下，過上幸福而長久的貓生。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e9%a4%8a%e8%b2%93%e5%bf%85%e7%9c%8b%ef%bc%81%e9%80%99%e3%80%8c%e5%85%ad%e7%a8%ae%e3%80%8d%e6%97%a5%e5%b8%b8%e7%bf%92%e6%85%a3%e5%b9%ab%e5%8a%a9%e8%b2%93%e5%92%aa%e6%9b%b4%e5%81%a5%e5%ba%b7%e9%95%b7/">養貓必看！這「六種」日常習慣幫助貓咪更健康長壽</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>不只有罐罐！5種最適合貓咪的天然健康零食清單</title>
+		<link>https://firenews.com.tw/2025/08/19/%e4%b8%8d%e5%8f%aa%e6%9c%89%e7%bd%90%e7%bd%90%ef%bc%815%e7%a8%ae%e6%9c%80%e9%81%a9%e5%90%88%e8%b2%93%e5%92%aa%e7%9a%84%e5%a4%a9%e7%84%b6%e5%81%a5%e5%ba%b7%e9%9b%b6%e9%a3%9f%e6%b8%85%e5%96%ae/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 07:08:54 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[健康]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[零食]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243654</guid>
+
+					<description><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-211.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-211.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-211.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>火報記者 張舜傑/報導 許多飼主習慣用罐罐或肉泥當作獎勵，但其實貓咪能吃的零食選擇遠比我們想像的多。只要挑對食 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e4%b8%8d%e5%8f%aa%e6%9c%89%e7%bd%90%e7%bd%90%ef%bc%815%e7%a8%ae%e6%9c%80%e9%81%a9%e5%90%88%e8%b2%93%e5%92%aa%e7%9a%84%e5%a4%a9%e7%84%b6%e5%81%a5%e5%ba%b7%e9%9b%b6%e9%a3%9f%e6%b8%85%e5%96%ae/">不只有罐罐！5種最適合貓咪的天然健康零食清單</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="640" height="427" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-211.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-211.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-211.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主習慣用罐罐或肉泥當作獎勵，但其實貓咪能吃的零食選擇遠比我們想像的多。只要挑對食材，不僅能豐富毛孩的飲食，也能補充營養，對健康大有好處。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 去骨雞胸肉</h4>
+
+
+
+<p>雞胸肉是最常見的天然零食，低脂、高蛋白，適合大多數貓咪。只要將雞胸肉水煮熟後切小塊，就能變成健康又安心的小點心。要注意的是避免使用油、鹽等調味，保持原味才是對毛孩最安全的方式。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-208.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-243660" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-208.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-208.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雞胸肉是常見天然零食，低脂高蛋白，水煮切小塊即可，避免調味才最安全。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 鮭魚或小型白肉魚</h4>
+
+
+
+<p>魚類含有 Omega-3 脂肪酸，有助於皮毛亮麗與心血管健康。像鮭魚、鯛魚等小型白肉魚都很適合。不過，餵食時一定要確保煮熟並去除魚刺，避免生魚帶來的寄生蟲風險。</p>
+
+
+
+<h4 class="wp-block-heading">3. 南瓜泥</h4>
+
+
+
+<p>對於腸胃容易敏感的貓咪，南瓜是非常好的選擇。南瓜富含纖維，有助於消化並預防便秘。只需將南瓜蒸熟打成泥，冷卻後餵食，口感綿密，許多貓咪都會愛上這種溫和的天然零食。</p>
+
+
+
+<h4 class="wp-block-heading">4. 蛋黃</h4>
+
+
+
+<p>煮熟的蛋黃營養價值高，富含蛋白質與維生素，適量餵食能補充能量。但要避免生蛋黃，因為可能含有細菌；同時也建議不要給蛋白，因為其中的蛋白酶抑制劑可能影響營養吸收。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-210.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-243662" style="width:710px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-210.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-210.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">熟蛋黃營養豐富，適量能補充能量；但要避免生蛋黃與蛋白，以免細菌或影響吸收。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">5. 凍乾肉類</h4>
+
+
+
+<p>市面上常見的雞肉凍乾、鴨肉凍乾或牛肉凍乾，都是極佳的天然零食。凍乾保留了肉類的營養與風味，方便保存又能滿足貓咪的咀嚼慾望。不過仍要注意適量，避免因高蛋白而增加腎臟負擔。</p>
+
+
+
+<p>天然零食雖然健康，但依舊需要「適量」原則。零食應控制在貓咪每日熱量的 10% 以內，避免影響主食攝取。另外，每隻貓咪的體質不同，若是第一次嘗試新食材，記得先給少量並觀察是否有不適反應。</p>
+
+
+
+<p>貓咪的零食選擇其實遠比想像豐富，不必侷限於罐罐或肉泥。只要善用雞胸肉、魚類、南瓜、蛋黃與凍乾，就能給毛孩更多天然健康的享受 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e4%b8%8d%e5%8f%aa%e6%9c%89%e7%bd%90%e7%bd%90%ef%bc%815%e7%a8%ae%e6%9c%80%e9%81%a9%e5%90%88%e8%b2%93%e5%92%aa%e7%9a%84%e5%a4%a9%e7%84%b6%e5%81%a5%e5%ba%b7%e9%9b%b6%e9%a3%9f%e6%b8%85%e5%96%ae/">不只有罐罐！5種最適合貓咪的天然健康零食清單</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OpenAI在印度推出「最低價」ChatGPT ! 每月僅 138台幣</title>
+		<link>https://firenews.com.tw/2025/08/19/openai-%e5%9c%a8%e5%8d%b0%e5%ba%a6%e6%8e%a8%e5%87%ba%e6%9c%80%e4%bd%8e%e5%83%b9-chatgpt-%e8%a8%82%e9%96%b1-%e6%af%8f%e6%9c%88-4-6-%e7%be%8e%e5%85%83/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 06:12:05 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[印度]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243591</guid>
+
+					<description><![CDATA[<p><img width="600" height="400" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-205.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-205.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-205.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>火報記者 陳銳/報導 ChatGPT 開發商 OpenAI 宣布，在印度推出一項名為 ChatGPT Go 的 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/openai-%e5%9c%a8%e5%8d%b0%e5%ba%a6%e6%8e%a8%e5%87%ba%e6%9c%80%e4%bd%8e%e5%83%b9-chatgpt-%e8%a8%82%e9%96%b1-%e6%af%8f%e6%9c%88-4-6-%e7%be%8e%e5%85%83/">OpenAI在印度推出「最低價」ChatGPT ! 每月僅 138台幣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="600" height="400" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-205.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-205.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-205.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>ChatGPT 開發商 OpenAI 宣布，在印度推出一項名為 ChatGPT Go 的新訂閱計劃，月費 399 盧比（約 138台幣），成為該公司迄今最便宜的方案。</strong></p>
+</blockquote>
+
+
+
+<p>此舉反映 OpenAI 對印度市場的重視，希望透過更低價格吸引更多用戶，進一步擴大其在全球第二大網路市場的影響力。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-206.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-243635" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-206.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-206.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">此舉顯示 OpenAI 重視印度市場，透過低價策略擴大在全球第二大網路市場的影響力。圖:unsplash</figcaption></figure></div>
+
+
+<p>公司表示，ChatGPT Go 用戶可享有比免費版高出十倍的訊息與圖像生成額度，並能獲得更快的回應速度。更高級的方案則提供更高的使用限制。OpenAI指出，這項新計劃特別針對價格敏感的印度市場設計，目的是讓更多用戶能以可負擔的成本使用 ChatGPT 的進階功能。</p>
+
+
+
+<p>目前，ChatGPT Pro 在印度的月費為 19,900 盧比，Plus 版則為 1,999 盧比，價格明顯高於新推出的 ChatGPT Go。</p>
+
+
+
+<p>OpenAI 執行長 Sam Altman 今年稍早與印度 IT 部長會面，討論建構低成本 AI 生態系統的可能性。他並表示，印度已是公司僅次於美國的第二大市場，未來甚至可能成為全球第一。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/openai-%e5%9c%a8%e5%8d%b0%e5%ba%a6%e6%8e%a8%e5%87%ba%e6%9c%80%e4%bd%8e%e5%83%b9-chatgpt-%e8%a8%82%e9%96%b1-%e6%af%8f%e6%9c%88-4-6-%e7%be%8e%e5%85%83/">OpenAI在印度推出「最低價」ChatGPT ! 每月僅 138台幣</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>誰能忍得住？拉布拉多為了被領養使用「這招」最後也獲得好結局 </title>
+		<link>https://firenews.com.tw/2025/08/19/%e8%aa%b0%e8%83%bd%e5%bf%8d%e5%be%97%e4%bd%8f%ef%bc%9f%e6%8b%89%e5%b8%83%e6%8b%89%e5%a4%9a%e7%82%ba%e4%ba%86%e8%a2%ab%e9%a0%98%e9%a4%8a%e4%bd%bf%e7%94%a8%e3%80%8c%e9%80%99%e6%8b%9b%e3%80%8d%e6%9c%80/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 05:47:00 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[拉布拉多]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[領養]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243597</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 在美國的一間動物收容所裡，一隻黑色的拉布拉多犬靠著獨特的方式成功吸引眾人目光， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e8%aa%b0%e8%83%bd%e5%bf%8d%e5%be%97%e4%bd%8f%ef%bc%9f%e6%8b%89%e5%b8%83%e6%8b%89%e5%a4%9a%e7%82%ba%e4%ba%86%e8%a2%ab%e9%a0%98%e9%a4%8a%e4%bd%bf%e7%94%a8%e3%80%8c%e9%80%99%e6%8b%9b%e3%80%8d%e6%9c%80/">誰能忍得住？拉布拉多為了被領養使用「這招」最後也獲得好結局 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/jo-dorais-3Qy1NAhtEvA-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>在美國的一間動物收容所裡，一隻黑色的拉布拉多犬靠著獨特的方式成功吸引眾人目光，牠不同於一般狗狗吠叫或撒嬌，選擇用特別的「微笑」來打動每一位前來的訪客，最終也成功幫助自己被收編，順利找到新家。&nbsp;</p>
+
+
+
+<p>這隻狗狗的名字叫做「伯羅（Burreaux）」，牠原本只是收容所裡眾多等待被領養的狗狗之一，對這些動物而言，最大的希望就是能早日遇見願意收養的家庭，但要在狗狗中脫穎而出並不容易，而牠卻憑著自己天生的表情，意外找到了最有效的「宣傳方式」。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-243619" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/rebekah-hansen-sYfvHi8-Rhg-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「伯羅」每次都會對著經過的訪客露出笑容，最後也成功地被收養<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>每當有訪客經過「伯羅」的籠舍時，牠便會立刻露出燦爛的笑容，彷彿在對人類說「趕快帶我回家吧！」，這樣特別的反應讓工作人員忍不住拍下牠的模樣並分享到網路，也順利地引起關注，最終一對夫妻被這份溫暖的笑容深深打動，決定給狗狗一個新的歸屬。&nbsp;</p>
+
+
+
+<p>如今「伯羅」已經到新家幸福健康地成長，消息傳出後引起網友熱烈討論，不少人紛紛留言「聰明又可愛的狗狗」、「難怪會被秒收養」、「伯羅值得被溫柔對待」、「收容所的競爭真激烈」、「一不留神就要中招了」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e8%aa%b0%e8%83%bd%e5%bf%8d%e5%be%97%e4%bd%8f%ef%bc%9f%e6%8b%89%e5%b8%83%e6%8b%89%e5%a4%9a%e7%82%ba%e4%ba%86%e8%a2%ab%e9%a0%98%e9%a4%8a%e4%bd%bf%e7%94%a8%e3%80%8c%e9%80%99%e6%8b%9b%e3%80%8d%e6%9c%80/">誰能忍得住？拉布拉多為了被領養使用「這招」最後也獲得好結局 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>小貓天生六條腿行動困難！好心人救援醫師收編幫助牠迎來新生 </title>
+		<link>https://firenews.com.tw/2025/08/19/%e5%b0%8f%e8%b2%93%e5%a4%a9%e7%94%9f%e5%85%ad%e6%a2%9d%e8%85%bf%e8%a1%8c%e5%8b%95%e5%9b%b0%e9%9b%a3%ef%bc%81%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%95%91%e6%8f%b4%e9%86%ab%e5%b8%ab%e6%94%b6%e7%b7%a8%e5%b9%ab/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 05:45:58 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[暖心]]></category>
+		<category><![CDATA[流浪貓]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243596</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 最近加拿大的愛德蒙頓市出現一起罕見的動物救援案例，一隻名叫「Bitsy」的小貓 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e5%b0%8f%e8%b2%93%e5%a4%a9%e7%94%9f%e5%85%ad%e6%a2%9d%e8%85%bf%e8%a1%8c%e5%8b%95%e5%9b%b0%e9%9b%a3%ef%bc%81%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%95%91%e6%8f%b4%e9%86%ab%e5%b8%ab%e6%94%b6%e7%b7%a8%e5%b9%ab/">小貓天生六條腿行動困難！好心人救援醫師收編幫助牠迎來新生 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/akira-ajs8oiV3CfM-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>最近加拿大的愛德蒙頓市出現一起罕見的動物救援案例，一隻名叫「Bitsy」的小貓因為天生多出四肢，導致行動受阻、皮膚潰爛，所幸最後在獸醫團隊的協助下接受手術，成功恢復健康，並且迎來了全新的幸福生活。&nbsp;</p>
+
+
+
+<p>根據外媒報導，愛德蒙頓市一名當地居民發現自家院子裡闖入一隻模樣異常的小貓，當時這隻小貓的後半身異常腫大，外觀像是罹患重病，居民擔心牠的安危，立即聯繫當地動物救援機構，隨後這隻小貓被送至收容所接受檢查。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-243617" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/seongjin-park-isCvwnIXD4o-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「Bitsy」術後恢復狀況相當良好，執刀獸醫最後也決定親自收養這隻小貓<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>在檢查過程中，工作人員一度懷疑小貓長有腫瘤，或是罹患先天畸形，經過專業診斷後，才確認牠罹患「寄生胎」的罕見情況，這代表小貓在母體內時吸收了另一隻胎貓，導致牠天生多出六條腿與額外的骨盆，影響了活動甚至皮膚潰爛。&nbsp;</p>
+
+
+
+<p>醫療團隊在歷時兩小時的手術中幫助「Bitsy」移除了多餘的兩條腿及一條失去功能的後腿，術後小貓的恢復狀況相當良好，更令人欣慰的是，為了確保牠獲得妥善照顧，執刀獸醫最後也決定親自收養這隻小貓，讓網友們感動表示「每一隻貓咪都值得被溫柔對待」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e5%b0%8f%e8%b2%93%e5%a4%a9%e7%94%9f%e5%85%ad%e6%a2%9d%e8%85%bf%e8%a1%8c%e5%8b%95%e5%9b%b0%e9%9b%a3%ef%bc%81%e5%a5%bd%e5%bf%83%e4%ba%ba%e6%95%91%e6%8f%b4%e9%86%ab%e5%b8%ab%e6%94%b6%e7%b7%a8%e5%b9%ab/">小貓天生六條腿行動困難！好心人救援醫師收編幫助牠迎來新生 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>孤僻貓成為小主人唯一夥伴！從不親人到全天守候感動無數網友 </title>
+		<link>https://firenews.com.tw/2025/08/19/%e5%ad%a4%e5%83%bb%e8%b2%93%e6%88%90%e7%82%ba%e5%b0%8f%e4%b8%bb%e4%ba%ba%e5%94%af%e4%b8%80%e5%a4%a5%e4%bc%b4%ef%bc%81%e5%be%9e%e4%b8%8d%e8%a6%aa%e4%ba%ba%e5%88%b0%e5%85%a8%e5%a4%a9%e5%ae%88%e5%80%99/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 05:44:00 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[小主人]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[陪伴]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243595</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1761" src="https://firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=768%2C528&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=1536%2C1057&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=2048%2C1409&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=220%2C150&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=212%2C146&amp;ssl=1 212w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 國外一起令人動容的寵物故事在網上引發熱議，一隻原本孤僻且不愛與人與其他動物互動 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e5%ad%a4%e5%83%bb%e8%b2%93%e6%88%90%e7%82%ba%e5%b0%8f%e4%b8%bb%e4%ba%ba%e5%94%af%e4%b8%80%e5%a4%a5%e4%bc%b4%ef%bc%81%e5%be%9e%e4%b8%8d%e8%a6%aa%e4%ba%ba%e5%88%b0%e5%85%a8%e5%a4%a9%e5%ae%88%e5%80%99/">孤僻貓成為小主人唯一夥伴！從不親人到全天守候感動無數網友 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1761" src="https://firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=768%2C528&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=1536%2C1057&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=2048%2C1409&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=220%2C150&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?resize=212%2C146&amp;ssl=1 212w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-gKXKBY-C-Dk-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>國外一起令人動容的寵物故事在網上引發熱議，一隻原本孤僻且不愛與人與其他動物互動的小貓，卻在家中迎來新成員後展現驚人改變，牠從家中原本最小的寵物，轉變成為了寶寶的貼身守護者，不僅陪伴小主人成長，甚至還在孩子面臨重大健康挑戰時，成為最堅實的後盾。&nbsp;</p>
+
+
+
+<p>據了解，這隻名叫「惠蒂（Wheatie）」的小貓，個性向來冷淡，既不親近飼主，也對同住的貓狗無動於衷，平日裡總喜歡自己待在角落獨處，飼主原本認為「惠蒂」只是單純傲嬌，並未特別在意，直到家中迎來了一位新成員寶寶的出生，故事才開始出現轉折。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-243615" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/manja-vitolic-Fp0EDCmjLBk-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「惠蒂」主動貼近寶寶展現出前所未有的親近，幾乎每天都守在一旁<br>(示意圖/Unsplash) </figcaption></figure>
+
+
+
+<p>寶寶出生後，飼主一度擔心「惠蒂」會因失寵而感到不安，沒想到結果卻完全相反，小貓不僅主動貼近寶寶，還展現出前所未有的親近，甚至每天守在一旁，宛如一位細心的貓保姆，不幸的是不久後寶寶被診斷出罹患眼癌，雖然最終保住了性命，但也永久失明。&nbsp;</p>
+
+
+
+<p>這樣的結果對父母而言是重大打擊，而「惠蒂」彷彿像是理解了情況一般，絲毫不因寶寶的殘疾而疏遠，反而更加用心守護，伴著孩子在黑暗中學習成長，期待未來的日子裡牠也能繼續擔任「導盲貓」的角色，陪伴小主人探索未知的世界。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e5%ad%a4%e5%83%bb%e8%b2%93%e6%88%90%e7%82%ba%e5%b0%8f%e4%b8%bb%e4%ba%ba%e5%94%af%e4%b8%80%e5%a4%a5%e4%bc%b4%ef%bc%81%e5%be%9e%e4%b8%8d%e8%a6%aa%e4%ba%ba%e5%88%b0%e5%85%a8%e5%a4%a9%e5%ae%88%e5%80%99/">孤僻貓成為小主人唯一夥伴！從不親人到全天守候感動無數網友 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗也會被貓化？超萌鬥牛犬發出「呼嚕聲」融化主人的心 </title>
+		<link>https://firenews.com.tw/2025/08/19/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e8%a2%ab%e8%b2%93%e5%8c%96%ef%bc%9f%e8%b6%85%e8%90%8c%e9%ac%a5%e7%89%9b%e7%8a%ac%e7%99%bc%e5%87%ba%e3%80%8c%e5%91%bc%e5%9a%95%e8%81%b2%e3%80%8d%e8%9e%8d%e5%8c%96/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 05:43:04 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[貓化]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243594</guid>
+
+					<description><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導 國外一名飼主近日分享自家狗狗與貓咪相處發生的奇妙改變，她發現愛犬「溫斯頓（Wi &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e8%a2%ab%e8%b2%93%e5%8c%96%ef%bc%9f%e8%b6%85%e8%90%8c%e9%ac%a5%e7%89%9b%e7%8a%ac%e7%99%bc%e5%87%ba%e3%80%8c%e5%91%bc%e5%9a%95%e8%81%b2%e3%80%8d%e8%9e%8d%e5%8c%96/">狗狗也會被貓化？超萌鬥牛犬發出「呼嚕聲」融化主人的心 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="1707" src="https://firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?resize=219%2C146&amp;ssl=1 219w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/fuu-j-nQ94b_bn08o-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>國外一名飼主近日分享自家狗狗與貓咪相處發生的奇妙改變，她發現愛犬「溫斯頓（Winston）」的一個特別行為，竟然在與愛貓們相處後漸漸被同化，也會像貓一樣發出呼嚕聲，超萌舉動融化了飼主的心，也讓網友直呼「好療癒！」。&nbsp;</p>
+
+
+
+<p>這名飼主在原本的家中已經養了六隻貓，屋內仿佛像是被貓咪圍繞的天堂，後來她又收養了一隻鬥牛犬，這隻新成員就成為了家中唯一的狗，起初「溫斯頓」還需要時間適應新環境與眾多貓咪同住，但隨著相處日久，牠們彼此的關係也變得愈加融洽。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-243613" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/isaac-davis-BHO7K8Zf16w-unsplash-scaled.jpg?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「溫斯頓」被撫摸身體時會因感到舒適與愉快，像貓一樣發出明顯的呼嚕聲<br>為(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>如今「溫斯頓」不僅和貓咪們打成一片，還漸漸開始被同化快變成貓咪的模樣，當飼主輕撫牠的身體時，狗狗會因為感到舒適與愉快，像貓一樣發出明顯的呼嚕聲，聲音宏亮而持續，宛如人類睡覺時的打鼾聲，讓飼主感到又驚又喜。&nbsp;</p>
+
+
+
+<p>「溫斯頓」超萌的舉動與貓咪相處的日常曝光後，迅速引起網上熱議，不少網友紛紛留言「也太可愛」、「不只是狗狗，人類和貓相處久了也會被同化」、「感覺牠很享受」、「溫斯頓搞不好以為自己是隻大貓咪」、「原來狗狗也會呼嚕」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/19/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e8%a2%ab%e8%b2%93%e5%8c%96%ef%bc%9f%e8%b6%85%e8%90%8c%e9%ac%a5%e7%89%9b%e7%8a%ac%e7%99%bc%e5%87%ba%e3%80%8c%e5%91%bc%e5%9a%95%e8%81%b2%e3%80%8d%e8%9e%8d%e5%8c%96/">狗狗也會被貓化？超萌鬥牛犬發出「呼嚕聲」融化主人的心 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>川普助攻加密熱潮 Amdax擬推比特幣公司進軍歐洲市場</title>
+		<link>https://firenews.com.tw/2025/08/18/%e5%b7%9d%e6%99%ae%e5%8a%a9%e6%94%bb%e5%8a%a0%e5%af%86%e7%86%b1%e6%bd%ae-amdax%e6%93%ac%e6%8e%a8%e6%af%94%e7%89%b9%e5%b9%a3%e5%85%ac%e5%8f%b8%e9%80%b2%e8%bb%8d%e6%ad%90%e6%b4%b2%e5%b8%82%e5%a0%b4/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 08:07:47 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[加密貨幣]]></category>
+		<category><![CDATA[川普]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[比特幣]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243153</guid>
+
+					<description><![CDATA[<p><img width="600" height="902" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-203.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-203.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-203.png?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>火報記者 陳銳/報導 阿姆斯特丹加密貨幣服務商 Amdax 週一宣布，正籌劃在泛歐交易所阿姆斯特丹分部推出一家 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e5%b7%9d%e6%99%ae%e5%8a%a9%e6%94%bb%e5%8a%a0%e5%af%86%e7%86%b1%e6%bd%ae-amdax%e6%93%ac%e6%8e%a8%e6%af%94%e7%89%b9%e5%b9%a3%e5%85%ac%e5%8f%b8%e9%80%b2%e8%bb%8d%e6%ad%90%e6%b4%b2%e5%b8%82%e5%a0%b4/">川普助攻加密熱潮 Amdax擬推比特幣公司進軍歐洲市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="600" height="902" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-203.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-203.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-203.png?resize=97%2C146&amp;ssl=1 97w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>阿姆斯特丹加密貨幣服務商 Amdax 週一宣布，正籌劃在泛歐交易所阿姆斯特丹分部推出一家名為「阿姆斯特丹比特幣資金策略」（AMBTS）的比特幣財務公司。該公司目標是成為歐洲主要交易平台之一。</strong></p>
+</blockquote>
+
+
+
+<p>Amdax 執行長 Lucas Wensing 表示，目前企業、政府及機構已持有超過 10% 的比特幣供應，顯示市場對加密資產的需求日益增長。他指出：「我們認為現在是建立比特幣財務公司的正確時機，並希望透過 AMBTS 在交易所上市，進一步推動比特幣的制度化發展。」</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="399" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-202.png?resize=600%2C399&#038;ssl=1" alt="" class="wp-image-243165" style="width:720px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-202.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-202.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Amdax 執行長稱隨著機構持有比特幣增多，計畫透過 AMBTS 上市推動比特幣制度化。圖:unsplash</figcaption></figure></div>
+
+
+<p>此舉正值比特幣價格創下歷史新高之際。自美國總統川普重返白宮以來，加密貨幣產業在監管環境上獲得突破，比特幣今年迄今已上漲近 32%。川普自稱「加密貨幣總統」，其家族亦在過去一年中積極涉足相關投資。</p>
+
+
+
+<p>根據 Amdax 的規劃，AMBTS 將在首輪融資中吸引部分私人投資者參與，並以長期持有至少 1% 的比特幣供應量為目標。該計劃被視為歐洲金融市場在加密資產領域邁出的重要一步。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e5%b7%9d%e6%99%ae%e5%8a%a9%e6%94%bb%e5%8a%a0%e5%af%86%e7%86%b1%e6%bd%ae-amdax%e6%93%ac%e6%8e%a8%e6%af%94%e7%89%b9%e5%b9%a3%e5%85%ac%e5%8f%b8%e9%80%b2%e8%bb%8d%e6%ad%90%e6%b4%b2%e5%b8%82%e5%a0%b4/">川普助攻加密熱潮 Amdax擬推比特幣公司進軍歐洲市場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>雷射光對貓咪彷彿有魔力？其實和「狩獵本能」有關！</title>
+		<link>https://firenews.com.tw/2025/08/18/%e9%9b%b7%e5%b0%84%e5%85%89%e5%b0%8d%e8%b2%93%e5%92%aa%e5%bd%b7%e5%bd%bf%e6%9c%89%e9%ad%94%e5%8a%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e5%92%8c%e3%80%8c%e7%8b%a9%e7%8d%b5%e6%9c%ac%e8%83%bd%e3%80%8d%e6%9c%89/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 07:32:01 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[雷射筆]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243138</guid>
+
+					<description><![CDATA[<p><img width="768" height="432" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-201.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?w=768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+<p>火報記者 張舜傑/報導 許多貓奴一定都有這樣的經驗：拿出一個小小的雷射筆，紅點一出現，貓咪立刻眼神發亮，猛撲猛 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e9%9b%b7%e5%b0%84%e5%85%89%e5%b0%8d%e8%b2%93%e5%92%aa%e5%bd%b7%e5%bd%bf%e6%9c%89%e9%ad%94%e5%8a%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e5%92%8c%e3%80%8c%e7%8b%a9%e7%8d%b5%e6%9c%ac%e8%83%bd%e3%80%8d%e6%9c%89/">雷射光對貓咪彷彿有魔力？其實和「狩獵本能」有關！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="768" height="432" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-201.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?w=768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-201.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多貓奴一定都有這樣的經驗：拿出一個小小的雷射筆，紅點一出現，貓咪立刻眼神發亮，猛撲猛追，彷彿被施了魔法，為什麼這個看似簡單的光點，能讓貓咪如此著迷？</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">光點帶來獵物的幻覺</h4>
+
+
+
+<p>貓咪的眼睛對快速移動的物體特別敏感，這是牠們在野外捕獵時必須具備的能力。雷射光快速閃動、忽遠忽近，就像小昆蟲或老鼠移動的軌跡，瞬間激發了牠們的獵捕慾望。對貓咪而言，這不只是一個光點，而是一個等待被追捕的「獵物」。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="344" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-199.png?resize=612%2C344&#038;ssl=1" alt="" class="wp-image-243140" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-199.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-199.png?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-199.png?resize=260%2C146&amp;ssl=1 260w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪眼睛對快速移動特別敏感，雷射光模仿獵物軌跡，瞬間激發牠們的捕獵本能。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">狩獵流程的滿足感</h4>
+
+
+
+<p>狩獵對貓咪來說，不只是捕捉食物的手段，更是一個完整的行為流程：潛伏、追逐、撲擊。雷射光恰好滿足了其中的「追逐」與「撲擊」階段，讓貓咪在安全的室內，也能重現狩獵的快感。這就是為什麼貓咪一旦盯上雷射光，常常會玩到停不下來。</p>
+
+
+
+<h4 class="wp-block-heading">精神與體能的消耗</h4>
+
+
+
+<p>追逐雷射光不僅帶來娛樂，也能幫助貓咪消耗體力。對於長時間待在室內的家貓，這是一種絕佳的運動方式。快速衝刺、急轉彎與跳躍，都能鍛鍊牠們的肌肉與反應能力，同時減輕無聊所帶來的壓力。這就是為什麼許多飼主把雷射筆當成「放電神器」。</p>
+
+
+
+<h4 class="wp-block-heading">小小遺憾：無法「抓到」獵物</h4>
+
+
+
+<p>不過，雷射光的遊戲也有一個小小缺陷——貓咪永遠無法真的「抓到」獵物。這可能會讓部分貓咪感到挫折。為了避免牠們長期因得不到滿足而產生焦躁，建議飼主在遊戲結束時，可以搭配毛球、玩具老鼠等實體玩具，讓牠完成最後的「捕獲」動作。</p>
+
+
+
+<h4 class="wp-block-heading">適度使用，讓遊戲更健康</h4>
+
+
+
+<p>雷射筆雖然能帶來無窮樂趣，但使用時要注意安全，避免直射貓咪的眼睛，以免造成傷害。同時，每次遊戲時間不宜過長，避免過度消耗體力或引發過度興奮。掌握適度原則，雷射筆就是一個既有趣又健康的互動工具。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-200.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-243141" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-200.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-200.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雷射光遊戲雖刺激捕獵本能，但貓咪無法真正抓到獵物，可能產生挫折。圖:istockphoto</figcaption></figure></div>
+
+
+<p>雷射光對貓咪來說之所以像魔力般吸引人，其實是因為牠們的狩獵天性被完美喚醒。快速移動的光點滿足了牠們追逐的渴望，同時提供了運動與娛樂。只要使用得當，這不僅能增進飼主與毛孩的感情，也能讓貓咪的日常生活更豐富 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e9%9b%b7%e5%b0%84%e5%85%89%e5%b0%8d%e8%b2%93%e5%92%aa%e5%bd%b7%e5%bd%bf%e6%9c%89%e9%ad%94%e5%8a%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e5%92%8c%e3%80%8c%e7%8b%a9%e7%8d%b5%e6%9c%ac%e8%83%bd%e3%80%8d%e6%9c%89/">雷射光對貓咪彷彿有魔力？其實和「狩獵本能」有關！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪抓家具不是調皮！解析牠的「5個」隱藏訊號</title>
+		<link>https://firenews.com.tw/2025/08/18/%e8%b2%93%e5%92%aa%e6%8a%93%e5%ae%b6%e5%85%b7%e4%b8%8d%e6%98%af%e8%aa%bf%e7%9a%ae%ef%bc%81%e8%a7%a3%e6%9e%90%e7%89%a0%e7%9a%84%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9a%b1%e8%97%8f%e8%a8%8a%e8%99%9f/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 06:58:53 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[抓家具]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=243113</guid>
+
+					<description><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-197.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-197.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-197.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導 許多飼主最困擾的，就是家中家具經常被貓咪抓得傷痕累累。很多人誤以為這是壞習慣或搗蛋，但 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e8%b2%93%e5%92%aa%e6%8a%93%e5%ae%b6%e5%85%b7%e4%b8%8d%e6%98%af%e8%aa%bf%e7%9a%ae%ef%bc%81%e8%a7%a3%e6%9e%90%e7%89%a0%e7%9a%84%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9a%b1%e8%97%8f%e8%a8%8a%e8%99%9f/">貓咪抓家具不是調皮！解析牠的「5個」隱藏訊號</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="612" height="408" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-197.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-197.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-197.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" /></p>
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主最困擾的，就是家中家具經常被貓咪抓得傷痕累累。很多人誤以為這是壞習慣或搗蛋，但其實這是貓咪的天性行為。抓家具除了磨爪，還蘊含標記領地、釋放壓力等多重意涵。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 天性需求：維持爪子的狀態</h4>
+
+
+
+<p>貓咪的爪子會隨著時間生長，外層角質需要透過抓的動作才能脫落，保持鋒利又健康。當牠們在抓家具時，其實就是在修整爪子，讓自己隨時保持最佳狀態。這對牠們而言，就像人類修指甲一樣必要。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-196.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-243133" style="width:716px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-196.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-196.png?resize=219%2C146&amp;ssl=1 219w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪抓家具其實是在修整爪子，脫落老角質，保持鋒利健康，就像人類修指甲一樣必要。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 標記領地：氣味與抓痕雙重作用</h4>
+
+
+
+<p>貓咪的爪子上有氣味腺，抓的同時不僅留下明顯的抓痕，也會釋放氣味，達到標記領地的效果。對貓咪來說，這是「這裡是我的地盤」的宣告。家具被抓，其實是因為那個位置對牠來說特別重要或顯眼。</p>
+
+
+
+<h4 class="wp-block-heading">3. 情緒釋放：壓力與興奮的出口</h4>
+
+
+
+<p>當貓咪感到焦慮、緊張，甚至過於興奮時，牠們會藉由抓家具來舒緩情緒。這個動作就像人類壓力大時需要發洩一樣，對貓咪而言是很自然的「情緒出口」。如果你發現牠特別愛在心情起伏時抓家具，這就是牠在自我調適。</p>
+
+
+
+<h4 class="wp-block-heading">4. 運動與伸展：全身的舒展動作</h4>
+
+
+
+<p>抓的過程中，貓咪不只是用爪子，而是會搭配身體的拉伸，前肢用力伸展、後腿用力支撐。這是一種結合運動與伸展的行為，有助於維持靈活度與肌肉健康。抓家具對牠們而言，還是一種日常運動。</p>
+
+
+
+<h4 class="wp-block-heading">5. 尋求互動：傳達需求的方式</h4>
+
+
+
+<p>有些時候，貓咪抓家具其實是在對主人「喊話」。當牠想引起你的注意，可能會選擇在你看得到或聽得到的地方抓，藉此告訴你「我需要陪伴」、「我想玩」，甚至是「我肚子餓了」。這是一種行為上的溝通，而非單純搗蛋。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="407" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-198.png?resize=612%2C407&#038;ssl=1" alt="" class="wp-image-243135" style="width:712px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-198.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-198.png?resize=220%2C146&amp;ssl=1 220w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">有時貓咪抓家具是在向主人傳達訊息，像是「想陪伴」、「想玩」或「肚子餓了」，這是一種溝通方式。圖:istockphoto</figcaption></figure></div>
+
+
+<h3 class="wp-block-heading">飼主該怎麼辦？</h3>
+
+
+
+<p>理解抓家具的真正原因後，就能用更適合的方法協助貓咪：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>提供抓板或貓抓柱</strong>：比家具更吸引的替代品，是最佳解決辦法。</li>
+
+
+
+<li><strong>固定位置放置</strong>：在窗邊、出入口或貓咪常駐的地方放抓板，滿足牠的需求。</li>
+
+
+
+<li><strong>情緒與陪伴</strong>：花時間陪牠玩耍，減少因無聊或焦慮而抓家具的機率。</li>
+
+
+
+<li><strong>適度修剪指甲</strong>：能降低家具被破壞的程度。</li>
+</ul>
+
+
+
+<p>貓咪抓家具絕不是調皮或故意搗蛋，而是一種結合了本能、情緒、健康與社交的自然行為。當能理解這些隱藏訊號，就能更貼近牠的內心，也能用更正確的方式改善問題 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e8%b2%93%e5%92%aa%e6%8a%93%e5%ae%b6%e5%85%b7%e4%b8%8d%e6%98%af%e8%aa%bf%e7%9a%ae%ef%bc%81%e8%a7%a3%e6%9e%90%e7%89%a0%e7%9a%84%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9a%b1%e8%97%8f%e8%a8%8a%e8%99%9f/">貓咪抓家具不是調皮！解析牠的「5個」隱藏訊號</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
