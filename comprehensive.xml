@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 20 Aug 2025 06:31:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 03:32:07 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,57 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>雅特力科技全新推出AT32F422/426系列 超值型工業控制MCU新標竿</title>
+		<link>https://firenews.com.tw/2025/08/21/%e9%9b%85%e7%89%b9%e5%8a%9b%e7%a7%91%e6%8a%80%e5%85%a8%e6%96%b0%e6%8e%a8%e5%87%baat32f422-426%e7%b3%bb%e5%88%97-%e8%b6%85%e5%80%bc%e5%9e%8b%e5%b7%a5%e6%a5%ad%e6%8e%a7%e5%88%b6mcu%e6%96%b0%e6%a8%99/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 03:32:05 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=244718</guid>
+
+					<description><![CDATA[<p><img width="1269" height="762" src="https://firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?w=1269&amp;ssl=1 1269w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?resize=243%2C146&amp;ssl=1 243w" sizes="(max-width: 1269px) 100vw, 1269px" /></p>
+<p>隨著嵌入式應用對運算效能與成本控制的雙重要求持續升高，雅特力科技正式推出全新 AT32F422/426 系列微 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/21/%e9%9b%85%e7%89%b9%e5%8a%9b%e7%a7%91%e6%8a%80%e5%85%a8%e6%96%b0%e6%8e%a8%e5%87%baat32f422-426%e7%b3%bb%e5%88%97-%e8%b6%85%e5%80%bc%e5%9e%8b%e5%b7%a5%e6%a5%ad%e6%8e%a7%e5%88%b6mcu%e6%96%b0%e6%a8%99/">雅特力科技全新推出AT32F422/426系列 超值型工業控制MCU新標竿</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img width="1269" height="762" src="https://firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?w=1269&amp;ssl=1 1269w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/ARTERY_Technology_AT32F422_F426_MCU.jpg?resize=243%2C146&amp;ssl=1 243w" sizes="(max-width: 1269px) 100vw, 1269px" /></p>
+<p>隨著嵌入式應用對運算效能與成本控制的雙重要求持續升高，雅特力科技正式推出全新 AT32F422/426 系列微控制器。該系列以 ARM® Cortex®-M4F 核心為基礎，結合高主頻、擴充儲存與多元外設，鎖定工業控制、馬達控制、舞台燈光、車載娛樂等場景，為市場帶來兼具高效能與高性價比的選擇。</p>
+
+
+
+<p>AT32F422/426系列基於ARM® Cortex®-M4F內核，支援最高180MHz主頻，顯著提升對複雜控制演算法與高速資料處理任務的執行效率，為控制精準度和回應速度提供有力保障。</p>
+
+
+
+<p><strong>儲存資源</strong>方面，達到最高128KB Flash和20KB SRAM的配置，為嵌入式系統提供充足運行空間。同時，可將 28KB 開機程式碼（Bootloader）區彈性配置為使用者程式碼或資料儲存區，可實現最多128+28KB Flash的最大利用，進一步降低系統設計成本並提升儲存空間利用率。此外，1KB OTP區為永久性資料儲存提供可靠保障，滿足密鑰、參數等安全需求。</p>
+
+
+
+<p>AT32F422/426系列集成豐富外設介面，多達2路I²C、2路SPI（支援 I²S 功能複用）和2路USART，便於實現與各類感測器、模組及周邊設備的高效連接與資料交換。其中，AT32F422支援CAN匯流排，AT32F426則進一步升級為CAN-FD，最高傳輸速率8Mbps，滿足對通訊速率與資料頻寬要求更高的工業控制應用需求。</p>
+
+
+
+<p>AT32F422/426具有1個高級定時器、5個16位通用定時器、1個基本定時器，和1個低功耗ERTC，可靈活用於PWM生成、事件觸發等任務，提升系統控制的精確度與擴充性。同時內建1個高速軌到軌比較器，支援高靈敏度類比電位比較，可於馬達控制反電動勢（BEMF）的過零點檢測和過流保護等場景；12位ADC支援高達2.5Msps取樣率，15個外部通道輸入，兼具高速性能與豐富通道數量，滿足多點訊號採集、高速測量等任務需求。支援5種編碼器模式，滿足不同伺服控制器需求。最多支援42個高速GPIO腳位，具備更高的引腳多功能性與電氣驅動能力，為多元介面擴充與多模組控制提供充足彈性。</p>
+
+
+
+<p>AT32F422/426系列微控制器搭載雅特力自行開發的SLib安全庫(Security Library)，支援工業級溫度範圍（-40°C至105°C），提供LQFP48、LQFP32、QFN32、QFN28與迷你的TSSOP20等多種封裝規格，以滿足不同場景的應用需求。適配雅特力開發工具平台，為用戶提供從開發、量產到韌體更新等軟硬體支援，包括開發板、調試工具、軟體資源庫及技術文件支援，有效簡化開發流程，縮短量產時間，加速產品上市時程。</p>
+
+
+
+<p>作為雅特力AT32產品體系中的「超值型」代表，AT32F422/426系列以高效能與高性價比並重為核心設計理念，通過合理資源整合與優化架構布局，在保持成本優勢的同時，實現性能體驗的全面提升。其小封裝、高整合度的特性，也特別適合體積受限、成本敏感、需大量部署的嵌入式產品，例如消費型手持雲台穩定器、車載協議盒、工業控制、舞台燈光和LED控制器等。</p>
+
+
+
+<p>目前，<a href="https://www.arterychip.com/tw/product/AT32F422.jsp" target="_blank" rel="noreferrer noopener">AT32F422</a> / <a href="https://www.arterychip.com/tw/product/AT32F426.jsp" target="_blank" rel="noreferrer noopener">AT32F426</a>系列產品已提供樣片申請，並於近期正式量產供貨。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/08/21/%e9%9b%85%e7%89%b9%e5%8a%9b%e7%a7%91%e6%8a%80%e5%85%a8%e6%96%b0%e6%8e%a8%e5%87%baat32f422-426%e7%b3%bb%e5%88%97-%e8%b6%85%e5%80%bc%e5%9e%8b%e5%b7%a5%e6%a5%ad%e6%8e%a7%e5%88%b6mcu%e6%96%b0%e6%a8%99/">雅特力科技全新推出AT32F422/426系列 超值型工業控制MCU新標竿</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>閃耀吧！閃閃發光的小靈魂 VIIDA第9屆小小代言人徵選開跑</title>
 		<link>https://firenews.com.tw/2025/08/20/%e9%96%83%e8%80%80%e5%90%a7%ef%bc%81%e9%96%83%e9%96%83%e7%99%bc%e5%85%89%e7%9a%84%e5%b0%8f%e9%9d%88%e9%ad%82-viida%e7%ac%ac9%e5%b1%86%e5%b0%8f%e5%b0%8f%e4%bb%a3%e8%a8%80%e4%ba%ba%e5%be%b5%e9%81%b8/</link>
 		
@@ -41,7 +92,7 @@
 		<category><![CDATA[綜合]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=244169</guid>
 
-					<description><![CDATA[<p><img width="1046" height="576" src="https://firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?w=1046&amp;ssl=1 1046w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?resize=768%2C423&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?resize=260%2C143&amp;ssl=1 260w" sizes="(max-width: 1046px) 100vw, 1046px" /></p>
+					<description><![CDATA[<p><img width="1046" height="576" src="https://firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?w=1046&amp;ssl=1 1046w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?resize=768%2C423&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/20250811_小代潛力_報名中_新聞稿_W1046xH576_01.jpg?resize=260%2C143&amp;ssl=1 260w" sizes="(max-width: 1046px) 100vw, 1046px" /></p>
 <p>生活中心/綜合報導 台灣兒童餐具品牌 VIIDA 宣布第9屆小小代言人徵選活動正式啟動，即日起至2025年9月 &#8230;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/08/20/%e9%96%83%e8%80%80%e5%90%a7%ef%bc%81%e9%96%83%e9%96%83%e7%99%bc%e5%85%89%e7%9a%84%e5%b0%8f%e9%9d%88%e9%ad%82-viida%e7%ac%ac9%e5%b1%86%e5%b0%8f%e5%b0%8f%e4%bb%a3%e8%a8%80%e4%ba%ba%e5%be%b5%e9%81%b8/">閃耀吧！閃閃發光的小靈魂 VIIDA第9屆小小代言人徵選開跑</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
@@ -697,54 +748,6 @@
 
 <p>從醫療到金融，她沒有顯赫背景，靠著不懈學習與行動，一步步打造自己的財富藍圖。當你懂得選擇，並願意不斷成長，能把困境變為自由的門票。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e5%be%9e%e7%97%85%e6%88%bf%e8%b5%b0%e9%80%b2%e9%87%91%e8%9e%8d%e5%9c%88%ef%bc%9a%e5%a5%b9%e7%94%a8%e7%9f%a5%e8%ad%98%e7%bf%bb%e8%bd%89%e5%91%bd%e9%81%8b%ef%bc%8c%e8%b5%b0%e5%87%ba%e5%b0%88%e5%b1%ac/">從病房走進金融圈：她用知識翻轉命運，走出專屬於自己的財富藍圖</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>從舞蹈到音樂完美融合 愛妮雅化妝品打造2025CTC世界盃國標舞公開賽藝術盛宴</title>
-		<link>https://firenews.com.tw/2025/08/18/%e5%be%9e%e8%88%9e%e8%b9%88%e5%88%b0%e9%9f%b3%e6%a8%82%e5%ae%8c%e7%be%8e%e8%9e%8d%e5%90%88-%e6%84%9b%e5%a6%ae%e9%9b%85%e5%8c%96%e5%a6%9d%e5%93%81%e6%89%93%e9%80%a02025ctc%e4%b8%96%e7%95%8c%e7%9b%83/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 03:33:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[愛妮雅]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=243001</guid>
-
-					<description><![CDATA[<p><img width="1015" height="731" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-191.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?w=1015&amp;ssl=1 1015w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?resize=768%2C553&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?resize=203%2C146&amp;ssl=1 203w" sizes="(max-width: 1015px) 100vw, 1015px" /></p>
-<p>記者 陳聖偉 / 綜合報導 為推動台灣國際標準舞發展，結合藝術與運動能量，「愛妮雅化妝品集團」以實際行動支持， &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e5%be%9e%e8%88%9e%e8%b9%88%e5%88%b0%e9%9f%b3%e6%a8%82%e5%ae%8c%e7%be%8e%e8%9e%8d%e5%90%88-%e6%84%9b%e5%a6%ae%e9%9b%85%e5%8c%96%e5%a6%9d%e5%93%81%e6%89%93%e9%80%a02025ctc%e4%b8%96%e7%95%8c%e7%9b%83/">從舞蹈到音樂完美融合 愛妮雅化妝品打造2025CTC世界盃國標舞公開賽藝術盛宴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img width="1015" height="731" src="https://firenews.com.tw/wp-content/uploads/2025/08/image-191.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?w=1015&amp;ssl=1 1015w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?resize=768%2C553&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-191.png?resize=203%2C146&amp;ssl=1 203w" sizes="(max-width: 1015px) 100vw, 1015px" /></p>
-<p>記者 陳聖偉 / 綜合報導</p>
-
-
-
-<p>為推動台灣國際標準舞發展，結合藝術與運動能量，「愛妮雅化妝品集團」以實際行動支持，上月(7/5)於臺北小巨蛋盛大登場「2025 CTC CUP世界盃國際標準舞公開賽」，獨家贊助「台北愛樂管弦樂團」於賽事中現場演出，成就本次賽事雙樂團現場伴奏的藝術盛會，藉由品牌力量展現台灣文化與藝術的軟實力。</p>
-
-
-
-<p>本賽事由臺北市政府體育局與中華民國全民舞蹈運動協會共同主辦、教育部體育署指導，並獲得WDC世界舞蹈總會認證，吸引全球逾1,130位頂尖舞者齊聚參與，包括英國、美國、新加坡、中國等多國世界冠軍選手。WDC榮譽副會長、BDFI主席及多位世界級評審親臨盛會，當日賽事陣容星光熠熠。 </p>
-
-
-
-<p>愛妮雅化妝品集團陳威中總裁表示「音樂是舞蹈的靈魂。此次賽事由我們獨家贊助台北愛樂管弦樂團演出，現場頂級樂團伴奏能完美襯托舞者表現，讓比賽層次再提升，也展現台灣主辦國際賽事的專業能量。我們秉持『支持本土、連結國際』的理念，期望讓世界看見台灣舞者的專業與熱情。」</p>
-
-
-
-<p>活動當天，愛妮雅化妝品集團特別贈送品牌高端保養品給世界職業公開賽決賽冠軍選手，象徵對頂尖選手的致敬與鼓勵。集團總裁陳威中與蕭碧月副總裁更親自參與開場舞演出，以行動展現企業對藝文與運動的高度支持。</p>
-
-
-
-<p>長年深耕公益與藝文領域的愛妮雅化妝品集團，希望透過本次賽事的國際關注度，讓台灣新世代舞者的實力被全球看見。此次參與，不僅是一場體育賽事的支持，更代表企業對文化產業發展的信念與承諾。未來，愛妮雅將持續以實際行動推動文化創意與藝術能量，打造具有國際視野與社會責任的品牌價值。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1015" height="658" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-192.png?resize=1015%2C658&#038;ssl=1" alt="" class="wp-image-243023" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-192.png?w=1015&amp;ssl=1 1015w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-192.png?resize=768%2C498&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/08/image-192.png?resize=225%2C146&amp;ssl=1 225w" sizes="(max-width: 1015px) 100vw, 1015px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源：愛妮雅化妝品集團提供</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/08/18/%e5%be%9e%e8%88%9e%e8%b9%88%e5%88%b0%e9%9f%b3%e6%a8%82%e5%ae%8c%e7%be%8e%e8%9e%8d%e5%90%88-%e6%84%9b%e5%a6%ae%e9%9b%85%e5%8c%96%e5%a6%9d%e5%93%81%e6%89%93%e9%80%a02025ctc%e4%b8%96%e7%95%8c%e7%9b%83/">從舞蹈到音樂完美融合 愛妮雅化妝品打造2025CTC世界盃國標舞公開賽藝術盛宴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
