@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Fri, 05 Sep 2025 08:06:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Sep 2025 06:30:02 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,55 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</title>
+		<link>https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 06 Sep 2025 06:29:58 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[蘋果]]></category>
+		<category><![CDATA[訓練]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252052</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 蘋果（AAPL.O）週五在美國被兩名作家提起訴訟，指控其在開發人工智慧系統時，未經授權使 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/">AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>蘋果（AAPL.O）週五在美國被兩名作家提起訴訟，指控其在開發人工智慧系統時，未經授權使用受版權保護的書籍，並未給予作者任何補償或致謝。</strong></p>
+</blockquote>
+
+
+
+<p>集體訴訟文件提交至加州北區聯邦法院，原告為作家格雷迪·亨德里克斯（Grady Hendrix）及詹妮弗·羅伯森（Jennifer Roberson）。他們指控蘋果在訓練其「OpenELM」大型語言模型時，使用了已知包含盜版作品的資料集。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-72.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252059" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">兩名作家在加州北區聯邦法院提起集體訴訟，指控蘋果訓練「OpenELM」時使用含盜版作品的資料集。圖:istockphoto</figcaption></figure></div>
+
+
+<p>訴狀寫道：「蘋果公司從未嘗試為這些作者的貢獻支付任何報酬，卻將其作品納入一個可能利潤豐厚的人工智慧計畫。」</p>
+
+
+
+<p>這起案件是近期針對大型科技公司一系列類似訴訟的一部分。包括微軟（MSFT.O）、Meta Platforms（META.O）及其合作夥伴 OpenAI，都面臨作者與新聞機構指控其未經許可使用受保護材料訓練人工智慧模型。</p>
+
+
+
+<p>就在同一天，人工智慧新創公司 Anthropic 在加州的法庭文件中披露，已同意支付 15 億美元和解一宗集體訴訟。該案涉及多名作家，指控該公司使用其書籍訓練聊天機器人 Claude。原告律師稱，這筆金額是迄今為止已公開的最大規模版權賠償案。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/">AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>7種毛孩專屬的歡迎方式 其實都是牠愛主人的證據！</title>
 		<link>https://firenews.com.tw/2025/09/05/7%e7%a8%ae%e6%af%9b%e5%ad%a9%e5%b0%88%e5%b1%ac%e7%9a%84%e6%ad%a1%e8%bf%8e%e6%96%b9%e5%bc%8f-%e5%85%b6%e5%af%a6%e9%83%bd%e6%98%af%e7%89%a0%e6%84%9b%e4%b8%bb%e4%ba%ba%e7%9a%84%e8%ad%89%e6%93%9a%ef%bc%81/</link>
 		
@@ -66,7 +115,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-68.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-251764" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗快速搖尾象徵喜悅，貓咪輕甩尾巴則是在釋放情感。尾巴，其實就是牠們最直接的情緒顯影。圖:istockphoto</figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-68.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-251764" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗快速搖尾象徵喜悅，貓咪輕甩尾巴則是在釋放情感。尾巴，其實就是牠們最直接的情緒顯影。圖:istockphoto</figcaption></figure></div>
 
 
 <h4 class="wp-block-heading">2. 主動靠近、輕撞身體</h4>
@@ -623,52 +672,6 @@
 
 <p>這隻小貓其實是當地街坊鄰居熟知的「常客」，牠經常會到處串門子，也曾經受過店主照料，沒想到這回卻成了導演一場「驚悚片」的主角，事件曝光後引來不少網友笑道「好調皮哈哈」、「根本專業惡作劇」、「好險還有監控的存在」。&nbsp;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/09/04/%e5%a4%a7%e7%99%bd%e5%a4%a9%e7%ab%9f%e9%ac%a7%e9%ac%bc%ef%bc%9f%e7%b4%99%e7%ae%b1%e8%8e%ab%e5%90%8d%e6%99%83%e5%8b%95%e3%80%8c%e8%b6%85%e6%af%9b%e3%80%8d%e7%9c%9f%e7%9b%b8%e6%9b%9d%e5%85%89%e7%ab%9f/">大白天竟鬧鬼？紙箱莫名晃動「超毛」真相曝光竟是虛驚一場 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>調皮狗整日偷窺路人！主人發現乾脆為牠打造專屬座位 </title>
-		<link>https://firenews.com.tw/2025/09/04/%e8%aa%bf%e7%9a%ae%e7%8b%97%e6%95%b4%e6%97%a5%e5%81%b7%e7%aa%ba%e8%b7%af%e4%ba%ba%ef%bc%81%e4%b8%bb%e4%ba%ba%e7%99%bc%e7%8f%be%e4%b9%be%e8%84%86%e7%82%ba%e7%89%a0%e6%89%93%e9%80%a0%e5%b0%88%e5%b1%ac/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 06:27:59 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[調皮]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=251254</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 最近國外一名飼主分享自家狗狗的奇葩興趣，牠似乎因為對外界充滿好奇心，平時總愛待 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/04/%e8%aa%bf%e7%9a%ae%e7%8b%97%e6%95%b4%e6%97%a5%e5%81%b7%e7%aa%ba%e8%b7%af%e4%ba%ba%ef%bc%81%e4%b8%bb%e4%ba%ba%e7%99%bc%e7%8f%be%e4%b9%be%e8%84%86%e7%82%ba%e7%89%a0%e6%89%93%e9%80%a0%e5%b0%88%e5%b1%ac/">調皮狗整日偷窺路人！主人發現乾脆為牠打造專屬座位 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近國外一名飼主分享自家狗狗的奇葩興趣，牠似乎因為對外界充滿好奇心，平時總愛待在前院的柵欄下挖洞偷看鄰居與路人，主人發現後乾脆另闢蹊徑，特地在柵欄上開了一個「專屬窗口」，讓愛犬能安心觀察外面的世界，意外掀起網上話題。&nbsp;</p>
-
-
-
-<p>該名飼主表示，自家養的狗狗從小活潑好動，特別愛撒嬌親人，最初他只是發現狗狗有著挖洞的習慣，後來才了解原來牠的目的只是單純地想看看外面的人事物，雖然行為逗趣，但卻時常破壞院子的結構，讓家人感到頭疼不已。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1525" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/bill-stephan-9LkqymZFLrE-unsplash-scaled.jpg?resize=1220%2C1525&#038;ssl=1" alt="" class="wp-image-251278" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/bill-stephan-9LkqymZFLrE-unsplash-scaled.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/bill-stephan-9LkqymZFLrE-unsplash-scaled.jpg?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/bill-stephan-9LkqymZFLrE-unsplash-scaled.jpg?resize=1229%2C1536&amp;ssl=1 1229w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/bill-stephan-9LkqymZFLrE-unsplash-scaled.jpg?resize=1638%2C2048&amp;ssl=1 1638w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">主人發現後乾脆為愛犬打造一個專屬窗口，讓許多飼主留言表示深受啟發<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>直到某天飼主靈機一動，決定用創意的方式來解決困擾，他在柵欄上開了一個圓形洞口，專門提供給愛犬探頭觀察，甚至還細心地在周圍畫上裝飾圖案，讓這扇「狗狗小窗」顯得既實用又別具風格，達到兩全其美的效果。&nbsp;</p>
-
-
-
-<p>故事曝光後引起大批網友熱議，不少人直呼「主人腦洞大開」、「根本神設計」，大讚這個方法比原本的挖洞行為既有趣又安全，讓許多飼主留言表示受到啟發，打算也在自家柵欄設計類似小窗，以滿足毛孩的好奇心。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/04/%e8%aa%bf%e7%9a%ae%e7%8b%97%e6%95%b4%e6%97%a5%e5%81%b7%e7%aa%ba%e8%b7%af%e4%ba%ba%ef%bc%81%e4%b8%bb%e4%ba%ba%e7%99%bc%e7%8f%be%e4%b9%be%e8%84%86%e7%82%ba%e7%89%a0%e6%89%93%e9%80%a0%e5%b0%88%e5%b1%ac/">調皮狗整日偷窺路人！主人發現乾脆為牠打造專屬座位 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
