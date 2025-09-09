@@ -1,120 +1,773 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Mon, 08 Sep 2025 07:12:57 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>中美貿易談判遭滲透？美方調查中國駭客偽造郵件攻擊事件</title>
+		<link>https://firenews.com.tw/2025/09/08/%e4%b8%ad%e7%be%8e%e8%b2%bf%e6%98%93%e8%ab%87%e5%88%a4%e9%81%ad%e6%bb%b2%e9%80%8f%ef%bc%9f%e7%be%8e%e6%96%b9%e8%aa%bf%e6%9f%a5%e4%b8%ad%e5%9c%8b%e9%a7%ad%e5%ae%a2%e5%81%bd%e9%80%a0%e9%83%b5%e4%bb%b6/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 07:12:54 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[中國]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[美國]]></category>
+		<category><![CDATA[駭客]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252589</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>火報記者 陳銳/報導 根據《華爾街日報》報導，美國當局正在調查一起惡意軟體郵件事件。這封郵件偽裝成由共和黨眾議 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e4%b8%ad%e7%be%8e%e8%b2%bf%e6%98%93%e8%ab%87%e5%88%a4%e9%81%ad%e6%bb%b2%e9%80%8f%ef%bc%9f%e7%be%8e%e6%96%b9%e8%aa%bf%e6%9f%a5%e4%b8%ad%e5%9c%8b%e9%a7%ad%e5%ae%a2%e5%81%bd%e9%80%a0%e9%83%b5%e4%bb%b6/">中美貿易談判遭滲透？美方調查中國駭客偽造郵件攻擊事件</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>根據《華爾街日報》報導，美國當局正在調查一起惡意軟體郵件事件。這封郵件偽裝成由共和黨眾議員發送，內容涉及中美貿易談判，疑似由中國駭客組織 APT41 操縱，目標直指美國政府與相關機構。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>報導指出，這封郵件於 7 月發送給美國貿易團體、律師事務所和政府單位，內含的惡意程式碼意在讓中國方面獲取白宮針對中美談判的政策建議。APT41 被普遍認為與中國情報部門有關。</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="612" height="275" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-94.png?resize=612%2C275&#038;ssl=1" alt="" class="wp-image-252604" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">7 月，一封含惡意程式碼的郵件寄給美方單位，疑為中國駭客 APT41 竊取中美談判資訊。圖:istockphoto</figcaption></figure></div>
+
+
+<p>中國駐美大使館則回應稱，尚不清楚具體細節，但重申中國「堅決反對並打擊一切形式的網路攻擊和犯罪」，同時批評外界「在沒有確鑿證據的情況下抹黑中國」。</p>
+
+
+
+<p>據報導，首批惡意郵件是在中美於瑞典舉行談判之前發送的。該談判最終促成雙方將關稅休戰延長至 11 月初，屆時美國總統川普與中國國家主席習近平預計將在亞洲經濟峰會會晤。郵件內容要求收件人審查附帶的立法草案，並寫道「您的見解至關重要」，意圖誘導點擊附件。</p>
+
+
+
+<p>目前尚不清楚攻擊是否成功。美國國會警察正在調查此事，並拒絕對外置評。聯邦調查局則證實已介入，並表示正與合作夥伴合作追查肇事者。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e4%b8%ad%e7%be%8e%e8%b2%bf%e6%98%93%e8%ab%87%e5%88%a4%e9%81%ad%e6%bb%b2%e9%80%8f%ef%bc%9f%e7%be%8e%e6%96%b9%e8%aa%bf%e6%9f%a5%e4%b8%ad%e5%9c%8b%e9%a7%ad%e5%ae%a2%e5%81%bd%e9%80%a0%e9%83%b5%e4%bb%b6/">中美貿易談判遭滲透？美方調查中國駭客偽造郵件攻擊事件</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>牽繩長短影響狗狗壓力？散步的「這些」小細節有大學問！</title>
+		<link>https://firenews.com.tw/2025/09/08/%e7%89%bd%e7%b9%a9%e9%95%b7%e7%9f%ad%e5%bd%b1%e9%9f%bf%e7%8b%97%e7%8b%97%e5%a3%93%e5%8a%9b%ef%bc%9f%e6%95%a3%e6%ad%a5%e7%9a%84%e3%80%8c%e9%80%99%e4%ba%9b%e3%80%8d%e5%b0%8f%e7%b4%b0%e7%af%80%e6%9c%89/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 06:00:48 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[散步]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252562</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 帶狗狗散步不只是運動，也是探索世界的過程。牽繩方式與散步技巧會影響情緒與壓力，掌握正確 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e7%89%bd%e7%b9%a9%e9%95%b7%e7%9f%ad%e5%bd%b1%e9%9f%bf%e7%8b%97%e7%8b%97%e5%a3%93%e5%8a%9b%ef%bc%9f%e6%95%a3%e6%ad%a5%e7%9a%84%e3%80%8c%e9%80%99%e4%ba%9b%e3%80%8d%e5%b0%8f%e7%b4%b0%e7%af%80%e6%9c%89/">牽繩長短影響狗狗壓力？散步的「這些」小細節有大學問！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>帶狗狗散步不只是運動，也是探索世界的過程。牽繩方式與散步技巧會影響情緒與壓力，掌握正確方法能讓毛孩更放鬆快樂。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">牽繩太短：壓力倍增</h4>
+
+
+
+<p>當牽繩過短，狗狗的行動範圍被限制，無法自由嗅聞或探索。這會讓牠感到緊繃，甚至出現拉扯、焦躁的行為。長期下來，狗狗可能把散步與「被控制」劃上等號，失去樂趣。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-91.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252585" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">牽繩過短會限制狗狗探索，讓牠緊張焦躁，長期可能喪失散步樂趣。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">牽繩太長：安全隱憂</h4>
+
+
+
+<p>相反地，如果牽繩過長，雖然給了狗狗自由，但也可能讓牠突然衝出馬路、與其他狗發生衝突，甚至捲入危險環境。因此在都市或人潮較多的地方，太長的牽繩反而隱藏風險。</p>
+
+
+
+<h4 class="wp-block-heading">最佳選擇：適度長度 + 放鬆牽引</h4>
+
+
+
+<p>專家建議，<strong>日常散步時可選擇 1.5 到 2 公尺左右的牽繩</strong>，既能保護安全，也能讓狗狗自由活動。重點是飼主要保持「放鬆的牽引」，避免繃緊牽繩，讓狗狗能以舒適的步伐探索環境。</p>
+
+
+
+<h4 class="wp-block-heading">給狗狗足夠嗅聞時間</h4>
+
+
+
+<p>散步不只是走路，嗅聞才是狗狗最重要的活動。讓牠們在草地、牆角、電線桿多停留一會兒，不僅能減輕壓力，還能滿足天性需求，達到真正的身心放鬆。</p>
+
+
+
+<h4 class="wp-block-heading">主人情緒也會傳染</h4>
+
+
+
+<p>別忘了，狗狗對主人的情緒非常敏感。如果飼主在散步時表現急躁、拉扯牽繩，狗狗會立刻感受到緊張。保持放鬆、耐心陪伴，才能讓散步變成雙方都快樂的時光。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-92.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252586" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗很敏感主人的情緒，急躁拉扯會讓牠緊張。保持放鬆耐心，散步才愉快。圖:istockphoto</figcaption></figure></div>
+
+
+<p>散步看似簡單，但卻是一門「學問」。牽繩長短、步伐控制、嗅聞時間，這些小細節都會影響狗狗的心情與健康。當主人願意用心調整，狗狗就能在散步中獲得更多幸福感，也更願意與主人建立深厚的連結。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e7%89%bd%e7%b9%a9%e9%95%b7%e7%9f%ad%e5%bd%b1%e9%9f%bf%e7%8b%97%e7%8b%97%e5%a3%93%e5%8a%9b%ef%bc%9f%e6%95%a3%e6%ad%a5%e7%9a%84%e3%80%8c%e9%80%99%e4%ba%9b%e3%80%8d%e5%b0%8f%e7%b4%b0%e7%af%80%e6%9c%89/">牽繩長短影響狗狗壓力？散步的「這些」小細節有大學問！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪總愛把東西推下桌？這「5大」原因讓人哭笑不得！</title>
+		<link>https://firenews.com.tw/2025/09/08/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e6%8a%8a%e6%9d%b1%e8%a5%bf%e6%8e%a8%e4%b8%8b%e6%a1%8c%ef%bc%9f%e9%80%99%e3%80%8c5%e5%a4%a7%e3%80%8d%e5%8e%9f%e5%9b%a0%e8%ae%93%e4%ba%ba%e5%93%ad%e7%ac%91%e4%b8%8d/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 04:42:08 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[推東西]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252547</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 桌上好好擺放的筆、杯子或小物件，下一秒就被貓咪用爪子輕輕一推掉到地板上。這種「惡作劇」 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e6%8a%8a%e6%9d%b1%e8%a5%bf%e6%8e%a8%e4%b8%8b%e6%a1%8c%ef%bc%9f%e9%80%99%e3%80%8c5%e5%a4%a7%e3%80%8d%e5%8e%9f%e5%9b%a0%e8%ae%93%e4%ba%ba%e5%93%ad%e7%ac%91%e4%b8%8d/">貓咪總愛把東西推下桌？這「5大」原因讓人哭笑不得！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>桌上好好擺放的筆、杯子或小物件，下一秒就被貓咪用爪子輕輕一推掉到地板上。這種「惡作劇」行為常讓人哭笑不得，但其實背後有貓咪的天性與心理因素。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>狩獵本能的展現</strong></h4>
+
+
+
+<p>貓咪天生就是獵手，對於能動或會滾動的小東西特別敏感。當牠們把物品推下桌時，就像是在模擬捕捉獵物的過程，看著東西掉落、滾動，能滿足牠們的狩獵本能。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-87.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252555" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪推物品下桌，其實是在模擬捕獵，透過物體掉落與滾動滿足牠們的狩獵本能。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>純粹的好奇心</strong></h4>
+
+
+
+<p>對貓咪來說，世界就是一個大實驗室。當牠們看到桌上的東西，會想知道「推一下會發生什麼事？」這種出於探索的好奇心，常常是牠們推東西的最大動力。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>吸引主人的注意</strong></h4>
+
+
+
+<p>有時候，貓咪並不是對物品有興趣，而是想要得到主人的回應。牠們很清楚，只要把東西推下去，主人一定會立刻有反應，對牠們來說，這是一種成功「引起關注」的方式。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>無聊時的娛樂</strong></h4>
+
+
+
+<p>當環境缺乏刺激或玩具時，桌上的小物件就成了最佳的娛樂道具。推東西對貓咪而言是一種簡單又能打發時間的遊戲，讓牠們不至於感到無聊。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-88.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252556" style="width:720px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">缺乏刺激時，貓咪會把桌上小物件當玩具，推下去成了打發無聊的遊戲。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">5. <strong>展現領地意識</strong></h4>
+
+
+
+<p>桌上的物品若是主人常用或有特殊氣味，貓咪可能會將它們視為「入侵領域的東西」。把物品推下桌，等於是在重新「整理」牠眼中的環境秩序，這其實是一種領地標記的表現。</p>
+
+
+
+<p>貓咪推東西的行為雖然讓人頭痛，但背後卻藏著牠們的天性與心理需求。與其責怪，不如替牠們準備安全的小玩具，或增加互動遊戲，既能滿足好奇與狩獵慾，也能避免心愛的物品被「意外摧毀」!</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e8%b2%93%e5%92%aa%e7%b8%bd%e6%84%9b%e6%8a%8a%e6%9d%b1%e8%a5%bf%e6%8e%a8%e4%b8%8b%e6%a1%8c%ef%bc%9f%e9%80%99%e3%80%8c5%e5%a4%a7%e3%80%8d%e5%8e%9f%e5%9b%a0%e8%ae%93%e4%ba%ba%e5%93%ad%e7%ac%91%e4%b8%8d/">貓咪總愛把東西推下桌？這「5大」原因讓人哭笑不得！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>網友大讚太聰明！狗狗最厲害的「5大」生活小技巧</title>
+		<link>https://firenews.com.tw/2025/09/07/%e7%b6%b2%e5%8f%8b%e5%a4%a7%e8%ae%9a%e5%a4%aa%e8%81%b0%e6%98%8e%ef%bc%81%e7%8b%97%e7%8b%97%e6%9c%80%e5%8e%b2%e5%ae%b3%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e7%94%9f%e6%b4%bb%e5%b0%8f%e6%8a%80%e5%b7%a7/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2025 07:05:28 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252312</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 狗狗不只會撒嬌和陪伴主人，其實牠們也常展現出令人驚訝的「生活智慧」。許多飼主分享過自家 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/%e7%b6%b2%e5%8f%8b%e5%a4%a7%e8%ae%9a%e5%a4%aa%e8%81%b0%e6%98%8e%ef%bc%81%e7%8b%97%e7%8b%97%e6%9c%80%e5%8e%b2%e5%ae%b3%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e7%94%9f%e6%b4%bb%e5%b0%8f%e6%8a%80%e5%b7%a7/">網友大讚太聰明！狗狗最厲害的「5大」生活小技巧</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>狗狗不只會撒嬌和陪伴主人，其實牠們也常展現出令人驚訝的「生活智慧」。許多飼主分享過自家毛孩的小故事，發現狗狗在日常中會自己摸索出一些「生存技巧」，甚至比人類想像得還要聰明。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>自己開門的高手</strong></h4>
+
+
+
+<p>不少狗狗觀察久了之後，會自己學會用鼻子或爪子推門，甚至還能轉動門把。這種小技巧讓牠們能隨時跟上主人，不被「困」在另一個房間。網友笑說：「原來家裡沒有真正的『禁區』，因為狗狗總有辦法進來！」</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-84.png?resize=640%2C427&#038;ssl=1" alt="" class="wp-image-252313" style="width:724px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">有些狗狗經過觀察後，會學會用鼻子或爪子推門，甚至轉動門把，隨時跟上主人。圖:pixabay</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>討食物的「眼神攻勢」</strong></h4>
+
+
+
+<p>狗狗最擅長的，就是用無辜的大眼睛盯著主人，配上小小的哀鳴聲，輕而易舉就能換來一口食物。這不只是撒嬌，而是一種聰明的「社交技巧」，狗狗懂得用最有效的方式表達需求，讓人完全招架不住。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>散步時間自動提醒器</strong></h4>
+
+
+
+<p>許多狗狗都能準時「提醒」主人帶牠們出門，不僅會在固定時間待在門口守候，還會主動叼著牽繩過來。這種行為看似可愛，其實代表牠們已經懂得記憶與規律，把日常作息變成自己的生活小智慧。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>懂得找涼快或溫暖的角落</strong></h4>
+
+
+
+<p>夏天時，狗狗會自動找家中最陰涼的地方躺下避暑；冬天則會依偎在暖氣旁或鑽進被窩裡取暖。這種本能搭配生活經驗，讓牠們懂得「自我照顧」，展現出強大的適應力與生存技巧。</p>
+
+
+
+<h4 class="wp-block-heading">5. <strong>用行為「提醒」主人</strong></h4>
+
+
+
+<p>有些狗狗會用敲碗、叼玩具，甚至輕輕碰主人的方式，來提醒該吃飯、該玩耍或該喝水了。這種行為不只是聰明，還像是貼心的「小助手」，讓主人感受到滿滿的陪伴。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-85.png?resize=640%2C427&#038;ssl=1" alt="" class="wp-image-252314" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">有些狗狗會敲碗、叼玩具或碰主人，提醒該吃飯、玩耍或喝水，像貼心的小助手陪伴左右。圖:pixabay</figcaption></figure></div>
+
+
+<p>狗狗的生活小技巧，其實都是在長期觀察主人與環境後，自己摸索出的智慧成果。牠們雖然不會說話，卻用行動展現了驚人的聰明才智！</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/%e7%b6%b2%e5%8f%8b%e5%a4%a7%e8%ae%9a%e5%a4%aa%e8%81%b0%e6%98%8e%ef%bc%81%e7%8b%97%e7%8b%97%e6%9c%80%e5%8e%b2%e5%ae%b3%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e7%94%9f%e6%b4%bb%e5%b0%8f%e6%8a%80%e5%b7%a7/">網友大讚太聰明！狗狗最厲害的「5大」生活小技巧</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪最搞笑的5大「偷窺行為」 網友直呼：太可愛！</title>
+		<link>https://firenews.com.tw/2025/09/07/%e8%b2%93%e5%92%aa%e6%9c%80%e6%90%9e%e7%ac%91%e7%9a%845%e5%a4%a7%e3%80%8c%e5%81%b7%e7%aa%ba%e8%a1%8c%e7%82%ba%e3%80%8d-%e7%b6%b2%e5%8f%8b%e7%9b%b4%e5%91%bc%ef%bc%9a%e5%a4%aa%e5%8f%af%e6%84%9b%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2025 07:00:11 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[偷窺]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252305</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主都發現，家裡的貓咪似乎特別喜歡「偷看」人類的一舉一動。無論是躲在牆角、探頭在門 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/%e8%b2%93%e5%92%aa%e6%9c%80%e6%90%9e%e7%ac%91%e7%9a%845%e5%a4%a7%e3%80%8c%e5%81%b7%e7%aa%ba%e8%a1%8c%e7%82%ba%e3%80%8d-%e7%b6%b2%e5%8f%8b%e7%9b%b4%e5%91%bc%ef%bc%9a%e5%a4%aa%e5%8f%af%e6%84%9b%ef%bc%81/">貓咪最搞笑的5大「偷窺行為」 網友直呼：太可愛！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主都發現，家裡的貓咪似乎特別喜歡「偷看」人類的一舉一動。無論是躲在牆角、探頭在門縫，甚至從高處俯瞰，這些「偷窺行為」雖然搞笑，卻也透露了貓咪獨特的天性與心理狀態。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>門縫觀察：小偵探模式啟動</strong></h4>
+
+
+
+<p>當主人在房間裡時，貓咪常常會靜靜蹲在門縫旁，把眼睛湊到縫隙偷偷張望。這是因為牠們無法忍受「被隔絕」，想要確認主人在裡面做什麼。就算什麼都沒發生，對貓咪來說，這也是一場「偵探遊戲」。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-81.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-252308" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪愛從門縫偷看主人，其實是害怕被隔絕，把這當成一場「偵探遊戲」。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>廁所守候：全程監控主人</strong></h4>
+
+
+
+<p>許多網友分享，自己上廁所時總有一雙圓滾滾的眼睛在旁邊「監視」。對貓咪而言，廁所是密閉空間，主人待在裡面時間不短，牠們就會選擇蹲守，確保自己沒有被忽略。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>高處偷看：居高臨下的「監督官」</strong></h4>
+
+
+
+<p>貓咪喜歡跳到櫃子或冰箱上，靜靜地用俯視角度觀察一切。這種行為一方面滿足了牠們的安全感，另一方面也讓牠們能夠「掌控全局」。從高處偷窺的模樣，常讓人覺得像極了暗中守護的神秘小精靈。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>沙發或桌子下的「暗中觀察」</strong></h4>
+
+
+
+<p>當貓咪藏在沙發底下、桌子下，只露出一雙眼睛時，往往讓飼主忍不住大笑。這其實是牠們狩獵本能的展現——隱藏自己，再觀察外界動靜。只是被應用到日常生活時，就變成超可愛的「偷窺行為」。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="318" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-82.png?resize=612%2C318&#038;ssl=1" alt="" class="wp-image-252309" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪躲在沙發或桌下偷看，其實是狩獵本能在作祟，只是日常中看起來特別可愛。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">5. <strong>半夜盯人：神秘的午夜凝視</strong></h4>
+
+
+
+<p>不少飼主半夜醒來，會發現貓咪正靜靜地坐在床邊，目不轉睛地盯著自己。雖然看起來有點詭異，但這往往是牠們在守候主人，或單純確認主人是否安好。對於貓咪來說，這是一種關心與依賴的表現。</p>
+
+
+
+<p>貓咪的「偷窺行為」看似搞笑，其實充滿了愛與本能。牠們透過觀察來獲得安全感，也同時維持與主人的連結 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/%e8%b2%93%e5%92%aa%e6%9c%80%e6%90%9e%e7%ac%91%e7%9a%845%e5%a4%a7%e3%80%8c%e5%81%b7%e7%aa%ba%e8%a1%8c%e7%82%ba%e3%80%8d-%e7%b6%b2%e5%8f%8b%e7%9b%b4%e5%91%bc%ef%bc%9a%e5%a4%aa%e5%8f%af%e6%84%9b%ef%bc%81/">貓咪最搞笑的5大「偷窺行為」 網友直呼：太可愛！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google因廣告壟斷遭歐盟重罰 34.5 億美元 川普直批「不公平」</title>
+		<link>https://firenews.com.tw/2025/09/07/google%e5%9b%a0%e5%bb%a3%e5%91%8a%e5%a3%9f%e6%96%b7%e9%81%ad%e6%ad%90%e7%9b%9f%e9%87%8d%e7%bd%b0-34-5-%e5%84%84%e7%be%8e%e5%85%83-%e5%b7%9d%e6%99%ae%e6%89%b9%e8%a9%95%e3%80%8c%e4%b8%8d%e5%85%ac/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2025 06:37:10 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[壟斷]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252298</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 歐盟委員會週五宣布，因Google在其廣告技術業務中濫用市場支配地位，對其處以 29.5 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/google%e5%9b%a0%e5%bb%a3%e5%91%8a%e5%a3%9f%e6%96%b7%e9%81%ad%e6%ad%90%e7%9b%9f%e9%87%8d%e7%bd%b0-34-5-%e5%84%84%e7%be%8e%e5%85%83-%e5%b7%9d%e6%99%ae%e6%89%b9%e8%a9%95%e3%80%8c%e4%b8%8d%e5%85%ac/">Google因廣告壟斷遭歐盟重罰 34.5 億美元 川普直批「不公平」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>歐盟委員會週五宣布，因Google在其廣告技術業務中濫用市場支配地位，對其處以 29.5 億歐元（約 34.5 億美元）的反壟斷罰款。</strong></p>
+</blockquote>
+
+
+
+<p>該決定立即引發美國總統川普的不滿。他在「真相社交」發文，批評歐盟的做法「不公平且具歧視性」，並威脅將動用《1974 年貿易法》第 301 條，對歐盟的「不合理懲罰」進行報復。他在白宮受訪時表示，將就此事直接與歐盟對話。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-79.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252301" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">川普批評歐盟不公平，並威脅動用《1974 年貿易法》第 301 條報復。圖:istockphoto</figcaption></figure></div>
+
+
+<p>歐盟監管機構指出，Google 長期偏袒自家廣告交易平台 AdX，並對其收取高額費用，進一步鞏固其在廣告供應鏈中的核心地位，損害出版商和競爭對手的利益。委員會要求 Google 停止此類行為，並在 30 天內採取糾正措施。若未能達標，歐盟可能考慮更嚴厲的手段，包括拆分業務。</p>
+
+
+
+<p>Google強烈反駁了這一決定，表示將提出上訴。公司副總裁李-安妮·穆爾霍蘭德（Lee-Anne Mulholland）在聲明中指出，歐盟的罰款「不合理」，改革要求更會「損害數千家歐洲企業的盈利能力」。谷歌強調，其廣告服務市場競爭激烈，買賣雙方均有多種替代方案。</p>
+
+
+
+<p>業界人士則呼籲歐盟採取更嚴厲行動。歐洲出版商理事會認為單純罰款不足以遏制谷歌壟斷行為，倫敦大學學院法學院教授 Cori Crider 更直言，「只有拆分才能真正打破壟斷，為歐洲媒體和企業打開市場」。</p>
+
+
+
+<p>谷歌 2024 年廣告收入達 2,646 億美元，占總收入逾 75%，顯示該業務在公司營收中的絕對核心地位。該公司還將於 9 月 22 日在美國面臨司法部另一宗反壟斷審判，進一步檢驗其在全球廣告市場的影響力。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/07/google%e5%9b%a0%e5%bb%a3%e5%91%8a%e5%a3%9f%e6%96%b7%e9%81%ad%e6%ad%90%e7%9b%9f%e9%87%8d%e7%bd%b0-34-5-%e5%84%84%e7%be%8e%e5%85%83-%e5%b7%9d%e6%99%ae%e6%89%b9%e8%a9%95%e3%80%8c%e4%b8%8d%e5%85%ac/">Google因廣告壟斷遭歐盟重罰 34.5 億美元 川普直批「不公平」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪愛亂叫其實暗藏玄機？6大原因一次揭曉 !</title>
+		<link>https://firenews.com.tw/2025/09/06/%e8%b2%93%e5%92%aa%e6%84%9b%e4%ba%82%e5%8f%ab%e5%85%b6%e5%af%a6%e6%9a%97%e8%97%8f%e7%8e%84%e6%a9%9f%ef%bc%9f6%e5%a4%a7%e5%8e%9f%e5%9b%a0%e4%b8%80%e6%ac%a1%e6%8f%ad%e6%9b%89/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 06 Sep 2025 07:54:56 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[亂叫]]></category>
+		<category><![CDATA[原因]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252081</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主常會疑惑：「為什麼我的貓咪總是愛亂叫？」有時候是半夜突然喵喵大叫，有時則是在日 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/%e8%b2%93%e5%92%aa%e6%84%9b%e4%ba%82%e5%8f%ab%e5%85%b6%e5%af%a6%e6%9a%97%e8%97%8f%e7%8e%84%e6%a9%9f%ef%bc%9f6%e5%a4%a7%e5%8e%9f%e5%9b%a0%e4%b8%80%e6%ac%a1%e6%8f%ad%e6%9b%89/">貓咪愛亂叫其實暗藏玄機？6大原因一次揭曉 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主常會疑惑：「為什麼我的貓咪總是愛亂叫？」有時候是半夜突然喵喵大叫，有時則是在日常生活中頻繁出聲。其實，貓咪的叫聲並不是單純的吵鬧，而是牠們獨特的溝通方式。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>吸引注意：想要主人的陪伴</strong></h4>
+
+
+
+<p>貓咪雖然常被認為獨立，但牠們其實很需要主人的關心。當牠覺得孤單、無聊，或只是單純想要互動時，就會用叫聲來「呼喚」主人，彷彿在說：「陪我一下吧！」</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-77.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252088" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪看似獨立，其實很依賴關心。當牠感到孤單或想互動時，會用叫聲呼喚主人，像是在撒嬌般請求陪伴。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>表達需求：肚子餓或想要食物</strong></h4>
+
+
+
+<p>喵喵叫最常見的原因之一，就是「我餓了」。特別是接近用餐時間，貓咪會用較急促或持續的叫聲提醒主人該加餐。這是牠們明確的表達方式，就像小孩吵著要零食一樣。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>身體不適：用叫聲傳達不舒服</strong></h4>
+
+
+
+<p>如果貓咪突然比平常更頻繁地叫，甚至伴隨焦躁不安、躲藏或攻擊性，可能是身體出現了異狀。疼痛、疾病或壓力，都可能讓牠用叫聲來向主人求助。這時候需要特別留意，必要時應帶去獸醫檢查。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>領地意識：警告外來威脅</strong></h4>
+
+
+
+<p>當家中出現陌生人、其他動物，甚至窗外有流浪貓經過時，家貓可能會用低沉或帶怒意的叫聲來表達「這裡是我的地盤」。這是天生的防禦反應，也是牠們守護領域的一種方式。</p>
+
+
+
+<h4 class="wp-block-heading">5. <strong>荷爾蒙影響：發情期的特殊叫聲</strong></h4>
+
+
+
+<p>未結紮的公母貓，在發情期會特別愛叫，聲音也常拉長且高亢。這並不是在撒嬌，而是天生的繁殖信號，用來吸引異性。這種叫聲可能讓飼主感到困擾，但卻是貓咪自然的生理反應。</p>
+
+
+
+<h4 class="wp-block-heading">6. <strong>天性與習慣：部分貓咪就是愛「聊天」</strong></h4>
+
+
+
+<p>有些品種像暹羅貓、東方短毛貓天生愛叫，牠們甚至會跟主人「對話」，你回一句，牠也會喵一聲回應。這種習慣其實沒有問題，只是牠們表達情緒的天性。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-78.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252089" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">像暹羅貓、東方短毛貓這類愛叫的品種，常會與主人「對話」，一來一往互動十足。圖:istockphoto</figcaption></figure></div>
+
+
+<p>貓咪的每一次叫聲，都隱藏著不同的情緒與訊息。身為飼主，如果能耐心觀察並理解，將能更快掌握牠們的需求，避免誤會與焦慮。記住，喵喵叫不是「亂叫」，而是牠們最真實的語言。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/%e8%b2%93%e5%92%aa%e6%84%9b%e4%ba%82%e5%8f%ab%e5%85%b6%e5%af%a6%e6%9a%97%e8%97%8f%e7%8e%84%e6%a9%9f%ef%bc%9f6%e5%a4%a7%e5%8e%9f%e5%9b%a0%e4%b8%80%e6%ac%a1%e6%8f%ad%e6%9b%89/">貓咪愛亂叫其實暗藏玄機？6大原因一次揭曉 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗最暖心的「5大」護主行為 都是愛的表現 !</title>
+		<link>https://firenews.com.tw/2025/09/06/%e7%8b%97%e7%8b%97%e6%9c%80%e6%9a%96%e5%bf%83%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e8%ad%b7%e4%b8%bb%e8%a1%8c%e7%82%ba-%e9%83%bd%e6%98%af%e6%84%9b%e7%9a%84%e8%a1%a8%e7%8f%be/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 06 Sep 2025 07:21:30 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[護主]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252063</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 狗狗向來被稱為人類最忠誠的夥伴，牠們不只陪伴在主人身邊，更會用一連串細膩的舉動，默默守 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/%e7%8b%97%e7%8b%97%e6%9c%80%e6%9a%96%e5%bf%83%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e8%ad%b7%e4%b8%bb%e8%a1%8c%e7%82%ba-%e9%83%bd%e6%98%af%e6%84%9b%e7%9a%84%e8%a1%a8%e7%8f%be/">狗狗最暖心的「5大」護主行為 都是愛的表現 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>狗狗向來被稱為人類最忠誠的夥伴，牠們不只陪伴在主人身邊，更會用一連串細膩的舉動，默默守護最愛的人。許多看似日常的行為，其實都藏著狗狗最真誠的「護主心」。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. <strong>警戒模式開啟：隨時守護家的安全</strong></h4>
+
+
+
+<p>無論是門外傳來的陌生腳步聲，還是突如其來的響動，狗狗總會第一時間豎起耳朵、低吼，甚至大聲吠叫。這不是無理取鬧，而是牠們本能的「守護領地」行為。狗狗把家當作自己的堡壘，而主人則是最需要保護的核心。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="401" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-73.png?resize=600%2C401&#038;ssl=1" alt="" class="wp-image-252075" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗對陌生聲響立刻警戒，豎耳、低吼甚至吠叫，展現牠們守護領地與保護主人的本能。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. <strong>寸步不離：跟隨主人走到哪守到哪</strong></h4>
+
+
+
+<p>有些狗狗習慣無論主人走到哪都跟上，就算只是上個廁所或換個房間，也要乖乖待在旁邊。這並不是單純的依賴，而是因為牠們認為靠近主人，就能隨時保護對方，這份忠誠令人動容。</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>夜裡守護：睡覺也保持警覺心</strong></h4>
+
+
+
+<p>許多主人會發現，狗狗即使在睡覺，也會保持淺眠，隨時因細微聲響而醒來。牠們會選擇睡在主人床邊或門口，彷彿一名小小的「守夜士兵」，安靜卻堅定地守護著家與人。</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>安慰主人：用陪伴驅散不安</strong></h4>
+
+
+
+<p>當主人情緒低落、難過流淚時，狗狗往往會靜靜地靠近，用頭輕輕蹭主人，或是把身體緊貼在身旁。這樣的舉動沒有言語，卻蘊含滿滿的關懷。科學研究甚至指出，狗狗能感受到主人的情緒變化，並會用陪伴來減輕壓力。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-74.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-252076" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">當主人情緒低落時，狗狗會靠近蹭頭或緊貼身旁，用陪伴傳遞安慰。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">5. <strong>面對危險：勇敢擋在主人前方</strong></h4>
+
+
+
+<p>不論是與陌生人接觸，還是遇到突發狀況，狗狗本能會選擇站在主人的前方，用身體築起一道保護牆。這樣的護主行為，顯示出牠們願意將自己放在風險之前，只為了守住最珍惜的人。</p>
+
+
+
+<p>狗狗不需要語言，卻用無數細節表達牠們最純粹的愛。每一次守護、每一個細膩的舉動，都是牠們深深信任與依賴的展現。對主人而言，能被這樣的愛包圍，或許就是與狗狗相處最大的幸福 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/%e7%8b%97%e7%8b%97%e6%9c%80%e6%9a%96%e5%bf%83%e7%9a%84%e3%80%8c5%e5%a4%a7%e3%80%8d%e8%ad%b7%e4%b8%bb%e8%a1%8c%e7%82%ba-%e9%83%bd%e6%98%af%e6%84%9b%e7%9a%84%e8%a1%a8%e7%8f%be/">狗狗最暖心的「5大」護主行為 都是愛的表現 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</title>
+		<link>https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sat, 06 Sep 2025 06:29:58 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[蘋果]]></category>
+		<category><![CDATA[訓練]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252052</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 蘋果（AAPL.O）週五在美國被兩名作家提起訴訟，指控其在開發人工智慧系統時，未經授權使 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/">AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>蘋果（AAPL.O）週五在美國被兩名作家提起訴訟，指控其在開發人工智慧系統時，未經授權使用受版權保護的書籍，並未給予作者任何補償或致謝。</strong></p>
+</blockquote>
+
+
+
+<p>集體訴訟文件提交至加州北區聯邦法院，原告為作家格雷迪·亨德里克斯（Grady Hendrix）及詹妮弗·羅伯森（Jennifer Roberson）。他們指控蘋果在訓練其「OpenELM」大型語言模型時，使用了已知包含盜版作品的資料集。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-72.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-252059" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">兩名作家在加州北區聯邦法院提起集體訴訟，指控蘋果訓練「OpenELM」時使用含盜版作品的資料集。圖:istockphoto</figcaption></figure></div>
+
+
+<p>訴狀寫道：「蘋果公司從未嘗試為這些作者的貢獻支付任何報酬，卻將其作品納入一個可能利潤豐厚的人工智慧計畫。」</p>
+
+
+
+<p>這起案件是近期針對大型科技公司一系列類似訴訟的一部分。包括微軟（MSFT.O）、Meta Platforms（META.O）及其合作夥伴 OpenAI，都面臨作者與新聞機構指控其未經許可使用受保護材料訓練人工智慧模型。</p>
+
+
+
+<p>就在同一天，人工智慧新創公司 Anthropic 在加州的法庭文件中披露，已同意支付 15 億美元和解一宗集體訴訟。該案涉及多名作家，指控該公司使用其書籍訓練聊天機器人 Claude。原告律師稱，這筆金額是迄今為止已公開的最大規模版權賠償案。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/06/ai-%e8%a8%93%e7%b7%b4%e6%83%b9%e7%88%ad%e8%ad%b0-%e8%98%8b%e6%9e%9c%e9%81%ad%e6%8c%87%e6%8e%a7%e3%80%8c%e7%9b%9c%e7%94%a8%e4%bd%9c%e5%ae%b6%e6%9b%b8%e7%b1%8d%e3%80%8d%e6%81%90%e4%be%b5%e6%ac%8a/">AI 訓練惹爭議 蘋果遭指控「盜用作家書籍」恐侵權</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>7種毛孩專屬的歡迎方式 其實都是牠愛主人的證據！</title>
+		<link>https://firenews.com.tw/2025/09/05/7%e7%a8%ae%e6%af%9b%e5%ad%a9%e5%b0%88%e5%b1%ac%e7%9a%84%e6%ad%a1%e8%bf%8e%e6%96%b9%e5%bc%8f-%e5%85%b6%e5%af%a6%e9%83%bd%e6%98%af%e7%89%a0%e6%84%9b%e4%b8%bb%e4%ba%ba%e7%9a%84%e8%ad%89%e6%93%9a%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 07:57:47 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[愛主人]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[毛孩]]></category>
+		<category><![CDATA[行為]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=251760</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 每一位飼主回到家時，總會被毛孩獨特的迎接方式打動。無論是狗狗興奮的撲跳，還是貓咪輕聲的 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/7%e7%a8%ae%e6%af%9b%e5%ad%a9%e5%b0%88%e5%b1%ac%e7%9a%84%e6%ad%a1%e8%bf%8e%e6%96%b9%e5%bc%8f-%e5%85%b6%e5%af%a6%e9%83%bd%e6%98%af%e7%89%a0%e6%84%9b%e4%b8%bb%e4%ba%ba%e7%9a%84%e8%ad%89%e6%93%9a%ef%bc%81/">7種毛孩專屬的歡迎方式 其實都是牠愛主人的證據！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>每一位飼主回到家時，總會被毛孩獨特的迎接方式打動。無論是狗狗興奮的撲跳，還是貓咪輕聲的喵喵叫，這些行為看似小小的舉動，其實都隱藏著深厚的情感。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 搖尾巴或甩尾巴</h4>
+
+
+
+<p>對狗狗來說，快速搖尾巴是興奮與喜悅的象徵；而對貓咪而言，尾巴微微甩動則代表牠正在釋放情感。尾巴的語言，其實就是牠們的情緒顯影。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-68.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-251764" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗快速搖尾象徵喜悅，貓咪輕甩尾巴則是在釋放情感。尾巴，其實就是牠們最直接的情緒顯影。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 主動靠近、輕撞身體</h4>
+
+
+
+<p>無論是狗狗熱情地衝向門口，還是貓咪用頭輕輕撞擊主人的腿，這些行為都代表「你是牠最信任的人」。身體接觸是毛孩最直接的愛的表達。</p>
+
+
+
+<h4 class="wp-block-heading">3. 舉起前腳或輕輕撥弄</h4>
+
+
+
+<p>狗狗可能會舉起前腳、輕拍主人，像是在說「快點抱抱我！」；貓咪則會用爪子輕輕撥弄衣角，傳達「我很想你」。這是一種渴望互動的表現。</p>
+
+
+
+<h4 class="wp-block-heading">4. 用聲音呼喚</h4>
+
+
+
+<p>狗狗會發出輕快的汪汪聲，貓咪則會喵喵叫，甚至帶有特別的「撒嬌音」。聲音是牠們情緒的出口，也是對主人的獨特呼喊。</p>
+
+
+
+<h4 class="wp-block-heading">5. 帶來「禮物」</h4>
+
+
+
+<p>有些狗狗會叼著玩具迎接，有些貓咪則可能帶來一隻小玩偶，甚至偶爾是「獵物」。在牠們的世界裡，這是一種「分享」的行為，象徵牠願意把珍貴的東西交給主人。</p>
+
+
+
+<h4 class="wp-block-heading">6. 翻肚露出最脆弱的部位</h4>
+
+
+
+<p>當毛孩在主人面前翻肚，甚至撒嬌地打滾，代表牠完全信任，願意把自己最脆弱的部位展示出來。這是一種深層的依賴與愛。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="344" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-67.png?resize=612%2C344&#038;ssl=1" alt="" class="wp-image-251763" style="width:718px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-67.png?w=612&amp;ssl=1 612w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-67.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 612px) 100vw, 612px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當毛孩在主人面前翻肚或打滾，代表牠完全信任主人，願意展示最脆弱的一面，這是深層依賴與愛的表現。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">7. 目光緊緊跟隨</h4>
+
+
+
+<p>有些毛孩不會過於熱情，但當主人一回到家，牠們就靜靜地坐著，眼神專注地凝視。這種深情的注視，或許比任何動作都更能打動人心。</p>
+
+
+
+<p>每一個看似簡單的迎接方式，背後都代表著毛孩真切的情感。牠們不會用語言表白，但會用搖尾、喵喵叫、輕輕的身體依偎，傳達愛意。當這些日常小動作被理解時，主人與毛孩之間的羈絆便會更加緊密 !</p>
+
+
+
+<p></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/7%e7%a8%ae%e6%af%9b%e5%ad%a9%e5%b0%88%e5%b1%ac%e7%9a%84%e6%ad%a1%e8%bf%8e%e6%96%b9%e5%bc%8f-%e5%85%b6%e5%af%a6%e9%83%bd%e6%98%af%e7%89%a0%e6%84%9b%e4%b8%bb%e4%ba%ba%e7%9a%84%e8%ad%89%e6%93%9a%ef%bc%81/">7種毛孩專屬的歡迎方式 其實都是牠愛主人的證據！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
