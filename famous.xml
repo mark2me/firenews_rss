@@ -1,120 +1,732 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Thu, 11 Sep 2025 09:44:04 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</title>
+		<link>https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 09:43:58 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ErosKare]]></category>
+		<category><![CDATA[依洛絲脈衝光除毛機]]></category>
+		<category><![CDATA[除毛]]></category>
+		<category><![CDATA[除毛機]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253984</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 因應消費者對醫療級美容需求日益提升，永業達（ErosKare）正式推出全新「依洛絲脈衝 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/">愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>因應消費者對醫療級美容需求日益提升，永業達（ErosKare）正式推出全新「依洛絲脈衝光除毛機」。該產品已取得衛福部二類醫療器材許可證，具備高效能與安全保障，將成為專業診所、美容醫學中心及醫療院所的重要輔助利器。</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="570" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=1220%2C570&#038;ssl=1" alt="" class="wp-image-253989" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=768%2C359&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=1536%2C717&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=2048%2C956&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">以醫療級規格開發的家用脈衝光除毛機，是解決毛髮問題的全新選擇。圖/ ErosKare提供</figcaption></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>歷時近 3 年申請，永業達（Eroskare）重棒出擊，結合極簡設計與專業醫療級規格，採用醫療級脈衝光技術，為消費者帶來便利又安心的居家除毛體驗。不僅能提供長效除毛效果，更兼具合法與安全，是家用除毛的可靠選擇。</p>
+
+
+
+<h2 class="wp-block-heading">取得衛福部認證，MIT製造，居家除毛新典範</h2>
+
+
+
+<p>相較於其他市售產品，依洛絲脈衝光除毛機取得台灣衛福部第二級醫療器材認證（衛部醫器製字第008666號），由台灣醫材廠製造並通過數十樣光電與生物安全測試，提供安全舒適的居家除毛體驗，並避免不明違法產品帶來的潛在風險。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1725" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1220%2C1725&#038;ssl=1" alt="" class="wp-image-253988" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?w=1811&amp;ssl=1 1811w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=768%2C1086&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1087%2C1536&amp;ssl=1 1087w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1449%2C2048&amp;ssl=1 1449w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">衛福部二類醫材許可證(衛部醫器製字第008666號) 圖/ ErosKare提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">冰點舒緩，高效除毛</h2>
+
+
+
+<p>依洛絲脈衝光除毛機搭載<strong>5°C 冰點功能</strong>，出光同時即刻舒緩降溫，讓除毛過程更舒適溫和。產品五個檔位能量調節，能針對不同膚色、毛髮粗細精準作用，縮短療程時間並提升效果。適用全身上下各個部位，讓患者在舒適環境下達到理想的除毛效果。</p>
+
+
+
+<h2 class="wp-block-heading">9/26-29 參展美容展 誠摯邀請蒞臨體驗</h2>
+
+
+
+<p>EROSKARE 將於 2025 年 9 月 26 日至 29 日，參加「第 35 屆秋季國際美容保養．美甲．美睫博覽會」。展會現場將完整展出「依洛絲脈衝光除毛機」，歡迎蒞臨展場 (攤位號碼：A1203)，近距離體驗這款「安全合法」的居家除毛機。還能享有展場限定的獨家優惠喔！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1220" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=1220%2C1220&#038;ssl=1" alt="" class="wp-image-253987" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=1536%2C1536&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025秋季美容展永業達（Eroskare）攤位資訊。圖/ ErosKare提供</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/">愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2025 歐洲鮮奶油Community Tips 交換食譜挑戰 ! 法國鮮奶油甜點新風貌：安欣、Joyce以飲品為靈感開啟味蕾對話</title>
+		<link>https://firenews.com.tw/2025/09/11/2025-%e6%ad%90%e6%b4%b2%e9%ae%ae%e5%a5%b6%e6%b2%b9community-tips-%e4%ba%a4%e6%8f%9b%e9%a3%9f%e8%ad%9c%e6%8c%91%e6%88%b0-%e6%b3%95%e5%9c%8b%e9%ae%ae%e5%a5%b6%e6%b2%b9%e7%94%9c%e9%bb%9e%e6%96%b0/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 09:34:39 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Community Tips]]></category>
+		<category><![CDATA[Joyce]]></category>
+		<category><![CDATA[安欣]]></category>
+		<category><![CDATA[歐洲鮮奶油]]></category>
+		<category><![CDATA[法國乳製品公會]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253968</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 今年以「飲品為靈感發想甜點」為主題，發起 Community Tips 交換食譜挑戰。 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/2025-%e6%ad%90%e6%b4%b2%e9%ae%ae%e5%a5%b6%e6%b2%b9community-tips-%e4%ba%a4%e6%8f%9b%e9%a3%9f%e8%ad%9c%e6%8c%91%e6%88%b0-%e6%b3%95%e5%9c%8b%e9%ae%ae%e5%a5%b6%e6%b2%b9%e7%94%9c%e9%bb%9e%e6%96%b0/">2025 歐洲鮮奶油Community Tips 交換食譜挑戰 ! 法國鮮奶油甜點新風貌：安欣、Joyce以飲品為靈感開啟味蕾對話</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>今年以「飲品為靈感發想甜點」為主題，發起 Community Tips 交換食譜挑戰。活動特別邀請2025 法國鮮奶油甜點大賽主廚李安欣與甜點界人氣 KOL Joyce，分別以「中式飲品」與「茶飲文化」為靈感創作甜點，並互相交換食譜進行挑戰。影片記錄兩位甜點人創作與交流的過程，已於法國鮮奶油官方Instagram <a href="https://www.instagram.com/europeessential.tw/">@europeessential.tw</a> 正式上線，後續也將於安欣<a href="https://www.instagram.com/leeanxin07/">@leeanxin07</a>和Joyce<a href="https://www.instagram.com/joycejoy_patisserie/">@joycejoy_patisserie</a>的Instagram平台露出。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-253969" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/首圖建議（一）-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">法國鮮奶油食譜交換挑戰影片畫面。圖 / 法國乳製品公會提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>飲品 X 甜點：跨界靈感的創意火花</strong></h2>
+
+
+
+<p>「Community Tips 交換食譜挑戰」打破以往傳統的甜點教學形式，透過交換食譜的互動方式，由兩位甜點主廚安欣和Joyce 各自挑戰對方的甜點創作，他們分別以法國鮮奶油為核心，發揮創意並設計了兩款獨特創意甜點。</p>
+
+
+
+<p><strong>安欣的作品「桂圓紅棗銀耳露」</strong> —— 取材自中式養生飲品，將紅棗、桂圓、白木耳等食材透過法式工藝重新演繹，搭配黑糖核桃蛋糕與紅棗甘納許，再以玫瑰銀耳露收尾。法國鮮奶油的細膩質感，讓東方食材的溫潤特性得以完美展現。</p>
+
+
+
+<p><strong>Joyce </strong><strong>的創作「紅茶奶蓋塔」</strong> —— 靈感源自近年人氣飲品「紅茶奶蓋」，將紅茶甘納許、紅烏龍脆片、鹹奶蓋與塔皮結合，透過法國鮮奶油在不同質地的表現，重現飲品中「濃厚茶香搭配綿密奶蓋」的口感層次。 兩位主廚在交流與合作中，展現了法國鮮奶油於甜點中的獨特風味與無限可能。他們不僅分享各自的創作靈感，也透過純熟的技法進一步體現法國鮮奶油的細緻特性與應用魅力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="592" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/紅茶奶蓋塔剖面（左）、桂圓紅棗銀耳露剖面（右）.png?resize=1220%2C592&#038;ssl=1" alt="" class="wp-image-253970" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/紅茶奶蓋塔剖面（左）、桂圓紅棗銀耳露剖面（右）.png?w=1422&amp;ssl=1 1422w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/紅茶奶蓋塔剖面（左）、桂圓紅棗銀耳露剖面（右）.png?resize=768%2C373&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">紅茶奶蓋塔剖面（左）、桂圓紅棗銀耳露剖面（右）。圖 / 法國乳製品公會提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>交換食譜挑戰: 法國鮮奶油在甜點裡的關鍵角色</strong></h2>
+
+
+
+<p>此次「交換食譜挑戰」中，安欣與 Joyce 主廚透過交流與互動，不僅分享彼此的創作靈感，更展現了法國鮮奶油在甜點製作上的多樣優勢。</p>
+
+
+
+<p>安欣指出，透過調整法國鮮奶油的不同比例，可以改變甜點的質地層次，同時自然串聯並平衡各種風味，甚至能柔化中式食材的濃烈特色，讓作品呈現更圓潤細膩的口感。Joyce 則分享，法國鮮奶油的高穩定性讓她能將飲品靈感具象化為結構完整的甜點；在品嚐安欣的桂圓紅棗甜點時，她更驚喜發現，桂圓與法國鮮奶油結合後竟能帶出近似太妃糖的獨特風味，令人耳目一新。</p>
+
+
+
+<p>兩位主廚一致認為，法國鮮奶油是甜點創作中不可或缺的元素。隨著作品比對揭曉，他們在專業又輕鬆的氛圍中交流心得，成果不僅精緻動人，也讓觀眾學習到兩款甜點在食材搭配上的巧思，更深刻體會飲品如何化身甜點，以及法國鮮奶油在其中所扮演的關鍵角色。</p>
+
+
+
+<p><strong>品嘗李安欣主廚的「桂圓紅棗銀耳露」方式</strong><strong>:</strong><strong></strong></p>
+
+
+
+<ol class="wp-block-list">
+<li>首先單獨品嚐上方的玫瑰銀耳露，讓淡雅的玫瑰香氣引導接下來的風味。</li>
+
+
+
+<li>由上而下挖取，將紅棗甘納許及帶有濃郁乳脂風味的龍眼內餡一同吃下，搭配下方的黑糖核桃蛋糕，讓口感富含變化的同時，並感受東方底蘊食材搭配法國鮮奶油所帶來的層次變化！</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1153" height="690" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/桂圓紅棗銀耳露｜李安欣.png?resize=1153%2C690&#038;ssl=1" alt="" class="wp-image-253971" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/桂圓紅棗銀耳露｜李安欣.png?w=1153&amp;ssl=1 1153w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/桂圓紅棗銀耳露｜李安欣.png?resize=768%2C460&amp;ssl=1 768w" sizes="(max-width: 1153px) 100vw, 1153px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桂圓紅棗銀耳露｜李安欣。圖 / 法國乳製品公會提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>法國鮮奶油——甜點創作的最佳靈感夥伴</strong></h2>
+
+
+
+<p>活動主辦單位法國乳製品公會表示，今年希望透過「飲品 X 甜點」的創意轉化，展現法國鮮奶油的應用靈活性與獨特風味。影片上線後已引起甜點社群熱烈討論，不少愛好者紛紛留言表示想親手嘗試。公會也誠摯邀請更多甜點專業人士與愛好者，親身體驗法國鮮奶油的細緻口感與多元可能性。<strong></strong></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/2025-%e6%ad%90%e6%b4%b2%e9%ae%ae%e5%a5%b6%e6%b2%b9community-tips-%e4%ba%a4%e6%8f%9b%e9%a3%9f%e8%ad%9c%e6%8c%91%e6%88%b0-%e6%b3%95%e5%9c%8b%e9%ae%ae%e5%a5%b6%e6%b2%b9%e7%94%9c%e9%bb%9e%e6%96%b0/">2025 歐洲鮮奶油Community Tips 交換食譜挑戰 ! 法國鮮奶油甜點新風貌：安欣、Joyce以飲品為靈感開啟味蕾對話</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>從精密機械到創藝舞台 文策院攜手上銀科技開啟人機共舞計畫</title>
+		<link>https://firenews.com.tw/2025/09/11/%e5%be%9e%e7%b2%be%e5%af%86%e6%a9%9f%e6%a2%b0%e5%88%b0%e5%89%b5%e8%97%9d%e8%88%9e%e5%8f%b0-%e6%96%87%e7%ad%96%e9%99%a2%e6%94%9c%e6%89%8b%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e9%96%8b%e5%95%9f%e4%ba%ba/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 03:10:27 +0000</pubDate>
+				<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253755</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 為了促成文化與科技的結合，創造多元的 ESG for Culture 共創案例，文化內 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e5%be%9e%e7%b2%be%e5%af%86%e6%a9%9f%e6%a2%b0%e5%88%b0%e5%89%b5%e8%97%9d%e8%88%9e%e5%8f%b0-%e6%96%87%e7%ad%96%e9%99%a2%e6%94%9c%e6%89%8b%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e9%96%8b%e5%95%9f%e4%ba%ba/">從精密機械到創藝舞台 文策院攜手上銀科技開啟人機共舞計畫</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>為了促成文化與科技的結合，創造多元的 ESG for Culture 共創案例，文化內容策進院（文策院）今（11）日正式與上銀科技股份有限公司（HIWIN）簽署「舞動科技，創藝無限」合作意向書（MOU），建立穩定的合作關係。未來雙方將共同推動「機器手臂推廣創作培力計畫」，由文策院文化創業加速器團隊「大可創藝」、成功大學參與協作，將機器手臂與舞蹈編程技術整合，期盼透過跨領域合作，展現文化內容與科技應用融合的可能。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="735" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?resize=1220%2C735&#038;ssl=1" alt="" class="wp-image-253781" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?resize=1536%2C926&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?resize=2048%2C1234&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-114.png?resize=780%2C470&amp;ssl=1 780w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>上銀科技成立於1989年，為全球知名的精密機械製造公司，2018年臺中世界花卉博覽會，從聆聽花開的聲音開始，投入科技與藝術跨域創作，將產品融入藝術裝置，讓機械不只工業應用，而是進入多元的文化領域。此次計畫初期，將以「機器手臂創作工作坊」為起點，上銀科技提供設備與技術支持、大可創藝負責設計應用、成功大學導入研究與教學架構。工程師與藝術家將在同一場域交流，期盼建立創作與教育模組，降低技術門檻並培育跨域人才，相關成果未來可望擴散，並應用於更多創作與教學場域。</p>
+
+
+
+<p>此次跨界合作也期盼達到五項效益：一，降低技術門檻：簡易化的機器手臂編程介面將讓藝術家輕鬆上手，開啟更多跨領域創作可能；二，激發跨界合作：促進藝術與科技領域交流，孵化更多藝術專案；三，深化技術應用：提升機器手臂在表演藝術、劇場設計與互動裝置中的應用潛力；四，開創人機共舞：機器手臂成為舞台上與表演者共演的創新模式；五，鏈結廣泛資源：提供藝術家創作所需的支持與協助，並吸引更多企業投入，促進技術與藝術的深度融合。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-253757" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/0U8A6319.jpg-的副本-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>文策院院長王敏惠表示，文策院促成上銀科技與大可創藝的合作，創造了新的 ESG範例，臺灣的科技及精密機械能量豐沛，現在能進入藝術領域共創，展現新的可能、開創新的合作模式，更能進一步帶動人才培育與產業轉型。未來文策院會更積極接軌企業端及文化端，透過兩方的合作火花，讓企業端的 ESG 目標能同時實現文化價值與社會貢獻，讓文化端有機會開展新的文化面貌。</p>
+
+
+
+<p>上銀科技董事長卓文恒表示，與文策院的合作，希望透過跨界協作將科技帶入不同領域，讓機器手臂成為藝術家的新工具，不再只是冰冷的技術，而是能激發創意的媒介，也期望透過這項計畫，培養更多能駕馭科技與創意的人才，提升臺灣文化內容在國際舞台上的競爭力。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e5%be%9e%e7%b2%be%e5%af%86%e6%a9%9f%e6%a2%b0%e5%88%b0%e5%89%b5%e8%97%9d%e8%88%9e%e5%8f%b0-%e6%96%87%e7%ad%96%e9%99%a2%e6%94%9c%e6%89%8b%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e9%96%8b%e5%95%9f%e4%ba%ba/">從精密機械到創藝舞台 文策院攜手上銀科技開啟人機共舞計畫</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>陶氏深耕台灣市場佈局 参展2025 SEMICON Taiwan展示高級半導體有機矽膠技術</title>
+		<link>https://firenews.com.tw/2025/09/10/%e9%99%b6%e6%b0%8f%e6%b7%b1%e8%80%95%e5%8f%b0%e7%81%a3%e5%b8%82%e5%a0%b4%e4%bd%88%e5%b1%80-%e5%8f%82%e5%b1%952025-semicon-taiwan%e5%b1%95%e7%a4%ba%e9%ab%98%e7%b4%9a%e5%8d%8a%e5%b0%8e%e9%ab%94%e6%9c%89/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 06:06:43 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253409</guid>
+
+					<description><![CDATA[<p>2025 SEMICON Taiwan 國際半導體展於 9 月 10 至 12 日在台北南港展覽館舉行，陶氏公 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e9%99%b6%e6%b0%8f%e6%b7%b1%e8%80%95%e5%8f%b0%e7%81%a3%e5%b8%82%e5%a0%b4%e4%bd%88%e5%b1%80-%e5%8f%82%e5%b1%952025-semicon-taiwan%e5%b1%95%e7%a4%ba%e9%ab%98%e7%b4%9a%e5%8d%8a%e5%b0%8e%e9%ab%94%e6%9c%89/">陶氏深耕台灣市場佈局 参展2025 SEMICON Taiwan展示高級半導體有機矽膠技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>2025 SEMICON Taiwan 國際半導體展於 9 月 10 至 12 日在台北南港展覽館舉行，陶氏公司（NYSE: DOW）在合作夥伴群固企業有限公司（EZBOND）展位（1館4樓 #L1107）展示一系列高級半導體有機矽膠解決方案。此次展出技術與解決方案聚焦於熱管理與封裝效能提升，並透過高效導熱材料，熱融型矽膠與MEMS封裝材料，推進半導體封裝能源效率與可持續性能提升。</p>
+
+
+
+<p>9月10–12日，2025 SEMICON Taiwan國際半導體展在台北南港展覽館舉行。<a href="http://www.dow.com/" target="_blank" rel="noreferrer noopener">陶氏公司</a>（紐交所代碼：DOW）在合作夥伴群固企業有限公司（簡稱：EZBOND）的展台（展位：1館4樓 #L1107）展示一系列高級半導體有機矽膠解決方案。這些技術與解決方案旨在優化MEMS和半導體封裝設計，提升熱管理表現和滿足半導體行業嚴苛的性能要求，同時通過高效、無溶劑的解決方案推動行業可持續發展。</p>
+
+
+
+<p>「隨著人工智能（AI）技術的快速發展，先進半導體和MEMS封裝面臨更高的要求。台灣市場在全球半導體產業鏈中佔據關鍵戰略地位，是推動技術創新與產業升級的重要樞紐，」陶氏公司消費品解決方案全球戰略營銷總監楚敏思表示，「陶氏公司致力於持續深化在台灣市場的佈局，通過創新材料科學與本地產業夥伴進行協同創新，共同推動半導體生態系統的技術突破與可持續發展。本次展會上，我們所帶來的高性能有機矽膠解決方案不僅能滿足半導體產業對封裝材料的更高要求，更能協助客戶實現能效提升與環境友好的雙重目標。」</p>
+
+
+
+<p><strong>優化微機電系統（</strong><strong>MEMS</strong><strong>）和高級半導體封裝的有機矽膠技術</strong></p>
+
+
+
+<p>陶氏公司的有機矽膠解決方案優於傳統環氧樹脂和聚氨酯材料，具備溫度穩定性、低吸濕性和應力釋放等優勢。無溶劑配方提供更高能源效率，符合可持續發展要求。這些產品技術和解決方案不僅提升封裝良率和產品可靠性，還幫助客戶減少碳足跡，實現環保目標：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>高效導熱材料、散熱蓋接著劑</strong>主打中高導熱率與低熱阻，不僅具有良好的接著性，還能兼容其他封裝材料，展現出極低矽油滲出和低揮發性。其中，極具代表性的便是新推出的<strong>DOWSIL<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ME-1603</strong><strong>導熱膠</strong>，憑藉較高導熱率和超低揮發性，使其更適用於晶片散熱與散熱蓋貼合。</li>
+
+
+
+<li><strong>創新熱融型矽膠技術</strong>對多種基材具有牢固接著強度，擁有極佳的熱應力釋放能力，有助於降低封裝體翹曲。不僅如此，該技術具備光學級高透光率，使其更適用於光學傳感器，而且還可針對不同應用，客製為液態膠、導熱膜片等。展會上陶氏公司帶來的<strong>DOWSIL<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> SHF-7300 S300T</strong><strong>熱融型矽膠膜片</strong>正是這項技術的最新典範，該新品可利用真空壓合技術實現大面積壓模應用。</li>
+
+
+
+<li><strong>完整的微機電系統</strong><strong>(MEMS)</strong><strong>封裝方案</strong>涵蓋豐富的有機矽膠產品選擇，提供固晶膠、打線封裝膠、密封膠與灌封膠等，並且符合相關環保法規的要求。在展會現場，<strong>DOWSIL<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ME-1445</strong><strong>接著劑</strong>這款新品作為無溶劑型矽膠解決方案，它所具備的高模量機械性質，使其適用於傳感器晶片接著與外蓋貼合。</li>
+</ul>
+
+
+
+<p>展會第二日<strong>（</strong><strong>9</strong><strong>月</strong><strong>11</strong><strong>日）上午</strong><strong>10:40-11:00</strong>，<strong>陶氏公司技術應用專員陳翔銓先生</strong>將在國際半導體展<strong>「</strong><strong>TechXPOT</strong><strong>」活動上（</strong><strong>1</strong><strong>館</strong><strong>4</strong><strong>樓</strong><strong>404</strong><strong>會議室）</strong>發表題為<strong>「有機矽膠熱管理材料介紹」</strong>的演講，不僅會分享陶氏公司在半導體領域中的最新應用成果，還將介紹創新的TIM1和TIM1.5導熱界面材料解決方案。不僅如此，陶氏公司還將於<strong>10</strong><strong>月</strong><strong>30</strong><strong>日在新竹豐邑喜來登大飯店舉辦「高級半導體有機矽膠解決方案研討會」</strong>，與客戶和合作夥伴探討半導體創新材料的發展趨勢，助力產業提升競爭力，實現可持續發展。</p>
+
+
+
+<p>陶氏公司誠邀您蒞臨EZBOND展台<strong>（展位：</strong><strong>1</strong><strong>館</strong><strong>4</strong><strong>樓</strong> <strong>#L1107</strong><strong>）</strong>，了解更多關於先進半導體有機矽膠解決方案的詳情，共同探討半導體材料的創新。如需更多信息，請訪問<a href="https://www.dow.com/en-us">https://www.dow.com/en-us</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e9%99%b6%e6%b0%8f%e6%b7%b1%e8%80%95%e5%8f%b0%e7%81%a3%e5%b8%82%e5%a0%b4%e4%bd%88%e5%b1%80-%e5%8f%82%e5%b1%952025-semicon-taiwan%e5%b1%95%e7%a4%ba%e9%ab%98%e7%b4%9a%e5%8d%8a%e5%b0%8e%e9%ab%94%e6%9c%89/">陶氏深耕台灣市場佈局 参展2025 SEMICON Taiwan展示高級半導體有機矽膠技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>馬來西亞國際航空宣布航網與產品升級強化通往亞洲及全球的樞紐角色</title>
+		<link>https://firenews.com.tw/2025/09/10/%e9%a6%ac%e4%be%86%e8%a5%bf%e4%ba%9e%e5%9c%8b%e9%9a%9b%e8%88%aa%e7%a9%ba%e5%ae%a3%e5%b8%83%e8%88%aa%e7%b6%b2%e8%88%87%e7%94%a2%e5%93%81%e5%8d%87%e7%b4%9a%e5%bc%b7%e5%8c%96%e9%80%9a%e5%be%80%e4%ba%9e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 03:58:25 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253333</guid>
+
+					<description><![CDATA[<p>馬來西亞國際航空集團(MAG)公布重大航網與產品升級，將透過新增航線、增班服務與創新機上餐飲，持續深化區域連結 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e9%a6%ac%e4%be%86%e8%a5%bf%e4%ba%9e%e5%9c%8b%e9%9a%9b%e8%88%aa%e7%a9%ba%e5%ae%a3%e5%b8%83%e8%88%aa%e7%b6%b2%e8%88%87%e7%94%a2%e5%93%81%e5%8d%87%e7%b4%9a%e5%bc%b7%e5%8c%96%e9%80%9a%e5%be%80%e4%ba%9e/">馬來西亞國際航空宣布航網與產品升級強化通往亞洲及全球的樞紐角色</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>馬來西亞國際航空集團(MAG)公布重大<a href="https://youtu.be/IZDrjngMPTY" target="_blank" rel="noreferrer noopener">航網與產品升級</a>，將透過新增航線、增班服務與創新機上餐飲，持續深化區域連結並提升旅客體驗。此舉不僅回應市場需求，也展現馬航加速邁向 2030 年「全球前十大航空公司」目標的決心。<strong> </strong></p>
+
+
+
+<p>馬來西亞國際航空集團 (MAG) 今日公布重大<a href="https://youtu.be/IZDrjngMPTY" target="_blank" rel="noreferrer noopener">航網與產品升級</a>，進一步落實集團成長策略，致力於提供更佳的連結性與升級的旅遊體驗。透過新航線、增班服務與創新機上餐飲，MAG 持續推進區域佈局，同時帶領馬來西亞國際航空邁向 2030 年成為全球前十大航空公司的目標。</p>
+
+
+
+<p>馬來西亞國際航空將自 2026 年 1 月 9 日起，開通吉隆坡往返成都天府國際機場 (TFU) 的每日直飛航班。同時，旗下子公司Firefly 將自 2025 年 11 月起，於吉隆坡國際機場 (KUL) 第一航廈開通前往喀比（KBV）、暹粒 (SAI) 及宿霧 (CEB) 的新航線。這些新增航線進一步鞏固 Firefly 在區域航網的角色，為旅客提供更便捷的東協熱門目的地連結，並支持觀光及商務需求。</p>
+
+
+
+<p>馬來西亞國際航空集團(MAG)董事總經理 Datuk Captain Izham Ismail 表示：</p>
+
+
+
+<p>「透過新增航線與增加班次，MAG 正強化作為通往亞洲及全球的樞紐角色，讓旅客更容易探索區域內及遠方的主要城市。同時，我們持續專注於提供高品質的機上體驗，展現我們對『馬來西亞式待客之道』(Malaysian Hospitality)的承諾。像是全新素食沙爹的推出，就是我們在保有傳統特色的同時不斷創新的最佳例子，滿足旅客日益多元的需求。藉由擴展航網、升級產品，以及我們團隊的努力，馬來西亞國際航空已準備好迎向未來，為顧客及國家創造價值。」</p>
+
+
+
+<p>作為航網擴展的亮點之一，馬來西亞國際航空推出全新素食沙嗲，採用猴頭菇製成，搭配獨家經典醃料，並佐以黃瓜與洋蔥，保留傳統沙嗲的風味同時，為商務艙與商務套房旅客提供更健康的素食餐點選擇。</p>
+
+
+
+<p>除了新增航線外，自 2025 年 10 月起，馬來西亞國際航空與 Firefly 也將增加多條航線的班次。馬來西亞國際航空將增班至澳洲、紐西蘭、中國、印度、馬爾地夫及孟加拉；Firefly 則加強新加坡、亞庇、古晉、檳城及新山的航班，進一步提升國內與區域的連結性。這些調整將為旅客提供更多選擇與彈性，並支持觀光、商貿與人文交流的成長。</p>
+
+
+
+<p>這些航網擴展以 MAG 持續推進的機隊現代化策略為基礎。隨著 A330neo 投入部分澳洲與紐西蘭航線，提供更高效能的燃油表現與最新客艙設計，全面提升乘客體驗。至 2026 年第一季，馬來西亞國際航空將成為在大洋洲運營最年輕廣體機隊的航空公司，展現集團在永續發展與服務卓越上的承諾。</p>
+
+
+
+<p>作為 2025 年馬來西亞國際旅遊展 (MATTA Fair) 的官方航空夥伴及首席贊助商，MAG 將透過「MAG Arena」打造前所未有的未來感旅遊展示體驗，重新詮釋 70 多個展位。繼 4 月展會成功後，本次「MAG Arena」將重點展示馬來西亞國際航空與 Firefly 的航網與客艙產品、AI數位創新（包括首位 AI 機艙服務員 MAYA）、與全球合作夥伴曼聯傳奇球星 Wes Brown、Peter Schmeichel 與 Park Ji-sung 的見面會等精彩活動，為期三天的展會將於吉隆坡 MITEC 盛大舉行，並提供豐富的旅遊優惠給現場訪客。</p>
+
+
+
+<p><strong>關於馬來西亞國際航空</strong></p>
+
+
+
+<p>馬來西亞國際航空是馬來西亞的國家航空公司，提供全方位的高品質航空服務，往返馬來西亞及國際航線。作為通往亞洲與全球的樞紐，馬來西亞國際航空每日承載高達 40,000 名旅客，提供靈感來自馬來西亞多元文化的難忘旅程。馬來西亞航空展現了國家的傳統、美食與文化，並以「馬來西亞式待客之道」為核心，於每個服務環節中帶來無與倫比的體驗。</p>
+
+
+
+<p>自 2015 年 9 月起，馬來西亞國際航空由馬來西亞國際航空有限公司擁有並營運，隸屬於馬來西亞國際航空 (MAG)。MAG 是一個全球航空集團，涵蓋多元航空及旅遊解決方案，以滿足國際航空旅行需求。</p>
+
+
+
+<p>作為 oneworld® 聯盟成員，馬來西亞國際航空可提供通往全球 170 個國家、超過 900 個目的地的航點選擇。更多資訊請造訪 <a href="http://www.malaysiaairlines.com/" target="_blank" rel="noreferrer noopener">www.malaysiaairlines.com</a> 或下載 馬來西亞航空 App。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e9%a6%ac%e4%be%86%e8%a5%bf%e4%ba%9e%e5%9c%8b%e9%9a%9b%e8%88%aa%e7%a9%ba%e5%ae%a3%e5%b8%83%e8%88%aa%e7%b6%b2%e8%88%87%e7%94%a2%e5%93%81%e5%8d%87%e7%b4%9a%e5%bc%b7%e5%8c%96%e9%80%9a%e5%be%80%e4%ba%9e/">馬來西亞國際航空宣布航網與產品升級強化通往亞洲及全球的樞紐角色</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>聖石金業打造新世代避險資產 走過逆風之路 讓黃金真正自由流動</title>
+		<link>https://firenews.com.tw/2025/09/10/%e8%81%96%e7%9f%b3%e9%87%91%e6%a5%ad%e6%89%93%e9%80%a0%e6%96%b0%e4%b8%96%e4%bb%a3%e9%81%bf%e9%9a%aa%e8%b3%87%e7%94%a2-%e8%b5%b0%e9%81%8e%e9%80%86%e9%a2%a8%e4%b9%8b%e8%b7%af-%e8%ae%93%e9%bb%83%e9%87%91/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 02:37:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=253328</guid>
+
+					<description><![CDATA[<p>長期以來，台灣黃金市場深受銀樓文化影響，消費者多以飾品為主，真正的投資價值被忽略，買賣價差更常讓人吃虧。聖石金 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e8%81%96%e7%9f%b3%e9%87%91%e6%a5%ad%e6%89%93%e9%80%a0%e6%96%b0%e4%b8%96%e4%bb%a3%e9%81%bf%e9%9a%aa%e8%b3%87%e7%94%a2-%e8%b5%b0%e9%81%8e%e9%80%86%e9%a2%a8%e4%b9%8b%e8%b7%af-%e8%ae%93%e9%bb%83%e9%87%91/">聖石金業打造新世代避險資產 走過逆風之路 讓黃金真正自由流動</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>長期以來，台灣黃金市場深受銀樓文化影響，消費者多以飾品為主，真正的投資價值被忽略，買賣價差更常讓人吃虧。聖石金業成立初衷，就是要讓黃金回歸「重量與純度」的本質，重新定義為可配置的資產。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-253329" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?w=2507&amp;ssl=1 2507w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-103.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">聖石金業打造亞洲最懂實體黃金的精品投資品牌，從商品選擇、價格透明、保管配送到回售，並建立跨境回售與流通機制，讓黃金真正「自由流動、全球保值」。（ 圖：聖石金業提供）</figcaption></figure>
+
+
+
+<p>創立之初，市場普遍不看好，但董事長邱嬿妤堅持：「真正的創新不是改造外觀，而是改變產業模式。」聖石率先推出透明定價的「克重條塊」，並導入數位化交易與即時結算，突破傳統銀樓以兩、錢計價的方式，徹底改變台灣黃金市場。從被誤解、被質疑，到如今成為新世代投資人與保守族群的首選，聖石走出一條逆風之路，也為台灣開啟黃金資產配置新篇章。</p>
+
+
+
+<p>聖石金業致力打造完整的黃金流通生態圈，讓黃金像股票一樣透明報價、集中保管、即時交易。公司與瑞士知名精煉廠 Argor-Heraeus 合作，推出專為台灣設計的福爾摩沙系列條塊，並通過倫敦金銀市場協會（LBMA）認證，每一塊皆具唯一追蹤編號，可在全球流通。購買後，黃金可存放於第三方金庫，無需領出即可保值，並可延伸至傳承配置；回售時則提供即時報價與現場鑑定，避免傳統銀樓收購不透明的疑慮。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-253330" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?w=2506&amp;ssl=1 2506w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-104.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">聖石金業販售的黃金條塊品項眾多，從1公克到1公斤都有。（圖：聖石金業提供）</figcaption></figure>
+
+
+
+<p>在防偽技術上，聖石引進光學雷射標記，取代傳統「火耗法」驗金，讓條塊具備獨一無二的防偽特徵，無需拆封即可驗證，確保百分之百可追蹤，杜絕消費者損失。</p>
+
+
+
+<p>近三年全球局勢動盪，疫情、通膨、升息與地緣政治接連衝擊，股市劇烈起伏，S&amp;P500數度下挫，黃金卻逆勢上漲。根據世界黃金協會統計，2022與2023年全球央行買金量創下半世紀新高，顯示各國都在備妥「最壞情況下的保險」。邱嬿妤強調：「房地產會崩、股市會修正、幣值會貶，但黃金永遠是全世界數千年認可的實體資產。」</p>
+
+
+
+<p>許多企業家也開始反思，當美元一年內貶值一成，連央行都積極買金，個人資產更需要避險準備。聖石金業的理念正是教育大眾，用1%的資產配置換取100%的安全感，這不是投機，而是風控。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-253331" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?w=2507&amp;ssl=1 2507w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-105.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">聖石金業今年推出全球限量2025白沙屯媽祖紀念條塊。（圖：聖石金業提供）</figcaption></figure>
+
+
+
+<p>聖石金業同時強調品牌體驗，將北中南三地旗艦據點打造為國際級接待空間，讓買金如同購買精品。從商品選擇、價格透明、保管配送到回售，聖石建立一套完整可學習、可理解、可放心的流程，讓黃金不再只是冰冷的金塊，而是能擁有、理解、展示與傳承的資產。</p>
+
+
+
+<p>在金融市場充斥高科技與虛擬商品的當下，聖石選擇回歸最古老卻最可靠的實體黃金，企圖重新定義「精品黃金品牌」。未來，聖石將持續拓展亞洲市場，建立跨境回售與流通機制，讓黃金真正自由流動、全球保值。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/10/%e8%81%96%e7%9f%b3%e9%87%91%e6%a5%ad%e6%89%93%e9%80%a0%e6%96%b0%e4%b8%96%e4%bb%a3%e9%81%bf%e9%9a%aa%e8%b3%87%e7%94%a2-%e8%b5%b0%e9%81%8e%e9%80%86%e9%a2%a8%e4%b9%8b%e8%b7%af-%e8%ae%93%e9%bb%83%e9%87%91/">聖石金業打造新世代避險資產 走過逆風之路 讓黃金真正自由流動</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>科脈生技革命性產品「科脈多功神經內視鏡系統」獲多國上市許可，聯手Sutter Medical進軍美國</title>
+		<link>https://firenews.com.tw/2025/09/08/%e7%a7%91%e8%84%88%e7%94%9f%e6%8a%80%e9%9d%a9%e5%91%bd%e6%80%a7%e7%94%a2%e5%93%81%e3%80%8c%e7%a7%91%e8%84%88%e5%a4%9a%e5%8a%9f%e7%a5%9e%e7%b6%93%e5%85%a7%e8%a6%96%e9%8f%a1%e7%b3%bb%e7%b5%b1%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 08:32:22 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=252658</guid>
+
+					<description><![CDATA[<p>專注於微創神經外科器械開發的科脈生技（Clearmind Biomedical）推出新一代「科脈多功神經內視鏡 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e7%a7%91%e8%84%88%e7%94%9f%e6%8a%80%e9%9d%a9%e5%91%bd%e6%80%a7%e7%94%a2%e5%93%81%e3%80%8c%e7%a7%91%e8%84%88%e5%a4%9a%e5%8a%9f%e7%a5%9e%e7%b6%93%e5%85%a7%e8%a6%96%e9%8f%a1%e7%b3%bb%e7%b5%b1%e3%80%8d/">科脈生技革命性產品「科脈多功神經內視鏡系統」獲多國上市許可，聯手Sutter Medical進軍美國</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>專注於微創神經外科器械開發的科脈生技（Clearmind Biomedical）推出新一代「科脈多功神經內視鏡系統」（Neuroblade System），自2023年以來，陸續取得美國FDA、台灣FDA及馬來西亞MDA上市許可。目前，該系統已在這三個國家的醫院開始銷售，為當地的出血性中風患者提供更先進的治療選擇。科脈生技預計在2026年初，將把這款領先業界的產品繼續推向全球包含新加坡、紐西蘭、瑞士、韓國等至少10個國家，持續擴大其在國際腦部醫療領域的影響力。</p>
+
+
+
+<p>經過多年的潛心研發與臨床驗證，科脈生技最新一代的革命性產品——<strong>「科脈多功神經內視鏡系統」(Neuroblade System)</strong>，自2023年以來，陸續取得美國FDA、台灣FDA及馬來西亞MDA的上市許可。目前，該系統已在這三個國家的醫院開始銷售，為當地的出血性中風患者提供更先進的治療選擇。科脈生技預計在2026年初，將把這款領先業界的產品繼續推向全球包含新加坡、紐西蘭、瑞士、韓國等至少10個國家，持續擴大其在國際腦部醫療領域的影響力。</p>
+
+
+
+<p>「科脈多功神經內視鏡系統」的問世，是台灣尖端研發能力和製造技術的一次完美展現。這款高度整合型的拋棄式內視鏡，不僅能大幅縮小腦部手術的傷口，更是<strong>目前全球唯一一把帶有電燒止血功能的內視鏡</strong>。這項獨特功能允許神經外科醫師在清除血塊的同時，即時進行止血，顯著縮短手術時間，並減少術中失血量。這項技術的突破，不僅提升了手術的安全性，也使得「One doctor, one hour」的願景從理想變為現實。</p>
+
+
+
+<p>為了更有效地開拓國際市場，科脈生技在今年2025取得了重大的策略性進展，與全球知名電燒刀大廠<strong>Sutter Medical</strong>簽署了獨家代理協議，「科脈多功神經內視鏡系統」(Neuroblade) 正式由 Sutter Medical 開始在美國獨家代理銷售。截至2025年中，已導入至紐約的Mount Sinai Hospital、克里夫蘭的Cleveland Clinic以及亞特蘭大的Emory University Hospital，同時也與Mount Sinai Hospital合作，展開腦出血微創手術的研究案。未來，將持續借助Sutter Medical廣泛的銷售網絡與專業的市場經驗，加速產品在美國市場的普及，讓更多美國患者受惠於這項創新的微創技術。</p>
+
+
+
+<p>科脈生技團隊表示：「我們始終堅信，腦出血手術的目的不僅是挽救生命，更重要的是讓患者能夠恢復生活自理，重拾日常步調。這份對患者的關懷，驅動著我們不斷創新與突破。與Sutter Medical的合作，是我們實現願景的重要里程碑，也代表著台灣的高階醫療器材技術正一步步走向世界舞台。」</p>
+
+
+
+<p>展望未來，科脈生技將持續深耕微創神經外科器械領域，並致力於開發更多創新的產品，以改善患者的生活品質。公司將秉持初衷，繼續為全球腦部醫療帶來更多的希望與可能性。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/08/%e7%a7%91%e8%84%88%e7%94%9f%e6%8a%80%e9%9d%a9%e5%91%bd%e6%80%a7%e7%94%a2%e5%93%81%e3%80%8c%e7%a7%91%e8%84%88%e5%a4%9a%e5%8a%9f%e7%a5%9e%e7%b6%93%e5%85%a7%e8%a6%96%e9%8f%a1%e7%b3%bb%e7%b5%b1%e3%80%8d/">科脈生技革命性產品「科脈多功神經內視鏡系統」獲多國上市許可，聯手Sutter Medical進軍美國</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>從一隻蝦吃到太平洋的甘甜，台東青年返鄉的永續力量</title>
+		<link>https://firenews.com.tw/2025/09/05/%e5%be%9e%e4%b8%80%e9%9a%bb%e8%9d%a6%e5%90%83%e5%88%b0%e5%a4%aa%e5%b9%b3%e6%b4%8b%e7%9a%84%e7%94%98%e7%94%9c%ef%bc%8c%e5%8f%b0%e6%9d%b1%e9%9d%92%e5%b9%b4%e8%bf%94%e9%84%89%e7%9a%84%e6%b0%b8%e7%ba%8c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 06:39:26 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=251727</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 走進台東沿海，你會看到一池池映照著藍天的蝦塘，這裡孕育著全台最具代表性的「白蝦」。依靠 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/%e5%be%9e%e4%b8%80%e9%9a%bb%e8%9d%a6%e5%90%83%e5%88%b0%e5%a4%aa%e5%b9%b3%e6%b4%8b%e7%9a%84%e7%94%98%e7%94%9c%ef%bc%8c%e5%8f%b0%e6%9d%b1%e9%9d%92%e5%b9%b4%e8%bf%94%e9%84%89%e7%9a%84%e6%b0%b8%e7%ba%8c/">從一隻蝦吃到太平洋的甘甜，台東青年返鄉的永續力量</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>走進台東沿海，你會看到一池池映照著藍天的蝦塘，這裡孕育著全台最具代表性的「白蝦」。依靠太平洋純淨海水與地下湧泉的滋養，台東白蝦肉質鮮甜、口感Q彈，成為地方最驕傲的漁業名片。雖然養殖面積僅佔全國約三％，卻能年年產出超過二百六十公噸，單位面積效率更是全台平均的兩到三倍。若以每公斤二百至二百五十元的批發價換算，產值已突破五億元，足以證明這個小產業背後的巨大潛力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1045" height="1567" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/01.jpg?resize=1045%2C1567&#038;ssl=1" alt="" class="wp-image-251731" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/01.jpg?w=1045&amp;ssl=1 1045w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/01.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/01.jpg?resize=1024%2C1536&amp;ssl=1 1024w" sizes="(max-width: 1045px) 100vw, 1045px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台東白蝦依靠太平洋純淨海水與地下湧泉的滋養，雖然養殖面積僅佔全國約三％，卻能年年產出超過二百六十公噸。/圖片來源：有限責任台東縣水產養殖生產合作社</figcaption></figure>
+
+
+
+<p>白蝦的成功並非偶然，而是多方角色共同努力的結果。首先，有限責任台東縣水產養殖生產合作社串聯了在地養殖戶，形成穩定供應體系；一群選擇返鄉的青年養殖者則帶來智慧監控、水質檢測與自動化投餌等新技術，讓傳統養殖更具效率與永續力。而在產業價值鏈的另一端，美興同盟商行則以社會企業的姿態，投入加工、包裝與品牌經營，讓台東白蝦成功跨入全國市場。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/02.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-251732" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/02.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/02.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">返鄉的臺東青年養殖者運用智慧監控、水質檢測與自動化投餌等新技術，讓傳統養殖更具效率與永續力。/圖片來源：有限責任台東縣水產養殖生產合作社</figcaption></figure>
+
+
+
+<p>為了延伸價值鏈，美興同盟商行透過跨域資源整合，與台東縣農產公司合作啟用冷鏈加工廠成為重要里程碑。加工廠更已通過 ISO22000 與 HACCP 雙重食安認證，具備即時急速冷凍與全程低溫配送能力，能保證白蝦最新鮮的滋味。更重要的是，加工廠不只銷售鮮蝦，也積極開發蝦子的加工產品，大幅提升附加價值，讓台東白蝦邁向全台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/03.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-251733" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/03.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/03.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台東養殖業者透過跨域資源整合，將台東優質的農漁特產品行銷全國市場，並透過產業創新、農漁共生等方式，讓傳統漁業成為具有永續價值的地方產業。/圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>在環境永續方面，透過蘭芯系統綠色科技加速器，讓養殖戶與合作社積極導入太陽能設備、節能水車與循環水系統，減少能耗與用藥，降低養殖碳排放。未來更規劃透過海洋大學協助進行碳足跡盤查，力爭成為全台第一個取得碳足跡標章的白蝦產品。這不僅象徵台東白蝦的產業升級，也讓它成為農村區域亮點產業在「永續與低碳」面向上的示範。</p>
+
+
+
+<p>今天的台東白蝦，已經不再只是地方經濟的一環，而是一個由青農、合作社、社會企業、政府與冷鏈加工體系共同編織的產業故事。它承載了返鄉青年的夢想、農村再生的力量、政策推動的方向，以及環境永續的承諾。</p>
+
+
+
+<p>下次來到台東，除了稻米、紅烏龍與金針花，別忘了嚐一口白蝦。那鮮甜的一口，藏著太平洋的祝福，也藏著農村亮點產業共同邁向永續未來的決心。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="1280" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/04.jpg?resize=960%2C1280&#038;ssl=1" alt="" class="wp-image-251734" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/04.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/04.jpg?resize=768%2C1024&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /><figcaption class="wp-element-caption">來自純淨水源的台東白蝦，口感鮮甜、肉質Q彈。透過青農返鄉與智慧養殖，讓這份來自土地與海洋的美味走向更多餐桌。/圖片來源：美興同盟商行</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/%e5%be%9e%e4%b8%80%e9%9a%bb%e8%9d%a6%e5%90%83%e5%88%b0%e5%a4%aa%e5%b9%b3%e6%b4%8b%e7%9a%84%e7%94%98%e7%94%9c%ef%bc%8c%e5%8f%b0%e6%9d%b1%e9%9d%92%e5%b9%b4%e8%bf%94%e9%84%89%e7%9a%84%e6%b0%b8%e7%ba%8c/">從一隻蝦吃到太平洋的甘甜，台東青年返鄉的永續力量</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>UGUARD NETWORKS新加坡總部滿周年 完成STARLINK 低軌衛星開發</title>
+		<link>https://firenews.com.tw/2025/09/05/uguard-networks%e6%96%b0%e5%8a%a0%e5%9d%a1%e7%b8%bd%e9%83%a8%e6%bb%bf%e5%91%a8%e5%b9%b4-%e5%ae%8c%e6%88%90starlink-%e4%bd%8e%e8%bb%8c%e8%a1%9b%e6%98%9f%e9%96%8b%e7%99%bc/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 04:21:41 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=251684</guid>
+
+					<description><![CDATA[<p>全球網路安全與通訊創新領導者 UGUARD NETWORKS 宣布，新加坡總部成立一周年之際，公司成功完成 S &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/uguard-networks%e6%96%b0%e5%8a%a0%e5%9d%a1%e7%b8%bd%e9%83%a8%e6%bb%bf%e5%91%a8%e5%b9%b4-%e5%ae%8c%e6%88%90starlink-%e4%bd%8e%e8%bb%8c%e8%a1%9b%e6%98%9f%e9%96%8b%e7%99%bc/">UGUARD NETWORKS新加坡總部滿周年 完成STARLINK 低軌衛星開發</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球網路安全與通訊創新領導者 UGUARD NETWORKS 宣布，新加坡總部成立一周年之際，公司成功完成 STARLINK 低軌衛星開發與整合計畫，並宣布推出「台灣區老客戶免費企業健檢服務」，即日起至2026年底開放申請。此舉不僅回饋長期支持的客戶，也透過專業檢測與顧問服務，幫助企業全面掌握網路現況，打造更高速、穩定與安全的數位環境。</p>
+
+
+
+<p>UGUARD NETWORKS於 2025年8月，特派全體研發部赴日本東京全力投入低軌衛星通訊技術整合研發，結合自身在網路安全領域的優勢，成功推動 STARLINK 低軌衛星技術整合，此突破將協助台灣及亞太地區企業、醫療機構與公共單位突破傳統網路基礎建設限制，並獲得高速、穩定且安全的網路服務。</p>
+
+
+
+<p>隨著企業數位化與雲端應用快速成長，廣域網路管理與資安挑戰日益複雜，UGUARD NETWORKS 新加坡總部將持續以「低軌衛星、網路安全」為核心發展方向，積極拓展全球市場，並致力於透過科技創新，為客戶與社會創造長遠價值。此次活動將透過 <strong>AgileLink新世代廣域網路管理平台，</strong>協助企業檢視現有架構，確保在高速連線與資安威脅日增的環境下，企業能維持網路品質。</p>
+
+
+
+<p>為什麼選擇 UGUARD NETWORKS？</p>
+
+
+
+<p>我們自成立以來，自主研發、專業可靠為核心精神，相較於單純提供設備的廠商，UGUARD NETWORKS更注重 「持續關懷客戶的使用狀況」。此次推出「台灣區老客戶免費企業健檢服務」活動，不僅是對老客戶的回饋，更是我們實現承諾的具體行動—「陪伴客戶持續成長，確保企業網路永續穩定。」</p>
+
+
+
+<p>UGUARD NETWORKS 執行長 Jason Yen 表示：「2025年8月在日本東京、我們不僅完成了 STARLINK 低軌衛星的整合，也啟動『台灣區老客戶免費企業健檢服務』，這代表 UGUARD NETWORKS 不只是站在科技創新的前端，更把『守護連線』視為企業使命。未來我們將持續深耕新加坡與亞太市場，推動網路安全、通訊的結合，為全球客戶創造更好的網路品質。」</p>
+
+
+
+<p>「台灣區老客戶免費企業健檢服務」的活動－<br>活動對象：以UGUARD NETWORKS產品既有的客戶，欲檢視目前企業的網路環境的公司。<br>活動時間：即日起至2026年12月31日<br>健檢服務範圍：</p>
+
+
+
+<ul class="wp-block-list">
+<li>網路架構全面檢測：涵蓋 WAN/LAN 架構設計與流量行為分析。</li>
+
+
+
+<li> 資安防護健檢：DNS、防火牆及應用存取安全檢視。</li>
+
+
+
+<li>多據點連線安全審核：跨國 VPN 與分點營運安全確認。</li>
+
+
+
+<li>專業報告與建議：30 個工作日內交付完整分析與改善善建議。</li>
+</ul>
+
+
+
+<p>活動網址：<br><a href="https://tw.uguardnetworks.com/free-enterprise-health-for-taiwan-event/" target="_blank" rel="noreferrer noopener">https://tw.uguardnetworks.com/free-enterprise-health-for-taiwan-event/#</a></p>
+
+
+
+<p>參加此活動的好處，老客戶企業用戶可延伸至定期巡檢，籍由本次健檢服務幫助客戶瞭解自身企業的網路問題，有效減輕 IT 人員維運負擔，提升企業長期營運穩定與網路效率、資安防護。</p>
+
+
+
+<p><strong>UGUARD NETWORKS全產品解決方案</strong></p>
+
+
+
+<p>七大解決方案──Defense Trust 、AgileLink 、Traffic Shaper、X-View集中管理報表系統、Defense Cloud、SD-WAN、AI情資報告分析報表；從內網、防禦、外網、全球連線服務，每款產品都含X-View集中報表、AI情資分析報表、簡易直觀的UI畫面，展現使用者導向的設計理念。</p>
+
+
+
+<p>從內網流控、防禦威脅，到外部連線品質控管，一應俱全，適合單一據點或多分點的企業部署。透過X-View將複雜流量與安全狀態圖形化，幫助管理者即時做決策，及 UGUARD AI 來分析情資命中紀錄，產出方便 IT人員閱讀與使用的分析報告，加速威脅的排除， 自動解析情資分析，快速生成PDF/WORD/Markdown分析文件，即時掌握攻擊趨勢與風險評估，全面強化企業網絡的資訊安全與效能運作。</p>
+
+
+
+<p><strong>關於新加坡商 UGUARD NETWORKS®</strong></p>
+
+
+
+<p>UGUARD NETWORKS在資安領域是全方位網路服務的公司，致力於不斷創新WAN 和資安威脅情資方面的產品研發，我們有積極正面解決問題的能力，全力以赴朝向國際市場邁進，提供全球企業最好的網路安全解決方案，讓使用者以最輕鬆的部署及操作解決網路環境問題。我們的產品廣泛應用於教育、政府、零售、製造、金融等企業用戶環境，提供您最佳化的網路環境，詳情官方網站<a href="http://www.uguardnetworks.com/" target="_blank" rel="noreferrer noopener">www.uguardnetworks.com</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/05/uguard-networks%e6%96%b0%e5%8a%a0%e5%9d%a1%e7%b8%bd%e9%83%a8%e6%bb%bf%e5%91%a8%e5%b9%b4-%e5%ae%8c%e6%88%90starlink-%e4%bd%8e%e8%bb%8c%e8%a1%9b%e6%98%9f%e9%96%8b%e7%99%bc/">UGUARD NETWORKS新加坡總部滿周年 完成STARLINK 低軌衛星開發</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>青少年近9成近視！護眼消費成趨勢 檯燈首創「護眼教練功能」</title>
+		<link>https://firenews.com.tw/2025/09/04/%e9%9d%92%e5%b0%91%e5%b9%b4%e8%bf%919%e6%88%90%e8%bf%91%e8%a6%96%ef%bc%81%e8%ad%b7%e7%9c%bc%e6%b6%88%e8%b2%bb%e6%88%90%e8%b6%a8%e5%8b%a2-%e6%aa%af%e7%87%88%e9%a6%96%e5%89%b5%e3%80%8c%e8%ad%b7%e7%9c%bc/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 07:25:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=251372</guid>
+
+					<description><![CDATA[<p>根據衛福部國健署 2017 年調查顯示，18 歲以下青少年近視率高達 87.2％（圖取自freepik） 記者 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/04/%e9%9d%92%e5%b0%91%e5%b9%b4%e8%bf%919%e6%88%90%e8%bf%91%e8%a6%96%ef%bc%81%e8%ad%b7%e7%9c%bc%e6%b6%88%e8%b2%bb%e6%88%90%e8%b6%a8%e5%8b%a2-%e6%aa%af%e7%87%88%e9%a6%96%e5%89%b5%e3%80%8c%e8%ad%b7%e7%9c%bc/">青少年近9成近視！護眼消費成趨勢 檯燈首創「護眼教練功能」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-251374" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">根據衛福部國健署 2017 年調查顯示，18 歲以下青少年近視率高達 87.2％（圖取自freepik）</figcaption></figure>
+
+
+
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>根據衛福部國健署 2017 年調查顯示，台灣小六學生近視率 70.6％，18 歲以下青少年近視率高達 87.2％，幾乎是全球最高。</strong></p>
+</blockquote>
+
+
+
+<p>諾貝爾眼科院長張朝凱醫師表示，若錯過成長期護眼黃金期，近視惡化將幾乎不可逆，高度近視更可能引發青光眼、黃斑部病變與視網膜剝離等併發症，對一生視力造成嚴重影響。</p>
+
+
+
+<p>隨著近視年齡降低，各大品牌推出各式護眼產品，開學季「護眼消費」成為最受矚目的趨勢。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>抗藍光、葉黃素不是萬靈丹 眼科院長：護眼就從「檯燈」開始</strong></h2>
+
+
+
+<p>面對學童近視問題，許多家長挑選抗藍光眼鏡、貼膜，或補充葉黃素保健品。但「被動防護」無法真正解決日常用眼負擔。兒童與青少年每天在書桌前用眼時數長，若檯燈光線過亮、過暗、不夠均勻或色溫不當，會造成眼睛疲勞，加速近視惡化。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="942" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2.png?resize=1220%2C942&#038;ssl=1" alt="" class="wp-image-251375" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2.png?w=1788&amp;ssl=1 1788w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2.png?resize=768%2C593&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2.png?resize=1536%2C1186&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">諾貝爾眼科院長張朝凱醫師指出：「護眼就從檯燈開始！」（圖片：喜光提供）</figcaption></figure>
+
+
+
+<p>諾貝爾眼科院長張朝凱醫師指出：「護眼就從檯燈開始！」打造護眼光環境，是保護孩子視力的第一步。然而，家長往往不清楚該如何挑選檯燈，可能買到不符安規認證的產品，或有智慧功能噱頭，實際使用上不知如何調整正確亮度與色溫，導致護眼效果有限，甚至傷害視力。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>喜光光靈燈首創50分鐘節律光 「護眼教練模式」</strong></h2>
+
+
+
+<p>看準市場痛點，護眼檯燈領導品牌「喜光」推出專為學齡兒童與青少年設計的 「光靈燈」。該產品首創「50 分鐘節律光」，將已廣泛運用於長照機構、病房的醫療級光源，應用於兒童學習場域，讓檯燈像一位「護眼教練」，陪伴孩子養成健康用眼習慣。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-251376" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.jpg?resize=1536%2C1025&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">依循兒童專注週期，光靈燈 「護眼教練模式」可以在50分鐘內色溫自動變化，影響生理節律。（圖片：喜光提供）</figcaption></figure>
+
+
+
+<p>依循兒童專注週期，光靈燈 「護眼教練模式」可以在50分鐘內色溫自動變化，影響生理節律。打造正確的動態用眼節奏，色溫漸變引導眼球「專注—穩定—放鬆」，提升學習專注力，更能有效減少乾眼與視力惡化。</p>
+
+
+
+<p>前段白光 10 分鐘，幫助快速進入專注狀態；中段漸變中性光 30 分鐘，穩定視覺、保護眼睛；後段漸變黃光 10 分鐘，舒緩眼疲勞，降低近視惡化風險。每 50 分鐘自動熄燈，提醒孩子望遠短暫休息。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="611" height="404" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/4.jpeg?resize=611%2C404&#038;ssl=1" alt="" class="wp-image-251377" data-recalc-dims="1"/><figcaption class="wp-element-caption">喜光光靈燈 「護眼教練模式」色溫漸變引導眼球「專注—穩定—放鬆」，提升學習專注力，更能有效減少乾眼與視力惡化。（圖取自娣媛媽咪愛分享）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>成長期護眼投資 護眼檯燈成開學必買</strong></h2>
+
+
+
+<p>完整的護眼方案應該包含「抗藍光、營養補充與光環境改善」三重防護。隨著開學季來臨，護眼檯燈已成為家庭必備的教育裝備，象徵著家長對孩子學習專注與長遠健康的雙重守護。相較於抗藍光產品或保健食品，護眼檯燈是孩子眼睛的第一線防護。對於重視教育與健康的家長而言，一盞能同時守護視力、培養專注力的檯燈，是最值得的成長期投資。</p>
+
+
+
+<p>護眼不能等，讓喜光光靈燈成為孩子的視力守護者 >> <a href="https://pse.is/845mxm">https://pse.is/845mxm</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/04/%e9%9d%92%e5%b0%91%e5%b9%b4%e8%bf%919%e6%88%90%e8%bf%91%e8%a6%96%ef%bc%81%e8%ad%b7%e7%9c%bc%e6%b6%88%e8%b2%bb%e6%88%90%e8%b6%a8%e5%8b%a2-%e6%aa%af%e7%87%88%e9%a6%96%e5%89%b5%e3%80%8c%e8%ad%b7%e7%9c%bc/">青少年近9成近視！護眼消費成趨勢 檯燈首創「護眼教練功能」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
