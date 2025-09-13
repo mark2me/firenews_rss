@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Sat, 13 Sep 2025 06:00:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 06:16:20 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -207,8 +207,7 @@
 		
 		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
 		<pubDate>Sat, 13 Sep 2025 04:34:46 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
+				<category><![CDATA[時事]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[微軟]]></category>
 		<category><![CDATA[新聞]]></category>
