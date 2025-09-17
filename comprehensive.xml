@@ -1,839 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>綜合 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/綜合/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 17 Sep 2025 11:12:32 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>綜合 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/綜合/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>博帝科技 Gen5 SSD 產品陣容全面升級 提供全方位解決方案</title>
-		<link>https://firenews.com.tw/2025/09/17/%e5%8d%9a%e5%b8%9d%e7%a7%91%e6%8a%80-gen5-ssd-%e7%94%a2%e5%93%81%e9%99%a3%e5%ae%b9%e5%85%a8%e9%9d%a2%e5%8d%87%e7%b4%9a-%e6%8f%90%e4%be%9b%e5%85%a8%e6%96%b9%e4%bd%8d%e8%a7%a3%e6%b1%ba/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 09:51:05 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=256201</guid>
-
-					<description><![CDATA[<p>博帝科技（Patriot Memory）持續深化高效能儲存技術，正式推出最新 PCIe® Gen5 x4 固態 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e5%8d%9a%e5%b8%9d%e7%a7%91%e6%8a%80-gen5-ssd-%e7%94%a2%e5%93%81%e9%99%a3%e5%ae%b9%e5%85%a8%e9%9d%a2%e5%8d%87%e7%b4%9a-%e6%8f%90%e4%be%9b%e5%85%a8%e6%96%b9%e4%bd%8d%e8%a7%a3%e6%b1%ba/">博帝科技 Gen5 SSD 產品陣容全面升級 提供全方位解決方案</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>博帝科技（Patriot Memory）持續深化高效能儲存技術，正式推出最新 PCIe® Gen5 x4 固態硬碟：中階 Viper PV563 以及入門級 Patriot PA523。兩款新品將與旗艦 Viper PV593 共同構建完整 Gen5 SSD 產品陣容，滿足專業創作者、競技玩家與高效電腦使用者對速度與穩定性的需求。</p>
-
-
-
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1200" height="800" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image_5031393_26213918.jpg?resize=1200%2C800&#038;ssl=1" alt="" class="wp-image-256204" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image_5031393_26213918.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image_5031393_26213918.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">博帝推出全新 Viper PV563 及 Patriot PA523 Gen5 x4 SSD</figcaption></figure>
-
-
-
-<p><strong>Viper PV563: </strong><strong>旗艦級速度，輕量化體驗</strong></p>
-
-
-
-<p>Viper PV563 SSD專為追求高效能的消費者而設計，且無須花費旗艦級價位。在最新的 NVMe 2.0 規範下，其連續讀取速度高達 14,000MB/s，寫入速度高達 11,000MB/s。此系列提供 1TB、2TB 及 4TB 三種容量選擇，其中 4TB 型號的耐久度高達 3000TBW。</p>
-
-
-
-<p>Viper PV563 採用 Host Memory Buffer (HMB) 技術與動態 SLC 快取功能，確保快速開機、流暢的資料傳輸與始終如一的低延遲。其輕薄的 M.2 外型尺寸，非常適合安裝於精巧的迷你 PC；而高效的散熱設計則能減少溫控調頻，在高負載下仍可維持穩定性。</p>
-
-
-
-<p><strong>Patriot PA523: Gen5 </strong><strong>效能的信心之選</strong></p>
-
-
-
-<p>Patriot PA523 固態硬碟為使用者提供了強大且親民的 PCIe Gen5 x4 儲存方案。其連續讀取速度高達 10,000MB/s，寫入速度高達 8,500MB/s，相較於 Gen4 和 SATA 固態硬碟有顯著的效能躍升。與 Viper PV563 相同，此系列也提供 1TB、2TB 和 4TB 容量選擇，其中 4TB 型號的耐久度同樣達到 3000TBW。</p>
-
-
-
-<p>Patriot PA523 採用單面 M.2 2280 設計，體積輕巧且散熱高效，是輕薄筆電及小體積系統的理想選擇。其低功耗及優化的散熱管理，確保了穩定可靠的效能，同時有效避免過熱問題。</p>
-
-
-
-<p><strong>完整的</strong><strong> Gen5 </strong><strong>生態系統</strong></p>
-
-
-
-<p>博帝科技透過旗艦級的 PV593、精簡高效的 PV563，以及親民的 PA523，建構了完整的 PCIe Gen5 固態硬碟產品組合，以滿足使用者從極致速度追求者到重視性價比的升級族群等多元需求。</p>
-
-
-
-<p>這三款固態硬碟皆提供博帝科技全球 5 年有限保固，再次印證公司對產品可靠性、效能和客戶信賴的承諾。相關產品可至博帝線上購官方網站購買: <a href="https://shop.patriotmemory.com/" target="_blank" rel="noreferrer noopener">https://shop.patriotmemory.com</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e5%8d%9a%e5%b8%9d%e7%a7%91%e6%8a%80-gen5-ssd-%e7%94%a2%e5%93%81%e9%99%a3%e5%ae%b9%e5%85%a8%e9%9d%a2%e5%8d%87%e7%b4%9a-%e6%8f%90%e4%be%9b%e5%85%a8%e6%96%b9%e4%bd%8d%e8%a7%a3%e6%b1%ba/">博帝科技 Gen5 SSD 產品陣容全面升級 提供全方位解決方案</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>來恩生物宣布TCR-T療法獲FDA批准開展慢性乙型肝炎治療臨床試驗</title>
-		<link>https://firenews.com.tw/2025/09/17/%e4%be%86%e6%81%a9%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83tcr-t%e7%99%82%e6%b3%95%e7%8d%b2fda%e6%89%b9%e5%87%86%e9%96%8b%e5%b1%95%e6%85%a2%e6%80%a7%e4%b9%99%e5%9e%8b%e8%82%9d%e7%82%8e%e6%b2%bb%e7%99%82/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 09:16:33 +0000</pubDate>
-				<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=256186</guid>
-
-					<description><![CDATA[<p>新加坡和廣州2025年9月15日 /美通社/ 來恩生物（Lion TCR）宣布，其創新 mRNA 編碼 TCR &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e4%be%86%e6%81%a9%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83tcr-t%e7%99%82%e6%b3%95%e7%8d%b2fda%e6%89%b9%e5%87%86%e9%96%8b%e5%b1%95%e6%85%a2%e6%80%a7%e4%b9%99%e5%9e%8b%e8%82%9d%e7%82%8e%e6%b2%bb%e7%99%82/">來恩生物宣布TCR-T療法獲FDA批准開展慢性乙型肝炎治療臨床試驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>新加坡和廣州2025年9月15日 /美通社/</p>
-
-
-
-<p>來恩生物（Lion TCR）宣布，其創新 mRNA 編碼 TCR-T 細胞療法 LioCyx-M004 獲美國 FDA 批准，可展開針對慢性乙型肝炎（CHB）患者的 1b/2 期臨床試驗（IND）。此項批准標誌全球首個獲 FDA 認可用於慢性乙肝的 TCR-T 細胞療法，亦為首款獲FDA快速通道資格的乙肝病毒特異性治療方案。</p>
-
-
-
-<p><strong>01 突破性療法：多重認證彰顯創新價值，FDA三連批認可創新實力</strong></p>
-
-
-
-<p>LioCyx-M004是一種自體T細胞療法，通過mRNA編碼表達靶向乙肝病毒表面抗原的TCR，賦予T細胞特異性識別並殺傷乙肝病毒感染肝細胞的能力。這種創新方法利用mRNA瞬時表達的特性，結合多次輸注的方式，既能很好地控制安全性又能保證療效。</p>
-
-
-
-<p>該療法此前已獲得FDA批准用於治療乙肝病毒相關肝細胞癌，現在又獲批開展慢性乙型肝炎治療的臨床試驗，證明了該平台技術的廣泛應用前景。快速通道資格將加速該療法的開發和審評進程，而孤兒藥認定則為HBV相關肝細胞癌患者帶來了新的希望。</p>
-
-
-
-<p><strong>02 全球乙肝負擔：近3億患者亟需治愈，創新療法帶來新希望</strong></p>
-
-
-
-<p>乙肝病毒（HBV）感染是全球健康的重大挑戰，全球慢性乙肝患者約2.96億，其中中國患者超過8600萬，治療需求極為迫切。當前抗病毒藥物難以實現功能性治愈（即乙肝表面抗原持續清除），僅不到10%的患者病情得到有效控制。來恩生物研發的TCR-T療法LioCyx-M004通過精準靶向HBV感染細胞、激活病毒特異性T細胞免疫，為全球數億患者帶來了實現功能性治愈的新希望。</p>
-
-
-
-<p><strong>03 臨床數據驚艷：低劑量組即顯示HBsAg下降，安全性優勢顯著</strong></p>
-
-
-
-<p>在早期的1期臨床研究中，LioCyx-M004已展現了良好的安全性，使晚期肝癌患者生存期得到顯著提升，實現了33.1個月的中位總生存期，並觀察到乙肝表面抗原（HBsAg）的下降，顯示出抗腫瘤和抗病毒治療效果。</p>
-
-
-
-<p>來恩生物首席醫學官兼首席運營官王婷婷博士表示：「我們正在乙肝患者中進行劑量遞增研究（dose escalation study），在低劑量組已經觀察到HBsAg的下降，這令我們備受鼓舞。通過過繼性回輸和補充患者自體的HBV特異性TCR-T細胞是一種很有前景的治療手段，有希望重建患者體內的HBV特異性T細胞庫，我們正通過劑量遞增研究尋找最佳治療劑量和方案。」</p>
-
-
-
-<p>值得注意的是，患者在治療前不需要淋巴細胞清除（lymphodepletion），進一步提高了患者用藥安全性和可及性。在安全性方面，未觀察到細胞因子風暴或神經毒性反應，說明mRNA編碼TCR-T療法是一種安全有效的療法。</p>
-
-
-
-<p><strong>04 戰略升級：從腫瘤治療邁向抗病毒新戰場</strong></p>
-
-
-
-<p>來恩生物首席執行官彭曉明博士將此次獲批視為公司發展的關鍵轉折點：「此次獲批開展慢性乙型肝炎治療臨床試驗，標誌著我們的平台技術實現了從腫瘤治療領域向病毒感染治療領域的戰略性拓展。隨著臨床試驗的推進，我們將加速完成從實驗室到臨床、再從臨床到市場的完整價值鏈構建，為全球數億乙肝患者提供創新治療方案的同時，實現企業的商業價值和社會價值的雙重回報。」</p>
-
-
-
-<p><strong>05 未來佈局：in vivo TCR-T療法獲權威驗證，產業轉化進程加速</strong></p>
-
-
-
-<p>值得關注的是，來恩生物的mRNA編碼靶向HBV的in vivo TCR-T已被美國著名腫瘤研究所驗證。研究表明，該療法在動物模型中展現出顯著的殺傷HBV陽性細胞的功能，其治療效果與體外工程化改造的T細胞相當，這為靶向HBV的in vivo TCR-T產業轉化奠定了堅實的科學基礎。</p>
-
-
-
-<p>目前公司正在積極推進這一創新方向，加快in vivo TCR-T療法的開發進程。與傳統體外改造T細胞療法相比，in vivo TCR-T療法具有現貨型、成本低、可及性高等優勢，有望為更多患者提供治療機會。</p>
-
-
-
-<p>公司還在升級AI賦能的TCR靶點發現平台，計劃將產品管線拓展至肺癌、乳腺癌和消化道腫瘤等更多實體瘤領域。</p>
-
-
-
-<p><strong>關於來恩生物</strong></p>
-
-
-
-<p>來恩生物是一家從新加坡科技研究局（A*STAR）孵化的臨床階段生物技術公司。其核心產品治療乙型肝炎病毒（HBV）相關性疾病，是全球首個獲得美國FDA批准開展國際多中心Ⅱ期臨床試驗的、靶向HBV的TCR-T細胞療法，並已獲得FDA快速通道和孤兒藥資質，同時也已取得中國國家藥品監督管理局（NMPA）的臨床試驗默示許可。</p>
-
-
-
-<p>公司依托AI驅動的TCR發現平台和RNA技術，正積極將產品管線拓展至多種實體瘤及感染性疾病領域。來恩生物佈局了包括自體細胞治療和通用型療法在內的多元產品體系，並致力於開發in vivo TCR-T療法，顯著降低治療成本，提升可及性。</p>
-
-
-
-<p>SOURCE Lion TCR</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e4%be%86%e6%81%a9%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83tcr-t%e7%99%82%e6%b3%95%e7%8d%b2fda%e6%89%b9%e5%87%86%e9%96%8b%e5%b1%95%e6%85%a2%e6%80%a7%e4%b9%99%e5%9e%8b%e8%82%9d%e7%82%8e%e6%b2%bb%e7%99%82/">來恩生物宣布TCR-T療法獲FDA批准開展慢性乙型肝炎治療臨床試驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>KC SKIN日本熱銷 年底前將進駐百店</title>
-		<link>https://firenews.com.tw/2025/09/17/kc-skin%e6%97%a5%e6%9c%ac%e7%86%b1%e9%8a%b7-%e5%b9%b4%e5%ba%95%e5%89%8d%e5%b0%87%e9%80%b2%e9%a7%90%e7%99%be%e5%ba%97/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 05:11:21 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[KC SKIN]]></category>
-		<category><![CDATA[Loft橫濱旗艦店]]></category>
-		<category><![CDATA[外泌體]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=256067</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 主打頂尖外泌體科技的新創保養品牌「KC SKIN &#8211; Kristen Cl &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/kc-skin%e6%97%a5%e6%9c%ac%e7%86%b1%e9%8a%b7-%e5%b9%b4%e5%ba%95%e5%89%8d%e5%b0%87%e9%80%b2%e9%a7%90%e7%99%be%e5%ba%97/">KC SKIN日本熱銷 年底前將進駐百店</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>主打頂尖外泌體科技的新創保養品牌「KC SKIN &#8211; Kristen Claire」，上週進軍日本首都圈，於Loft橫濱旗艦店首賣創下佳績，引爆市場高度關注。KC SKIN更乘勝追擊，正式於日本全國11家Loft實體門市全面上市，全系列六款產品在開賣首日皆創下亮眼銷量，成功在日本美妝市場掀起一場外泌體保養浪潮。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/選擇2-1.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-256072" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/選擇2-1.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/選擇2-1.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/選擇2-1.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/選擇2-1.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KC SKIN於日本全國11家Loft實體門市上市。（圖/Kristen Claire提供)</figcaption></figure>
-
-
-
-<p>繼Loft橫濱店首發成功後，KC SKIN於9月16日正式將銷售版圖擴展至日本全國11家Loft大型旗艦店，深入東京銀座、涉谷、池袋、吉祥寺，以及千葉、福岡天神、名古屋榮、大阪梅田、京都、仙台等指標性的一線城市。</p>
-
-
-
-<p>在本次擴展的據點中，位於一級戰區的「Loft涉谷店」與「Loft千葉店」，更獲得「破格」的陳列待遇，以雙倍獨立端架空間盛大展售，此舉等同宣告其作為「2025下半年重點品牌」的權威地位。</p>
-
-
-
-<p>其中，位於全球潮流聖地的「Loft涉谷店」更是本次擴展的指標性據點。其戰略目的在於讓來自世界各地的潮流人士與觀光客，都能第一時間體驗到KC SKIN結合積雪草與乳酸菌的頂尖外泌體科技，是品牌向國際市場展示實力的重要戰略櫥窗。</p>
-
-
-
-<p>除了實體門市的熱銷，KC SKIN全系列產品也於Loft官方網路商店同步上架，實現線上線下無斷點的銷售服務。品牌更訂下長遠目標，為讓更多日本民眾體驗到外泌體的驚人效果，預計於今年12月底前，將銷售據點擴展至全日本100家Loft門市。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/kc-skin%e6%97%a5%e6%9c%ac%e7%86%b1%e9%8a%b7-%e5%b9%b4%e5%ba%95%e5%89%8d%e5%b0%87%e9%80%b2%e9%a7%90%e7%99%be%e5%ba%97/">KC SKIN日本熱銷 年底前將進駐百店</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>鬼影追追追回歸！鬼王破解鬼月禁忌 教你淨化家裡髒東西</title>
-		<link>https://firenews.com.tw/2025/09/17/%e9%ac%bc%e5%bd%b1%e8%bf%bd%e8%bf%bd%e8%bf%bd%e5%9b%9e%e6%ad%b8%ef%bc%81%e9%ac%bc%e7%8e%8b%e7%a0%b4%e8%a7%a3%e9%ac%bc%e6%9c%88%e7%a6%81%e5%bf%8c-%e6%95%99%e4%bd%a0%e6%b7%a8%e5%8c%96%e5%ae%b6%e8%a3%a1/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 03:27:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[Roborock]]></category>
-		<category><![CDATA[鬼月禁忌]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=256075</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 農曆七月鬼門開，各大品牌紛紛推出應景行銷活動。掃地機器人品牌 Roborock 石頭科 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e9%ac%bc%e5%bd%b1%e8%bf%bd%e8%bf%bd%e8%bf%bd%e5%9b%9e%e6%ad%b8%ef%bc%81%e9%ac%bc%e7%8e%8b%e7%a0%b4%e8%a7%a3%e9%ac%bc%e6%9c%88%e7%a6%81%e5%bf%8c-%e6%95%99%e4%bd%a0%e6%b7%a8%e5%8c%96%e5%ae%b6%e8%a3%a1/">鬼影追追追回歸！鬼王破解鬼月禁忌 教你淨化家裡髒東西</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>農曆七月鬼門開，各大品牌紛紛推出應景行銷活動。掃地機器人品牌 Roborock 石頭科技以創意結合民俗文化，推出洗地機新品 F25 Ultra，與「鬼王」陳為民影片合作，成功在網路上掀起討論。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667-1.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-256077" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/封面1000_667-1.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ 網友分享石頭科技與陳為民合作被影片中的「洗地機」吸引。（圖／翻攝自Threads）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>女網友重溫鬼影追追追　意外被洗地機圈粉</strong></h2>
-
-
-
-<p>有女網友在 Threads 分享，鬼月期間重溫陳為民經典節目《鬼影追追追》與YouTube 頻道「為民也有約」。網友表示，影片一開始的靈異氛圍讓她「背後涼涼的」，沒想到後半段卻笑點滿滿，看見影片中的吸睛「洗地機」，直呼：「到底是恐怖片還是購物台啦哈哈哈！」並好奇詢問網友使用心得。</p>
-
-
-
-<p>貼文一出，造成網友熱烈討論，「真的很有誠意，看完我都想買那個洗地機了」、「剛查了 石頭，這次很有創意ㄟ哈 又結合鬼月又結合鬼王」、「還以為會看到髒東西 原來是髒東西啊 這個雙關我給過」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1072" height="519" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2-1.jpg?resize=1072%2C519&#038;ssl=1" alt="" class="wp-image-256078" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2-1.jpg?w=1072&amp;ssl=1 1072w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2-1.jpg?resize=768%2C372&amp;ssl=1 768w" sizes="(max-width: 1072px) 100vw, 1072px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ 網友直呼影片誠意滿滿，還有人被 Roborock F25 Ultra洗地機圈粉。（圖／翻攝自Threads）</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>新品主打蒸氣熱水雙效洗地 打造潔淨居家環境</strong></h2>
-
-
-
-<p>石頭科技推出洗地機新品 F25 Ultra，主打「蒸氣＋熱水」雙核心技術，不僅能有效去除頑固髒汙與油漬，更能營造乾淨舒適的居家環境。此次除了產品功能全面升級，品牌也以「去污，我們來蒸的」作為核心概念，展現獨特的行銷巧思。</p>
-
-
-
-<p>宣傳影片同樣呼應此概念，以恐怖片式的敘事與視覺語言營造緊張氛圍，並巧妙融入幽默反差，讓觀眾印象深刻。甚至有網友笑稱「很有泰國廣告的味道」，成功在娛樂與創意之間掀起話題。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>靈異文化加持  新品話題熱度延燒</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="604" height="340" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.png?resize=604%2C340&#038;ssl=1" alt="" class="wp-image-256079" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.png?w=604&amp;ssl=1 604w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ Roborock 宣傳影片以恐怖片手法拍攝，並打造互動遊戲《詭屋蒸相》。（圖／翻攝自石頭智慧生活FaceBook）</figcaption></figure>
-
-
-
-<p>石頭科技透過創意，將行銷活動結合靈異文化，甚至改編台灣十大鬼屋情境，打造互動遊戲《詭屋蒸相》。將娛樂體驗結合產品賣點，貼近台灣人的鬼月記憶，引起網友興趣，放大話題聲量，創造洗地機新品 F25 Ultra 在鬼月檔期的討論熱度。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/17/%e9%ac%bc%e5%bd%b1%e8%bf%bd%e8%bf%bd%e8%bf%bd%e5%9b%9e%e6%ad%b8%ef%bc%81%e9%ac%bc%e7%8e%8b%e7%a0%b4%e8%a7%a3%e9%ac%bc%e6%9c%88%e7%a6%81%e5%bf%8c-%e6%95%99%e4%bd%a0%e6%b7%a8%e5%8c%96%e5%ae%b6%e8%a3%a1/">鬼影追追追回歸！鬼王破解鬼月禁忌 教你淨化家裡髒東西</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CAR-T療法迎進展宇越生醫一期臨床數據亮眼　安全性佳並獲多方投資挹注積極邁向公發興櫃</title>
-		<link>https://firenews.com.tw/2025/09/16/car-t%e7%99%82%e6%b3%95%e8%bf%8e%e9%80%b2%e5%b1%95%e5%ae%87%e8%b6%8a%e7%94%9f%e9%86%ab%e4%b8%80%e6%9c%9f%e8%87%a8%e5%ba%8a%e6%95%b8%e6%93%9a%e4%ba%ae%e7%9c%bc%e3%80%80%e5%ae%89%e5%85%a8%e6%80%a7/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 02:03:21 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[CAR-T]]></category>
-		<category><![CDATA[宇越生醫]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=255448</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 新藥開發公司宇越生醫宣布，其自主開發之CAR-T細胞治療藥物Welgenaleucel &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/16/car-t%e7%99%82%e6%b3%95%e8%bf%8e%e9%80%b2%e5%b1%95%e5%ae%87%e8%b6%8a%e7%94%9f%e9%86%ab%e4%b8%80%e6%9c%9f%e8%87%a8%e5%ba%8a%e6%95%b8%e6%93%9a%e4%ba%ae%e7%9c%bc%e3%80%80%e5%ae%89%e5%85%a8%e6%80%a7/">CAR-T療法迎進展宇越生醫一期臨床數據亮眼　安全性佳並獲多方投資挹注積極邁向公發興櫃</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>新藥開發公司宇越生醫宣布，其自主開發之CAR-T細胞治療藥物<strong>Welgenaleucel (UWC19)</strong>完成治療淋巴瘤第一期臨床試驗。為推進後續臨床二期試驗，宇越生醫近期已完成新一輪資金募集，由<strong>台安生技</strong>領投，並獲經濟部產業發展署代管的國發基金加入，以及多家生技創投共同參與。</p>
-
-
-
-<p>多元投資方的加入，不僅代表宇越生醫的技術與臨床成果受到專業投資界高度肯定，也彰顯公司具備長期發展潛力與進一步國際化的契機。宇越生醫隨著研發成果與資本支持同步到位，將加速進行資本市場布局，由福邦證券輔導，<strong>公開發行並登錄興櫃</strong><strong>。</strong><strong></strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="916" height="665" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/messageImage_1757667085393.jpg?resize=916%2C665&#038;ssl=1" alt="" class="wp-image-255449" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/messageImage_1757667085393.jpg?w=916&amp;ssl=1 916w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/messageImage_1757667085393.jpg?resize=768%2C558&amp;ssl=1 768w" sizes="(max-width: 916px) 100vw, 916px" data-recalc-dims="1" /><figcaption class="wp-element-caption">宇越生醫獲多方投資挹注積極邁向公發興櫃。圖/宇越生醫提供</figcaption></figure>
-
-
-
-<p>宇越生醫自主開發的CAR-T技術平台，具備生產製造時間短、細胞增殖效率高與產品製備成本低等特色。</p>
-
-
-
-<p>宇越生醫<strong>郭正宜博士</strong>說道，<strong>Welgenaleucel</strong>(UWC19)<strong>治療</strong>淋巴瘤第一期臨床試驗結果顯示，藥物整體安全性良好，未見神經毒性發生，並展現顯著治療成效，已有多位受試者達到完全緩解3年以上，其中有受試者在治療後達到<strong>無疾病存活並持續追蹤超過四年</strong>。此次試驗不僅確認了與現行已上市的CAR-T產品相比，Welgenaleucel (UWC19) 證明在淋巴瘤病患中有良好安全性與耐受性，更在多數受試者身上展現持久的疾病控制力，顯示該藥物有望成為復發或難治型B細胞非霍奇金淋巴瘤病患的重要治療選項。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084577_0.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-255450" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084577_0.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084577_0.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">CAR-T療法迎進展 宇越生醫一期臨床數據亮眼。圖/宇越生醫提供</figcaption></figure>
-
-
-
-<p>宇越生醫強調，隨著研發成果與資本支持同步到位，將全力推動Welgenaleucel (UWC19) 臨床二期進程，進一步擴大在CAR-T細胞治療領域的應用與市場機會。從全球市場來看，CAR-T細胞治療已成為血液腫瘤創新療法的重要發展方向，據國際市場研究機構預估，相關市場規模於未來數年將保持雙位數成長。宇越生醫表示，未來除持續推進B細胞非霍奇金淋巴瘤適應症的二期試驗外，亦規劃將CAR-T技術擴展至急性淋巴性白血病、自體免疫疾病等多項適應症，打造多元治療管線。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084588_0.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-255451" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084588_0.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__95084588_0.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">從全球市場來看，CAR-T細胞治療已成為血液腫瘤創新療法的重要發展方向。圖/宇越生醫提供</figcaption></figure>
-
-
-
-<p>宇越生醫秦嘉鴻董事長表示，宇越生醫臨床成果與興櫃計畫，不僅彰顯台灣在細胞及基因治療自主研發的實力，也驗證國內細胞及基因製劑生產能力，有助於吸引更多資本關注國內新藥產業，帶動台灣生技產業鏈的國際布局進而提升台灣生技產業國際能見度。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/16/car-t%e7%99%82%e6%b3%95%e8%bf%8e%e9%80%b2%e5%b1%95%e5%ae%87%e8%b6%8a%e7%94%9f%e9%86%ab%e4%b8%80%e6%9c%9f%e8%87%a8%e5%ba%8a%e6%95%b8%e6%93%9a%e4%ba%ae%e7%9c%bc%e3%80%80%e5%ae%89%e5%85%a8%e6%80%a7/">CAR-T療法迎進展宇越生醫一期臨床數據亮眼　安全性佳並獲多方投資挹注積極邁向公發興櫃</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>紅麴研究新發現：代謝穩定也可能是延緩失智的關鍵</title>
-		<link>https://firenews.com.tw/2025/09/16/%e7%b4%85%e9%ba%b4%e7%a0%94%e7%a9%b6%e6%96%b0%e7%99%bc%e7%8f%be%ef%bc%9a%e4%bb%a3%e8%ac%9d%e7%a9%a9%e5%ae%9a%e4%b9%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%bb%b6%e7%b7%a9%e5%a4%b1%e6%99%ba%e7%9a%84%e9%97%9c/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 00:45:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=255487</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 最新研究指出，穩定的身體代謝節奏不僅有助於維持整體健康，更可能與延緩失智症進程密切相關 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/16/%e7%b4%85%e9%ba%b4%e7%a0%94%e7%a9%b6%e6%96%b0%e7%99%bc%e7%8f%be%ef%bc%9a%e4%bb%a3%e8%ac%9d%e7%a9%a9%e5%ae%9a%e4%b9%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%bb%b6%e7%b7%a9%e5%a4%b1%e6%99%ba%e7%9a%84%e9%97%9c/">紅麴研究新發現：代謝穩定也可能是延緩失智的關鍵</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>最新研究指出，穩定的身體代謝節奏不僅有助於維持整體健康，更可能與延緩失智症進程密切相關。專家強調，透過規律作息、均衡飲食與適度運動等生活方式調整，搭配安全的紅麴補充，有望為腦部健康提供更長遠的保護。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="858" height="569" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-168.png?resize=858%2C569&#038;ssl=1" alt="" class="wp-image-255488" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-168.png?w=858&amp;ssl=1 858w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-168.png?resize=768%2C509&amp;ssl=1 768w" sizes="(max-width: 858px) 100vw, 858px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>代謝穩定與認知功能：研究揭示密切關聯</strong></h2>
-
-
-
-<p>人體代謝系統負責運送氧氣與養分至各器官，同時排除老廢物質，對於高度依賴能量與循環的大腦而言，穩定的代謝節奏至關重要。研究顯示，微血管循環順暢有助於提升認知表現，並與降低失智風險相關。</p>
-
-
-
-<p>在維持代謝穩定的多元策略中，紅麴成分受到科學界高度關注。紅麴中的活性物質具備抗氧化與抗發炎特性，有助於營造更友善的腦部環境。部分文獻亦指出，紅麴有助於降低總膽固醇、穩定血糖，進一步延緩認知退化。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="741" height="489" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-169.png?resize=741%2C489&#038;ssl=1" alt="" class="wp-image-255489" data-recalc-dims="1"/></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>放進日常更安心：優先選擇「不含 Monacolin K」的紅麴</strong></h2>
-
-
-
-<p>要讓紅麴成為日常保養的一部分，安全至關重要。市面上紅麴種類眾多，若要額外食用紅麴，建議先了解紅麴的製程及成分，以傳統方式發酵製成的紅麴，含有Monacolin K（也稱為：莫那可林K）成分，可能與降血脂藥物產生交互作用，也可能造成肌肉痠痛、橫紋肌溶解症及傷肝傷腎等風險，因此在美國也是禁止期使用於保健食品成分中。若想長期保養，建議選擇成分不含 Monacolin K的紅麴。</p>
-
-
-
-<p>此外，選擇標示透明、製程公開的紅麴，可以避免產製過程中受到污染而變質，不僅原料及製程要有嚴格的把關，紅麴品質也要由第三方檢驗認證，證明紅麴成品不含黃麴毒素、橘黴素、赭麴毒素、黴菌及酵母菌、重金屬、塑化劑等危害健康的成分，並取得國家健康食品標章（小綠人），才能吃得更安心，更有保障。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="848" height="474" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-170.png?resize=848%2C474&#038;ssl=1" alt="" class="wp-image-255490" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-170.png?w=848&amp;ssl=1 848w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-170.png?resize=768%2C429&amp;ssl=1 768w" sizes="(max-width: 848px) 100vw, 848px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>整體做法：代謝先穩住，紅麴跟上節奏</strong></h2>
-
-
-
-<p>面對現代人常見的記憶力下降與注意力不集中問題，專家建議從生活習慣著手，包括固定作息、規律運動、攝取富含蔬果與好油的飲食，以及透過閱讀、學習與社交活動刺激腦部。</p>
-
-
-
-<p>在此基礎上，每日定時補充安全且具認證的紅麴產品，並定期觀察精神與記憶狀態，有助於建立穩定代謝的生活節奏，為腦部健康提供更全面的支持。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/16/%e7%b4%85%e9%ba%b4%e7%a0%94%e7%a9%b6%e6%96%b0%e7%99%bc%e7%8f%be%ef%bc%9a%e4%bb%a3%e8%ac%9d%e7%a9%a9%e5%ae%9a%e4%b9%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%bb%b6%e7%b7%a9%e5%a4%b1%e6%99%ba%e7%9a%84%e9%97%9c/">紅麴研究新發現：代謝穩定也可能是延緩失智的關鍵</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Anita美容室霧眉團隊正式進駐</title>
-		<link>https://firenews.com.tw/2025/09/15/anita%e7%be%8e%e5%ae%b9%e5%ae%a4%e9%9c%a7%e7%9c%89%e5%9c%98%e9%9a%8a%e6%ad%a3%e5%bc%8f%e9%80%b2%e9%a7%90/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 00:42:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=254969</guid>
-
-					<description><![CDATA[<p>自 Anita美容室開幕以來，深刻發現當今市場對美妝霧眉與眉毛修復的需求日益增加。因此，Anita美容室特別新 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/15/anita%e7%be%8e%e5%ae%b9%e5%ae%a4%e9%9c%a7%e7%9c%89%e5%9c%98%e9%9a%8a%e6%ad%a3%e5%bc%8f%e9%80%b2%e9%a7%90/">Anita美容室霧眉團隊正式進駐</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>自 Anita美容室開幕以來，深刻發現當今市場對美妝霧眉與眉毛修復的需求日益增加。<br>因此，Anita美容室特別新增此專業營業項目，並 特邀極具專業資歷的名師，組成堅強霧眉團隊，為每一位愛美人士提供最精準、最細膩的服務。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="938" height="774" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-149.png?resize=938%2C774&#038;ssl=1" alt="" class="wp-image-254970" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-149.png?w=938&amp;ssl=1 938w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-149.png?resize=768%2C634&amp;ssl=1 768w" sizes="(max-width: 938px) 100vw, 938px" data-recalc-dims="1" /></figure>
-
-
-
-<p><strong>專業與美感的巔峰組合，眉藝的高峰，從此刻正式展開！</strong></p>
-
-
-
-<p>此次進駐的團隊，由 國際級比賽評審長 蔡雪燕老師 親自領軍。<br>蔡老師曾多次擔任 國際美業創意大賽評審長，亦是國內重要認證考試與比賽評審，被譽為 國家美容丙乙級證照的權威指導老師。更榮獲 全國模範勞工殊榮，並具備 全球半永久紋繡技職講師資格，實力深獲國際肯定。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="886" height="1848" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-150.png?resize=886%2C1848&#038;ssl=1" alt="" class="wp-image-254971" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-150.png?w=886&amp;ssl=1 886w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-150.png?resize=768%2C1602&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-150.png?resize=736%2C1536&amp;ssl=1 736w" sizes="(max-width: 886px) 100vw, 886px" data-recalc-dims="1" /></figure>
-
-
-
-<p>憑藉多年業界經驗與精湛技術，蔡老師不僅是霧眉領域的權威，更致力於推動國際紋繡的專業化與藝術化，並已培育出無數優秀美業人才。<br>本次進駐的霧眉團隊成員，皆擁有 美容乙級證照與十年以上專業經驗，並結合 AI智慧臉型分析，為顧客量身打造最立體、最明亮、最完美的美眉！</p>
-
-
-
-<p><strong>Anita美容室 — 用專業雕琢美，讓每一次回眸都閃耀自信。</strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="910" height="1800" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-151.png?resize=910%2C1800&#038;ssl=1" alt="" class="wp-image-254972" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-151.png?w=910&amp;ssl=1 910w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-151.png?resize=768%2C1519&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-151.png?resize=777%2C1536&amp;ssl=1 777w" sizes="(max-width: 910px) 100vw, 910px" data-recalc-dims="1" /></figure>
-
-
-
-<p>Anita美容室地址：<br>台北市北投區光明路200（距新北投捷運站2分鐘，附近方便停車）</p>
-
-
-
-<p>聯絡電話：0910726383</p>
-
-
-
-<p><a href="https://www.facebook.com/share/1DBCrfXrgb">https://www.facebook.com/share/1DBCrfXrgb</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/15/anita%e7%be%8e%e5%ae%b9%e5%ae%a4%e9%9c%a7%e7%9c%89%e5%9c%98%e9%9a%8a%e6%ad%a3%e5%bc%8f%e9%80%b2%e9%a7%90/">Anita美容室霧眉團隊正式進駐</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>全國獨家．藝術奢旅！震撼心弦《嚴島弦樂四重奏X頂級4旅宿》五日遊  10/21感動出發</title>
-		<link>https://firenews.com.tw/2025/09/12/%e5%85%a8%e5%9c%8b%e7%8d%a8%e5%ae%b6%ef%bc%8e%e8%97%9d%e8%a1%93%e5%a5%a2%e6%97%85%ef%bc%81%e9%9c%87%e6%92%bc%e5%bf%83%e5%bc%a6%e3%80%8a%e5%9a%b4%e5%b3%b6%e5%bc%a6%e6%a8%82%e5%9b%9b%e9%87%8d%e5%a5%8fx/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 08:36:06 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[嚴島弦樂四重奏]]></category>
-		<category><![CDATA[太平洋旅行社]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=254369</guid>
-
-					<description><![CDATA[<p>▲廣島交響樂團演出的宮島月下奇蹟——弦樂四重奏。　圖：太平洋旅行社／提供 【旅奇傳媒/編輯部報導】結合獨家藝文 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/12/%e5%85%a8%e5%9c%8b%e7%8d%a8%e5%ae%b6%ef%bc%8e%e8%97%9d%e8%a1%93%e5%a5%a2%e6%97%85%ef%bc%81%e9%9c%87%e6%92%bc%e5%bf%83%e5%bc%a6%e3%80%8a%e5%9a%b4%e5%b3%b6%e5%bc%a6%e6%a8%82%e5%9b%9b%e9%87%8d%e5%a5%8fx/">全國獨家．藝術奢旅！震撼心弦《嚴島弦樂四重奏X頂級4旅宿》五日遊  10/21感動出發</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="899" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-131.png?resize=1220%2C899&#038;ssl=1" alt="" class="wp-image-254378" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-131.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-131.png?resize=768%2C566&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-131.png?resize=1536%2C1132&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲廣島交響樂團演出的宮島月下奇蹟——弦樂四重奏。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<p>【旅奇傳媒/編輯部報導】結合獨家藝文饗宴、頂級奢華旅宿、精緻名家餐飲，太平洋旅行社規劃「<a href="https://url.pac-group.net/8487rk">《25周年—夢想的旅程—》嚴島弦樂四重奏．鳴門RIDGE五日</a>」奢華遊，為講究生活質感與審美深度的旅人打造，串聯「一夜限定」弦樂演出與私密式移動體驗，帶領遊客深度感受風景與文化的共鳴，成就一場罕見且與眾不同的日本藝術巡禮。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="585" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/25-2501-《25周年─夢想的旅程─》嚴島弦樂四重奏．鳴門RIDGE五日10人夢幻巡航巴士-太平洋旅行社25週年.png?resize=1220%2C585&#038;ssl=1" alt="" class="wp-image-254379" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/25-2501-《25周年─夢想的旅程─》嚴島弦樂四重奏．鳴門RIDGE五日10人夢幻巡航巴士-太平洋旅行社25週年.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/25-2501-《25周年─夢想的旅程─》嚴島弦樂四重奏．鳴門RIDGE五日10人夢幻巡航巴士-太平洋旅行社25週年.png?resize=768%2C368&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/25-2501-《25周年─夢想的旅程─》嚴島弦樂四重奏．鳴門RIDGE五日10人夢幻巡航巴士-太平洋旅行社25週年.png?resize=1536%2C736&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲《25周年─夢想的旅程─》嚴島弦樂四重奏．鳴門RIDGE五日（10人夢幻巡航巴士），為太平洋旅行社25周年慶的限定奢旅。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<p>「<a href="https://url.pac-group.net/8487rk">《25周年—夢想的旅程—》嚴島弦樂四重奏．鳴門RIDGE五日</a>」透過限定演出與精選旅宿的精心安排，讓遊客徜徉自然、沉浸藝術，回歸心靈本質的深層感動，更有獨步全國的五大優質安排：</p>
-
-
-
-<p><strong>1</strong><strong>｜尊寵小團・夢幻移動空間</strong></p>
-
-
-
-<p>為歡慶25周年，強強聯手打造尊寵小團的夢幻移動空間，由<strong>太平洋旅行社</strong>X日本三越伊勢丹聯名限定的「10人夢幻巡航巴士」，經日本職人工藝改造，成就價值逾一億三千萬日圓的尊爵巡航巴士。原為45席的車體，重構為僅8到10席的寬敞配置，配備獨立化妝室與專屬服務人員，堪稱移動中的五星級休憩空間，保有高度隱私與尊崇感。</p>
-
-
-
-<p><strong>2</strong><strong>｜獨一無二・藝術文化盛會</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>僅此一夜！全國獨家夜間奉納演出：廣島交響樂團首席北田千尋領銜弦樂四重奏，獻演專屬貴賓的音樂祭，呈現古典音樂與神聖空間的完美共鳴。</li>
-
-
-
-<li>嚴島神社雙重詩意：白日與夜晚兩度探訪，以兩種光影切換，帶出神域場域獨有的詩意。</li>
-
-
-
-<li>瀨戶內海．星月夜：演出後搭乘專屬渡輪返程，於星空之下、寧靜海面上，享受海風吹拂的浪漫。</li>
-
-
-
-<li>獺祭頂級清酒工廠見學：安排「獺祭」工廠特別通道參觀與品酒，由專人導覽揭開名酒背後的匠心哲學，讓藝術不止於聽覺與視覺，更延伸至舌尖的餘韻。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島.jpg?resize=1220%2C610&#038;ssl=1" alt="" class="wp-image-254380" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島.jpg?resize=768%2C384&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島.jpg?resize=1536%2C768&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲行程安排各項頂級料理，包括圖中MARISSA RESORT 周防大島創意法式料理。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<p><strong>3</strong><strong>｜精湛饗宴・一生必嚐美味</strong></p>
-
-
-
-<p>點綴奢華旅行的亮點，正是激盪味覺的餐桌記憶！旅程中精選多場極具代表性的餐食體驗，橫跨懷石、洋食、鐵板燒與地方旬味，場場皆為難得一遇的味蕾盛宴。 </p>
-
-
-
-<ul class="wp-block-list">
-<li>《米其林二星》御料理古川懷石：可享用正統懷石料理，精準演繹四季風土與美學，讓饕客品嘗到新鮮漁獲、食材的美味。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/宮島Les-Clos.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-254381" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/宮島Les-Clos.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/宮島Les-Clos.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/宮島Les-Clos.png?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲宮島Les Clos。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<ul class="wp-block-list">
-<li>宮島Les Clos：特別安排在百年洋館品嘗晚宴，安坐在Maruni HIROSHIMA名椅，感受義式料理與日本旬味的浪漫交融。</li>
-
-
-
-<li>下關滿關善席——河豚極致會席：以鮮甜脆彈的河豚生魚片，嚴選新鮮時令、搭配山海珍饈的會席料理，讓味蕾探索旬食本味。</li>
-
-
-
-<li>主廚鐵板燒盛宴：日本人經常招待貴賓品嘗鐵板料理，由主廚精湛的技術，帶給客人視覺、聽覺與味覺的享受，是味蕾與感官的協奏曲。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="675" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE1.jpg?resize=1200%2C675&#038;ssl=1" alt="" class="wp-image-254382" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE1.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲鳴門RIDGE枯山水日式庭園。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<ul class="wp-block-list">
-<li>鳴門RIDGE——萬里莊懷石：枯山水日式庭園的侘寂之美盡收眼底，當令食材結合阿波風土料理之精隨，帶來味覺與美學的雙重享受。</li>
-</ul>
-
-
-
-<p><strong>4</strong><strong>｜保證入住・四大奢華旅宿</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>下關溫泉 風之海：展望溫泉湯宿，坐擁無敵海景，入住即能感受潮聲與溫泉交織的療癒。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="431" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?resize=1220%2C431&#038;ssl=1" alt="" class="wp-image-254383" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?resize=768%2C271&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?resize=1536%2C543&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?resize=2048%2C724&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/MARISSA-RESORT-周防大島-2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲MARISSA RESORT 周防大島。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<ul class="wp-block-list">
-<li>MARISSA RESORT 周防大島：位於被譽為「瀨戶內夏威夷」的島嶼上，以藝術與自然共生為主題，是療癒系度假村的代表之作。</li>
-
-
-
-<li>廣島格蘭王子酒店：為2023年G7高峰會指定場地，配置頂級水療設施，尊享瀨戶內全景溫泉。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="675" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE3.jpg?resize=1200%2C675&#038;ssl=1" alt="" class="wp-image-254384" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE3.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE3.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Hotel-RIDGE3.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲鳴門RIDGE。　圖：太平洋旅行社／提供</figcaption></figure>
-
-
-
-<ul class="wp-block-list">
-<li>鳴門RIDGE：僅有9間客房的隱世逸境，盡覽鳴門漩渦與群島風光，私密且靜謐，為旅程畫下驚豔的句點。</li>
-</ul>
-
-
-
-<p><strong>5</strong><strong>｜散策逸趣‧精選文化景點</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li>長府庭園：原為長府毛利藩的宅邸，也是下關地區第一座回遊式日本庭園。</li>
-
-
-
-<li>錦帶橋：連續五座木造拱形橋面連結而成的錦帶橋，巧妙利用建築力學原理興建，同時擁有日本「三大名橋」和「三大奇橋」的稱號。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="586" height="582" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-132.png?resize=586%2C582&#038;ssl=1" alt="" class="wp-image-254385" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-132.png?w=586&amp;ssl=1 586w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-132.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 586px) 100vw, 586px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲嚴島神社的日景與夜景。　圖：太平洋旅行社／提供<br></figcaption></figure>
-
-
-
-<ul class="wp-block-list">
-<li>宮島古蹟群：嚴島神社、五重塔，以及保留昭和時期懷舊商店的町屋通。</li>
-
-
-
-<li>倉敷美觀地區：盡顯江戶街道古樸之情，百年古厝、倉庫、西式洋房櫛次鱗比。</li>
-
-
-
-<li>丸龜市豬熊弦一郎現代美術館：位於丸龜車站前，為谷口吉生建築傑作。</li>
-</ul>
-
-
-
-<p>全國唯一「<a href="https://url.pac-group.net/8487rk">《25周年—夢想的旅程—》嚴島弦樂四重奏．鳴門RIDGE五日</a>」，締造深度感動新篇章，行程僅於2025年10月21日出發，為25周年限量獻禮，費用已包括全程住宿、餐食、行程交通、門票、稅金、保險與導遊司機小費，8人即可成行，採尊寵小團制，確保每位貴賓皆享有私密與從容的極致體驗。更多頂級奢華新風潮的獨家私房行程，可查詢太平洋旅行社官網：<a href="https://url.pac-group.net/84gpd7">https://url.pac-group.net/84gpd7</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/12/%e5%85%a8%e5%9c%8b%e7%8d%a8%e5%ae%b6%ef%bc%8e%e8%97%9d%e8%a1%93%e5%a5%a2%e6%97%85%ef%bc%81%e9%9c%87%e6%92%bc%e5%bf%83%e5%bc%a6%e3%80%8a%e5%9a%b4%e5%b3%b6%e5%bc%a6%e6%a8%82%e5%9b%9b%e9%87%8d%e5%a5%8fx/">全國獨家．藝術奢旅！震撼心弦《嚴島弦樂四重奏X頂級4旅宿》五日遊  10/21感動出發</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>嗨咔Hi!Kaz 酥酥藻咔滋一口韓國潮流零食席捲台灣！</title>
-		<link>https://firenews.com.tw/2025/09/12/%e5%97%a8%e5%92%94hikaz-%e9%85%a5%e9%85%a5%e8%97%bb%e5%92%94%e6%bb%8b%e4%b8%80%e5%8f%a3%e9%9f%93%e5%9c%8b%e6%bd%ae%e6%b5%81%e9%9b%b6%e9%a3%9f%e5%b8%ad%e6%8d%b2%e5%8f%b0%e7%81%a3%ef%bc%81/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 03:00:29 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[嗨咔Hi!Kaz]]></category>
-		<category><![CDATA[酥酥藻]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=254181</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 韓流不只是音樂與戲劇，更是一種生活態度。如今，來自韓國的爆款零食——嗨咔Hi!Kaz  &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/12/%e5%97%a8%e5%92%94hikaz-%e9%85%a5%e9%85%a5%e8%97%bb%e5%92%94%e6%bb%8b%e4%b8%80%e5%8f%a3%e9%9f%93%e5%9c%8b%e6%bd%ae%e6%b5%81%e9%9b%b6%e9%a3%9f%e5%b8%ad%e6%8d%b2%e5%8f%b0%e7%81%a3%ef%bc%81/">嗨咔Hi!Kaz 酥酥藻咔滋一口韓國潮流零食席捲台灣！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>韓流不只是音樂與戲劇，更是一種生活態度。如今，來自韓國的爆款零食——<strong>嗨咔Hi!Kaz 酥酥藻</strong>，終於登陸台灣，為愛零食卻怕胖的新世代帶來一款結合健康與潮流的全新選擇！</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="604" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645560619-1.jpg?resize=1220%2C604&#038;ssl=1" alt="" class="wp-image-254186" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645560619-1.jpg?w=1985&amp;ssl=1 1985w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645560619-1.jpg?resize=768%2C380&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645560619-1.jpg?resize=1536%2C761&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">來自韓國的爆款零食嗨咔Hi!Kaz 酥酥藻。圖/業者提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>雙層工藝打造爽脆口感</strong></h2>
-
-
-
-<p>嗨咔Hi!Kaz 由韓國專業團隊研發監製，傳承經典零食文化，以「海苔＋米餅雙層工藝」打造獨特口感。外酥內脆的層次，配合獨家高溫瞬間鎖鮮工法，不油膩、不厚重，每一口都能感受到爽脆的咔滋聲。更棒的是，每包熱量僅 275 大卡，糖分只有 2 公克，比一般洋芋片更輕盈，讓盡情滿足嘴饞的同時，少了一份罪惡感 !</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="603" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645569140.jpg?resize=1220%2C603&#038;ssl=1" alt="" class="wp-image-254183" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645569140.jpg?w=1985&amp;ssl=1 1985w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645569140.jpg?resize=768%2C380&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645569140.jpg?resize=1536%2C759&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">嗨咔Hi!Kaz 由韓國專業團隊研發監製。圖/業者提供</figcaption></figure>
-
-
-
-<p><strong>「低負擔的咔滋享受」</strong> 是嗨咔Hi!Kaz 的核心價值。對上班族來說，它是午後最貼心的零食陪伴；對追劇族來說，它是深夜不怕胖的救星；對健身與控制飲食的人來說，它則是比傳統洋芋片更清爽的替代品。</p>
-
-
-
-<p><strong>韓系包裝超吸睛</strong><strong></strong> 不僅如此，外包裝也超韓系！紫色撞橘色，放在貨架就吸睛，拍照打卡也超上鏡。嗨咔Hi!Kaz除了零食之外，更是一種 <strong>韓國潮流生活態度</strong>，自己吃超滿足，送朋友也超有面子！嚴選高品質海苔與植物性原料，素食者也能安心享用。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1217" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645582690.jpg?resize=1220%2C1217&#038;ssl=1" alt="" class="wp-image-254184" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645582690.jpg?w=1355&amp;ssl=1 1355w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645582690.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1757645582690.jpg?resize=768%2C766&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">嗨咔Hi!Kaz嚴選高品質海苔與植物性原料，素食者也能安心享用。圖/業者提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>KOL直播熱推掀起韓流零食風潮</strong></h2>
-
-
-
-<p>目前，嗨咔Hi!Kaz 已攜手超過 300 位 KOL 展開全台直播帶貨活動，預計將掀起一波韓流零食熱潮。對消費者而言，購買的不只是零食本身，更是一種輕奢、潮流、健康兼具的生活態度。咔滋一口，輕盈上癮，嗨咔Hi!Kaz 為生活注入一份韓系時尚感 !</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/12/%e5%97%a8%e5%92%94hikaz-%e9%85%a5%e9%85%a5%e8%97%bb%e5%92%94%e6%bb%8b%e4%b8%80%e5%8f%a3%e9%9f%93%e5%9c%8b%e6%bd%ae%e6%b5%81%e9%9b%b6%e9%a3%9f%e5%b8%ad%e6%8d%b2%e5%8f%b0%e7%81%a3%ef%bc%81/">嗨咔Hi!Kaz 酥酥藻咔滋一口韓國潮流零食席捲台灣！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</title>
-		<link>https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 09:43:58 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[ErosKare]]></category>
-		<category><![CDATA[依洛絲脈衝光除毛機]]></category>
-		<category><![CDATA[除毛]]></category>
-		<category><![CDATA[除毛機]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=253984</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 因應消費者對醫療級美容需求日益提升，永業達（ErosKare）正式推出全新「依洛絲脈衝 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/">愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>因應消費者對醫療級美容需求日益提升，永業達（ErosKare）正式推出全新「依洛絲脈衝光除毛機」。該產品已取得衛福部二類醫療器材許可證，具備高效能與安全保障，將成為專業診所、美容醫學中心及醫療院所的重要輔助利器。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="570" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=1220%2C570&#038;ssl=1" alt="" class="wp-image-253989" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=768%2C359&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=1536%2C717&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?resize=2048%2C956&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/產品圖01-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">以醫療級規格開發的家用脈衝光除毛機，是解決毛髮問題的全新選擇。圖/ ErosKare提供</figcaption></figure>
-
-
-
-<p>歷時近 3 年申請，永業達（Eroskare）重棒出擊，結合極簡設計與專業醫療級規格，採用醫療級脈衝光技術，為消費者帶來便利又安心的居家除毛體驗。不僅能提供長效除毛效果，更兼具合法與安全，是家用除毛的可靠選擇。</p>
-
-
-
-<h2 class="wp-block-heading">取得衛福部認證，MIT製造，居家除毛新典範</h2>
-
-
-
-<p>相較於其他市售產品，依洛絲脈衝光除毛機取得台灣衛福部第二級醫療器材認證（衛部醫器製字第008666號），由台灣醫材廠製造並通過數十樣光電與生物安全測試，提供安全舒適的居家除毛體驗，並避免不明違法產品帶來的潛在風險。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1725" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1220%2C1725&#038;ssl=1" alt="" class="wp-image-253988" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?w=1811&amp;ssl=1 1811w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=768%2C1086&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1087%2C1536&amp;ssl=1 1087w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-衛福部二類醫材許可證衛部醫器製字第008666號-scaled.jpg?resize=1449%2C2048&amp;ssl=1 1449w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">衛福部二類醫材許可證(衛部醫器製字第008666號) 圖/ ErosKare提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading">冰點舒緩，高效除毛</h2>
-
-
-
-<p>依洛絲脈衝光除毛機搭載<strong>5°C 冰點功能</strong>，出光同時即刻舒緩降溫，讓除毛過程更舒適溫和。產品五個檔位能量調節，能針對不同膚色、毛髮粗細精準作用，縮短療程時間並提升效果。適用全身上下各個部位，讓患者在舒適環境下達到理想的除毛效果。</p>
-
-
-
-<h2 class="wp-block-heading">9/26-29 參展美容展 誠摯邀請蒞臨體驗</h2>
-
-
-
-<p>EROSKARE 將於 2025 年 9 月 26 日至 29 日，參加「第 35 屆秋季國際美容保養．美甲．美睫博覽會」。展會現場將完整展出「依洛絲脈衝光除毛機」，歡迎蒞臨展場 (攤位號碼：A1203)，近距離體驗這款「安全合法」的居家除毛機。還能享有展場限定的獨家優惠喔！</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1220" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=1220%2C1220&#038;ssl=1" alt="" class="wp-image-253987" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/圖-2025秋季美容展永業達（Eroskare）攤位資訊.png?resize=1536%2C1536&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025秋季美容展永業達（Eroskare）攤位資訊。圖/ ErosKare提供</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/11/%e6%84%9b%e7%be%8e%e4%b8%8d%e5%bf%85%e5%87%ba%e9%96%80%ef%bc%81%e5%90%88%e6%b3%95%e5%b1%85%e5%ae%b6%e9%99%a4%e6%af%9b%e6%a9%9f%e4%b8%8a%e5%b8%82%ef%bc%8c%e8%ae%93%e4%bd%a0%e5%9c%a8%e5%ae%b6%e4%ba%ab/">愛美不必出門！合法居家除毛機上市，讓你在家享受專業級除毛體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>The page is temporarily unavailable</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #900;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #900;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #000;
+            }
+            h3 {
+                text-align: center;
+                background-color: #ff0000;
+                padding: 0.5em;
+                color: #fff;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1><strong>nginx error!</strong></h1>
+
+        <div class="content">
+
+            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>Something has triggered missing webpage on your
+                    website. This is the default error page for
+                    <strong>nginx</strong> that is distributed with
+                    Red Hat Enterprise Linux.  It is located
+                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+
+                    <p>You should customize this error page for your own
+                    site or edit the <tt>error_page</tt> directive in
+                    the <strong>nginx</strong> configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+                <a href="http://www.redhat.com/"><img
+                    src="poweredby.png"
+                    alt="[ Powered by Red Hat Enterprise Linux ]"
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</html>
