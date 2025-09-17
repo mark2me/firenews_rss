@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 17 Sep 2025 09:51:09 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Sep 2025 11:12:32 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -200,6 +200,8 @@
 		<pubDate>Wed, 17 Sep 2025 05:11:21 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[KC SKIN]]></category>
 		<category><![CDATA[Loft橫濱旗艦店]]></category>
