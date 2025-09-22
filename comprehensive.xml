@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Mon, 22 Sep 2025 07:44:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 09:51:14 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,9 +35,10 @@
 		<link>https://firenews.com.tw/2025/09/22/%e8%be%b2%e6%9d%91%e5%a5%bd%e5%ba%97%e3%80%8c%e5%be%b7%e6%9c%b1%e5%88%a9%e6%96%af%e3%80%8d%e7%8d%b2%e9%95%b7%e6%a6%ae%e8%88%aa%e8%82%af%e5%ae%9a%e6%89%93%e9%80%a0%e8%be%b2%e6%9d%91%e5%93%81%e7%89%8c/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 07:44:08 +0000</pubDate>
+		<pubDate>Mon, 22 Sep 2025 06:00:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[ESG]]></category>
 		<category><![CDATA[德朱利斯]]></category>
@@ -92,9 +93,10 @@
 		<link>https://firenews.com.tw/2025/09/22/%e5%85%a8%e6%96%b0%e4%bb%99%e4%bf%a0-rpg%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e4%ba%8b%e5%89%8d%e9%a0%90%e7%b4%84%e9%96%8b%e5%95%9f%ef%bc%81%e9%a0%90%e7%b4%84%e9%81%94100%e8%90%ac/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 06:00:00 +0000</pubDate>
+		<pubDate>Mon, 22 Sep 2025 05:00:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[全新仙俠]]></category>
 		<category><![CDATA[紅塵問仙]]></category>
