@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Mon, 22 Sep 2025 07:10:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 07:30:00 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -158,9 +158,11 @@
 		<link>https://firenews.com.tw/2025/09/22/%e5%85%85%e5%a3%a9%e6%94%9c%e6%89%8b%e5%9c%8b%e6%b3%b0%e7%a6%be%e7%a4%be%e5%8d%80-%e6%89%93%e9%80%a0%e6%96%b0%e7%ab%b9%e9%a6%96%e5%b1%88%e4%b8%80%e6%8c%87%e7%9a%84%e5%85%a8%e6%96%b9%e4%bd%8d%e6%99%ba/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 04:57:38 +0000</pubDate>
+		<pubDate>Mon, 22 Sep 2025 04:30:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[gochabar]]></category>
