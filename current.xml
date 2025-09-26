@@ -1,120 +1,822 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Fri, 26 Sep 2025 04:42:35 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>貓咪睡前一定要舔毛？其實藏著生理＋心理的雙重原因！</title>
+		<link>https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9d%a1%e5%89%8d%e4%b8%80%e5%ae%9a%e8%a6%81%e8%88%94%e6%af%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e8%97%8f%e8%91%97%e7%94%9f%e7%90%86%ef%bc%8b%e5%bf%83%e7%90%86%e7%9a%84%e9%9b%99%e9%87%8d/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 04:42:30 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[舔毛]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259675</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>火報記者 張舜傑/報導 不少飼主會注意到，每當夜晚將燈關掉、準備休息時，貓咪總會花上一段時間仔細舔毛，從頭到尾 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9d%a1%e5%89%8d%e4%b8%80%e5%ae%9a%e8%a6%81%e8%88%94%e6%af%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e8%97%8f%e8%91%97%e7%94%9f%e7%90%86%ef%bc%8b%e5%bf%83%e7%90%86%e7%9a%84%e9%9b%99%e9%87%8d/">貓咪睡前一定要舔毛？其實藏著生理＋心理的雙重原因！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>不少飼主會注意到，每當夜晚將燈關掉、準備休息時，貓咪總會花上一段時間仔細舔毛，從頭到尾梳理每一根毛髮。這個行為看似簡單的自我清潔，背後卻有著多重生理與心理的意義。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<h4 class="wp-block-heading">1. 保持毛髮清潔與健康</h4>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>貓咪的舌頭上有細小倒刺，能有效清理毛髮上的灰塵、污垢與脫落毛。舔毛不只是讓毛髮順滑、漂亮，更能分布唾液中的天然油脂，形成保護層，防止皮膚乾燥或感染。睡前進行這個清理動作，就像人類洗澡整理儀式，讓貓咪在休息時感到乾淨舒適，也減少夜間皮膚瘙癢的機會。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-252.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-259679" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">許多飼主發現，夜晚關燈時貓咪會仔細舔毛，這不只是清潔，也具有多重生理與心理意義。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 調節體溫</h4>
+
+
+
+<p>睡前舔毛也能幫助貓咪維持體溫。唾液蒸發時會帶走部分熱量，這對於夜晚氣溫較低或環境空調較涼的情況特別重要。透過舔毛，貓咪能在入睡前調整體溫，使身體保持適宜狀態，增加睡眠品質。</p>
+
+
+
+<h4 class="wp-block-heading">3. 減輕壓力與焦慮</h4>
+
+
+
+<p>舔毛對貓咪來說也是心理上的自我安撫行為。反覆、規律的舔毛動作能刺激神經系統，釋放壓力，幫助牠們平復情緒。對剛搬到新環境、或對家中聲音敏感的貓咪而言，睡前舔毛是一種自我放鬆的方式，有助於建立安全感與心理穩定。</p>
+
+
+
+<h4 class="wp-block-heading">4. 增強安全感</h4>
+
+
+
+<p>貓咪在睡前舔毛，也代表牠們感到環境安全。貓咪通常只在確定周遭沒有威脅、主人可靠的情況下，才會花時間梳理毛髮。這種行為象徵牠對居住環境的認可，也表達對主人的信任。</p>
+
+
+
+<h4 class="wp-block-heading">5. 社交氣味的傳遞與認同</h4>
+
+
+
+<p>貓咪舔毛除了清潔和舒適，也會將自己的氣味均勻分布在身上。這在貓咪的世界裡是一種社交訊號，尤其在多貓家庭，這種行為有助於降低彼此摩擦，保持和諧關係。同時，帶有自己熟悉氣味的毛髮，能讓貓咪在睡覺時感到熟悉與安心。</p>
+
+
+
+<h4 class="wp-block-heading">6. 入睡前的心理儀式</h4>
+
+
+
+<p>睡前舔毛就像人類的晚間例行程序，對貓咪來說也是心理儀式的一部分。這種固定行為幫助牠們從活動狀態慢慢過渡到休息模式，準備身心進入深層睡眠。固定的睡前儀式還能降低夜間焦慮，提高睡眠穩定性。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="397" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-253.png?resize=600%2C397&#038;ssl=1" alt="" class="wp-image-259680" style="width:710px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">睡前舔毛是貓咪的心理儀式，幫助從活動過渡到休息，降低焦慮並提升睡眠穩定性。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">7. 表達情緒與需求</h4>
+
+
+
+<p>有時貓咪在睡前舔毛也會伴隨輕聲喵叫或蹭主人，這不只是自我安撫，也可能在傳達情緒或需求。例如牠可能想要主人陪伴、討摸摸或確認周遭安全。透過舔毛加上輕微互動，貓咪在無聲地與主人溝通。</p>
+
+
+
+<p>貓咪睡前舔毛是一個結合生理與心理的複合行為。牠們透過這個動作保持毛髮清潔、調節體溫、減輕壓力、建立安全感，並分布氣味、進行心理儀式，甚至向主人傳遞需求與情緒。理解這些背後原因，能讓飼主更尊重貓咪的生活節奏，也能提供更適合的休息環境與互動方式，增進彼此的信任與感情。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9d%a1%e5%89%8d%e4%b8%80%e5%ae%9a%e8%a6%81%e8%88%94%e6%af%9b%ef%bc%9f%e5%85%b6%e5%af%a6%e8%97%8f%e8%91%97%e7%94%9f%e7%90%86%ef%bc%8b%e5%bf%83%e7%90%86%e7%9a%84%e9%9b%99%e9%87%8d/">貓咪睡前一定要舔毛？其實藏著生理＋心理的雙重原因！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪真的能「聞」出主人的心情嗎？答案超驚人！</title>
+		<link>https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9c%9f%e7%9a%84%e8%83%bd%e3%80%8c%e8%81%9e%e3%80%8d%e5%87%ba%e4%b8%bb%e4%ba%ba%e7%9a%84%e5%bf%83%e6%83%85%e5%97%8e%ef%bc%9f%e7%ad%94%e6%a1%88%e8%b6%85%e9%a9%9a%e4%ba%ba%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 04:17:25 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[聞心情]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259656</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多人常覺得，貓咪好像能「看穿」主人的心情，無論是快樂、憂鬱還是緊張，牠們似乎都能第一 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9c%9f%e7%9a%84%e8%83%bd%e3%80%8c%e8%81%9e%e3%80%8d%e5%87%ba%e4%b8%bb%e4%ba%ba%e7%9a%84%e5%bf%83%e6%83%85%e5%97%8e%ef%bc%9f%e7%ad%94%e6%a1%88%e8%b6%85%e9%a9%9a%e4%ba%ba%ef%bc%81/">貓咪真的能「聞」出主人的心情嗎？答案超驚人！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多人常覺得，貓咪好像能「看穿」主人的心情，無論是快樂、憂鬱還是緊張，牠們似乎都能第一時間察覺。其實，這並不是錯覺，因為貓咪的嗅覺與觀察力，確實能幫助牠們感受到主人的情緒變化。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 氣味變化的敏銳捕捉</h4>
+
+
+
+<p>當人情緒改變時，身體會釋放不同的荷爾蒙與氣味。貓咪嗅覺遠比人類靈敏，能夠察覺這些細微差異。例如人在緊張時會分泌更多汗液，貓咪就能從中聞出端倪。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="489" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-251.png?resize=612%2C489&#038;ssl=1" alt="" class="wp-image-259662" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">人情緒改變會釋放不同氣味，貓咪敏銳嗅覺能察覺，如緊張時的汗液變化。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 行為細節的觀察</h4>
+
+
+
+<p>除了嗅覺，貓咪還非常擅長觀察人的肢體語言。主人在開心時的動作會更放鬆，而焦躁時則容易急促或僵硬，這些都成了牠判斷心情的線索。</p>
+
+
+
+<h4 class="wp-block-heading">3. 聲音情緒的感受</h4>
+
+
+
+<p>貓咪對聲音語調極為敏感，主人說話時的語氣高低、輕重緩急，都能影響牠的反應。柔和的語調會讓牠感到安全，而高亢或急促的聲音則可能引起不安。</p>
+
+
+
+<h4 class="wp-block-heading">4. 情緒共鳴的回應</h4>
+
+
+
+<p>有些貓咪甚至會依照主人的心情調整行為。當主人沮喪時，牠們可能會主動靠近、陪伴或輕輕蹭人；而當主人情緒高昂時，牠們也可能展現更活潑的互動。</p>
+
+
+
+<p>貓咪不僅僅是嗅覺靈敏的獵手，更是情緒細膩的「心靈偵探」。牠們能透過氣味、行為與聲音，敏銳地感知主人的心情，並用自己的方式給予回應。這種無聲的交流，正是人與貓之間最珍貴的情感連結之一。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e8%b2%93%e5%92%aa%e7%9c%9f%e7%9a%84%e8%83%bd%e3%80%8c%e8%81%9e%e3%80%8d%e5%87%ba%e4%b8%bb%e4%ba%ba%e7%9a%84%e5%bf%83%e6%83%85%e5%97%8e%ef%bc%9f%e7%ad%94%e6%a1%88%e8%b6%85%e9%a9%9a%e4%ba%ba%ef%bc%81/">貓咪真的能「聞」出主人的心情嗎？答案超驚人！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>川普正式簽署命令！TikTok出售計畫成形 估值140億美元</title>
+		<link>https://firenews.com.tw/2025/09/26/%e5%b7%9d%e6%99%ae%e6%ad%a3%e5%bc%8f%e7%b0%bd%e7%bd%b2%e5%91%bd%e4%bb%a4%ef%bc%81tiktok%e5%87%ba%e5%94%ae%e8%a8%88%e7%95%ab%e6%88%90%e5%bd%a2-%e4%bc%b0%e5%80%bc140%e5%84%84%e7%be%8e%e5%85%83/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 03:37:36 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[tiktok]]></category>
+		<category><![CDATA[川普]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259629</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 美國總統川普於週四簽署行政命令，宣布 TikTok 美國業務的出售計畫已準備就緒。新成立 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e5%b7%9d%e6%99%ae%e6%ad%a3%e5%bc%8f%e7%b0%bd%e7%bd%b2%e5%91%bd%e4%bb%a4%ef%bc%81tiktok%e5%87%ba%e5%94%ae%e8%a8%88%e7%95%ab%e6%88%90%e5%bd%a2-%e4%bc%b0%e5%80%bc140%e5%84%84%e7%be%8e%e5%85%83/">川普正式簽署命令！TikTok出售計畫成形 估值140億美元</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>美國總統川普於週四簽署行政命令，宣布 TikTok 美國業務的出售計畫已準備就緒。新成立的美國公司估值約 140 億美元，遠低於部分分析師原先預測。</strong></p>
+</blockquote>
+
+
+
+<p>根據行政命令，將禁止該應用程式的法律實施時間推遲，除非該應程式的中國所有者出售該應用程式。目前，川普正努力從該全球平台提取 TikTok 的美國資產，爭取美國和其他投資者的支持，並獲得中國政府的批准。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-250.png?resize=600%2C450&#038;ssl=1" alt="" class="wp-image-259652" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">行政命令延後禁令實施，川普正推動美國資產剝離，爭取投資者支持並等待中方批准。圖:istockphoto</figcaption></figure></div>
+
+
+<p>副總統 JD 萬斯指出，中國方面對某些條款仍有保留，但美方的重點在於保護美國用戶數據隱私。依規劃，TikTok 的推薦演算法將由美國合作夥伴重新訓練並加以監管，最終由新成立的合資企業掌控。川普並強調，他已與中國國家主席習近平進行會談，並獲得對方首肯。不過，中國駐美大使館與 TikTok 方面尚未對此發表評論。</p>
+
+
+
+<p>市場分析指出，字節跳動目前估值超過 3,300 億美元，TikTok 僅佔其中一部分。韋德布希證券分析師丹·艾夫斯表示，若不包含演算法，TikTok 的價值仍可能落在 300 億至 400 億美元之間。學界則提出疑慮，明尼蘇達大學法學院教授艾倫·羅森斯坦直言：「總統雖已批准交易，但演算法的控制權仍充滿不確定性。」</p>
+
+
+
+<p>知情人士透露，美國科技公司甲骨文與私募基金銀湖資本將與其他投資者共同持有 TikTok US 的股份，字節跳動部分現有股東可能繼續持股約 30%。白宮官員補充，新公司董事會將由七人組成，其中六人為美國籍，字節跳動僅能任命一名代表。</p>
+
+
+
+<p>根據 2024 年法律曾規定，若字節跳動未能完成出售，將只能持有 TikTok US 不超過 20% 的股份，否則 TikTok 將在 2025 年 1 月前被迫關閉。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e5%b7%9d%e6%99%ae%e6%ad%a3%e5%bc%8f%e7%b0%bd%e7%bd%b2%e5%91%bd%e4%bb%a4%ef%bc%81tiktok%e5%87%ba%e5%94%ae%e8%a8%88%e7%95%ab%e6%88%90%e5%bd%a2-%e4%bc%b0%e5%80%bc140%e5%84%84%e7%be%8e%e5%85%83/">川普正式簽署命令！TikTok出售計畫成形 估值140億美元</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪為什麼愛用頭蹭人？背後的「7大」隱藏含義一次看懂 !</title>
+		<link>https://firenews.com.tw/2025/09/25/%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e7%94%a8%e9%a0%ad%e8%b9%ad%e4%ba%ba%ef%bc%9f%e8%83%8c%e5%be%8c%e7%9a%84%e3%80%8c7%e5%a4%a7%e3%80%8d%e9%9a%b1%e8%97%8f%e5%90%ab%e7%be%a9%e4%b8%80/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 11:45:47 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[蹭人]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259484</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多貓咪都會把臉、額頭甚至下巴靠在主人身上。這種行為看似撒嬌，背後卻隱藏著多重訊息與情 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e7%94%a8%e9%a0%ad%e8%b9%ad%e4%ba%ba%ef%bc%9f%e8%83%8c%e5%be%8c%e7%9a%84%e3%80%8c7%e5%a4%a7%e3%80%8d%e9%9a%b1%e8%97%8f%e5%90%ab%e7%be%a9%e4%b8%80/">貓咪為什麼愛用頭蹭人？背後的「7大」隱藏含義一次看懂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多貓咪都會把臉、額頭甚至下巴靠在主人身上。這種行為看似撒嬌，背後卻隱藏著多重訊息與情感。了解貓咪蹭頭的原因，能幫助飼主更好地與毛孩互動，也能提升彼此的信任與連結。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 標記領地</h4>
+
+
+
+<p>貓咪頭部有特殊氣味腺，蹭人時會留下氣味。這是一種標記領地的方式，告訴其他貓咪「這是我的家人」，同時也讓自己感到安心。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-248.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-259485" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪蹭人時會留氣味，標記領地並增添安全感。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 表達信任</h4>
+
+
+
+<p>當貓咪願意把頭靠在主人身上，這代表牠對人充滿信任。貓咪只有在感到安全時才會進行這種親密接觸，是牠認可主人的表現。</p>
+
+
+
+<h4 class="wp-block-heading">3. 尋求關注</h4>
+
+
+
+<p>有時候貓咪蹭頭是希望得到主人的注意，例如討摸摸、餵食或陪伴。蹭頭常伴隨輕聲喵叫或尾巴擺動，是牠在表達「想要互動」的訊號。</p>
+
+
+
+<h4 class="wp-block-heading">4. 減壓與放鬆</h4>
+
+
+
+<p>對貓咪而言，蹭頭也是舒緩壓力的一種方式。當牠在主人身邊蹭來蹭去時，不僅釋放焦慮，也能讓自己感到舒適和平靜。</p>
+
+
+
+<h4 class="wp-block-heading">5. 建立情感連結</h4>
+
+
+
+<p>頭蹭行為能加深貓咪與主人的情感連結。透過身體接觸，貓咪在無聲地傳達「你是我信任的對象」，進一步鞏固彼此的情感基礎。</p>
+
+
+
+<h4 class="wp-block-heading">6. 展示親密與依賴</h4>
+
+
+
+<p>貓咪有時會蹭主人臉部或手臂，這表示牠願意依賴主人。這種依賴不只是尋求保護，也是一種愛的表現，代表牠願意把自己置於主人的身邊。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-249.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-259486" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪蹭主人臉或手臂，表示依賴與信任，也是一種愛的表現。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">7. 調節社交關係</h4>
+
+
+
+<p>在多貓家庭或貓咪與主人互動中，蹭頭還有一個功能──維持社交和諧。透過蹭頭，貓咪傳達友善訊號，讓彼此關係穩定，也避免衝突產生。</p>
+
+
+
+<p>貓咪的頭蹭行為看似簡單，卻蘊含豐富意義。牠們透過蹭頭來標記領地、表達信任、尋求關注、減壓放鬆、建立情感連結、展示依賴，甚至維持社交和諧。理解這些隱藏含義，能讓飼主更貼近貓咪的心，也能促進雙方的互動與情感深度 !</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/%e8%b2%93%e5%92%aa%e7%82%ba%e4%bb%80%e9%ba%bc%e6%84%9b%e7%94%a8%e9%a0%ad%e8%b9%ad%e4%ba%ba%ef%bc%9f%e8%83%8c%e5%be%8c%e7%9a%84%e3%80%8c7%e5%a4%a7%e3%80%8d%e9%9a%b1%e8%97%8f%e5%90%ab%e7%be%a9%e4%b8%80/">貓咪為什麼愛用頭蹭人？背後的「7大」隱藏含義一次看懂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗掉毛正常嗎？從「換毛期」到健康掉毛一次看懂 !</title>
+		<link>https://firenews.com.tw/2025/09/25/%e7%8b%97%e7%8b%97%e6%8e%89%e6%af%9b%e6%ad%a3%e5%b8%b8%e5%97%8e%ef%bc%9f%e5%be%9e%e3%80%8c%e6%8f%9b%e6%af%9b%e6%9c%9f%e3%80%8d%e8%88%87%e5%81%a5%e5%ba%b7%e6%8e%89%e6%af%9b%e4%b8%80%e6%ac%a1%e7%9c%8b/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 11:37:26 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[掉毛]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259476</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 不少飼主經常抱怨，家中狗狗掉毛掉到滿地都是。尤其在掃地時，總能發現衣服、沙發和地板上密 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/%e7%8b%97%e7%8b%97%e6%8e%89%e6%af%9b%e6%ad%a3%e5%b8%b8%e5%97%8e%ef%bc%9f%e5%be%9e%e3%80%8c%e6%8f%9b%e6%af%9b%e6%9c%9f%e3%80%8d%e8%88%87%e5%81%a5%e5%ba%b7%e6%8e%89%e6%af%9b%e4%b8%80%e6%ac%a1%e7%9c%8b/">狗狗掉毛正常嗎？從「換毛期」到健康掉毛一次看懂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>不少飼主經常抱怨，家中狗狗掉毛掉到滿地都是。尤其在掃地時，總能發現衣服、沙發和地板上密密麻麻的毛髮。雖然掉毛是狗狗的日常現象，但有時掉毛量異常增多，也可能暗示健康問題。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">1. 換毛期是自然現象</h4>
+
+
+
+<p>大多數狗狗每年都有固定的換毛期，尤其是春秋兩季最為明顯。這段期間，狗狗會自然脫落舊毛，長出新毛，以適應季節溫度的變化。換毛期的掉毛量較多，屬於生理現象，不必過度擔心，但飼主可以藉由定期梳毛減少毛髮散落，並促進皮膚血液循環。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="459" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-247.png?resize=612%2C459&#038;ssl=1" alt="" class="wp-image-259479" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗每年春秋換毛，舊毛脫落長新毛，屬正常現象，飼主可定期梳毛減少散落並促進血液循環。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">2. 健康狗狗也會少量掉毛</h4>
+
+
+
+<p>即使不是換毛期，健康狗狗仍會有些微掉毛。這是毛髮自然更新的一部分，舊毛脫落，新毛補上。少量掉毛是正常的，通常不會伴隨皮膚紅腫、發癢或異味。飼主只要定期梳理、保持環境清潔，就能輕鬆管理。</p>
+
+
+
+<h4 class="wp-block-heading">3. 營養與飲食影響毛髮健康</h4>
+
+
+
+<p>狗狗的毛髮狀態與營養密切相關。若蛋白質攝取不足、缺乏脂肪酸或維生素，可能導致掉毛量增加、毛質乾枯或斷裂。因此，均衡飲食對維持毛髮健康至關重要。</p>
+
+
+
+<h4 class="wp-block-heading">4. 健康異常也會造成掉毛</h4>
+
+
+
+<p>如果掉毛伴隨皮膚紅腫、搔癢、結痂或局部禿毛，就可能是皮膚感染、過敏或寄生蟲侵擾。此時應及早帶狗狗就診，尋找根本原因，而不是單純靠梳毛或洗澡解決。</p>
+
+
+
+<h4 class="wp-block-heading">5. 日常梳毛能有效管理掉毛</h4>
+
+
+
+<p>定期梳毛不僅能去除脫落毛髮，還能刺激皮膚血液循環，促進新毛生長。對長毛犬來說，每天梳毛能避免毛球纏結與毛髮打結；對短毛犬，每週梳毛也能減少毛髮散落並檢查皮膚狀況。</p>
+
+
+
+<p>狗狗掉毛是一種正常生理現象，但掉毛量、毛質以及皮膚狀況都能反映健康狀態。飼主若能掌握換毛期、注意飲食均衡、定期梳毛，並留意異常症狀，就能有效管理掉毛問題，讓狗狗既健康又舒適。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/%e7%8b%97%e7%8b%97%e6%8e%89%e6%af%9b%e6%ad%a3%e5%b8%b8%e5%97%8e%ef%bc%9f%e5%be%9e%e3%80%8c%e6%8f%9b%e6%af%9b%e6%9c%9f%e3%80%8d%e8%88%87%e5%81%a5%e5%ba%b7%e6%8e%89%e6%af%9b%e4%b8%80%e6%ac%a1%e7%9c%8b/">狗狗掉毛正常嗎？從「換毛期」到健康掉毛一次看懂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI 選股正夯！散戶用 ChatGPT 選股 市場六年將增六倍</title>
+		<link>https://firenews.com.tw/2025/09/25/ai-%e9%81%b8%e8%82%a1%e6%ad%a3%e5%a4%af%ef%bc%81%e6%95%a3%e6%88%b6%e7%94%a8-chatgpt-%e9%81%b8%e8%82%a1-%e5%b8%82%e5%a0%b4%e5%85%ad%e5%b9%b4%e5%b0%87%e5%a2%9e%e5%85%ad%e5%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 10:39:51 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=259426</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 根據《路透》報導，調查顯示，至少有十分之一的散戶投資者正透過聊天機器人選股，推動了機器人 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/ai-%e9%81%b8%e8%82%a1%e6%ad%a3%e5%a4%af%ef%bc%81%e6%95%a3%e6%88%b6%e7%94%a8-chatgpt-%e9%81%b8%e8%82%a1-%e5%b8%82%e5%a0%b4%e5%85%ad%e5%b9%b4%e5%b0%87%e5%a2%9e%e5%85%ad%e5%80%8d/">AI 選股正夯！散戶用 ChatGPT 選股 市場六年將增六倍</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>根據《路透》報導，調查顯示，至少有十分之一的散戶投資者正透過聊天機器人選股，推動了機器人理財市場的快速成長。然而，專家警告，這類做法風險高，短期內難以取代傳統財務顧問。</strong></p>
+</blockquote>
+
+
+
+<p>根據 Research and Markets 的數據，全球機器人理財市場收入預計將從去年的 617.5 億美元，增長至 2029 年的 4709.1 億美元，增幅約六倍。這個市場涵蓋銀行、金融科技公司及財富管理業者，反映出人工智慧對金融服務業的滲透日益加深。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-245.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-259441" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">《路透》報導，約十分之一散戶透過聊天機器人選股，推動機器人理財快速成長。圖:unsplash</figcaption></figure></div>
+
+
+<p>對許多失去專業金融工具的投資人而言，AI 已成為替代選項。據《路透》報導稱，有位曾在瑞銀（UBS）任職近二十年的前分析師梁先生，自今年初失業後便利用 ChatGPT 管理投資組合。他表示：「我不再擁有昂貴的彭博終端，但 ChatGPT 已能複製我以往大部分的工作流程。不過它無法取得付費數據，因此可能錯過關鍵分析。」</p>
+
+
+
+<p>這種使用方式並非個案。經紀商 eToro 對全球 11,000 名投資者調查發現，近半數受訪者表示會使用 ChatGPT 或其他人工智慧工具輔助選股。在英國，調查公司 Finder 也指出，約 40% 的民眾已透過聊天機器人獲取個人理財建議。</p>
+
+
+
+<p>儘管 AI 投資受到歡迎，專家仍強調其侷限性。eToro 英國董事總經理莫祖爾斯基（Dan Moczulski）表示：「AI 模型很強大，但把 ChatGPT 或 Gemini 當成水晶球非常危險。通用型模型容易錯引數據，過度依賴過去走勢來推測未來。」他建議投資者應依賴專為金融市場設計的 AI 平台，以降低潛在風險。</p>
+
+
+
+<p>隨著泛歐 STOXX 600 與標普 500 指數持續上漲，AI 投資熱潮仍在擴大。但專家憂心，若市場出現下行趨勢，散戶是否具備風險管理能力仍是疑問。梁總結道：「當人們習慣依靠 AI 投資並獲利，他們可能無法應對下一次金融危機。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/25/ai-%e9%81%b8%e8%82%a1%e6%ad%a3%e5%a4%af%ef%bc%81%e6%95%a3%e6%88%b6%e7%94%a8-chatgpt-%e9%81%b8%e8%82%a1-%e5%b8%82%e5%a0%b4%e5%85%ad%e5%b9%b4%e5%b0%87%e5%a2%9e%e5%85%ad%e5%80%8d/">AI 選股正夯！散戶用 ChatGPT 選股 市場六年將增六倍</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</title>
+		<link>https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 05:51:26 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[CDMO]]></category>
+		<category><![CDATA[佳研]]></category>
+		<category><![CDATA[佳研國際股份有限公司]]></category>
+		<category><![CDATA[優生Vitafoods]]></category>
+		<category><![CDATA[優生醫藥生技集團]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=258852</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 健康產業鏈結新典範&#160; 鎖定全球市場，CDMO供應鏈從台灣啟動 隨著全球消費者 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/">台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>健康產業鏈結新典範</strong><strong>&nbsp; </strong><strong>鎖定全球市場，</strong><strong>CDMO</strong><strong>供應鏈從台灣啟動</strong><strong></strong></p>
+</blockquote>
+
+
+
+<p>隨著全球消費者對健康營養產品的需求持續攀升，<strong>佳研國際股份有限公司</strong>（<a href="https://jia-yen.com/">Jia-Yen International</a>）與<strong>優生醫藥生技集團</strong>（<a href="https://www.yushenbio.com/">Yushen Bio‑tech</a>）深化合作，聯手打造具備研發整合、製造規格與法規導向的跨國CDMO平台，積極搶攻亞太與全球保健食品市場。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1048" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?resize=1220%2C1048&#038;ssl=1" alt="" class="wp-image-258855" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?resize=768%2C660&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">佳研國際亮相2025 Vitafoods Asia，以「CDMO 跨境整合服 務」與「全劑型GMP合規產能」展示一站式保健品解決方案 ；圖為團隊於展位合影。圖/佳研國際 提供</figcaption></figure>
+
+
+
+<p>這項合作結合佳研在原料整合與產品孵化的市場經驗，與優生在GMP製造、產能配置與法規合規的製造能力，提供品牌一站式、即時落地的商品化解決方案，加速產品量產與跨國輸出。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>研發 × 製造 × 合規整合：共創保健品商品化新速度</strong></h2>
+
+
+
+<p>佳研國際擁有IngredientsCloud(TM) 與NewPath(TM) 兩大品牌，專精於機能原料整合、營養保健品商品孵化、通路落地策略與國際法規顧問服務。多年來服務遍及東南亞、美洲與歐洲多國客戶，並致力於協助品牌從0到1建構配方、包裝、定位與通路策略。其專業涵蓋腦力營養、腸道健康、美顏抗氧化、運動健身、銀髮照護等應用領域，成功為直銷品牌、跨境商家、大型品牌商與各通路打造市場差異化產品。</p>
+
+
+
+<p>優生醫藥生技集團則為台灣少數同時擁有<strong>全產線GMP製造等級</strong>與<strong>HALAL清真認證產線</strong>的專業製造商，涵蓋液劑、粉劑、錠劑、膠囊等劑型。憑藉完整品質體系與自動化設備，並成功通過<strong>全球知名A級直銷商與美國大型會員制量販店</strong>稽核與驗證，優生展現了國際級製造能力與嚴謹的合規執行力。結合雙方資源，佳研能以優生為製造基地，協助品牌快速完成商品化並投入量產，縮短上市週期、提升市場競爭力與合規能力。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>連年進軍 Vitafoods Asia 成功拓展國際市場版圖</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="837" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=1220%2C837&#038;ssl=1" alt="" class="wp-image-258856" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=768%2C527&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=1536%2C1054&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=2048%2C1406&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=220%2C150&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">展場走道湧入海外專業客戶，佳研國際以「保健品一站式整合服務 × 跨國代工」與多元劑型展示，從配方到量產的完整解決方案備受關注。圖/佳研國際 提供</figcaption></figure>
+
+
+
+<p>佳研與優生已連續多年聯合參展亞洲最大保健品專業展會Vitafoods Asia，展示從原料到製造、從研發設計到出口規劃的全方位實力，引起多國買家的注意。</p>
+
+
+
+<p>日前於<strong>2025</strong><strong>年</strong><strong>Vitafoods Asia</strong>展會上，雙方更以全面升級的<strong>跨國CDMO</strong><strong>平台</strong>形象參展，現場展出最新研發成果、多劑型一站式服務與高潛力商品化配方，成功吸引大量來自新加坡、越南、泰國、日本、韓國、港澳等國際客戶現場洽談合作，獲得高度評價，進一步拓展海外代工機會，也再次驗證其在全球保健市場中具備整合式製造與創新能量的領導地位。</p>
+
+
+
+<p>透過連年國內外參展，佳研與優生逐步擴大台灣保健品產業在國際舞台的影響力，將「台灣製造 × 台灣研發 × 國際商務策略」的整合優勢，實際轉化為多項實質合作專案，成功打開新南向與歐美市場的大門。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>從台灣出發，落實保健產業國際化願景</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1388" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1220%2C1388&#038;ssl=1" alt="" class="wp-image-258857" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?w=2250&amp;ssl=1 2250w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=768%2C874&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1350%2C1536&amp;ssl=1 1350w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1800%2C2048&amp;ssl=1 1800w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">佳研國際總經理王居仁(左)與優生集團總經理陳家章(右)攜手啟動跨國保健品CDMO合作。圖/佳研國際 提供</figcaption></figure>
+
+
+
+<p>佳研國際總經理王居仁表示：「這是策略與實力的雙重結盟。我們與優生的多年合作不僅展現台灣供應鏈的製造品質，更實現原料技術與品牌落地的商業整合，協助客戶打造可出口、可擴張的健康商品。」</p>
+
+
+
+<p>優生醫藥生技集團總經理陳家章也指出：「透過佳研的市場洞察與專案執行，我們從代工夥伴轉型為品牌共同成長的推手，未來將強化製程升級與國際認證布局，推進雙方CDMO模式的全球擴展。」</p>
+
+
+
+<p>雙方合作象徵台灣保健產業的國際化進程，未來也將持續以研發、製造與市場導向整合實力，攜手協助更多品牌「從台灣出發，走向世界市場」。</p>
+
+
+
+<p><strong>佳研國際股份有限公司官網</strong><strong></strong></p>
+
+
+
+<p><a href="https://jia-yen.com">https://jia-yen.com</a></p>
+
+
+
+<p><strong>優生醫藥生技集團官網</strong></p>
+
+
+
+<p><a href="https://www.yushenbio.com/">https://www.yushenbio.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/">台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</title>
+		<link>https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 05:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ErosKare]]></category>
+		<category><![CDATA[依洛絲脈衝光]]></category>
+		<category><![CDATA[永業達]]></category>
+		<category><![CDATA[除毛]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=258996</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 在追求自信與整潔形象的日常保養中，除毛已成為許多女性日常保養的一環。 然而，傳統除毛方 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/">美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="【安全合法居家除毛】居家除毛機選哪台？ 專業醫師推薦 | ErosKare 依洛絲脈衝光除毛機  | 2025秋季美容展現場體驗" width="1220" height="686" src="https://www.youtube.com/embed/8xl8xnHe5Ug?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在追求自信與整潔形象的日常保養中，除毛已成為許多女性日常保養的一環。</strong></p>
+</blockquote>
+
+
+
+<p>然而，傳統除毛方式如刮毛、蜜蠟或雷射，常伴隨疼痛、肌膚受損、效果不持久等困擾，就連被視為「長期投資」的雷射除毛，在還沒有達到完全除毛之前，還是需要額外的保養，讓人感到煩躁與無力。</p>
+
+
+
+<p>更讓人頭痛的是，體毛總是「長很快」，幾乎剃完隔天就冒出來，甚至變得更粗、更硬，形成無限循環。雖然過程耗時又昂貴，但許多人仍覺得「不除不行」──因為身處於將白皙光滑的肌膚視為美的標準下，這種壓力進一步加劇了女生的焦慮感。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>除毛困擾，挑戰重重</strong></h2>
+
+
+
+<p>除毛不僅是夏季的例行公事，更是全年無休的「戰爭」。無論是穿著清涼的服飾，或是展現身體線條，毛手毛腳總讓人感到尷尬與不自在。然而，這件看似稀鬆平常的「小事」，卻比想像中更加折磨人，不僅耗費時間、金錢，更可能在過程中帶來疼痛、肌膚受損等困擾。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>除毛困擾多，女性面臨三大困擾</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="790" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?resize=1220%2C790&#038;ssl=1" alt="" class="wp-image-258997" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?w=1420&amp;ssl=1 1420w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?resize=768%2C498&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在現代審美觀念的影響下，白皙光滑的肌膚被視為美的象徵，然而除毛過程卻常伴隨諸多困擾。根據臨床觀察，女性在除毛時普遍面臨以下三大挑戰：</p>
+
+
+
+<p>1. 不適感與肌膚問題</p>
+
+
+
+<p>包含疼痛、紅腫、過敏、體毛倒插等，讓人覺得除毛過程與後續修復都不舒服。</p>
+
+
+
+<p>2. 效果不持久與體毛再生困擾</p>
+
+
+
+<p>無論是剃毛、拔毛還是蜜蠟，都面臨體毛再生快、變粗硬或內生毛的問題，難以長期維持光滑。</p>
+
+
+
+<p>3. 成本與心理壓力</p>
+
+
+
+<p>白淨光滑的肌膚長期被認為是「美」的標誌，專業除毛費用高、自己處理又耗時，讓女生產生焦慮。</p>
+
+
+
+<p>專業醫師林姿吟表示，家用除毛是談一個常見但被低估的話題，臨床上，除毛也是皮膚清潔與照護的一環我會建議這三類人，可以選擇溫和型除毛：</p>
+
+
+
+<p>1. 追求日常肌膚穩定保養族群</p>
+
+
+
+<p>2. 多汗體質，降低異味</p>
+
+
+
+<p>3. 剛開始除毛的新手族群，希望從溫和除毛起步</p>
+
+
+
+<p>適當除毛，有助維持衛生、減少感染風險，是很多皮膚問題的預防性處置。若要居家除毛，一定要選擇有通過醫療許可、安全、適用的工具來執行。</p>
+
+
+
+<p>除毛後的保養也很重要。建議搭配蘆薈膠、修復霜來保濕舒緩，才能讓肌膚穩定不泛紅，同時要避免陽光曝曬，也暫時不要去角質或使用刺激性保養品。</p>
+
+
+
+<h2 class="wp-block-heading">便利、長效與安全兼顧的居家選擇</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-258998" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?w=1481&amp;ssl=1 1481w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?resize=768%2C429&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">永業達（ErosKare）正式推出「依洛絲脈衝光除毛機」是解決體毛問題的全新選擇。圖/永業達（ErosKare）</figcaption></figure>
+
+
+
+<p>綜觀各種方式，女性在除毛上最關注的三大需求是──「低痛感」、「長效維持」以及「價格合理」。這也讓居家型光學除毛裝置成為近年受到關注的新選項。然而，市面上並非所有產品皆具合法認證，安全疑慮也讓消費者有所顧慮。</p>
+
+
+
+<p>在這樣的需求下，台灣製造的<strong>永業達（ErosKare）正式推出全新「依洛絲脈衝光除毛機」</strong>。它不僅衛福部二類醫療器材認證（衛部醫器製字第008666號），更以居家操作為設計核心，由台灣QMS醫材認證廠全程製造，並通過TAF國際認可實驗室多項嚴格測試，兼顧便利與安全。機身輕巧、手持設計，方便使用者自行處理多部位的體毛管理，不需專業背景，也能在家輕鬆完成日常保養。</p>
+
+
+
+<p>總結而言，除毛雖是小事，卻關乎大自信。從傳統方法的痛點，到如今合法居家除毛醫材的出現，居家除毛終於有了便利又安心的解方。這不僅是技術進步，更是生活品質的提升。選擇合適工具，讓美麗不再是負擔，而是日常的輕鬆享受。 </p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/">美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>食物雷達自動偵測？哈士奇聽見零食袋打開聲音一秒飛撲 </title>
+		<link>https://firenews.com.tw/2025/09/24/%e9%a3%9f%e7%89%a9%e9%9b%b7%e9%81%94%e8%87%aa%e5%8b%95%e5%81%b5%e6%b8%ac%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e8%81%bd%e8%a6%8b%e9%9b%b6%e9%a3%9f%e8%a2%8b%e6%89%93%e9%96%8b%e8%81%b2%e9%9f%b3%e4%b8%80/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 04:27:48 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[哈士奇]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[貪吃]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=258820</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 最近網路上瘋傳一段有趣的寵物短片，一隻原本正躺在地上休息熟睡的哈士奇，在聽見零 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e9%a3%9f%e7%89%a9%e9%9b%b7%e9%81%94%e8%87%aa%e5%8b%95%e5%81%b5%e6%b8%ac%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e8%81%bd%e8%a6%8b%e9%9b%b6%e9%a3%9f%e8%a2%8b%e6%89%93%e9%96%8b%e8%81%b2%e9%9f%b3%e4%b8%80/">食物雷達自動偵測？哈士奇聽見零食袋打開聲音一秒飛撲 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>最近網路上瘋傳一段有趣的寵物短片，一隻原本正躺在地上休息熟睡的哈士奇，在聽見零食包裝袋被打開的聲音後，瞬間「彈射」到主人身邊，動作之俐落讓現場所有人目瞪口呆，引起網友們的熱烈討論。&nbsp;</p>
+
+
+
+<p>當時這隻哈士奇的主人原本只是想吃點零食，便隨手打開了零食袋，卻沒想到聲音竟然驚動到家中熟睡的愛犬，上一秒還安靜地趴在牆邊的狗狗，下一秒就像被彈簧推動般快速衝出，準確無誤地滑到桌前，動作十分流暢全程毫無失誤。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/nataliia-kvitovska-iy5Kqqvytuo-unsplash-scaled.jpg?resize=1220%2C1627&#038;ssl=1" alt="" class="wp-image-258826" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/nataliia-kvitovska-iy5Kqqvytuo-unsplash-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/nataliia-kvitovska-iy5Kqqvytuo-unsplash-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/nataliia-kvitovska-iy5Kqqvytuo-unsplash-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/nataliia-kvitovska-iy5Kqqvytuo-unsplash-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗聽見零食袋打開的聲音後，立刻飛奔到主人身邊，貪吃的模樣令人哭笑不得<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>哈士奇到主人身邊後，馬上將自己的前爪搭在桌子上，露出討食的神情，彷彿在催促主人「別忘了我的份」，讓一旁的其他人驚呼連連，甚至還有人注意到牆上已有許多刮痕，懷疑這並非是牠第一次上演「飄移滑步」。&nbsp;</p>
+
+
+
+<p>更有趣的是，旁邊不遠處的沙發上還有另一隻狗狗，牠翹著腿悠閒地躺著顯得格外淡定，一副「見怪不怪」的模樣，與前者形成鮮明對比，讓，不少網友留言打趣道「肯定是慣犯」、「根本是一對極品」、「果然有臥龍就有鳳雛」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e9%a3%9f%e7%89%a9%e9%9b%b7%e9%81%94%e8%87%aa%e5%8b%95%e5%81%b5%e6%b8%ac%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e8%81%bd%e8%a6%8b%e9%9b%b6%e9%a3%9f%e8%a2%8b%e6%89%93%e9%96%8b%e8%81%b2%e9%9f%b3%e4%b8%80/">食物雷達自動偵測？哈士奇聽見零食袋打開聲音一秒飛撲 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>主人特地設計貓門！卻沒想到竟遭浪貓入侵 </title>
+		<link>https://firenews.com.tw/2025/09/24/%e4%b8%bb%e4%ba%ba%e7%89%b9%e5%9c%b0%e8%a8%ad%e8%a8%88%e8%b2%93%e9%96%80%ef%bc%81%e5%8d%bb%e6%b2%92%e6%83%b3%e5%88%b0%e7%ab%9f%e9%81%ad%e6%b5%aa%e8%b2%93%e5%85%a5%e4%be%b5/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 04:27:35 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[流浪貓]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[貓門]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=258819</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 英國一名裝修師傅近日替客戶安裝了一個貓門，本以為能幫助飼主的愛貓自由進出，還特 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e4%b8%bb%e4%ba%ba%e7%89%b9%e5%9c%b0%e8%a8%ad%e8%a8%88%e8%b2%93%e9%96%80%ef%bc%81%e5%8d%bb%e6%b2%92%e6%83%b3%e5%88%b0%e7%ab%9f%e9%81%ad%e6%b5%aa%e8%b2%93%e5%85%a5%e4%be%b5/">主人特地設計貓門！卻沒想到竟遭浪貓入侵 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>英國一名裝修師傅近日替客戶安裝了一個貓門，本以為能幫助飼主的愛貓自由進出，還特地留下觀察成果，沒想到在他成功拍到一隻虎斑貓使用新門的畫面後，卻意外發現這根本不是屋主養的貓咪，結局令人哭笑不得。&nbsp;</p>
+
+
+
+<p>據了解，這位名叫「喬（Joe）」的師傅受託為一戶人家在大門上加裝貓門，當天完工後他沒有立刻離去，而是坐在車裡等待，希望能親眼見證貓咪嘗試這項新設施，畢竟許多貓咪仍習慣依賴主人開門，貓門是否能派上用場，讓他心中充滿好奇。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-258829" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/dan-gold-XOTqUGpuaaI-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「喬」看見貓門成功地被使用相當興奮，結果屋主卻回覆表示，這根本不是他家的貓<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>而過沒多久後便有一隻虎斑貓出現，牠先是小心地蹭了蹭門口，接著伸出前腳試探，隨後身體靈巧一轉，便輕鬆鑽進了屋內，「喬」見狀相當興奮，立刻將影片傳給屋主，認為這是顯示貓門完全發揮作用的最佳證明。&nbsp;</p>
+
+
+
+<p>令人沒想到的是，當屋主收到影片後卻回覆表示，那隻虎斑貓根本不是他家的貓，他猜測對方可能只是因炎熱天氣想找地方乘涼，這個趣味插曲讓雙方都忍不住大笑，也讓網友們看完直呼「家貓還沒用上，結果已經變浪貓專用了」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e4%b8%bb%e4%ba%ba%e7%89%b9%e5%9c%b0%e8%a8%ad%e8%a8%88%e8%b2%93%e9%96%80%ef%bc%81%e5%8d%bb%e6%b2%92%e6%83%b3%e5%88%b0%e7%ab%9f%e9%81%ad%e6%b5%aa%e8%b2%93%e5%85%a5%e4%be%b5/">主人特地設計貓門！卻沒想到竟遭浪貓入侵 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
