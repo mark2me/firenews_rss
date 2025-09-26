@@ -1,909 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>其他 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/其他/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Fri, 26 Sep 2025 02:58:45 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>其他 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/其他/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>Ecolab 藝康 SEMICON 2025 聚焦液冷創新與智慧水管理方案</title>
-		<link>https://firenews.com.tw/2025/09/26/ecolab-%e8%97%9d%e5%ba%b7-semicon-2025-%e8%81%9a%e7%84%a6%e6%b6%b2%e5%86%b7%e5%89%b5%e6%96%b0%e8%88%87%e6%99%ba%e6%85%a7%e6%b0%b4%e7%ae%a1%e7%90%86%e6%96%b9%e6%a1%88/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 21:15:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=259390</guid>
-
-					<description><![CDATA[<p>在&#160;2025 SEMICON&#160;國際半導體展上，全球永續領導品牌藝康集團（Ecolab）旗下 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/ecolab-%e8%97%9d%e5%ba%b7-semicon-2025-%e8%81%9a%e7%84%a6%e6%b6%b2%e5%86%b7%e5%89%b5%e6%96%b0%e8%88%87%e6%99%ba%e6%85%a7%e6%b0%b4%e7%ae%a1%e7%90%86%e6%96%b9%e6%a1%88/">Ecolab 藝康 SEMICON 2025 聚焦液冷創新與智慧水管理方案</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>在&nbsp;2025 SEMICON&nbsp;國際半導體展上，全球永續領導品牌藝康集團（Ecolab）旗下納爾科（NALCO Water）展示其獨家整合的智慧水管理與液冷解決方案，為晶圓廠與新世代資料中心提供兼顧效能與永續的創新選擇，現場吸引眾多業界目光。</p>
-
-
-
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Ecolab_Semicon.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-259391" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Ecolab_Semicon.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/Ecolab_Semicon.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Ecolab藝康展示獨家整合的智慧水管理與液冷解決方案</figcaption></figure>
-
-
-
-<p>日前於2025 SEMICON 國際半導體展上，全球永續領導品牌藝康集團(Ecolab)旗下子公司 &#8211; 納爾科(NALCO Water)，展示其獨家整合的智慧水管理與液冷解決方案，為晶圓廠與新世代資料中心提供一套從製程到公用系統的完整永續策略，吸引業界高度關注。</p>
-
-
-
-<p><strong>3D TRASAR<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 技術：精準防蝕與即時監控水質，確保系統穩定</strong></p>
-
-
-
-<p>藝康｜納爾科展示的核心技術，是針對高科技產業需求所開發的一系列解決方案：</p>
-
-
-
-<ul class="wp-block-list">
-<li>資料中心液冷與水質管理： 針對AI伺服器與GPU的直接液冷（Direct-to-Chip Liquid Cooling）系統，其3D TRASAR<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />專利技術能即時精準監控冷卻液的化學濃度、防蝕與pH值等關鍵參數。透過持續性的數據分析與優化，有效預防管線腐蝕與雜質沉積，大幅降低非預期停機的風險，確保運算資產的穩定與可靠性，延長系統生命週期。</li>
-
-
-
-<li>半導體廠務水處理方案： 針對晶圓製造的冷卻水與製程廢水，納爾科提供全方位的水處理服務。從腐蝕抑制、結垢控制到化學藥劑精準加藥，這些技術不僅能提升水循環利用率、減少新水用量與廢水排放，更能優化熱交換效率，幫助廠務工程師減少用水與能源消耗，實現實質性的成本節約。</li>
-</ul>
-
-
-
-<p>其中，領先業界的3D TRASAR<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />專利技術，近期迅速獲得配置液冷系統的資料中心及企業內部機房的重視，與產業龍頭業者共同推進更高效率的散熱方案。</p>
-
-
-
-<p><strong>守護高科技製程，南科研發中心展現在地決心</strong></p>
-
-
-
-<p>藝康台灣總經理塗溥仁表示：「我們深知半導體產業對於每一個製程環節都要求極致穩定，透過納爾科整合性的智慧水處理與液冷方案，不僅協助客戶延長高價值設備的壽命、降低營運風險，更提供能滿足未來更高能耗與排放標準的永續策略。」 近期，藝康更宣布投入新台幣1.5億元進駐台南科學園區，成立藝康集團在台首座研發中心。此舉展現了深耕台灣的決心，未來將結合在地資源與人才，針對台灣高科技產業的特殊需求進行客製化開發與快速響應，持續提供更貼近在地需求的創新解決方案，與台灣的半導體產業一同邁向更具韌性的未來。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/ecolab-%e8%97%9d%e5%ba%b7-semicon-2025-%e8%81%9a%e7%84%a6%e6%b6%b2%e5%86%b7%e5%89%b5%e6%96%b0%e8%88%87%e6%99%ba%e6%85%a7%e6%b0%b4%e7%ae%a1%e7%90%86%e6%96%b9%e6%a1%88/">Ecolab 藝康 SEMICON 2025 聚焦液冷創新與智慧水管理方案</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</title>
-		<link>https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 10:31:01 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258992</guid>
-
-					<description><![CDATA[<p>隨著高效能運算與雲端服務需求持續攀升，液冷技術成為推動資料中心降耗與穩定性的關鍵。SUNON 建準將於 OCP &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/">「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>隨著高效能運算與雲端服務需求持續攀升，液冷技術成為推動資料中心降耗與穩定性的關鍵。SUNON 建準將於 OCP Global Summit 2025 發表全新一代液冷散熱系統，以「Build to Chill」為題，聚焦高效能伺服器、雲端運算應用，展現建準在模組化設計、節能效能與系統穩定性的散熱技術深度與前瞻佈局。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=1220%2C667&#038;ssl=1" alt="" class="wp-image-258993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?w=1715&amp;ssl=1 1715w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=768%2C420&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=1536%2C839&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">建準於OCP 2025 展出液冷解決方案，攜手產業共創開放式運算新未來</figcaption></figure>
-
-
-
-<p>今年 OCP 全球高峰會主題為「Leading the Future of AI」，集結全球雲端服務商、伺服器製造商、開放硬體開發者與資料中心關鍵決策者。SUNON 建準期待透過今年的展出，與全球產業技術領袖深入交流，推動開放運算架構與 AI 運算環境的散熱標準升級。隨著 AI 模型規模擴大與伺服器熱密度提升，資料中心面臨前所未有的散熱挑戰。建準展出包含伺服器應用之水冷板, 散熱模組, CDU等，這些解決方案專為支援開放運算而設計，並提供散熱選項，以滿足新世代運算環境的需求。</p>
-
-
-
-<p>建準執行副總經理吳晉賜表示 :「我們不只設計散熱產品，更是打造能承載未來 AI 運算的穩定支柱。」 建準誠摯邀請全球合作夥伴及產業決策者，蒞臨展會現場，共同體驗如何透過下一代液冷技術，實現高效、模組化、可擴展的運算未來。</p>
-
-
-
-<p>【展會資訊】</p>
-
-
-
-<ul class="wp-block-list">
-<li>展會名稱： OCP Global Summit 2025</li>
-
-
-
-<li>展出日期： 2025年10月13日－16日</li>
-
-
-
-<li>地點：<em>San Jose McEnery Convention Center | San Jose,</em> California, USA.</li>
-</ul>
-
-
-
-<p>SUNON攤位編號： A53</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/">「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</title>
-		<link>https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 05:51:26 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[CDMO]]></category>
-		<category><![CDATA[佳研]]></category>
-		<category><![CDATA[佳研國際股份有限公司]]></category>
-		<category><![CDATA[優生Vitafoods]]></category>
-		<category><![CDATA[優生醫藥生技集團]]></category>
-		<category><![CDATA[火報]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258852</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 健康產業鏈結新典範&#160; 鎖定全球市場，CDMO供應鏈從台灣啟動 隨著全球消費者 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/">台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>健康產業鏈結新典範</strong><strong>&nbsp; </strong><strong>鎖定全球市場，</strong><strong>CDMO</strong><strong>供應鏈從台灣啟動</strong><strong></strong></p>
-</blockquote>
-
-
-
-<p>隨著全球消費者對健康營養產品的需求持續攀升，<strong>佳研國際股份有限公司</strong>（<a href="https://jia-yen.com/">Jia-Yen International</a>）與<strong>優生醫藥生技集團</strong>（<a href="https://www.yushenbio.com/">Yushen Bio‑tech</a>）深化合作，聯手打造具備研發整合、製造規格與法規導向的跨國CDMO平台，積極搶攻亞太與全球保健食品市場。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1048" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?resize=1220%2C1048&#038;ssl=1" alt="" class="wp-image-258855" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-01.jpg?resize=768%2C660&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">佳研國際亮相2025 Vitafoods Asia，以「CDMO 跨境整合服 務」與「全劑型GMP合規產能」展示一站式保健品解決方案 ；圖為團隊於展位合影。圖/佳研國際 提供</figcaption></figure>
-
-
-
-<p>這項合作結合佳研在原料整合與產品孵化的市場經驗，與優生在GMP製造、產能配置與法規合規的製造能力，提供品牌一站式、即時落地的商品化解決方案，加速產品量產與跨國輸出。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>研發 × 製造 × 合規整合：共創保健品商品化新速度</strong></h2>
-
-
-
-<p>佳研國際擁有IngredientsCloud(TM) 與NewPath(TM) 兩大品牌，專精於機能原料整合、營養保健品商品孵化、通路落地策略與國際法規顧問服務。多年來服務遍及東南亞、美洲與歐洲多國客戶，並致力於協助品牌從0到1建構配方、包裝、定位與通路策略。其專業涵蓋腦力營養、腸道健康、美顏抗氧化、運動健身、銀髮照護等應用領域，成功為直銷品牌、跨境商家、大型品牌商與各通路打造市場差異化產品。</p>
-
-
-
-<p>優生醫藥生技集團則為台灣少數同時擁有<strong>全產線GMP製造等級</strong>與<strong>HALAL清真認證產線</strong>的專業製造商，涵蓋液劑、粉劑、錠劑、膠囊等劑型。憑藉完整品質體系與自動化設備，並成功通過<strong>全球知名A級直銷商與美國大型會員制量販店</strong>稽核與驗證，優生展現了國際級製造能力與嚴謹的合規執行力。結合雙方資源，佳研能以優生為製造基地，協助品牌快速完成商品化並投入量產，縮短上市週期、提升市場競爭力與合規能力。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>連年進軍 Vitafoods Asia 成功拓展國際市場版圖</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="837" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=1220%2C837&#038;ssl=1" alt="" class="wp-image-258856" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=768%2C527&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=1536%2C1054&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=2048%2C1406&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?resize=220%2C150&amp;ssl=1 220w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/2025-Vitafoods-Asia-02-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">展場走道湧入海外專業客戶，佳研國際以「保健品一站式整合服務 × 跨國代工」與多元劑型展示，從配方到量產的完整解決方案備受關注。圖/佳研國際 提供</figcaption></figure>
-
-
-
-<p>佳研與優生已連續多年聯合參展亞洲最大保健品專業展會Vitafoods Asia，展示從原料到製造、從研發設計到出口規劃的全方位實力，引起多國買家的注意。</p>
-
-
-
-<p>日前於<strong>2025</strong><strong>年</strong><strong>Vitafoods Asia</strong>展會上，雙方更以全面升級的<strong>跨國CDMO</strong><strong>平台</strong>形象參展，現場展出最新研發成果、多劑型一站式服務與高潛力商品化配方，成功吸引大量來自新加坡、越南、泰國、日本、韓國、港澳等國際客戶現場洽談合作，獲得高度評價，進一步拓展海外代工機會，也再次驗證其在全球保健市場中具備整合式製造與創新能量的領導地位。</p>
-
-
-
-<p>透過連年國內外參展，佳研與優生逐步擴大台灣保健品產業在國際舞台的影響力，將「台灣製造 × 台灣研發 × 國際商務策略」的整合優勢，實際轉化為多項實質合作專案，成功打開新南向與歐美市場的大門。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>從台灣出發，落實保健產業國際化願景</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1388" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1220%2C1388&#038;ssl=1" alt="" class="wp-image-258857" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?w=2250&amp;ssl=1 2250w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=768%2C874&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1350%2C1536&amp;ssl=1 1350w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/佳研x優生-1-update-scaled.jpg?resize=1800%2C2048&amp;ssl=1 1800w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">佳研國際總經理王居仁(左)與優生集團總經理陳家章(右)攜手啟動跨國保健品CDMO合作。圖/佳研國際 提供</figcaption></figure>
-
-
-
-<p>佳研國際總經理王居仁表示：「這是策略與實力的雙重結盟。我們與優生的多年合作不僅展現台灣供應鏈的製造品質，更實現原料技術與品牌落地的商業整合，協助客戶打造可出口、可擴張的健康商品。」</p>
-
-
-
-<p>優生醫藥生技集團總經理陳家章也指出：「透過佳研的市場洞察與專案執行，我們從代工夥伴轉型為品牌共同成長的推手，未來將強化製程升級與國際認證布局，推進雙方CDMO模式的全球擴展。」</p>
-
-
-
-<p>雙方合作象徵台灣保健產業的國際化進程，未來也將持續以研發、製造與市場導向整合實力，攜手協助更多品牌「從台灣出發，走向世界市場」。</p>
-
-
-
-<p><strong>佳研國際股份有限公司官網</strong><strong></strong></p>
-
-
-
-<p><a href="https://jia-yen.com">https://jia-yen.com</a></p>
-
-
-
-<p><strong>優生醫藥生技集團官網</strong></p>
-
-
-
-<p><a href="https://www.yushenbio.com/">https://www.yushenbio.com/</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e5%8f%b0%e7%81%a3%e4%bf%9d%e5%81%a5%e9%a3%9f%e5%93%81cdmo%e6%8e%a5%e8%bb%8c%e5%9c%8b%e9%9a%9b%ef%bc%81%e4%bd%b3%e7%a0%94%e8%88%87%e5%84%aa%e7%94%9fvitafoods-asia%e5%b1%95%e6%9c%83%e6%8e%80%e8%b5%b7/">台灣保健食品CDMO接軌國際！佳研與優生Vitafoods Asia展會掀起熱潮</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</title>
-		<link>https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 05:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[ErosKare]]></category>
-		<category><![CDATA[依洛絲脈衝光]]></category>
-		<category><![CDATA[永業達]]></category>
-		<category><![CDATA[除毛]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258996</guid>
-
-					<description><![CDATA[<p>記者 洪俊維 / 報導 在追求自信與整潔形象的日常保養中，除毛已成為許多女性日常保養的一環。 然而，傳統除毛方 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/">美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="【安全合法居家除毛】居家除毛機選哪台？ 專業醫師推薦 | ErosKare 依洛絲脈衝光除毛機  | 2025秋季美容展現場體驗" width="1220" height="686" src="https://www.youtube.com/embed/8xl8xnHe5Ug?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>記者 洪俊維 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>在追求自信與整潔形象的日常保養中，除毛已成為許多女性日常保養的一環。</strong></p>
-</blockquote>
-
-
-
-<p>然而，傳統除毛方式如刮毛、蜜蠟或雷射，常伴隨疼痛、肌膚受損、效果不持久等困擾，就連被視為「長期投資」的雷射除毛，在還沒有達到完全除毛之前，還是需要額外的保養，讓人感到煩躁與無力。</p>
-
-
-
-<p>更讓人頭痛的是，體毛總是「長很快」，幾乎剃完隔天就冒出來，甚至變得更粗、更硬，形成無限循環。雖然過程耗時又昂貴，但許多人仍覺得「不除不行」──因為身處於將白皙光滑的肌膚視為美的標準下，這種壓力進一步加劇了女生的焦慮感。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>除毛困擾，挑戰重重</strong></h2>
-
-
-
-<p>除毛不僅是夏季的例行公事，更是全年無休的「戰爭」。無論是穿著清涼的服飾，或是展現身體線條，毛手毛腳總讓人感到尷尬與不自在。然而，這件看似稀鬆平常的「小事」，卻比想像中更加折磨人，不僅耗費時間、金錢，更可能在過程中帶來疼痛、肌膚受損等困擾。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>除毛困擾多，女性面臨三大困擾</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="790" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?resize=1220%2C790&#038;ssl=1" alt="" class="wp-image-258997" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?w=1420&amp;ssl=1 1420w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709343605.jpg?resize=768%2C498&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<p>在現代審美觀念的影響下，白皙光滑的肌膚被視為美的象徵，然而除毛過程卻常伴隨諸多困擾。根據臨床觀察，女性在除毛時普遍面臨以下三大挑戰：</p>
-
-
-
-<p>1. 不適感與肌膚問題</p>
-
-
-
-<p>包含疼痛、紅腫、過敏、體毛倒插等，讓人覺得除毛過程與後續修復都不舒服。</p>
-
-
-
-<p>2. 效果不持久與體毛再生困擾</p>
-
-
-
-<p>無論是剃毛、拔毛還是蜜蠟，都面臨體毛再生快、變粗硬或內生毛的問題，難以長期維持光滑。</p>
-
-
-
-<p>3. 成本與心理壓力</p>
-
-
-
-<p>白淨光滑的肌膚長期被認為是「美」的標誌，專業除毛費用高、自己處理又耗時，讓女生產生焦慮。</p>
-
-
-
-<p>專業醫師林姿吟表示，家用除毛是談一個常見但被低估的話題，臨床上，除毛也是皮膚清潔與照護的一環我會建議這三類人，可以選擇溫和型除毛：</p>
-
-
-
-<p>1. 追求日常肌膚穩定保養族群</p>
-
-
-
-<p>2. 多汗體質，降低異味</p>
-
-
-
-<p>3. 剛開始除毛的新手族群，希望從溫和除毛起步</p>
-
-
-
-<p>適當除毛，有助維持衛生、減少感染風險，是很多皮膚問題的預防性處置。若要居家除毛，一定要選擇有通過醫療許可、安全、適用的工具來執行。</p>
-
-
-
-<p>除毛後的保養也很重要。建議搭配蘆薈膠、修復霜來保濕舒緩，才能讓肌膚穩定不泛紅，同時要避免陽光曝曬，也暫時不要去角質或使用刺激性保養品。</p>
-
-
-
-<h2 class="wp-block-heading">便利、長效與安全兼顧的居家選擇</h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-258998" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?w=1481&amp;ssl=1 1481w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758709356865.jpg?resize=768%2C429&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">永業達（ErosKare）正式推出「依洛絲脈衝光除毛機」是解決體毛問題的全新選擇。圖/永業達（ErosKare）</figcaption></figure>
-
-
-
-<p>綜觀各種方式，女性在除毛上最關注的三大需求是──「低痛感」、「長效維持」以及「價格合理」。這也讓居家型光學除毛裝置成為近年受到關注的新選項。然而，市面上並非所有產品皆具合法認證，安全疑慮也讓消費者有所顧慮。</p>
-
-
-
-<p>在這樣的需求下，台灣製造的<strong>永業達（ErosKare）正式推出全新「依洛絲脈衝光除毛機」</strong>。它不僅衛福部二類醫療器材認證（衛部醫器製字第008666號），更以居家操作為設計核心，由台灣QMS醫材認證廠全程製造，並通過TAF國際認可實驗室多項嚴格測試，兼顧便利與安全。機身輕巧、手持設計，方便使用者自行處理多部位的體毛管理，不需專業背景，也能在家輕鬆完成日常保養。</p>
-
-
-
-<p>總結而言，除毛雖是小事，卻關乎大自信。從傳統方法的痛點，到如今合法居家除毛醫材的出現，居家除毛終於有了便利又安心的解方。這不僅是技術進步，更是生活品質的提升。選擇合適工具，讓美麗不再是負擔，而是日常的輕鬆享受。 </p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e7%be%8e%e9%ba%97%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%97%9b%ef%bc%81%e4%be%9d%e6%b4%9b%e7%b5%b2%e8%84%88%e8%a1%9d%e5%85%89%e9%99%a4%e6%af%9b%e6%a9%9f%e6%89%93%e9%80%a0%e5%ae%89%e5%85%a8%e5%90%88%e6%b3%95/">美麗，不必痛！依洛絲脈衝光除毛機打造安全合法居家除毛保養</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>根植於土地的詩意新生：Fabiana Filippi 2025 秋冬系列</title>
-		<link>https://firenews.com.tw/2025/09/24/%e6%a0%b9%e6%a4%8d%e6%96%bc%e5%9c%9f%e5%9c%b0%e7%9a%84%e8%a9%a9%e6%84%8f%e6%96%b0%e7%94%9f%ef%bc%9afabiana-filippi-2025-%e7%a7%8b%e5%86%ac%e7%b3%bb%e5%88%97-2/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 03:10:24 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[Fabiana Filippi]]></category>
-		<category><![CDATA[Umbria]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258798</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 來自Italy Umbria的Fabiana Filippi 不僅是低調頂奢品牌，更容 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e6%a0%b9%e6%a4%8d%e6%96%bc%e5%9c%9f%e5%9c%b0%e7%9a%84%e8%a9%a9%e6%84%8f%e6%96%b0%e7%94%9f%ef%bc%9afabiana-filippi-2025-%e7%a7%8b%e5%86%ac%e7%b3%bb%e5%88%97-2/">根植於土地的詩意新生：Fabiana Filippi 2025 秋冬系列</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>來自Italy Umbria的Fabiana Filippi 不僅是低調頂奢品牌，更容納著對世界的深情關懷。1985年以來，每一件服裝都以亞麻和羊絨等珍稀面料，頌揚著日常生活中那份細膩而真實的美好。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="784" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?resize=1220%2C784&#038;ssl=1" alt="" class="wp-image-258803" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?resize=768%2C494&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?resize=1536%2C987&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?resize=2048%2C1316&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Fabiana Filippi美與工藝的價值。圖/Fabiana Filippi</figcaption></figure>
-
-
-
-<p>這是一次誠摯的邀請，引領您深入體驗「精工細作」的深遠價值，這份價值源自於品牌對感官的深刻感知與持續教育，更是對Umbria這片土地及其人民的感恩與致敬。</p>
-
-
-
-<p>Fabiana Filippi持續追求本質之美—將美感與實用性完美融合，最終成為生活中不可或缺的必需品，無論是在您的衣櫥中，抑或在您的生命裡。</p>
-
-
-
-<p>Umbria孕育了 Fabiana Filippi，更是品牌身份不可或缺的一部分。我們從這片土地的自然色彩、溫暖陽光與四季流轉中汲取靈感，並將這份深厚的連結融入系列設計、色彩搭配與風格之中。品牌的文化項目和與當地手工藝社區的合作，都旨在發揚Umbria文化底蘊、支持藝術活動，並傳承古老的知識。這一切都凝聚著品牌對這片發祥地的深切關懷，我們將Umbria的魅力展現給世界，以最真實的方式詮釋美、簡約與精湛的技藝。</p>
-
-
-
-<p>回溯過往，審視現在。戰後時期，Umbria幾乎家家戶戶都有人從事編織，這不僅是我們的傳統，更是我們引以為傲並持續傳承的技藝。正如創始人MARIO FILIPPI COCCETTA所言：「這片土地從一開始就教會了我們美與工藝的價值，而如今，我們正是在這堅實的基礎上，繼續打造我們的產品。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1080" height="1080" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/只能一張圖：請保留圖2.jpg?resize=1080%2C1080&#038;ssl=1" alt="" class="wp-image-258804" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/只能一張圖：請保留圖2.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/只能一張圖：請保留圖2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/只能一張圖：請保留圖2.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1080px) 100vw, 1080px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Fabiana Filippi 2025 秋冬系列藝術、質感與永恆之美的秋冬盛宴。圖/Fabiana Filippi</figcaption></figure>
-
-
-
-<p>針織，是 Fabiana Filippi 的起源與核心語言。這種緩慢而細緻的製作工藝，體現了對工匠精神的深切敬意，並隨著時間的推移而不斷傳承與創新。棉麻材質的漸層開襟衫、清晰可見的針腳細節、以及配件與鞋履中對布料的巧妙應用—每一件作品都是對品質的堅實證明，這些品質源於品牌豐富的經驗積累。對 Fabiana Filippi 而言，針織不僅僅是一種生產工藝：它是一種表達形式，一種美學與倫理的傳承，它使傳統得以延續，超越潮流，並始終保持其與時俱進的相關性。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>2025 秋冬系列：藝術與本質的對話</strong></h2>
-
-
-
-<p>2025 秋冬系列中，Fabiana Filippi 再次展現了對精湛工藝和文化傳承的深度融合。</p>
-
-
-
-<p>本季靈感汲取自Umbria當代藝術巨匠&nbsp;Alberto Burri&nbsp;藝術語言，他對材質的解構與重塑、對紋理的精緻處理，以及對對比的巧妙運用，為系列注入了新的生命。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="704" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3_0.jpg?resize=1220%2C704&#038;ssl=1" alt="" class="wp-image-258805" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3_0.jpg?w=1872&amp;ssl=1 1872w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3_0.jpg?resize=768%2C443&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/3_0.jpg?resize=1536%2C886&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Fabiana Filippi 2025 秋冬系列邀您在日常中品味詩意。圖/Fabiana Filippi</figcaption></figure>
-
-
-
-<p>透過精緻的羊絨與雙層面料，將Alberto Burri 藝術作品重新詮釋，賦予服裝精緻而富有層次的視覺體驗。當您觸摸這些服裝時，如同觸摸藝術品一般，感受到材質與工藝的完美結合。這種對藝術遺產的致敬，同時也推動著品牌在針織領域持續的革新探索，展現了 Fabiana Filippi 無與倫比的精湛技藝和根深蒂固的品牌價值。</p>
-
-
-
-<p>誠摯邀請您一起迎接一場關於藝術、質感與永恆之美的秋冬盛宴。Fabiana Filippi 2025 秋冬系列，讓您在簡約中見證不凡，在日常中品味詩意。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>歡迎您親臨品牌據點，沉浸於 Fabiana Filippi 獨特的義式美學與匠心工藝</strong></h2>
-
-
-
-<p>台北文華東方酒店-文華精品1F｜02-2545-3005</p>
-
-
-
-<p>台北晶華酒店-麗晶精品B1｜02-2521-6116</p>
-
-
-
-<p>新光三越-信義A4 3F｜0920-369-985</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Fabiana Filippi粉專</strong></h2>
-
-
-
-<p><a href="https://www.facebook.com/fabianafilippitaipei">https://www.facebook.com/fabianafilippitaipei</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e6%a0%b9%e6%a4%8d%e6%96%bc%e5%9c%9f%e5%9c%b0%e7%9a%84%e8%a9%a9%e6%84%8f%e6%96%b0%e7%94%9f%ef%bc%9afabiana-filippi-2025-%e7%a7%8b%e5%86%ac%e7%b3%bb%e5%88%97-2/">根植於土地的詩意新生：Fabiana Filippi 2025 秋冬系列</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>RECODE 2050臺灣紡織×創意設計 台灣六大設計師永續時尚新潮流 南港展覽館《成果匯演時尚秀》亮點搶先看</title>
-		<link>https://firenews.com.tw/2025/09/23/recode-2050%e8%87%ba%e7%81%a3%e7%b4%a1%e7%b9%94x%e5%89%b5%e6%84%8f%e8%a8%ad%e8%a8%88-%e5%8f%b0%e7%81%a3%e5%85%ad%e5%a4%a7%e8%a8%ad%e8%a8%88%e5%b8%ab%e6%b0%b8%e7%ba%8c%e6%99%82%e5%b0%9a%e6%96%b0/</link>
-		
-		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 15:27:33 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[產業]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258682</guid>
-
-					<description><![CDATA[<p>亮點預覽：設計與布料技術的跨界融合 由經濟部國際貿易署委託紡拓會執行的「紡織品整合行銷與商機開發計畫」，今年以 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/23/recode-2050%e8%87%ba%e7%81%a3%e7%b4%a1%e7%b9%94x%e5%89%b5%e6%84%8f%e8%a8%ad%e8%a8%88-%e5%8f%b0%e7%81%a3%e5%85%ad%e5%a4%a7%e8%a8%ad%e8%a8%88%e5%b8%ab%e6%b0%b8%e7%ba%8c%e6%99%82%e5%b0%9a%e6%96%b0/">RECODE 2050臺灣紡織×創意設計 台灣六大設計師永續時尚新潮流 南港展覽館《成果匯演時尚秀》亮點搶先看</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>亮點預覽：設計與布料技術的跨界融合</p>
-
-
-
-<p>由經濟部國際貿易署委託紡拓會執行的「紡織品整合行銷與商機開發計畫」，今年以「重製未來：RECODE 2050」為主題，於9月23日在台北漢來大飯店舉辦記者會，展演12套設計師與紡織業者跨界合作的精選服裝，率先呈現即將在10月15日於南港展覽館登場的《成果匯演時尚秀》精彩亮點。</p>
-
-
-
-<p>本次記者會集結19家臺灣紡織業者與6個設計師品牌（CHOIR、GIOIA PAN潘怡良、oqLiq、SPFLOE、UUIN、WEAVISM織本主義）跨界攜手，讓材質成為創意的最佳舞台，展現臺灣如何透過永續布料研發、循環經濟技術與時尚設計語言，彰顯臺灣紡織業的國際競爭力。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-258692" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/6個設計師品牌與19家紡織業者共同創作「重製未來：RECODE-2050」-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">記者會展演12套精選服裝，與紡織業者及六大設計師-CHOIR、SPFLOE、WEAVISM織本主義、GIOIA PAN潘怡良、oqLiq、UUIN / RECODE 2050展前記者會，一同見證臺灣紡織業者與設計師的永續新宣言。圖/Ad. by TITA/提供</figcaption></figure>
-
-
-
-<p>紡織實力：19家臺灣紡織業者的未來地圖</p>
-
-
-
-<p>本計畫透過邀請國際買主來臺採購商洽、發展具潛力之紡織貿易商，以及辦理成果匯演時尚秀與國際廣宣等多元方式，期能行銷臺灣成為全球永續紡織品採購中心。此次參與計畫的19家紡織業者是產業版圖的縮影，例如：力鵬以聚合到布料的垂直整合技術領跑亞洲；旭寬深耕圓編針織逾40年；莎美娜專注奧運與專業運動服；興采以咖啡紗改寫全球永續布料敘事。豪紳的智慧型纖維平臺、大芳的天然親膚系列、崇躍的SUNMOR ®防曬科技、佳紡的可可纖維、和明的天然機能實驗室，將「舒適 × 永續」推向新高度。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__124551172-4.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-258697" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__124551172-4.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__124551172-4.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__124551172-4.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">記者會展演12套精選服裝，主辦單位貿易署代表貿易署代表楊佳憲組長（中）特別出席合影。圖/Ad. by TITA/提供</figcaption></figure>
-
-
-
-<p>另外，富宇跨足航空及防護與醫療用布、宏良導入AI系統打造高能見度布料、驊豐以Porlite ® 系列專攻戶外市場、惠喬的雙層N-FLEX彈性布、纖登的循環回收技術、大成的永續客製刺繡，皆展現差異化優勢。還有，偉全的Wi-elastic彈性布、東紡定位「新紡織業」、野熊以紡織和塗佈技術創新整合、五綸專注經編與圓編布料，拼出一張橫跨運動、時尚、工業與生活的完整地圖。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-258693" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">人氣成員啦啦隊女神君白（謝君白）與演員鍾亞翰出席，跨界支持展現臺灣力量。圖/Ad. by TITA/提供</figcaption></figure>
-
-
-
-<p>設計共振：當布料遇見時尚</p>
-
-
-
-<p>今年計畫更首度媒合臺灣設計師與紡織業者跨界合作，透過設計師的創意巧思，將創新的永續布料與輔料，轉化為具時尚張力的服裝，並透過成果匯演時尚秀，創造臺灣紡織的國際亮點與高能見度，並進一步傳遞「科技紡織 × 永續創新」的產業優勢。</p>
-
-
-
-<p>這次展演的核心亮點，不只是布料本身，更是設計師與紡織業者的雙向解碼。來自紡織業者自有品牌的CHOIR（莎美娜）、SPFLOE（佳紡）、WEAVISM織本主義（和明），以都市語彙、街頭張力與在地工藝重塑布料價值；而設計師品牌GIOIA PAN潘怡良、oqLiq、UUIN則以針織語言、東方極簡與文化底蘊，將臺灣紡織布料轉譯為具備國際感與永續力的時尚語言。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/23/recode-2050%e8%87%ba%e7%81%a3%e7%b4%a1%e7%b9%94x%e5%89%b5%e6%84%8f%e8%a8%ad%e8%a8%88-%e5%8f%b0%e7%81%a3%e5%85%ad%e5%a4%a7%e8%a8%ad%e8%a8%88%e5%b8%ab%e6%b0%b8%e7%ba%8c%e6%99%82%e5%b0%9a%e6%96%b0/">RECODE 2050臺灣紡織×創意設計 台灣六大設計師永續時尚新潮流 南港展覽館《成果匯演時尚秀》亮點搶先看</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>農村好店「德朱利斯」獲長榮航肯定打造農村品牌走向國際</title>
-		<link>https://firenews.com.tw/2025/09/22/%e8%be%b2%e6%9d%91%e5%a5%bd%e5%ba%97%e3%80%8c%e5%be%b7%e6%9c%b1%e5%88%a9%e6%96%af%e3%80%8d%e7%8d%b2%e9%95%b7%e6%a6%ae%e8%88%aa%e8%82%af%e5%ae%9a%e6%89%93%e9%80%a0%e8%be%b2%e6%9d%91%e5%93%81%e7%89%8c/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[ESG]]></category>
-		<category><![CDATA[德朱利斯]]></category>
-		<category><![CDATA[新聞]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258107</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 在長榮航空近期舉辦的供應商大會上，農村好店德朱利斯國際食品有限公司脫穎而出，榮獲「創新 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e8%be%b2%e6%9d%91%e5%a5%bd%e5%ba%97%e3%80%8c%e5%be%b7%e6%9c%b1%e5%88%a9%e6%96%af%e3%80%8d%e7%8d%b2%e9%95%b7%e6%a6%ae%e8%88%aa%e8%82%af%e5%ae%9a%e6%89%93%e9%80%a0%e8%be%b2%e6%9d%91%e5%93%81%e7%89%8c/">農村好店「德朱利斯」獲長榮航肯定打造農村品牌走向國際</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>在長榮航空近期舉辦的供應商大會上，農村好店德朱利斯國際食品有限公司脫穎而出，榮獲「創新獎」，成為 7 家優良企業之一。這場以「攜手減碳，打造永續合作夥伴關係」為主題的會議，聚焦供應鏈韌性與永續經營，德朱利斯能夠受到肯定，不僅展現其在產品研發上的獨特性，更凸顯其在ESG、減碳及永續理念與供應鏈管理上的扎實成果。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="909" height="606" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/001.jpg?resize=909%2C606&#038;ssl=1" alt="" class="wp-image-258108" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/001.jpg?w=909&amp;ssl=1 909w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/001.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 909px) 100vw, 909px" data-recalc-dims="1" /><figcaption class="wp-element-caption">DJULIS 德朱利斯憑藉《光禾節能計畫》，從眾多品牌中脫穎而出，榮獲【第二屆長榮航空綠色供應鏈 創新獎】/圖片來源：長榮航空</figcaption></figure>
-
-
-
-<p>德朱利斯的品牌名稱源自台灣原住民語「紅藜」（Djulis），長年致力於推動臺東部落農民契作與無毒栽培，將傳統作物轉化為多元食品，如紅藜穀物棒、紅藜紅烏龍燕麥脆脆、洛神酥與特色伴手禮，且多項產品也入選「農村好物」。這些產品不僅深受旅客青睞，更進入航空機艙點心及高鐵伴手禮通路，逐步把台東在地農產推上國際舞台。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="864" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/002.jpg?resize=1220%2C864&#038;ssl=1" alt="" class="wp-image-258109" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/002.jpg?w=1831&amp;ssl=1 1831w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/002.jpg?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/002.jpg?resize=1536%2C1087&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">德朱利斯使用台東在地食材，大幅減少食物碳足跡，更讓台東特產以健康、美味的形象傳遞給旅客及消費者。/圖片來源：德朱利斯國際食品有限公司</figcaption></figure>
-
-
-
-<p>農村發展及水土保持署臺東分署表示，德朱利斯為分署長期的輔導支持農村社會企業，並且為農村發展及水土保持署所頒發「農村好店」經營主體。德朱利斯透過農村好店計畫，在空間改善、品牌形象、產品開發到市場拓展等面向，皆獲得專業的肯定，且其建立合法與衛生安全的生產規範，也強化了農村特色展現，使品牌能在激烈的市場競爭中保持獨特性與信任度。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/003.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-258110" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/003.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/003.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/003.jpg?resize=1536%2C1023&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">德朱利斯運用「農村好店」計畫進行空間改善，不僅強化品牌形象，也提升農村特色的展現，使品牌在競爭市場中脫穎而出。/圖片來源：德朱利斯國際食品有限公司</figcaption></figure>
-
-
-
-<p>多年來，德朱利斯攜手農民共同前進，累積契作面積超過十餘公頃，創造約30 個在地就業機會，成功將農村作物轉化為具經濟價值的產業鏈。這不僅改善農民生計，更吸引青年返鄉，讓農村再生計畫有了具體成效。如今，站在長榮航空國際供應鏈的舞台上，德朱利斯以「創新獎」的榮耀，印證了地方品牌能夠走出農村、走向國際的可能性。從臺東土地出發，德朱利斯正一步步實現「在地價值 × 全球市場」的願景，為農村品牌樹立典範。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="840" height="574" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/004.jpg?resize=840%2C574&#038;ssl=1" alt="" class="wp-image-258111" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/004.jpg?w=840&amp;ssl=1 840w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/004.jpg?resize=768%2C525&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/004.jpg?resize=220%2C150&amp;ssl=1 220w" sizes="(max-width: 840px) 100vw, 840px" data-recalc-dims="1" /><figcaption class="wp-element-caption">德朱利斯與台東在地農友進行契作，歷經漫長的醞釀研發，一步步將農村產業進行轉型，創造出專屬於台東的紅藜特色伴手禮，將在地化產品推向國際。/圖片來源：德朱利斯國際食品有限公司</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e8%be%b2%e6%9d%91%e5%a5%bd%e5%ba%97%e3%80%8c%e5%be%b7%e6%9c%b1%e5%88%a9%e6%96%af%e3%80%8d%e7%8d%b2%e9%95%b7%e6%a6%ae%e8%88%aa%e8%82%af%e5%ae%9a%e6%89%93%e9%80%a0%e8%be%b2%e6%9d%91%e5%93%81%e7%89%8c/">農村好店「德朱利斯」獲長榮航肯定打造農村品牌走向國際</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>全新仙俠 RPG《紅塵問仙》事前預約開啟！預約達100萬解鎖赤鬼伯伯 x 成人限定平台聯動影片</title>
-		<link>https://firenews.com.tw/2025/09/22/%e5%85%a8%e6%96%b0%e4%bb%99%e4%bf%a0-rpg%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e4%ba%8b%e5%89%8d%e9%a0%90%e7%b4%84%e9%96%8b%e5%95%9f%ef%bc%81%e9%a0%90%e7%b4%84%e9%81%94100%e8%90%ac/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 05:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[全新仙俠]]></category>
-		<category><![CDATA[紅塵問仙]]></category>
-		<category><![CDATA[赤鬼伯伯]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258065</guid>
-
-					<description><![CDATA[<p>由 SheenaGames 開發的仙俠放置 MMORPG《紅塵問仙》，正式宣佈於今 9 月 22 日展開事前預 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e5%85%a8%e6%96%b0%e4%bb%99%e4%bf%a0-rpg%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e4%ba%8b%e5%89%8d%e9%a0%90%e7%b4%84%e9%96%8b%e5%95%9f%ef%bc%81%e9%a0%90%e7%b4%84%e9%81%94100%e8%90%ac/">全新仙俠 RPG《紅塵問仙》事前預約開啟！預約達100萬解鎖赤鬼伯伯 x 成人限定平台聯動影片</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>由 SheenaGames 開發的仙俠放置 MMORPG《紅塵問仙》，正式宣佈於今 9 月 22 日展開事前預約，並預計於 10 月 22日正式上市。官方同步釋出本作的世界觀與特色玩法，邀請玩家踏上屬於自己的修仙之路。</strong></p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿KV_1920x1080.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-258071" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿KV_1920x1080.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿KV_1920x1080.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿KV_1920x1080.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿KV_1920x1080.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>沉浸式修仙世界，探索你的成仙傳奇</strong></h2>
-
-
-
-<p>《紅塵問仙》以靈氣縈繞的九州大陸為舞台，是修道者與妖魔共存的古老世界。經過人魔兩族大戰，九州大地也因此元氣大傷、靈脈斷絕。而玩家將扮演歷經重生的「天命之子」，在混亂的修真界中重啟登仙之路。 玩家得以在劍修與修法中選擇，除了結合放置養成、裝備鍛造、古寶系統等玩法外，也將與來自各方的道侶結緣、一同雙修，帶來獨特的仙俠修行體驗。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿圖片_1920x1080.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-258073" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿圖片_1920x1080.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿圖片_1920x1080.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿圖片_1920x1080.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿圖片_1920x1080.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／業者提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>修仙豪禮，等待道友前來領取！</strong></h2>
-
-
-
-<p>現在參與《紅塵問仙》官方事前預約，即可獲得超值虛寶及專屬的道侶佳人，助你踏上修仙證道之路。完成預約留下電子郵件還有機會抽中 iPhone 16 Pro Max、PS5、Nintendo Switch OLED 等實體大獎！</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>1萬人達成：</strong>幻金靈石 x3,000</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>10萬人達成：</strong>九州秘卷 x10</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>20萬人達成：</strong>白帝天王紋 x1</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>30萬人達成：</strong>幻金靈石 x6,000</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>50萬人達成：</strong>林心兒 &#8211; 市井煙火 x1</p>
-
-
-
-<p>l&nbsp;&nbsp; <strong>100萬人達成：</strong>解鎖《紅塵問仙》x 赤鬼伯伯 x 成人限定平台聯動專屬影片</p>
-
-
-
-<h2 class="wp-block-heading"><strong>達成百萬預約，《紅塵問仙》開啟赤鬼伯伯 × 成人限定平台破界合作！</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿預約里程_1920x1080-1.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-258074" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿預約里程_1920x1080-1.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿預約里程_1920x1080-1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿預約里程_1920x1080-1.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿預約里程_1920x1080-1.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／業者提供</figcaption></figure>
-
-
-
-<p>本次事前預約最大亮點，即是《紅塵問仙》與台灣知名 KOL「赤鬼伯伯」展開跨界聯名，結合遊戲、人氣創作者以及特別平台限定合作，打造前所未有的話題聯動。</p>
-
-
-
-<p>預約人數達到 100 萬時，將公開由赤鬼伯伯參與拍攝的限定內容，於特定平台限時曝光，開創遊戲 × 網紅 × 成人娛樂的創新行銷形式！</p>
-
-
-
-<h2 class="wp-block-heading"><strong>【事前預約資訊】</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿福利_1920x1080.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-258075" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿福利_1920x1080.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿福利_1920x1080.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿福利_1920x1080.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/新聞稿福利_1920x1080.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／業者提供</figcaption></figure>
-
-
-
-<p><strong>事前預約：</strong>2025年9月22日<br><strong>正式上市：</strong>2025年10月22日</p>
-
-
-
-<p><strong>立即登入官方事前預約網站或 EROLABS 平台參與預約，與全球玩家一起解鎖史上最狂成人x遊戲聯動！</strong></p>
-
-
-
-<p><strong>《紅塵問仙》即將帶來突破傳統修仙遊戲的新體驗，立即預約開創屬於你的修仙之旅！</strong><strong></strong></p>
-
-
-
-<p><strong>《紅塵問仙》事前預約網頁： </strong><a href="https://www.col-pre.com/ "><strong>https://www.col-pre.com/</strong> </a></p>
-
-
-
-<p><strong>更多詳情請追蹤《紅塵問仙》FB 粉專 <a href="https://www.facebook.com/chronicleofimmortals">https://www.facebook.com/chronicleofimmortals</a></strong></p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/鏡花_1920x1080_zh.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-258079" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/鏡花_1920x1080_zh.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/鏡花_1920x1080_zh.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/鏡花_1920x1080_zh.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/鏡花_1920x1080_zh.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／業者提供</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e5%85%a8%e6%96%b0%e4%bb%99%e4%bf%a0-rpg%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e4%ba%8b%e5%89%8d%e9%a0%90%e7%b4%84%e9%96%8b%e5%95%9f%ef%bc%81%e9%a0%90%e7%b4%84%e9%81%94100%e8%90%ac/">全新仙俠 RPG《紅塵問仙》事前預約開啟！預約達100萬解鎖赤鬼伯伯 x 成人限定平台聯動影片</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>充壩攜手國泰禾社區  打造新竹首屈一指的全方位智慧電動車充電環境</title>
-		<link>https://firenews.com.tw/2025/09/22/%e5%85%85%e5%a3%a9%e6%94%9c%e6%89%8b%e5%9c%8b%e6%b3%b0%e7%a6%be%e7%a4%be%e5%8d%80-%e6%89%93%e9%80%a0%e6%96%b0%e7%ab%b9%e9%a6%96%e5%b1%88%e4%b8%80%e6%8c%87%e7%9a%84%e5%85%a8%e6%96%b9%e4%bd%8d%e6%99%ba/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 04:30:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[gochabar]]></category>
-		<category><![CDATA[充壩]]></category>
-		<category><![CDATA[國泰禾社區]]></category>
-		<category><![CDATA[智慧電動車]]></category>
-		<category><![CDATA[電動車]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=257971</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 隨著全台電動車保有量突破 10 萬輛，政府近年來加速推動公共充電設施建置，結合民間業者 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e5%85%85%e5%a3%a9%e6%94%9c%e6%89%8b%e5%9c%8b%e6%b3%b0%e7%a6%be%e7%a4%be%e5%8d%80-%e6%89%93%e9%80%a0%e6%96%b0%e7%ab%b9%e9%a6%96%e5%b1%88%e4%b8%80%e6%8c%87%e7%9a%84%e5%85%a8%e6%96%b9%e4%bd%8d%e6%99%ba/">充壩攜手國泰禾社區  打造新竹首屈一指的全方位智慧電動車充電環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>隨著全台電動車保有量突破 10 萬輛，政府近年來加速推動公共充電設施建置，結合民間業者所營運的充電站，目前全國已累積逾 1 萬支充電槍，逐步奠定電動車基礎充電網絡。然而，多數車主仍偏好「在家充電」的便利與經濟性，尤其在以公寓大廈為主的都會住宅型態中，社區如何導入合規、安全的充電解決方案成為關鍵課題。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="912" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516103319.jpg?resize=1220%2C912&#038;ssl=1" alt="" class="wp-image-257972" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516103319.jpg?w=1856&amp;ssl=1 1856w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516103319.jpg?resize=768%2C574&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516103319.jpg?resize=1536%2C1149&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
-
-
-
-<p>新竹市知名社區國泰禾，榮獲112年度新竹市優良公寓大廈評選「大型組」第一名，評選項目涵蓋管理維護、環境景觀、公共安全與社區意識等多重面向，展現社區整體營運與服務的高水準。面對住戶日益增加的電動車充電需求，國泰禾管委會著手評估導入台電推動的「電動車專設電表箱」（簡稱「專設一戶」）方案，可實現獨立供電、分戶計費，不影響社區公共用電，確保長期安全與空間整潔。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="908" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516110658.jpg?resize=1220%2C908&#038;ssl=1" alt="" class="wp-image-257973" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516110658.jpg?w=1856&amp;ssl=1 1856w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516110658.jpg?resize=768%2C572&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516110658.jpg?resize=1536%2C1144&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">國泰禾社區全區建置電動車充電電力系統與充電樁。圖片來源: 充壩技術服務 提供</figcaption></figure>
-
-
-
-<p>經過三年審慎評估，國泰禾最終選擇與充壩（gochabar）合作。充壩從十多家業者中脫穎而出，擁有由起而行綠能、和泰集團及士林電機共同合資的堅實背景，結合原廠專利技術與快速的售後支援，並具備深厚的車廠與機電系統整合能力。社區首波即統一建置近 50 支起而行品牌充電樁，該設備獲得 MIT 微笑標章認證，提供品質保障與安心保證。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>全方位充電解決方案，打造安全 × 智慧 × 永續社區新典範</strong></h2>
-
-
-
-<p>充壩為國泰禾社區量身打造一套完整的智慧充電解決方案，涵蓋電力配置、機電工程、設備安裝與雲端管理平台，全面符合政府法規與工程標準，並著重施工品質與長期運維：</p>
-
-
-
-<ul class="wp-block-list">
-<li>智慧充電管理系統（EMS）：整合負載用電上限管理、智慧電流調控、三相用電平衡等功能，有效提升能源效率並降低用電風險。</li>
-
-
-
-<li>LINE 掃碼雲端充電服務：住戶與訪客均可透過官方帳號進行掃碼充電與線上支付，支援離峰時段自動排程充電，兼具便利與節能效益。</li>
-
-
-
-<li>即時後台管理介面：提供管理者即時查詢充電樁使用狀態、異常警示、統計報表與設定調整功能，並搭配 24 小時客服與數據分析服務，協助社區優化營運效率。</li>
-</ul>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="543" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516188685.jpg?resize=1220%2C543&#038;ssl=1" alt="" class="wp-image-257974" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516188685.jpg?w=1865&amp;ssl=1 1865w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516188685.jpg?resize=768%2C342&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758516188685.jpg?resize=1536%2C684&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">充壩為國泰禾社區量身打造一套完整的智慧充電解決方案，涵蓋電力配置、機電工程、設備安裝與雲端管理平台。圖片來源: 充壩技術服務 提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>技術與理念兼具，落實智慧社區治理</strong></h2>
-
-
-
-<p>充壩總經理王建文表示：「我們的技術平台源自工研院專利，結合設備母廠資源與自身 IoT 整合能力，致力提供最安全、最智慧的充電體驗。國泰禾社區在綠能導入與社區治理上的前瞻視野，與充壩的服務理念與方案內容高度契合，這次合作不僅展現示範意義，也為後續推動更多社區與企業場域奠定基礎。」此次合作專案，讓國泰禾在原本優異的社區管理基礎上，進一步實現永續發展與智慧生活的願景。未來充壩也將持續拓展與其他社區大樓、企業及建商客戶的合作，攜手打造安全、公平、永續的電動車充電生態系。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="981" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758515809752.jpg?resize=1220%2C981&#038;ssl=1" alt="" class="wp-image-257975" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758515809752.jpg?w=1575&amp;ssl=1 1575w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758515809752.jpg?resize=768%2C618&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/1758515809752.jpg?resize=1536%2C1236&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">全方位充電解決方案，打造安全、智慧、永續社區新典範。圖片來源: 充壩技術服務 提供</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/22/%e5%85%85%e5%a3%a9%e6%94%9c%e6%89%8b%e5%9c%8b%e6%b3%b0%e7%a6%be%e7%a4%be%e5%8d%80-%e6%89%93%e9%80%a0%e6%96%b0%e7%ab%b9%e9%a6%96%e5%b1%88%e4%b8%80%e6%8c%87%e7%9a%84%e5%85%a8%e6%96%b9%e4%bd%8d%e6%99%ba/">充壩攜手國泰禾社區  打造新竹首屈一指的全方位智慧電動車充電環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>啟建天佑亞太和平護國息災地藏法會暨金門戰役、南投集集九二一震災祭祀祈福大典</title>
-		<link>https://firenews.com.tw/2025/09/21/%e5%95%9f%e5%bb%ba%e5%a4%a9%e4%bd%91%e4%ba%9e%e5%a4%aa%e5%92%8c%e5%b9%b3%e8%ad%b7%e5%9c%8b%e6%81%af%e7%81%bd%e5%9c%b0%e8%97%8f%e6%b3%95%e6%9c%83%e6%9a%a8%e9%87%91%e9%96%80%e6%88%b0%e5%bd%b9%e3%80%81/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Sun, 21 Sep 2025 01:23:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=257681</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 位於南投埔里的佛教知名淨土宗道場──臺灣靈巖山寺，秉持開山妙蓮老和尚的弘法宗旨，長年以 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/21/%e5%95%9f%e5%bb%ba%e5%a4%a9%e4%bd%91%e4%ba%9e%e5%a4%aa%e5%92%8c%e5%b9%b3%e8%ad%b7%e5%9c%8b%e6%81%af%e7%81%bd%e5%9c%b0%e8%97%8f%e6%b3%95%e6%9c%83%e6%9a%a8%e9%87%91%e9%96%80%e6%88%b0%e5%bd%b9%e3%80%81/">啟建天佑亞太和平護國息災地藏法會暨金門戰役、南投集集九二一震災祭祀祈福大典</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>位於南投埔里的佛教知名淨土宗道場──臺灣靈巖山寺，秉持開山妙蓮老和尚的弘法宗旨，長年以來定期舉辦各種佛七、佛法研修等諸多課程，闡揚佛法「大悲、大智、大行、大願、大威德的五大菩薩精神」，讓參與者都能有邏輯次第的學習心法內涵，長期下來在淨化人心、安定為社會做出正向貢獻。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-212.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-257684" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-212.png?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-212.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-212.png?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">108位法師與淨信大眾，至誠合掌長跪恭誦《地藏經》，六永日合誦三千餘部。圖片來源：臺灣靈巖山寺</figcaption></figure>
-
-
-
-<p>此次靈巖山寺以結合｢金門戰役七十六周年及南投集集921大地震二十六周年」的因緣，於國曆9月15日至21日，舉辦殊勝莊嚴的｢天佑亞太和平護國息災地藏大法會」，並在9月21日當天舉行「超薦金門戰役及921震災的祭祀祈福大典」，祈求亞太和平、國家安定、災難消弭、萬民利樂。</p>
-
-
-
-<p>如此重大意義的法會，緣起於靈巖山寺和《陸軍航空特戰指揮部》的一段法緣： 「在民國七十六年某日，金門料羅灣海邊，有尊地藏菩薩聖像在浪濤間載沉載浮，最終似有指引的漂抵海龍蛙兵訓練場濱。時任營長目睹此異象非凡，深感因緣殊勝，乃就地修建一座簡祠，虔誠供奉地藏菩薩，祈願菩薩大悲願力，護佑三軍將士平安；長年來與海龍溪邊的忠烈祠並峙共立，逐漸成為海龍軍營的一種精神信仰。然斗轉星移，這座地藏古祠年久失修，已不堪潮汐侵蝕。為承續忠烈之志業，弘揚地藏大願，臺灣靈巖山寺乃與「台中佛教如是住弘法協會、航特部、海龍協會」，共同倡議發起；擬定於金門料羅營區，重新擇地合法興建【海龍忠烈地藏紀念館】。將地藏古祠及原溪邊忠烈祠合祀，並增設文史展館述說海龍英勇事蹟，成為法脈與英魂共榮之地。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-213.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-257685" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-213.png?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-213.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-213.png?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">臺灣靈巖山寺【啟建天佑亞太和平護國息災地藏法會暨金門戰役76周年、南投集集921大地震26周年祭祀祈福大典】。圖片來源：臺灣靈巖山寺</figcaption></figure>
-
-
-
-<p>為此，特在紀念館興建動土前，先行精修地藏法門，祈求諸事吉祥，冥陽兩利，以殊勝的大功德，超薦淨化在金門戰役中犧牲的亡靈，包含奉祀於「太武山忠烈祠」和「海龍忠烈祠」的將士英靈，共計約6千3百餘名先亡牌位。至誠禮請108名清淨僧眾法師，率領上千名淨信居士大德，在六永日內虔敬持誦了三千多部的《地藏菩薩本願經》，也讓每位參與法會者同霑法益，報恩迴向各人歷代的祖宗先靈。 </p>
-
-
-
-<p>法會於9月21日圓滿日的祭祀祈福盛典，由靈巖山寺住持自興大和尚特邀佛光山寺副住持慧倫大和尚，共同擔任主法，並邀請到立法院副院長江啟臣、國防部常務次長楊基榮中將、航特部指揮官楊承華中將、南投縣副縣長王瑞德、金門縣副縣長李文良，以及多名軍將長官。由主法和尚、十二位主祭官以及大眾共同真誠的念力功德，圓滿成就這場意義深遠的祈願與祝福。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-214.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-257686" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-214.png?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-214.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/image-214.png?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">金門海龍地藏古祠所奉祀的地藏菩薩聖像，法會期間安奉於臺灣靈巖山寺大雄寶殿。圖片來源：臺灣靈巖山寺</figcaption></figure>
-
-
-
-<p>「祭祀祈福典禮」儀式莊嚴隆重，場面相當感人，各界貴賓賢達、佛門淨信大德共千餘人，咸以一份莊嚴殷重的追思及感念之心來祭祀祈福。最後亦有靈巖山寺的信眾蓮友藉此因緣捐贈500份物資，與縣府攜手協助南投弱勢家庭，祈願社會善信人士，發隨喜心共襄盛舉，一同效法學習地藏王菩薩為眾生安樂、大悲大願的精神。</p>
-
-
-
-<p>──114.9.19靈巖山寺《法堂》提供</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/21/%e5%95%9f%e5%bb%ba%e5%a4%a9%e4%bd%91%e4%ba%9e%e5%a4%aa%e5%92%8c%e5%b9%b3%e8%ad%b7%e5%9c%8b%e6%81%af%e7%81%bd%e5%9c%b0%e8%97%8f%e6%b3%95%e6%9c%83%e6%9a%a8%e9%87%91%e9%96%80%e6%88%b0%e5%bd%b9%e3%80%81/">啟建天佑亞太和平護國息災地藏法會暨金門戰役、南投集集九二一震災祭祀祈福大典</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>The page is temporarily unavailable</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #900;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #900;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #000;
+            }
+            h3 {
+                text-align: center;
+                background-color: #ff0000;
+                padding: 0.5em;
+                color: #fff;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1><strong>nginx error!</strong></h1>
+
+        <div class="content">
+
+            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>Something has triggered missing webpage on your
+                    website. This is the default error page for
+                    <strong>nginx</strong> that is distributed with
+                    Red Hat Enterprise Linux.  It is located
+                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+
+                    <p>You should customize this error page for your own
+                    site or edit the <tt>error_page</tt> directive in
+                    the <strong>nginx</strong> configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+                <a href="http://www.redhat.com/"><img
+                    src="poweredby.png"
+                    alt="[ Powered by Red Hat Enterprise Linux ]"
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</html>
