@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Thu, 02 Oct 2025 08:59:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Oct 2025 10:16:54 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,160 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</title>
+		<link>https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 10:12:12 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262588</guid>
+
+					<description><![CDATA[<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&#160;以《萬物上鏈 自託管 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&nbsp;以《萬物上鏈 自託管即未來》為題發表演講。他指出，金融體系正處於轉型關鍵期：未來的資產不應由機構保管，而應由用戶自身在鏈上直接掌控。他強調，隨著區塊鏈基礎設施日益成熟，「先驗證再信任」將取代過去的信任模型，自託管將成為邁向真正去中心化金融的重要一步。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image.jpg?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-262593" data-recalc-dims="1"/><figcaption class="wp-element-caption">OKX創始人兼CEO Star Xu發表主旨演講</figcaption></figure>
+
+
+
+<p>隨後，他在 X 發帖重申演講觀點：「金融的未來不會在閉門造車中決定——它將在鏈上、公開透明地構建。在 TOKEN2049 峰會上，我分享了我們的願景：萬物上鏈，優先自託管，信任前先驗證。在 OKX 生態中，我們正以區塊鏈上的每一個區塊、每一筆交易，逐步建設這一未來。現在，一切才剛剛開始。」</p>
+
+
+
+<p>讓我們走入 Star 他的視角，來一窺未來金融的樣貌：為什麼萬物都要上鏈？為什麼自託管是未來？以及 OKX 如何參與未來金融建設？</p>
+
+
+
+<p><strong>以下是 Star 在 Token2049 的演講全文（整理）：</strong></p>
+
+
+
+<p><strong>爲什麽萬物將上鏈？</strong></p>
+
+
+
+<p>大家下午好。十二年前我創立 OKX 時，比特幣就像童話故事裡的魔法豆，或遊戲裡的代幣。我們當時也辦了像 Token 2049 這樣送上百個比特幣的活動，現在看來沒辦法這麼玩了──今天比特幣 ETF 市值已經超越黃金 ETF 市值、以太坊、Solana 等公鏈也成為去中心化應用的基礎設施。</p>
+
+
+
+<p>金融的下一個時代，不再由機構幫用戶保管資產，而是用戶在鏈上持有和管理自己的資產。</p>
+
+
+
+<p>以史為鑑，如果我們回顧移動設備的發展，就會發現移動通訊行業同樣有開放系統和封閉系統。那些傳統的大型公司，比如諾基亞、摩托羅拉，他們自己生產設備，開發操作系統和應用。然而，當新一代開放系統的公司橫空出世，比如 Apple 和安卓，最終導致這些依賴封閉系統的傳統大公司，在幾年時間內迅速衰落，幾乎煙消雲散。</p>
+
+
+
+<p>現在，我們把目光投向傳統金融，會發現大部分仍是封閉系統，而去中心化金融（DeFi）完全不同，它是開放系統：交易透明、規則可驗證，每個人都可以在上面開發自己的應用。</p>
+
+
+
+<p>那麼什麼才是真正的鏈上系統？它有四個核心定義：第一，必須是公開的。第二，必須允許任何人基於這個系統進行開發（推動無限創新）。第三，它不能依賴於任何一個服務供應商，用戶應該被允許自由遷移，從一個服務商轉向另一個服務商。第四，這一切都必須是全球化的。</p>
+
+
+
+<p>我覺得在不久的未來，我們會看到越來越多的資產上鏈。今天鏈上已經有加密貨幣，也有代幣化的證券。而在未來，債券、現實世界資產（RWA）、支付等各種金融要素也都會逐漸遷移到鏈上。換句話說，萬物皆上鏈。</p>
+
+
+
+<p><strong>鏈上金融離我們還有多少距離？</strong>&nbsp;</p>
+
+
+
+<p>那麼，鏈上金融距離我們還有多少距離？我認為，基礎設施已經全面到位。</p>
+
+
+
+<p>12 年前，比特幣網路每分鐘只能處理大約 7 筆交易。但今天，我們看到很多 L1 區塊鏈已經可以在 1 秒鐘內處理上千筆交易，而以太坊的 L2 更是可以在每秒處理上萬筆交易。</p>
+
+
+
+<p>而加密資產本身也在持續發展。比特幣已經成為「數字黃金」，而穩定幣已被證明是過去十二年中最成功的加密貨幣應用之一。</p>
+
+
+
+<p>更關鍵的是，我們看到越來越多加密公司開始學習如何在監管體系下健康發展。全球各國也在積極推進加密立法，比如，美國提出了 GENIUS 法案，歐盟推出了 MICA，新加坡的 MAS 在立法上同樣做出了很多努力。</p>
+
+
+
+<p><strong>為什麼自托管是未來？</strong></p>
+
+
+
+<p>人類數千年歷史中，我們努力工作賺錢，然後把錢放在家中，甚至有時是放在床下。當時，我們並不依賴代理人保管資產。可是，在現代金融體系裡，我們要面對大量的「代理人」，還要考慮哪些代理人值得信賴。通常的邏輯是，我們先選擇相信一個「代理人」，再去驗證他是否可靠。而一旦這個「代理人」破產，用戶往往只能在幸運的情況下，找回部分資產。</p>
+
+
+
+<p>但在區塊鏈的世界裡，自我託管改變了這一切。它允許用戶 「先驗證，再信任」。</p>
+
+
+
+<p>用戶可以自己去研究這些去中心化應用：他們有多少儲備金？已經處理了多少筆交易？如果是貸款協議，它的抵押率是否健康？在這過程中，用戶是用戶「先驗證，再信任」，（而不是之前的「先信任，後驗證」）。</p>
+
+
+
+<p>同時，自託管並不意味著不安全或不遵守。今天，我們已經有了許多先進的鏈上監控技術，可以幫助加密公司在執行反洗錢任務時，甚至比傳統金融公司做得更好。傳統金融公司只能看到他們自己的平台數據，但在加密世界裡，我們可以借助 AI 和大數據，即時捕捉鏈上所有交易的信息。</p>
+
+
+
+<p>此外，我們還有多重簽名和帳戶抽象等技術，使用戶的加密錢包像銀行帳戶一樣安全。今年，OKX 還研發了實時監測系統，能夠阻止黑客使用我們的錢包服務。</p>
+
+
+
+<p><strong>OKX&nbsp;</strong><strong>如何參與構建未來金融？</strong></p>
+
+
+
+<p>成立已有十二年的 OKX，在鏈上金融基礎建設上，亦有許多貢獻。</p>
+
+
+
+<p>首先，OKX CEX 已經成為全球流動性最強大的交易所之一，並且在多個主要司法管轄區獲得監管執照，包括美國、歐盟、阿聯酋、新加坡和澳大利亞等。</p>
+
+
+
+<p>其次，我們始終把用戶資產的自託管放在發展願景的第一位。OKX Pay 就是一個合規的自託管錢包，讓用戶可以像發信息一樣簡單地完成轉賬。</p>
+
+
+
+<p>此外，我們還建設了 L2 網絡 X Layer，支持處理 OKX Pay 的鏈上交易。幫助全球用戶實現真正的點對點跨境轉賬等等。 不僅如此，我們還與眾多行業夥伴達成合作，推動鏈上金融的發展。在體育領域，我們贊助了麥凱輪 F1 車隊和曼城足球俱樂部，將加密夢想傳遞給上億的體育粉絲。在金融與科技領域，我們與 Circle、Mastercard、Tether、Paxos 等業內公司建立合作；同時，也與許多加密原生企業緊密合作，例如 Aptos、Sui、Uniswap 和 1inch。透過 OKX Pay 和 X Layer，這些合作讓我們的生態系統更加開放和高效。</p>
+
+
+
+<p>此外，我們也與全球影響力的個人合作，每年與節點分享數億美元的收益。為了支持創新，我們成立了 OKX Vision Fund，幫助更多創業項目將產品部署到 X Layer，加速鏈上金融落地。</p>
+
+
+
+<p>所以，我信「鏈上金融時代」，不只屬於 OKX，它屬於所有人，也應該由我們所有人一起建設。</p>
+
+
+
+<p>金融的未來不在保險庫裡，而在你的加密錢包裡。這是一個美麗的未來。</p>
+
+
+
+<p>謝謝大家！</p>
+
+
+
+<p>免責聲明</p>
+
+
+
+<p>本文僅供參考。本文僅代表作者的觀點，並不代表&nbsp;OKX 的立場。本文並無意圖提供&nbsp;(i) 投資建議或投資推薦；&nbsp;(ii) 購買、出售或持有數位資產的要約或招攬；&nbsp;(iii) 財務、會計、法律或稅務建議。我們不保證該等資訊的準確性、完整性或有用性。持有的數位資產（包括穩定幣和&nbsp;NFTs）涉及高風險，可能會大幅波動。歷史收益並不代表未來收益，過往表現亦不代表未來結果。您應該根據您的財務狀況仔細考慮交易或持有數位資產是否適合您。有關您的情況，請諮詢您的法律&nbsp;/ 稅務&nbsp;/ 投資專業人士。請自行負責瞭解和遵守當地的有關適用法律和法規。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>美兆榮膺 2025 健康品牌風雲賞 — 健檢平台優等獎肯定科技轉型實力</title>
 		<link>https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%85%86%e6%a6%ae%e8%86%ba-2025-%e5%81%a5%e5%ba%b7%e5%93%81%e7%89%8c%e9%a2%a8%e9%9b%b2%e8%b3%9e-%e5%81%a5%e6%aa%a2%e5%b9%b3%e5%8f%b0%e5%84%aa%e7%ad%89%e7%8d%8e%e8%82%af%e5%ae%9a/</link>
 		
@@ -49,7 +203,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177586-1.jpg?resize=599%2C449&#038;ssl=1" alt="" class="wp-image-262507" data-recalc-dims="1"/><figcaption class="wp-element-caption">台灣健康管理領導品牌美兆健康管理機構甫於《2025健康品牌風雲賞》中脫穎而出，榮獲健康科技類．健檢平台優等獎。總裁林羣表示，將以此榮耀為起點，持續推動預防醫學與全民健康。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177586-1.jpg?resize=599%2C449&#038;ssl=1" alt="" class="wp-image-262507" data-recalc-dims="1"/><figcaption class="wp-element-caption">台灣健康管理領導品牌美兆健康管理機構甫於《2025健康品牌風雲賞》中脫穎而出，榮獲健康科技類．健檢平台優等獎。總裁林羣表示，將以此榮耀為起點，持續推動預防醫學與全民健康。</figcaption></figure>
 
 
 
@@ -179,9 +333,10 @@
 		<link>https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%9c%8b%e9%87%91%e6%a0%bc%e5%90%8d%e5%ba%8a-king-koil-%e9%80%b1%e5%b9%b4%e6%85%b6%e3%80%8c%e5%85%a8%e7%9c%a0%e7%b8%bd%e5%8b%95%e5%93%a1%e3%80%8d%e7%9b%9b%e5%a4%a7%e9%96%8b%e8%b7%91/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 07:48:51 +0000</pubDate>
+		<pubDate>Thu, 02 Oct 2025 06:48:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[KING KOIL]]></category>
 		<category><![CDATA[全眠總動員]]></category>
@@ -879,62 +1034,6 @@
 
 <p>藝康台灣總經理塗溥仁表示：「我們深知半導體產業對於每一個製程環節都要求極致穩定，透過納爾科整合性的智慧水處理與液冷方案，不僅協助客戶延長高價值設備的壽命、降低營運風險，更提供能滿足未來更高能耗與排放標準的永續策略。」 近期，藝康更宣布投入新台幣1.5億元進駐台南科學園區，成立藝康集團在台首座研發中心。此舉展現了深耕台灣的決心，未來將結合在地資源與人才，針對台灣高科技產業的特殊需求進行客製化開發與快速響應，持續提供更貼近在地需求的創新解決方案，與台灣的半導體產業一同邁向更具韌性的未來。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/ecolab-%e8%97%9d%e5%ba%b7-semicon-2025-%e8%81%9a%e7%84%a6%e6%b6%b2%e5%86%b7%e5%89%b5%e6%96%b0%e8%88%87%e6%99%ba%e6%85%a7%e6%b0%b4%e7%ae%a1%e7%90%86%e6%96%b9%e6%a1%88/">Ecolab 藝康 SEMICON 2025 聚焦液冷創新與智慧水管理方案</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</title>
-		<link>https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 10:31:01 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=258992</guid>
-
-					<description><![CDATA[<p>隨著高效能運算與雲端服務需求持續攀升，液冷技術成為推動資料中心降耗與穩定性的關鍵。SUNON 建準將於 OCP &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/">「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>隨著高效能運算與雲端服務需求持續攀升，液冷技術成為推動資料中心降耗與穩定性的關鍵。SUNON 建準將於 OCP Global Summit 2025 發表全新一代液冷散熱系統，以「Build to Chill」為題，聚焦高效能伺服器、雲端運算應用，展現建準在模組化設計、節能效能與系統穩定性的散熱技術深度與前瞻佈局。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=1220%2C667&#038;ssl=1" alt="" class="wp-image-258993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?w=1715&amp;ssl=1 1715w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=768%2C420&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?resize=1536%2C839&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">建準於OCP 2025 展出液冷解決方案，攜手產業共創開放式運算新未來</figcaption></figure>
-
-
-
-<p>今年 OCP 全球高峰會主題為「Leading the Future of AI」，集結全球雲端服務商、伺服器製造商、開放硬體開發者與資料中心關鍵決策者。SUNON 建準期待透過今年的展出，與全球產業技術領袖深入交流，推動開放運算架構與 AI 運算環境的散熱標準升級。隨著 AI 模型規模擴大與伺服器熱密度提升，資料中心面臨前所未有的散熱挑戰。建準展出包含伺服器應用之水冷板, 散熱模組, CDU等，這些解決方案專為支援開放運算而設計，並提供散熱選項，以滿足新世代運算環境的需求。</p>
-
-
-
-<p>建準執行副總經理吳晉賜表示 :「我們不只設計散熱產品，更是打造能承載未來 AI 運算的穩定支柱。」 建準誠摯邀請全球合作夥伴及產業決策者，蒞臨展會現場，共同體驗如何透過下一代液冷技術，實現高效、模組化、可擴展的運算未來。</p>
-
-
-
-<p>【展會資訊】</p>
-
-
-
-<ul class="wp-block-list">
-<li>展會名稱： OCP Global Summit 2025</li>
-
-
-
-<li>展出日期： 2025年10月13日－16日</li>
-
-
-
-<li>地點：<em>San Jose McEnery Convention Center | San Jose,</em> California, USA.</li>
-</ul>
-
-
-
-<p>SUNON攤位編號： A53</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/24/%e3%80%8cbuild-to-chill%e3%80%8d%e5%bb%ba%e6%ba%96%e5%b0%87%e6%96%bc-ocp-2025-%e7%99%bc%e8%a1%a8%e6%96%b0%e4%b8%96%e4%bb%a3%e6%b6%b2%e5%86%b7%e6%95%a3%e7%86%b1%e6%8a%80%e8%a1%93/">「Build to Chill」建準將於 OCP 2025 發表新世代液冷散熱技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		

@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/其他/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Thu, 02 Oct 2025 08:59:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Oct 2025 10:16:54 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,160 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</title>
+		<link>https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 10:12:12 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262588</guid>
+
+					<description><![CDATA[<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&#160;以《萬物上鏈 自託管 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&nbsp;以《萬物上鏈 自託管即未來》為題發表演講。他指出，金融體系正處於轉型關鍵期：未來的資產不應由機構保管，而應由用戶自身在鏈上直接掌控。他強調，隨著區塊鏈基礎設施日益成熟，「先驗證再信任」將取代過去的信任模型，自託管將成為邁向真正去中心化金融的重要一步。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image.jpg?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-262593" data-recalc-dims="1"/><figcaption class="wp-element-caption">OKX創始人兼CEO Star Xu發表主旨演講</figcaption></figure>
+
+
+
+<p>隨後，他在 X 發帖重申演講觀點：「金融的未來不會在閉門造車中決定——它將在鏈上、公開透明地構建。在 TOKEN2049 峰會上，我分享了我們的願景：萬物上鏈，優先自託管，信任前先驗證。在 OKX 生態中，我們正以區塊鏈上的每一個區塊、每一筆交易，逐步建設這一未來。現在，一切才剛剛開始。」</p>
+
+
+
+<p>讓我們走入 Star 他的視角，來一窺未來金融的樣貌：為什麼萬物都要上鏈？為什麼自託管是未來？以及 OKX 如何參與未來金融建設？</p>
+
+
+
+<p><strong>以下是 Star 在 Token2049 的演講全文（整理）：</strong></p>
+
+
+
+<p><strong>爲什麽萬物將上鏈？</strong></p>
+
+
+
+<p>大家下午好。十二年前我創立 OKX 時，比特幣就像童話故事裡的魔法豆，或遊戲裡的代幣。我們當時也辦了像 Token 2049 這樣送上百個比特幣的活動，現在看來沒辦法這麼玩了──今天比特幣 ETF 市值已經超越黃金 ETF 市值、以太坊、Solana 等公鏈也成為去中心化應用的基礎設施。</p>
+
+
+
+<p>金融的下一個時代，不再由機構幫用戶保管資產，而是用戶在鏈上持有和管理自己的資產。</p>
+
+
+
+<p>以史為鑑，如果我們回顧移動設備的發展，就會發現移動通訊行業同樣有開放系統和封閉系統。那些傳統的大型公司，比如諾基亞、摩托羅拉，他們自己生產設備，開發操作系統和應用。然而，當新一代開放系統的公司橫空出世，比如 Apple 和安卓，最終導致這些依賴封閉系統的傳統大公司，在幾年時間內迅速衰落，幾乎煙消雲散。</p>
+
+
+
+<p>現在，我們把目光投向傳統金融，會發現大部分仍是封閉系統，而去中心化金融（DeFi）完全不同，它是開放系統：交易透明、規則可驗證，每個人都可以在上面開發自己的應用。</p>
+
+
+
+<p>那麼什麼才是真正的鏈上系統？它有四個核心定義：第一，必須是公開的。第二，必須允許任何人基於這個系統進行開發（推動無限創新）。第三，它不能依賴於任何一個服務供應商，用戶應該被允許自由遷移，從一個服務商轉向另一個服務商。第四，這一切都必須是全球化的。</p>
+
+
+
+<p>我覺得在不久的未來，我們會看到越來越多的資產上鏈。今天鏈上已經有加密貨幣，也有代幣化的證券。而在未來，債券、現實世界資產（RWA）、支付等各種金融要素也都會逐漸遷移到鏈上。換句話說，萬物皆上鏈。</p>
+
+
+
+<p><strong>鏈上金融離我們還有多少距離？</strong>&nbsp;</p>
+
+
+
+<p>那麼，鏈上金融距離我們還有多少距離？我認為，基礎設施已經全面到位。</p>
+
+
+
+<p>12 年前，比特幣網路每分鐘只能處理大約 7 筆交易。但今天，我們看到很多 L1 區塊鏈已經可以在 1 秒鐘內處理上千筆交易，而以太坊的 L2 更是可以在每秒處理上萬筆交易。</p>
+
+
+
+<p>而加密資產本身也在持續發展。比特幣已經成為「數字黃金」，而穩定幣已被證明是過去十二年中最成功的加密貨幣應用之一。</p>
+
+
+
+<p>更關鍵的是，我們看到越來越多加密公司開始學習如何在監管體系下健康發展。全球各國也在積極推進加密立法，比如，美國提出了 GENIUS 法案，歐盟推出了 MICA，新加坡的 MAS 在立法上同樣做出了很多努力。</p>
+
+
+
+<p><strong>為什麼自托管是未來？</strong></p>
+
+
+
+<p>人類數千年歷史中，我們努力工作賺錢，然後把錢放在家中，甚至有時是放在床下。當時，我們並不依賴代理人保管資產。可是，在現代金融體系裡，我們要面對大量的「代理人」，還要考慮哪些代理人值得信賴。通常的邏輯是，我們先選擇相信一個「代理人」，再去驗證他是否可靠。而一旦這個「代理人」破產，用戶往往只能在幸運的情況下，找回部分資產。</p>
+
+
+
+<p>但在區塊鏈的世界裡，自我託管改變了這一切。它允許用戶 「先驗證，再信任」。</p>
+
+
+
+<p>用戶可以自己去研究這些去中心化應用：他們有多少儲備金？已經處理了多少筆交易？如果是貸款協議，它的抵押率是否健康？在這過程中，用戶是用戶「先驗證，再信任」，（而不是之前的「先信任，後驗證」）。</p>
+
+
+
+<p>同時，自託管並不意味著不安全或不遵守。今天，我們已經有了許多先進的鏈上監控技術，可以幫助加密公司在執行反洗錢任務時，甚至比傳統金融公司做得更好。傳統金融公司只能看到他們自己的平台數據，但在加密世界裡，我們可以借助 AI 和大數據，即時捕捉鏈上所有交易的信息。</p>
+
+
+
+<p>此外，我們還有多重簽名和帳戶抽象等技術，使用戶的加密錢包像銀行帳戶一樣安全。今年，OKX 還研發了實時監測系統，能夠阻止黑客使用我們的錢包服務。</p>
+
+
+
+<p><strong>OKX&nbsp;</strong><strong>如何參與構建未來金融？</strong></p>
+
+
+
+<p>成立已有十二年的 OKX，在鏈上金融基礎建設上，亦有許多貢獻。</p>
+
+
+
+<p>首先，OKX CEX 已經成為全球流動性最強大的交易所之一，並且在多個主要司法管轄區獲得監管執照，包括美國、歐盟、阿聯酋、新加坡和澳大利亞等。</p>
+
+
+
+<p>其次，我們始終把用戶資產的自託管放在發展願景的第一位。OKX Pay 就是一個合規的自託管錢包，讓用戶可以像發信息一樣簡單地完成轉賬。</p>
+
+
+
+<p>此外，我們還建設了 L2 網絡 X Layer，支持處理 OKX Pay 的鏈上交易。幫助全球用戶實現真正的點對點跨境轉賬等等。 不僅如此，我們還與眾多行業夥伴達成合作，推動鏈上金融的發展。在體育領域，我們贊助了麥凱輪 F1 車隊和曼城足球俱樂部，將加密夢想傳遞給上億的體育粉絲。在金融與科技領域，我們與 Circle、Mastercard、Tether、Paxos 等業內公司建立合作；同時，也與許多加密原生企業緊密合作，例如 Aptos、Sui、Uniswap 和 1inch。透過 OKX Pay 和 X Layer，這些合作讓我們的生態系統更加開放和高效。</p>
+
+
+
+<p>此外，我們也與全球影響力的個人合作，每年與節點分享數億美元的收益。為了支持創新，我們成立了 OKX Vision Fund，幫助更多創業項目將產品部署到 X Layer，加速鏈上金融落地。</p>
+
+
+
+<p>所以，我信「鏈上金融時代」，不只屬於 OKX，它屬於所有人，也應該由我們所有人一起建設。</p>
+
+
+
+<p>金融的未來不在保險庫裡，而在你的加密錢包裡。這是一個美麗的未來。</p>
+
+
+
+<p>謝謝大家！</p>
+
+
+
+<p>免責聲明</p>
+
+
+
+<p>本文僅供參考。本文僅代表作者的觀點，並不代表&nbsp;OKX 的立場。本文並無意圖提供&nbsp;(i) 投資建議或投資推薦；&nbsp;(ii) 購買、出售或持有數位資產的要約或招攬；&nbsp;(iii) 財務、會計、法律或稅務建議。我們不保證該等資訊的準確性、完整性或有用性。持有的數位資產（包括穩定幣和&nbsp;NFTs）涉及高風險，可能會大幅波動。歷史收益並不代表未來收益，過往表現亦不代表未來結果。您應該根據您的財務狀況仔細考慮交易或持有數位資產是否適合您。有關您的情況，請諮詢您的法律&nbsp;/ 稅務&nbsp;/ 投資專業人士。請自行負責瞭解和遵守當地的有關適用法律和法規。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>美兆榮膺 2025 健康品牌風雲賞 — 健檢平台優等獎肯定科技轉型實力</title>
 		<link>https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%85%86%e6%a6%ae%e8%86%ba-2025-%e5%81%a5%e5%ba%b7%e5%93%81%e7%89%8c%e9%a2%a8%e9%9b%b2%e8%b3%9e-%e5%81%a5%e6%aa%a2%e5%b9%b3%e5%8f%b0%e5%84%aa%e7%ad%89%e7%8d%8e%e8%82%af%e5%ae%9a/</link>
 		
@@ -49,7 +203,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177586-1.jpg?resize=599%2C449&#038;ssl=1" alt="" class="wp-image-262507" data-recalc-dims="1"/><figcaption class="wp-element-caption">台灣健康管理領導品牌美兆健康管理機構甫於《2025健康品牌風雲賞》中脫穎而出，榮獲健康科技類．健檢平台優等獎。總裁林羣表示，將以此榮耀為起點，持續推動預防醫學與全民健康。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177586-1.jpg?resize=599%2C449&#038;ssl=1" alt="" class="wp-image-262507" data-recalc-dims="1"/><figcaption class="wp-element-caption">台灣健康管理領導品牌美兆健康管理機構甫於《2025健康品牌風雲賞》中脫穎而出，榮獲健康科技類．健檢平台優等獎。總裁林羣表示，將以此榮耀為起點，持續推動預防醫學與全民健康。</figcaption></figure>
 
 
 
@@ -179,9 +333,10 @@
 		<link>https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%9c%8b%e9%87%91%e6%a0%bc%e5%90%8d%e5%ba%8a-king-koil-%e9%80%b1%e5%b9%b4%e6%85%b6%e3%80%8c%e5%85%a8%e7%9c%a0%e7%b8%bd%e5%8b%95%e5%93%a1%e3%80%8d%e7%9b%9b%e5%a4%a7%e9%96%8b%e8%b7%91/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 07:48:51 +0000</pubDate>
+		<pubDate>Thu, 02 Oct 2025 06:48:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[KING KOIL]]></category>
 		<category><![CDATA[全眠總動員]]></category>
@@ -869,116 +1024,6 @@
 
 <p><em>PTC、Arena、Arena Supply Chain Intelligence、Arena SCI 及 PTC 標誌均為 PTC Inc. 及其子公司在美國及其他國家之商標或註冊商標。</em></p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/01/ptc-%e6%8e%a8%e5%87%ba-arena-ai-%e5%8a%a9%e7%90%86%e3%80%80%e5%8a%a0%e9%80%9f%e7%94%a2%e5%93%81%e7%94%9f%e5%91%bd%e9%80%b1%e6%9c%9f%e8%88%87%e5%93%81%e8%b3%aa%e7%ae%a1%e7%90%86%e6%b5%81%e7%a8%8b/">PTC 推出 Arena AI 助理　加速產品生命週期與品質管理流程</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>凱特王妃最愛御用包 從倫敦到台北 Grace Han9月揭幕台北藝術概念店優雅開幕</title>
-		<link>https://firenews.com.tw/2025/09/29/%e5%87%b1%e7%89%b9%e7%8e%8b%e5%a6%83%e6%9c%80%e6%84%9b%e5%be%a1%e7%94%a8%e5%8c%85-%e5%be%9e%e5%80%ab%e6%95%a6%e5%88%b0%e5%8f%b0%e5%8c%97-grace-han9%e6%9c%88%e6%8f%ad%e5%b9%95%e5%8f%b0%e5%8c%97/</link>
-		
-		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
-		<pubDate>Mon, 29 Sep 2025 15:28:09 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[生活]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=261072</guid>
-
-					<description><![CDATA[<p>凱特王妃御用品牌 Grace Han 全球首座「藝術概念店」落腳台北 ，Grace Han 台北藝術概念店 ( &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/29/%e5%87%b1%e7%89%b9%e7%8e%8b%e5%a6%83%e6%9c%80%e6%84%9b%e5%be%a1%e7%94%a8%e5%8c%85-%e5%be%9e%e5%80%ab%e6%95%a6%e5%88%b0%e5%8f%b0%e5%8c%97-grace-han9%e6%9c%88%e6%8f%ad%e5%b9%95%e5%8f%b0%e5%8c%97/">凱特王妃最愛御用包 從倫敦到台北 Grace Han9月揭幕台北藝術概念店優雅開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>凱特王妃御用品牌 Grace Han 全球首座「藝術概念店」落腳台北 ，Grace Han 台北藝術概念店 (Taipei Maison of Art) 正式揭幕。這是品牌全球首間結合皮革藝術與精品設計的空間，不僅是新店開幕，更是一場回望初心、重新連結文化與土地的旅程。隨著台北店落成，品牌推出台北限定包款全新「紗影情書包」誕生。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474633-3.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-261074" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474633-3.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474633-3.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474633-3.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">皮革藝術家 Grace x 獨立策展人 胡朝聖。Grace Han/提供</figcaption></figure>
-
-
-
-<p>Grace Han 自倫敦起步，以細膩的觀察與嚴謹的工藝逐步受到矚目。品牌經典的 Love Letter 包款曾多次伴隨英國凱特王妃於公開場合亮相，自 2020 年 10 月首次亮相以來，Love Letter 已十一度優雅現身，這份相遇對品牌而言是一種鼓勵，也讓更多人注意到來自台灣的工藝價值。品牌創辦人王思涵（Grace Wong）回想起品牌甫創立就遇到全球疫情，她表示讓品牌持續堅持的信念就是「想讓世界看到台灣有這麼棒的工藝」。如今，品牌選擇將第一間亞洲概念店落腳台北，意味著在國際舞台經歷淬鍊之後，回到創作的起點，再次出發。</p>
-
-
-
-<p><strong>跨設計師與皮革藝術家 品牌創辦人Grace「2.5D技法」的感性告白</strong></p>
-
-
-
-<p>自 2023 年起，Grace連續兩年受邀於倫敦亞洲藝術展發表皮革工藝作品，逐步展開她在國際藝術舞台的探索。而此次台北藝術概念店的開幕，正是她首次在台灣以皮革藝術家的身份公開呈現作品的重要時刻。台北藝術概念店裡同時展出她創作皮革藝術的第一幅作品《舞雲》(SKY BALLET)，並與母親陳靜文女士的畫作《躍動》併陳，運用皮革創作呈現出光影與水的流動。獨立策展人胡朝聖自詡作為Grace 的藝術「陪伴者」角色表示，普遍講究科技、迅速的這個時代「已經很難再看到如Grace具有手感的皮革創作，其呈現的皮革澎度、柔軟度都是無法用機械創造的。」</p>
-
-
-
-<p>Grace最初以設計師身份受到矚目，但她始終嚮往在藝術領域中深耕。當她找到皮革這個既柔軟又堅韌的媒材時，潛藏的藝術 DNA 被激發，並逐步研發出獨特的「2.5D 皮革畫」技法。透過縫接、拼合與層疊等工序技法，她將皮革轉化為介於平面與立體之間的浮雕質感。在這些作品裡，顏色與線條不只是形式，而是記憶與情感的承載。Grace 認為，這個過程更像是在收藏記憶、整理內心風景。她以心為筆，畫出世界，也畫出愛、記憶與思念的延續，如同禪宗所言：「心如工畫師，能畫諸世間」。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474639-3.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-261075" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474639-3.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474639-3.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474639-3.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">凱特王妃御用品牌Grace Han 首創皮革藝術與精品共生空間。Grace Han/提供</figcaption></figure>
-
-
-
-<p><strong>不只是精品店 在空間裡 展開一場藝術與情感的對話</strong></p>
-
-
-
-<p>走進 Grace Han 台北藝術概念店，會發現這不只是展示包款的地方，更像是一段關於藝術與情感的旅程。胡朝聖贊同地表示：「在這裡更像是一個藝術家的工作室，她的生命與創作，以及自我探索的諸多細節」其中店內也展示很多作品未完成的樣貌，可見材質最初的狀態，透過皮革創作的解構成為這個空間裡值得探索的藝術元素。地板的磁磚拼接靈感源自皮革畫作，以層次分明的灰階色塊營造如畫境般的氛圍。桌板選用細膩的石材，展現剛柔並濟的質感；空間比例經過精心推敲，線條成為靈魂：金屬勾勒、光影投射、塗料描繪，都呼應品牌核心的「平衡線」語彙。 經典包款的語言也被轉譯進空間：D 環化作溫潤的門把，包袋邊條則化為「平衡桌」的邊飾，將工藝從皮件延伸至建築。最後，那條貫穿樓層的藍色分線，取自畫作的平衡軸線，注入秩序與詩意。在這個空間裡，Grace母親的畫作也將與她的皮革創作並置，象徵跨世代與媒材的交流。</p>
-
-
-
-<p><strong>Grace運用藝術思維打造品牌的研發實驗室</strong></p>
-
-
-
-<p>值得注意的是，台北藝術概念店的作品發表，並非單純的藝術個展，而是品牌精神的延伸。Grace將藝術創作視為品牌的「研發實驗室」，透過自由的探索，反饋至包款設計，形成獨特的語彙。在當代講求速度與效率的時代，她更堅持時間與手感的價值。這份精神，讓 Grace Han 在國際精品產業中具備高度識別度，也展現前瞻性的文化思維。</p>
-
-
-
-<p><strong>藏在細節裡的堅持 凱特王妃愛包 誕生於台灣職人之手</strong></p>
-
-
-
-<p>對Grace來說，每一只包都如同藝術作品。包括凱特王妃偏愛的 Love Letter 在內，這些細膩的作品，皆出自台灣彰化工坊，由資深大師帶領近 20 位平均年齡僅 30 歲的年輕工匠完成。Grace最初也曾親赴義大利尋求工匠代工，但因當地工藝標準無法達到品牌要求，且溝通效率不彰，最終讓她下定決心將工坊設在台灣，並建立一套屬於在地的工藝系統。她鼓勵年輕工匠以熱情為起點，靠雙手一點一滴累積並創造價值。即使世代講求速度，她仍相信慢工的堅持不可取代。透過不斷溝通與實作，讓工匠們理解並體會每一個細節的份量。在她眼中，這些包款凝聚了時間、溫度與手感，背後是年輕職人逐步磨練出的踏實之美。這樣的努力不僅是一種工藝的延續，更是屬於台灣的文化價值。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474635-3.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-261076" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474635-3.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474635-3.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474635-3.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Grace Han 台北藝術概念店限定紗影情書包款。Grace Han/提供</figcaption></figure>
-
-
-
-<p><strong>創作的溫柔起點 母親的畫室滋養品牌靈魂</strong></p>
-
-
-
-<p>Grace從小在母親的畫室成長。母親陳靜文長年沉浸於藝術與哲學世界，畫筆間流露的溫柔與力量，深深影響了她。那些瀰漫顏料氣息的午後、如舞蹈般的筆觸，都成為她對「藝術」最初的感知與記憶。母親畫作裡最重要的「平衡線」也是Grace創作中重要的元素之一，她認為平衡線代表的是自己對母親的愛、記憶與思念的延長線，同時也是「每個觀者內在生命的平衡」，Grace感性地表示，「生命最重要的事是在每個人生階段裡找到自己的平衡」。這一切的成果皆源於母親的啟蒙。母親之愛猶如無形的線索，貫穿其生命經緯，成為創作中最堅實而溫柔的支撐。這份傳承，也逐步透過 Grace 的皮革藝術回饋品牌，成為核心價值與靈魂的一部分。</p>
-
-
-
-<p><strong>挑戰與轉折 倫敦到國際的足跡</strong></p>
-
-
-
-<p>2019 年，Grace Han 倫敦旗艦店開幕，象徵夢想起點，卻在隔年遭遇疫情重創。市場封鎖下，她曾無數次懷疑是否該放棄。直到 2020 年 10 月，凱特王妃首次攜帶 Love Letter 出席公益活動，那份「被看見」的感覺，讓她在壓力中重新獲得力量。至今，Love Letter 多次伴隨王妃於皇家列車巡迴、威爾斯訪問、女王追思與聖誕禮拜等11度重要場合出現亮相。對 Grace 而言，這份肯定不是單純的曝光，而是一種精神上的共鳴。Love Letter 的低調細膩，正呼應了王妃的端莊氣質與不張揚的力量。</p>
-
-
-
-<p><strong>回望初心 台北 Grace Han 的嶄新篇章 限定包款「紗影情書包」新亮相</strong></p>
-
-
-
-<p>Grace Han 倫敦旗艦店是品牌走向世界的起點，而台北藝術概念店則是回望與再出發。這裡不只是品牌的展示空間，更是一場關於藝術、工藝與情感的深層對話。當人們走進台北藝術概念店，看到的不僅是皮件與畫作，而是愛、記憶與時間交織的軌跡。在這裡，藝術是一切的開始，也是永恆的相伴。當 Grace Han 經典情書包（Love Letter） 遇上羽翼般輕盈的網紗，全新 「紗影情書包」 因而誕生。宛如微風拂過的透亮質感，為經典輪廓注入一份靜謐與純粹，展現截然不同的優雅姿態。靈感源自品牌的藝術作品，「紗影情書包」延續 2023 與 2024 倫敦亞洲藝術展中展出的《傳承》與《波光》，體現設計師暨皮革藝術家Grace在異材質結合上的美學底蘊與工藝功力。此次於台北藝術概念店開幕期間獨家預購的款式，推出玫瑰煙與羽黑兩種色彩，象徵女性柔美與堅毅並存，將情感與力量交融為一。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474637-1.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-261077" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474637-1.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474637-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/09/S__1474637-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Grace Han 台北藝術概念店限定紗影情書包款。Grace Han/提供</figcaption></figure>
-
-
-
-<p>同場登場的，還有 「羽境隨身包」。靈動的輪廓，採用柔軟羊皮製作，搭配可拆式背帶，可手拿、肩背、斜背，亦能作為收納內袋靈活運用，映照女性生活中多樣而真實的姿態。羽境不僅是一只隨身包，更是一種生活態度。自在如羽，自成一境。 它柔軟卻不失形體，陪伴日常的每一刻，展現自由與從容的氣度。多款顏色與材質的選擇，能與「紗影情書包」自由搭配，散發專屬的優雅與層次感。Grace Han 始終以愛、思念與記憶為核心精神，將經典設計與全新材質融合，延續細膩工藝與藝術語彙，再一次體現優雅源於日常的品牌哲思。Grace Han品牌形象影片：<a href="https://youtu.be/pi6SrC5g2iI">https://youtu.be/pi6SrC5g2iI</a></p>
-
-
-
-<p>Grace Han 台北藝術概念店地點：台北市大安區安和路二段227巷2號<br>源自倫敦的國際奢侈配飾與皮具品牌 Grace Han 以獨到的細膩凝視與精湛工藝，將柔韌的皮革幻化為細膩流動的藝術語彙，深獲英國皇室與世界名流青睞。2025年，品牌正式回歸台灣，設立全亞洲首間品牌藝術概念店，以Grace Han獨有皮革藝術創作與國寶級臺灣皮革工藝純手工打造的精緻包款，其優雅造型乘載溫柔的情感、記憶與美的力量，為精品界與藝術界帶來全新篇章。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/29/%e5%87%b1%e7%89%b9%e7%8e%8b%e5%a6%83%e6%9c%80%e6%84%9b%e5%be%a1%e7%94%a8%e5%8c%85-%e5%be%9e%e5%80%ab%e6%95%a6%e5%88%b0%e5%8f%b0%e5%8c%97-grace-han9%e6%9c%88%e6%8f%ad%e5%b9%95%e5%8f%b0%e5%8c%97/">凱特王妃最愛御用包 從倫敦到台北 Grace Han9月揭幕台北藝術概念店優雅開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
