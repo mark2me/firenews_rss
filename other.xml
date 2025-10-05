@@ -1,120 +1,862 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>其他 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/其他/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Sat, 04 Oct 2025 12:17:31 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>其他 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/其他/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</title>
+		<link>https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[穗稻飽]]></category>
+		<category><![CDATA[臺東縣農創協會]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=263323</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 融合農業文化與生態教育的《穗稻飽．池上花草集》市集，於 10 月 3 日下午在池上福原 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/">池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>融合農業文化與生態教育的《穗稻飽．池上花草集》市集，於 10 月 3 日下午在池上福原社區「池上星球」熱鬧登場，活動為期兩天，吸引許多民眾與遊客攜家帶眷參與，為池上的秋日午後增添濃厚人文農村風情。</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263325" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《穗稻飽．池上花草集》3日於池上鄉福原社區登場，串聯縱谷地區青農與經營主體共同參與，展現在地特色，營造農村慢活風情。/圖片來源：臺東縣農創協會</figcaption></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>本次市集由臺東縣農創協會結合福原社區共同辦理，並透過農村發展及水土保持署臺東分署的區域亮點計畫支持，集結縱谷地區青農、手作職人與文創品牌，展售範疇涵蓋在地農產、美食佳餚與特色選物。現場更安排皮革飾品、木雕工藝、香氛精油與香皂製作等體驗，打造從嗅覺、味覺到觸覺的五感探索旅程。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263326" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">活動結合縱谷地區青農、手作職人與文創品牌，呈現在地農產、美食佳餚與特色選物，展現農村多元風貌與生活美學。/圖片來源：臺東縣農創協會</figcaption></figure>
+
+
+
+<p>活動亮點之一「穗稻時光聊天室」，邀請在地居民、返鄉青年與東漂族群，在輕鬆氛圍下對談池上如何兼顧發展與生態，展望農村的新未來。臺東縣農創協會創辦人范逸嫻與福原社區發展協會理事長邱烈貞表示，期望透過交流開啟更多社區共創的契機。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263327" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「穗稻時光聊天室」，邀請在地居民、返鄉青年與東漂族群，在輕鬆氛圍下對談池上如何兼顧發展與生態，展望農村的新未來。/圖片來源：臺東縣農創協會</figcaption></figure>
+
+
+
+<p>素有「稻米之鄉」美譽的池上，此次以「穗稻」為名，象徵豐收與文化紮根。《穗稻飽．池上花草集》不僅是一場市集，更是農村教育、產業共創與生態價值的實驗平台，讓池上展現創新與包容的能量。未來主辦單位也將持續與地方組織合作，規劃更多元豐富的活動，推動池上成為農村、生態與美學交融的實踐場域。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263328" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《穗稻飽．池上花草集》作為農村教育、產業共創與生態價值的實踐平台，展現池上創新與包容的能量。/圖片來源：臺東縣農創協會</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/">池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</title>
+		<link>https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/</link>
+		
+		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2025 06:00:33 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[軍事]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=263430</guid>
+
+					<description><![CDATA[<p>▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/">「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263432" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>記者 莊全成／高雄報導</p>
+
+
+
+<p>陸軍8軍團田單營區「勤誠樓」昨（3）日落成啟用，以「住辦合一」設計打造現代化營舍，設施完善、寢室寬敞舒適，大幅改善官兵生活品質。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263433" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲曾任單位主官受邀「回娘家」參加啟用典禮，見證國軍「興安專案」成果。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>啟用典禮由8軍團中將指揮官廖建興主持，並邀請前軍備局長房茂宏、歷任庫長、地方仕紳共同見證，展現國軍積極推動現代化營舍的成果。典禮後，與會貴賓參觀隊史館、寢室與生活空間，對官兵居住品質的提升表達高度肯定。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263434" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲曾任南彈庫庫長的欣桃天然氣公司董事長房茂宏（右4）在隊史館中，向廖指揮官說明單位隊史文物。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>廖建興表示，新大樓以「勤為體、竭誠為魂」為精神。「勤」象徵後勤部隊持續不懈的奉獻，「誠」則展現對國家與使命的忠誠，新大樓命名正寓意將精神內化於空間中，讓官兵深刻體會「勤與誠」的意涵。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263435" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲出席來賓一同參觀勤誠樓官兵公設與生活區，4人一間的寢室及冬暖夏涼的2用床墊。（圖／記者莊全成攝）</figcaption></figure>
+
+
+
+<p>「勤誠樓」工程源自105年納入國軍「興安專案」規劃，總工程款4億7千萬，於112年4月動工，今年6月完成驗收，如期如質交付使用。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263438" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/">「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>珮芮珠寶首間紅藍寶專賣旗艦店台北開幕</title>
+		<link>https://firenews.com.tw/2025/10/04/%e7%8f%ae%e8%8a%ae%e7%8f%a0%e5%af%b6%e9%a6%96%e9%96%93%e7%b4%85%e8%97%8d%e5%af%b6%e5%b0%88%e8%b3%a3%e6%97%97%e8%89%a6%e5%ba%97%e5%8f%b0%e5%8c%97%e9%96%8b%e5%b9%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 17:47:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=263186</guid>
+
+					<description><![CDATA[<p>台灣高端珠寶品牌 Peri Lithon 珮芮珠寶 全台首間 紅藍寶專賣旗艦店 於台北大直正式開幕。品牌秉持  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e7%8f%ae%e8%8a%ae%e7%8f%a0%e5%af%b6%e9%a6%96%e9%96%93%e7%b4%85%e8%97%8d%e5%af%b6%e5%b0%88%e8%b3%a3%e6%97%97%e8%89%a6%e5%ba%97%e5%8f%b0%e5%8c%97%e9%96%8b%e5%b9%95/">珮芮珠寶首間紅藍寶專賣旗艦店台北開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>台灣高端珠寶品牌 Peri Lithon 珮芮珠寶 全台首間 紅藍寶專賣旗艦店 於台北大直正式開幕。品牌秉持 「Bound．Precious．Irreplaceable」 的核心理念，以嚴苛揀選標準與國際化設計語言，帶來結合稀有寶石與當代藝術的全新體驗。</p>
+
+
+
+<p><strong>以嚴苛選石標準與藝術設計，締造紅藍寶極致標竿</strong></p>
+
+
+
+<p>台灣高端珠寶品牌&nbsp;<strong>Peri Lithon&nbsp;</strong><strong>珮芮珠寶</strong>&nbsp;全台首間&nbsp;<strong>紅藍寶專賣旗艦店</strong>&nbsp;於台北大直正式開幕。品牌秉持&nbsp;<strong>「</strong><strong>Bound</strong><strong>．</strong><strong>Precious</strong><strong>．</strong><strong>Irreplaceable</strong><strong>」</strong>&nbsp;的核心理念，以嚴苛揀選標準與國際化設計語言，帶來結合稀有寶石與當代藝術的全新體驗。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="600" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18373830-2.jpg?resize=600%2C600&#038;ssl=1" alt="" class="wp-image-263187" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18373830-2.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18373830-2.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Peri Lithon專注紅藍寶石，只為臻稀而生。</figcaption></figure>
+
+
+
+<p><strong>旗艦店亮點</strong></p>
+
+
+
+<p>全新旗艦店佔地 60 坪，設有獨立門口花園、專屬 VIP 室與定製諮詢區，營造都市綠洲般的靜謐空間。首波展出近 70 件作品，涵蓋&nbsp;<strong>世界頂級</strong><strong> GRS Type&nbsp;</strong><strong>無燒鴿血紅紅寶石</strong>，同時推出「入門探索系列」，由專業導覽引領初次接觸紅、藍寶石的愛好者。</p>
+
+
+
+<p><strong>珍稀的極致標準</strong></p>
+
+
+
+<p>珍稀，不僅來自存量的稀少，更源於嚴苛生成條件下少中又少的完美成色。<br><strong>專注於天然紅、藍寶石</strong>，是 Peri Lithon 對寶石本質的深刻理解與熱情。<br>每顆寶石皆自產地嚴選，通過珮芮及國際級鑑定並完整溯源。<br>堅持&nbsp;<strong>「不到</strong><strong> 1%&nbsp;</strong><strong>的嚴苛揀選」</strong>，將億萬年孕育的自然色澤，<br>化為無可取代的收藏與佩戴藝術。</p>
+
+
+
+<p><strong>承襲古老智慧</strong></p>
+
+
+
+<p>寶石的價值不止於珍稀，更在於它所承載的歷史軌跡與文化底蘊。<br>品牌名稱源自古希臘自然學家西奧弗拉斯托斯的著作《論石 (Peri Lithon)》，<br>人類第一本系統記錄礦石與寶石的經典。<br>品牌延續這份對寶石的知識與敬意，致敬古老智慧，<br>並以現代珠寶的語言，將千年智慧化為可佩戴的藝術。</p>
+
+
+
+<p>Peri Lithon 以光與時間為創作軸線，為品牌精神的延伸與象徵，每一件皆蘊藏著光與時間的構築語言。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="600" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374001.jpg?resize=600%2C600&#038;ssl=1" alt="" class="wp-image-263188" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374001.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374001.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Stones of Celestia星辰之石</figcaption></figure>
+
+
+
+<p>以宇宙為靈感，4.42 克拉緬甸紅寶石如燃燒的行星，外圈 196 顆紅寶層層紅光，對應行星爆裂的瞬間；內側鑲嵌124 顆鑽石，如繁星於銀河深處閃爍。內外雙層，封存了宇宙的瞬息並凝於指尖。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="600" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374048.jpg?resize=600%2C600&#038;ssl=1" alt="" class="wp-image-263189" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374048.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053696_18374048.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Stones of Prophecy神諭之石</figcaption></figure>
+
+
+
+<p>以葡萄藤為靈感，一件藍寶石手鍊化作腕間的花園。54 顆總重 64.37 克拉的無燒藍寶錯落纏繞，如果實般綻放；其間鑲嵌的 601 顆鑽石，則為藍色果實映照出光影的層次。色澤與火光契合，源自精準嚴苛的挑選，彰顯對完美與細節的極致執著。舉手投足間，將自然意象與工藝之美融為一體，於腕間盛放。</p>
+
+
+
+<p>而Peri Lithon 的美學不僅止於珠寶，更向生活領域延伸。</p>
+
+
+
+<p>創辦人馬彥鵬，亦是大直知名餐酒品牌&nbsp;<strong>「如詩」</strong>&nbsp;的主理人，<br>以沉浸式氛圍設計聞名，將光影與時間的感知轉化為生活美學。詮釋「<strong>讓時間與感官，都能被真實地看見與感受」</strong>。<br>馬彥鵬表示：</p>
+
+
+
+<p>「我們不只是販售珠寶，而是選擇時間與光的唯一證據。<br>從原石的誕生、成色，到最終的切割與鑲嵌，每一顆紅藍寶都是時間與地質的奇蹟。<br>我們希望帶給大家的不只是視覺的珍稀，更是能代代傳承的真實價值與文化厚度。」 </p>
+
+
+
+<p>Peri Lithon 珮芮珠寶 沉浸式開幕體驗<br>2025年10月15日(三) – 11月9日(日)<br>台北旗艦店｜104 台北市中山區樂群二路309號<br>僅限受邀嘉賓，並開放有限席次預約。<br>僅接待完成登記之貴賓。<br>預約專線：02-8501-2340</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e7%8f%ae%e8%8a%ae%e7%8f%a0%e5%af%b6%e9%a6%96%e9%96%93%e7%b4%85%e8%97%8d%e5%af%b6%e5%b0%88%e8%b3%a3%e6%97%97%e8%89%a6%e5%ba%97%e5%8f%b0%e5%8c%97%e9%96%8b%e5%b9%95/">珮芮珠寶首間紅藍寶專賣旗艦店台北開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>台中山田舉辦「ESG產業專題講座」</title>
+		<link>https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 08:00:11 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[產業]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262998</guid>
+
+					<description><![CDATA[<p>在永續發展與社會責任日益受到重視的今天，台中山田聯誼會和第48屆 楊士賢會長 於9月29日（一）特別在星時代婚 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/">台中山田舉辦「ESG產業專題講座」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在永續發展與社會責任日益受到重視的今天，台中山田聯誼會和第48屆 楊士賢會長 於9月29日（一）特別在星時代婚姻會館舉辦「ESG產業專題講座」。活動邀請各產業專家齊聚一堂，分享專業見解與實務經驗，期望透過交流激盪，推動在地產業升級與社會責任的深度連結。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263012" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台中山田 ESG產業專題講座。圖/台中山田提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">第一位講者：凱悅窗簾 蔡咏橙</h2>
+
+
+
+<p>深耕窗簾產業逾30年的凱悅窗簾，始終堅持專業與品質，陪伴無數家庭與商業空間一同成長。凱悅窗簾位於國立台中美術館附近，融入當地濃厚的藝術與人文氣息，將設計美感與實用功能完美結合。<br><br>產品涵蓋調光簾、片簾、蜂巢簾、鋁百葉簾、木百葉簾、布簾、手動、電動等多樣選擇，兼具隔熱、遮光與調光功能，不僅滿足居家舒適需求，更能展現獨特的空間風格。服務過的單位包括國立台中美術館、國立台中圖書館、中華電信等。<br><br>凱悅窗簾提供專業丈量、設計到安裝的一站式服務，以細膩工藝與貼心態度，打造最符合顧客需求的理想環境。未來也將持續引進創新材質與流行色彩，秉持美學與實用並重的理念，為居家與空間注入更多品味與藝術氛圍。<br><br>聯絡電話：凱悅窗簾09-3319-4943</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-263023" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">傳法禮儀（股）公司執行副總蔡佩茹上台演講。圖/台中山田提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">第二位講者：傳法禮儀（股）公司 執行副總 蔡佩茹</h2>
+
+
+
+<p>傳法禮儀（股）公司自91年成立至今，始終專注經營唯一商品——「慈安山生前契約」。<br><br>合法生前契約依內政部規定：<br>1. 資本額：3,000萬元以上<br>2. 銀行信託 75％<br>3. 會計年度三年平均無虧<br>4. 網站公告<br><br>目前全台合法登記生前契約僅30家。生前契約的優點：<br>01. 可自由轉讓、買賣、家屬繼承<br>02. 履約專線 0800-203456 全台服務<br><br>慈安山生前契約優勢：<br>01. 公司資產與信託及運用透明化<br>02. 館內/館外契約均一價（會館除外）<br>03. 包含專利藝術罐（骨灰罐）<br>04. 包含大體冰存五日<br>05. 不限制三等親，可指定履約服務<br><br>慈安山生前契約提供安心、放心且溫馨的服務，履約信託保障，以現在的價格換取未來的價值。生前契約是針對未來不確定的時間與地點，所做的預先安排與保障，合法合規、信託有保障，歡迎免費諮詢。<br><br>聯絡資訊：終身靠山 / 慈安山 佩茹 0980-489298</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263024" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">講座合照。圖/台中山田提供</figcaption></figure>
+
+
+
+<p>此次專題講座，不僅展現出台中產業的專業能量與創新思維，也體現了企業在ESG浪潮下對社會責任的積極。透過跨領域的知識分享與合作，楊士賢會長期盼能夠帶動更多產業共同參與，為台中在地的永續發展注入新動能。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/">台中山田舉辦「ESG產業專題講座」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>美的淨水器挑戰恆河水，技術實力震驚全球</title>
+		<link>https://firenews.com.tw/2025/10/03/%e7%be%8e%e7%9a%84%e6%b7%a8%e6%b0%b4%e5%99%a8%e6%8c%91%e6%88%b0%e6%81%86%e6%b2%b3%e6%b0%b4%ef%bc%8c%e6%8a%80%e8%a1%93%e5%af%a6%e5%8a%9b%e9%9c%87%e9%a9%9a%e5%85%a8%e7%90%83/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 05:57:51 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262913</guid>
+
+					<description><![CDATA[<p>中國科技巨頭美的聯合多位網絡意見領袖，包括葉雲、嘎哥與暴走兄弟等，在印度恆河啟動「淨化恆河水烹飪流水席」挑戰。 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e7%be%8e%e7%9a%84%e6%b7%a8%e6%b0%b4%e5%99%a8%e6%8c%91%e6%88%b0%e6%81%86%e6%b2%b3%e6%b0%b4%ef%bc%8c%e6%8a%80%e8%a1%93%e5%af%a6%e5%8a%9b%e9%9c%87%e9%a9%9a%e5%85%a8%e7%90%83/">美的淨水器挑戰恆河水，技術實力震驚全球</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>中國科技巨頭美的聯合多位網絡意見領袖，包括葉雲、嘎哥與暴走兄弟等，在印度恆河啟動「淨化恆河水烹飪流水席」挑戰。透過自主研發的高端淨水技術，美的將極端污染的河水轉化為可用於烹飪的飲用水，向世界展示中國智造的技術力量。<strong></strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="396" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1.jpg?resize=600%2C396&#038;ssl=1" alt="" class="wp-image-262914" data-recalc-dims="1"/><figcaption class="wp-element-caption">美的淨水器「恆河流水席」挑戰</figcaption></figure>
+
+
+
+<p>恆河被譽為南亞的母親河，由於受工業廢水無序排放、生活垃圾隨意堆積等多重因素影響，恆河部分流域水質急劇惡化，水中的重金屬、病毒及細菌等嚴重超標。</p>
+
+
+
+<p>然而，就是這樣的「極端毒水」，竟然有中國科技企業用自研的淨水器，挑戰淨化「恆河水」做流水席，這一瘋狂的想法，曾遭到網友的集體嘲笑和質疑，紛紛在評論區留言：「會不會翻車」、「怕不是要集體拉肚子」、「坐等看笑話」等調侃的聲音，引爆整個網絡。</p>
+
+
+
+<p>現場美的通過直播形式，直觀展示美的淨水器強大的淨化能力。團隊眾人舀起暗沉呈黃褐色的「恆河水」，靜置片刻就能沉下厘米厚的雜質。為了升級難度，挑戰團隊還往水裡加了咖喱粉、辣椒粉、醬油等調料，使得水體變得更加渾濁黏稠。經美的淨水器淨化後，渾濁的污染水，瞬間變成清澈透明的干淨水。</p>
+
+
+
+<p>更令人震驚的是，挑戰團隊還用淨化過的恆河水，烹飪流水席。洗土豆、調鴨屎香檸檬茶、熬煮扁豆糊，每一道工序都對著鏡頭拍得清清楚楚。當地的民眾在嘗過菜餚後，眼裡的驚訝和豎起的大拇指更有說服力。</p>
+
+
+
+<p>這場「污水變美食」的背後，藏著中國淨水黑科技。美的淨水器自研高脫鹽帕斯卡Ro膜等技術，脫鹽率高達97％以上，能有效濾除140多種有害物質，0阻垢劑，達到母嬰級飲用水安全標准。近年來，以美的為代表的中國科技企業，深耕淨水領域，持續用技術創新，不斷挑戰各種極端水質環境。從淨化巴黎塞納河水、沙特「石油水」，到馬來西亞熱帶雨林鱷魚水，再到此次出征恆河流水席挑戰，展示出中國淨水技術硬核實力。</p>
+
+
+
+<p>此外，美的也將這份淨水的力量帶給當地的民眾，力所能及將帶來的淨水器全部捐出，讓恆河沿岸居民喝上安全放心的直飲水，這樣的舉動，也是讓人感到暖心和感動。</p>
+
+
+
+<p>從當初外界的質疑到淨化恆河水的集體折服，不僅展現了中國技術創新實力，更彰顯了中國人的民族自信和底氣。期待中國科技不斷創新，讓世界看到更多中國科技力量。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e7%be%8e%e7%9a%84%e6%b7%a8%e6%b0%b4%e5%99%a8%e6%8c%91%e6%88%b0%e6%81%86%e6%b2%b3%e6%b0%b4%ef%bc%8c%e6%8a%80%e8%a1%93%e5%af%a6%e5%8a%9b%e9%9c%87%e9%a9%9a%e5%85%a8%e7%90%83/">美的淨水器挑戰恆河水，技術實力震驚全球</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Azul 助力華南永昌證券：交易系統效能躍升 35%，基礎架構成本減 30%</title>
+		<link>https://firenews.com.tw/2025/10/03/azul-%e5%8a%a9%e5%8a%9b%e8%8f%af%e5%8d%97%e6%b0%b8%e6%98%8c%e8%ad%89%e5%88%b8%ef%bc%9a%e4%ba%a4%e6%98%93%e7%b3%bb%e7%b5%b1%e6%95%88%e8%83%bd%e8%ba%8d%e5%8d%87-35%ef%bc%8c%e5%9f%ba%e7%a4%8e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 03:09:33 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262816</guid>
+
+					<description><![CDATA[<p>在全球唯一專注於 Java 平台的科技公司 Azul 推動下，台灣華南永昌證券成功導入 Azul Platfo &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/azul-%e5%8a%a9%e5%8a%9b%e8%8f%af%e5%8d%97%e6%b0%b8%e6%98%8c%e8%ad%89%e5%88%b8%ef%bc%9a%e4%ba%a4%e6%98%93%e7%b3%bb%e7%b5%b1%e6%95%88%e8%83%bd%e8%ba%8d%e5%8d%87-35%ef%bc%8c%e5%9f%ba%e7%a4%8e/">Azul 助力華南永昌證券：交易系統效能躍升 35%，基礎架構成本減 30%</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在全球唯一專注於 Java 平台的科技公司 Azul 推動下，台灣華南永昌證券成功導入 Azul Platform Prime&nbsp;解決方案，不僅使其交易系統整體效能提升 35%，還將基礎架構成本壓降 30%，同步徹底解決了長期困擾系統穩定性的記憶體不足（OOM）問題，顯著強化交易回報處理的可靠性與效率。</p>
+
+
+
+<p>華南永昌證券的核心業務涵蓋：證券經紀、自營買賣、承銷與發行、財富管理與投資顧問、衍生性金融商品、線上交易與數位平台，以及研究分析報告。其交易回報處理系統可同時處理高達&nbsp;50 萬筆交易紀錄，並由超過&nbsp;20 個微服務支援運行。</p>
+
+
+
+<p><strong>效能瓶頸影響交易效率與客戶滿意度</strong></p>
+
+
+
+<p>華南永昌證券在既有 Java 架構中面臨多重挑戰，直接影響營運：</p>
+
+
+
+<p>效能瓶頸：高峰期難以應對大量交易回報資料，降低交易效率與客戶體驗。</p>
+
+
+
+<p>間歇性&nbsp;OOM 問題：難以診斷的記憶體不足狀況導致關鍵時段的系統可靠度下降。</p>
+
+
+
+<p>交易速度需求：訂單回報速度直接關聯客戶滿意度與營收，效能最佳化成為公司策略重點。</p>
+
+
+
+<p>華南永昌證券資訊部副總&nbsp;黃聖鈞&nbsp;表示：</p>
+
+
+
+<p>「Azul Platform Prime 協助我們最佳化客戶證券訂單回報的執行效率，並提升投資報酬率 (ROI)。藉由更快、更穩定的交易回報，我們能同時提升營運效率與客戶滿意度，並確保營收穩定。」</p>
+
+
+
+<p>Azul Platform Prime 帶來即時效能與成本效益</p>
+
+
+
+<p>在&nbsp;叡揚資訊&nbsp;(GSS)&nbsp;的引薦與技術協助下，華南永昌證券成功部署 Azul Platform Prime，現代化既有交易系統基礎架構。GSS 在導入過程中提供了專業顧問服務、即時溝通、架構建議與效能調校，成為專案成功的重要推手。</p>
+
+
+
+<p>Azul 亞太區副總裁&nbsp;Dean Vaughan&nbsp;表示：</p>
+
+
+
+<p>「亞太金融服務產業一直是 Azul 的戰略重點，而華南永昌證券的成功正好展現了我們解決方案對交易與證券業的巨大價值。本次導入不僅突顯 Azul Platform Prime 在高交易量、低延遲應用上的效能與成本優勢，也展現我們合作夥伴生態系的力量。GSS 的技術專業與市場知識對專案成功功不可沒。」</p>
+
+
+
+<p><strong>關於 Azul</strong></p>
+
+
+
+<p>總部位於加州聖尼維爾的&nbsp;Azul，為現代雲端企業提供最先進的 Java 平台。作為全球唯一專注於 Java 的公司，Azul 擁有數百萬開發者、上億裝置及全球頂尖企業的信任，為應用程式帶來卓越效能、安全性與價值。</p>
+
+
+
+<p>Azul 客戶涵蓋：36% 的《財富》100 強企業、50% 的《富比士》全球十大最具價值品牌、全球十大銀行，以及 Avaya、BMW、德國電信、LG、Mastercard、瑞穗銀行、Salesforce、Workday 等知名品牌。</p>
+
+
+
+<p>更多資訊請見&nbsp;<a href="https://www.azul.com/" target="_blank" rel="noreferrer noopener">azul.com</a>，或追蹤官方帳號 @azulsystems。</p>
+
+
+
+<p>消息來源: Azul</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/azul-%e5%8a%a9%e5%8a%9b%e8%8f%af%e5%8d%97%e6%b0%b8%e6%98%8c%e8%ad%89%e5%88%b8%ef%bc%9a%e4%ba%a4%e6%98%93%e7%b3%bb%e7%b5%b1%e6%95%88%e8%83%bd%e8%ba%8d%e5%8d%87-35%ef%bc%8c%e5%9f%ba%e7%a4%8e/">Azul 助力華南永昌證券：交易系統效能躍升 35%，基礎架構成本減 30%</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OKX Alphas Summit 聚焦產品創新 現場演繹新金融時代</title>
+		<link>https://firenews.com.tw/2025/10/03/okx-alphas-summit-%e8%81%9a%e7%84%a6%e7%94%a2%e5%93%81%e5%89%b5%e6%96%b0-%e7%8f%be%e5%a0%b4%e6%bc%94%e7%b9%b9%e6%96%b0%e9%87%91%e8%9e%8d%e6%99%82%e4%bb%a3/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 03:08:11 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262812</guid>
+
+					<description><![CDATA[<p>在 Token2049 峰會前夕，全球領先的加密貨幣交易平台 OKX 舉辦了一場別具特色的 Alphas 產品 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/okx-alphas-summit-%e8%81%9a%e7%84%a6%e7%94%a2%e5%93%81%e5%89%b5%e6%96%b0-%e7%8f%be%e5%a0%b4%e6%bc%94%e7%b9%b9%e6%96%b0%e9%87%91%e8%9e%8d%e6%99%82%e4%bb%a3/">OKX Alphas Summit 聚焦產品創新 現場演繹新金融時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在 Token2049 峰會前夕，全球領先的加密貨幣交易平台 OKX 舉辦了一場別具特色的 Alphas 產品峰會。活動將產品創新、技術突破與生態願景緊密串聯，化為一場以 「The New Money Era」 為核心的沉浸式現場敘事，展現 OKX 對未來金融新時代的想像與實踐。</p>
+
+
+
+<p>*OKX 提示，文中提到的產品可能在您所在的司法管轄區不可用</p>
+
+
+
+<p>9月30日，新加坡聖淘沙島的暖風裡，海浪與城市的節奏並行不悖；這裡有度假島嶼的休閑，也有全球金融樞紐的理性與格局。OKX把這兩種氣質帶進今天的Alphas Summit的舞臺——在 W 酒店的海景廳，與來自全球的行業領袖、產品負責人與合作夥伴以谷歌式發布會的節奏展開，呈現一場兼具思辨與實操的加密產品對話：以產品與用戶的互動為核心，同時彰顯鏈上世界的專業與前瞻視角。</p>
+
+
+
+<p>本次活動以&#8221;The New Money Era&#8221;為主軸，以探索&nbsp;Alpha 為線索，核心環節圍繞三類產品：交易類產品、穩定幣&nbsp;2.0 產品以及鏈上產品，揭開&nbsp;OKX 如何滿足用戶對未來新貨幣基礎設施的想象。演講舞台節奏緊湊、現場演示生動、即時問答頻繁，加上合作伙伴的深度補充，讓每一次功能亮相不僅展現技術實力，更直觀回應用戶的真實使用場景。活動吸引了超&nbsp;500 位業內人士、KOL、開發者、資本以及媒體嘉賓參與，現場熱鬧非凡。</p>
+
+
+
+<p>在本次活動中，OKX CEO Star 首先作為開場嘉賓發表主題演講。他指出，為了將各個產品分享環節有機銜接，活動確立了統一的主題——「The New Money Era」。這一主題不僅承載了所有產品功能背後的宏大願景，也將每一款產品發布匯聚成一個清晰的敘事——講述&nbsp;OKX 的發展方向，以及&nbsp;OKX 如何以創新與實踐為用戶構建未來金融的可能。此外，他還與&nbsp;CMO Haider Rafique 及&nbsp;OKX SG CEO&nbsp;Gracie Lin&nbsp;共同出席「OKX Pay」主題圓桌對話，圍繞支付創新與未來金融應用展開深入交流。</p>
+
+
+
+<p>談及加密貨幣支付願景時，Star表示，加密行業過去12至13年最大成就是比特幣全球化，比特幣已成為全球最成功的數位資產之一，第二大成就是穩定幣，目前穩定幣總市值接近3000億美元，並有望在未來1至2年進一步快速增長。此外，Star進一步指出，穩定幣支付既能保證安全合規，也能提升效率，有望在未來幾年加速進入大眾生活。而OKX Pay致力成為穩定幣流動性中心，從新加坡起步覆蓋全球市場。</p>
+
+
+
+<p>本次活動的核心演講環節，由OKX多位產品負責人共同參與，全面展示面向「The New Money Era」的多項創新產品與服務，突顯OKX在提升用戶資產管理效率、交易體驗、鏈上金融基礎設施建設的全方位布局。</p>
+
+
+
+<p><strong>自動賺幣</strong><strong>&nbsp;——&nbsp;</strong><strong>資產交易與增值雙目標</strong></p>
+
+
+
+<p>OKX交易產品負責人Thomas Tse首先介紹了「自動賺幣」功能。他表示，該功能允許用戶在不鎖定資產、不影響質押或交易保證金的情況下，將閒置資產自動出借或上鏈質押，實現交易與增值雙目標。當前支持USDT、USDC、USDG，以及ETH和SOL等主流資產，不同資產年化收益隨市場波動變化。Thomas強調，「自動賺幣」讓用戶在無需額外操作的情況下即可疊加收益，同時保持低風險和高度靈活性，「在The New Money Era，市場永不停歇，而您的加密資產也將隨時運轉」。</p>
+
+
+
+<p><strong>VIP&nbsp;</strong><strong>計畫</strong><strong>&nbsp;——&nbsp;</strong><strong>有正確工具的頂級享受</strong></p>
+
+
+
+<p>隨後，OKX VIP產品負責人Bill Chan分享全新VIP計劃的核心理念，他指出計劃專為高頻、大額交易者打造，透過會員分層提供手續費折扣、專屬客服及增值工具，如BTC生息寶、雙幣贏強化收益等，同時VIP用戶還可受邀參與私享活動、定向獎勵和限量周邊。Bill強調，未來交易的關鍵不在於工具數量，而在於擁有正確工具，他邀請用戶在OKX體驗更智能、高效的交易方式。</p>
+
+
+
+<p><strong>DEX&nbsp;</strong><strong>交易</strong><strong>&nbsp;——&nbsp;</strong><strong>在</strong><strong>CEX</strong><strong>內一鍵交易鏈上資產</strong></p>
+
+
+
+<p>OKX交易產品負責人Thomas Tse亦宣佈，OKX交易所將支援DEX交易功能，並已開啟限量公測。用戶可直接使用交易所帳戶餘額（USDT、USDC或網路原生代幣）進行鏈上代幣交易，無需切換錢包或跨鏈操作。首期涵蓋X Layer、SOL、Base、BSC，未來將擴展至ETH等網路。DEX交易提供更佳執行價格、更快成交、零交易費，同時內置代幣發現、市場情報和投資組合追蹤等一站式服務。用戶可秒級創建自託管錢包，支援Passkey與面部識別，無需助記詞，輕鬆兌換潛力幣。該功能通過打破CEX與DEX邊界，讓用戶在熟悉介面即可享受即時、安全、簡單的鏈上交易體驗。</p>
+
+
+
+<p><strong>OKX</strong><strong>錢包</strong><strong>&nbsp;——&nbsp;</strong><strong>自託管也能高級</strong></p>
+
+
+
+<p>鏈上交易的安全與便捷性方面，OKX DEX聚合器負責人Shawn Ma介紹了OKX Wallet最新動態。他表示，OKX Wallet重新設計，支持140+個區塊鏈網絡，用戶可在同一個平臺完成代幣兌換、跨鏈橋與dApp訪問，同時保持全球領先的安全性，屏蔽高風險代幣、地址與域名。即將推出的Smart Accounts通過TEE保護私鑰安全，實現自動止盈、止損、定投及鏈上跟單交易，讓高級鏈上交易與自托管安全完美結合。Shawn強調，「在The New Money Era，自托管絕不意味著落後或二流工具。」</p>
+
+
+
+<p><strong>X Layer ——&nbsp;</strong><strong>新錢時代的核心引擎</strong></p>
+
+
+
+<p>X Layer 架構師&nbsp;Felix Fan 更進一步闡述&nbsp;X Layer 的戰略定位。他表示，X Layer 已成為 The New Money Era 的核心引擎，TPS 達 5,000，可擴展至&nbsp;10 萬以上，交易手續費幾乎為零，全面兼容&nbsp;EVM 公鏈。超過&nbsp;400 萬地址部署上鏈，深度整合&nbsp;OKX Wallet，收益引擎與交易工具功能雙重價值。生態方面，X Layer 獲得 Aave 等頂級&nbsp;DeFi 協議支持，同時社區、開發者及&nbsp;Meme 文化積極參與，推動鏈上創新和社區成長，其應用場景涵蓋&nbsp;DeFi、收益型穩定幣、即時鏈上支付、高頻交易、跨境轉賬及真實世界結算，構建&nbsp;The New Money Era 交易、流通與財富創造的完整生態。</p>
+
+
+
+<p><strong>統一美元訂單簿</strong><strong>&nbsp;——&nbsp;</strong><strong>擊碎穩定幣碎片化</strong></p>
+
+
+
+<p>此外，OKX交易產品負責人Frank Zhang介紹了統一美元訂單簿（Unified USD Order Book），解決了長期存在的穩定幣交易對碎片化問題，為交易者提供最深流動性與暢通交易體驗，實現如現金般的自由交易。OKX Pay產品負責人Sam Liu分享了穩定幣發行人市場挑戰，並指出通過統一訂單簿，每個合規發行人可平等接入流動性，回歸公平開放的加密市場原則。</p>
+
+
+
+<p><strong>OKX Pay——</strong><strong>讓加密資產融入日常生活</strong></p>
+
+
+
+<p>Sam Liu&nbsp;宣布&nbsp;OKX 卡即將在部分地區推出，支持用戶用穩定幣&nbsp;1:1 消費，覆蓋全球支持&nbsp;Mastercard 的商戶，並計劃在&nbsp;12 個月內逐步推廣至全球多個合規地區。OKX 卡基於 OKX Pay 非托管超級錢包打造，用戶可通過&nbsp;X Layer 無縫發送穩定幣、實現掃碼支付及未來&nbsp;Tap to Pay，構建從儲存、投資到消費的閉環架構，推動穩定幣&nbsp;2.0 落地應用，讓加密資產真正成為日常生活中可以使用的資產。</p>
+
+
+
+<p>本次&nbsp;OKX Alphas Summit 的「The New Money Era」主題活動，不只是一場產品發表會，更是一面鏡子，映照出加密金融正在經歷的深刻變革。OKX在舞台上呈現的不只是技術能力，更是一種對於未來金融基礎設施的整體思考：資產流動、價值生成、風險管理與用戶掌控如何在鏈上世界重建。這場活動讓人意識到，The New Money Era的核心不是單點創新，而是生態整合——唯有交易、支付、投資和社區價值形成閉環，才能真正釋放加密資產的潛力。</p>
+
+
+
+<p>從戰略層面來看，OKX正在將行業趨勢轉化為可執行的實踐，這些產品佈局不僅體現技術領先，更在思考如何構建長期可持續的生態。更重要的是，這種佈局強調用戶主權和合規底線的平衡，讓創新不只是實驗，而是可進入日常生活的現實工具。這種兼顧速度、效率與安全的思路，是未來金融基礎設施設計的關鍵，也為整個行業提供了參考。</p>
+
+
+
+<p>在更高維度，The New Money Era 的價值，不只在於加密資產的流動，更在於個人掌控力與金融自由的重構。每一次鏈上交易、每一筆支付，都承載著用戶對自己資產和未來的主權意識。OKX 所做的，不只是提供工具，而是塑造一種新的操作範式，讓加密世界不再只是交易市場，而是一個可以觸及日常生活、實踐金融自主的生態。它提醒我們：真正的金融創新，不只在於技術有多炫，而是在於能讓人觸碰到自由、可掌控的未來。</p>
+
+
+
+<p>免責聲明</p>
+
+
+
+<p>本文僅供參考。本文僅代表作者觀點，並不代表OKX的立場。本文無意提供 (i) 投資建議或投資推薦； (ii) 購買、出售或持有數位資產的要約或招攬；(iii)財務、會計、法律或稅務建議。我們不保證該等信息的準確性、完整性和有用性。持有數位資產（包括穩定幣和NFTs）涉及高風險，可能會大幅波動。歷史收益並不代表未來收益，過去的表現亦不代表未來的結果。您應該根據您的財務狀況仔細考慮交易或持有數位資產是否適合您。就您的具體情況，請諮詢您的法律/稅務/投資專業人士。請您自行負責瞭解和遵守當地的有關適用法律和法規。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/okx-alphas-summit-%e8%81%9a%e7%84%a6%e7%94%a2%e5%93%81%e5%89%b5%e6%96%b0-%e7%8f%be%e5%a0%b4%e6%bc%94%e7%b9%b9%e6%96%b0%e9%87%91%e8%9e%8d%e6%99%82%e4%bb%a3/">OKX Alphas Summit 聚焦產品創新 現場演繹新金融時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</title>
+		<link>https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 10:12:12 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262588</guid>
+
+					<description><![CDATA[<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&#160;以《萬物上鏈 自託管 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在 Token2049 峰會主舞台上，OKX 創始人兼 CEO Star Xu&nbsp;以《萬物上鏈 自託管即未來》為題發表演講。他指出，金融體系正處於轉型關鍵期：未來的資產不應由機構保管，而應由用戶自身在鏈上直接掌控。他強調，隨著區塊鏈基礎設施日益成熟，「先驗證再信任」將取代過去的信任模型，自託管將成為邁向真正去中心化金融的重要一步。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image.jpg?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-262593" data-recalc-dims="1"/><figcaption class="wp-element-caption">OKX創始人兼CEO Star Xu發表主旨演講</figcaption></figure>
+
+
+
+<p>隨後，他在 X 發帖重申演講觀點：「金融的未來不會在閉門造車中決定——它將在鏈上、公開透明地構建。在 TOKEN2049 峰會上，我分享了我們的願景：萬物上鏈，優先自託管，信任前先驗證。在 OKX 生態中，我們正以區塊鏈上的每一個區塊、每一筆交易，逐步建設這一未來。現在，一切才剛剛開始。」</p>
+
+
+
+<p>讓我們走入 Star 他的視角，來一窺未來金融的樣貌：為什麼萬物都要上鏈？為什麼自託管是未來？以及 OKX 如何參與未來金融建設？</p>
+
+
+
+<p><strong>以下是 Star 在 Token2049 的演講全文（整理）：</strong></p>
+
+
+
+<p><strong>爲什麽萬物將上鏈？</strong></p>
+
+
+
+<p>大家下午好。十二年前我創立 OKX 時，比特幣就像童話故事裡的魔法豆，或遊戲裡的代幣。我們當時也辦了像 Token 2049 這樣送上百個比特幣的活動，現在看來沒辦法這麼玩了──今天比特幣 ETF 市值已經超越黃金 ETF 市值、以太坊、Solana 等公鏈也成為去中心化應用的基礎設施。</p>
+
+
+
+<p>金融的下一個時代，不再由機構幫用戶保管資產，而是用戶在鏈上持有和管理自己的資產。</p>
+
+
+
+<p>以史為鑑，如果我們回顧移動設備的發展，就會發現移動通訊行業同樣有開放系統和封閉系統。那些傳統的大型公司，比如諾基亞、摩托羅拉，他們自己生產設備，開發操作系統和應用。然而，當新一代開放系統的公司橫空出世，比如 Apple 和安卓，最終導致這些依賴封閉系統的傳統大公司，在幾年時間內迅速衰落，幾乎煙消雲散。</p>
+
+
+
+<p>現在，我們把目光投向傳統金融，會發現大部分仍是封閉系統，而去中心化金融（DeFi）完全不同，它是開放系統：交易透明、規則可驗證，每個人都可以在上面開發自己的應用。</p>
+
+
+
+<p>那麼什麼才是真正的鏈上系統？它有四個核心定義：第一，必須是公開的。第二，必須允許任何人基於這個系統進行開發（推動無限創新）。第三，它不能依賴於任何一個服務供應商，用戶應該被允許自由遷移，從一個服務商轉向另一個服務商。第四，這一切都必須是全球化的。</p>
+
+
+
+<p>我覺得在不久的未來，我們會看到越來越多的資產上鏈。今天鏈上已經有加密貨幣，也有代幣化的證券。而在未來，債券、現實世界資產（RWA）、支付等各種金融要素也都會逐漸遷移到鏈上。換句話說，萬物皆上鏈。</p>
+
+
+
+<p><strong>鏈上金融離我們還有多少距離？</strong>&nbsp;</p>
+
+
+
+<p>那麼，鏈上金融距離我們還有多少距離？我認為，基礎設施已經全面到位。</p>
+
+
+
+<p>12 年前，比特幣網路每分鐘只能處理大約 7 筆交易。但今天，我們看到很多 L1 區塊鏈已經可以在 1 秒鐘內處理上千筆交易，而以太坊的 L2 更是可以在每秒處理上萬筆交易。</p>
+
+
+
+<p>而加密資產本身也在持續發展。比特幣已經成為「數字黃金」，而穩定幣已被證明是過去十二年中最成功的加密貨幣應用之一。</p>
+
+
+
+<p>更關鍵的是，我們看到越來越多加密公司開始學習如何在監管體系下健康發展。全球各國也在積極推進加密立法，比如，美國提出了 GENIUS 法案，歐盟推出了 MICA，新加坡的 MAS 在立法上同樣做出了很多努力。</p>
+
+
+
+<p><strong>為什麼自托管是未來？</strong></p>
+
+
+
+<p>人類數千年歷史中，我們努力工作賺錢，然後把錢放在家中，甚至有時是放在床下。當時，我們並不依賴代理人保管資產。可是，在現代金融體系裡，我們要面對大量的「代理人」，還要考慮哪些代理人值得信賴。通常的邏輯是，我們先選擇相信一個「代理人」，再去驗證他是否可靠。而一旦這個「代理人」破產，用戶往往只能在幸運的情況下，找回部分資產。</p>
+
+
+
+<p>但在區塊鏈的世界裡，自我託管改變了這一切。它允許用戶 「先驗證，再信任」。</p>
+
+
+
+<p>用戶可以自己去研究這些去中心化應用：他們有多少儲備金？已經處理了多少筆交易？如果是貸款協議，它的抵押率是否健康？在這過程中，用戶是用戶「先驗證，再信任」，（而不是之前的「先信任，後驗證」）。</p>
+
+
+
+<p>同時，自託管並不意味著不安全或不遵守。今天，我們已經有了許多先進的鏈上監控技術，可以幫助加密公司在執行反洗錢任務時，甚至比傳統金融公司做得更好。傳統金融公司只能看到他們自己的平台數據，但在加密世界裡，我們可以借助 AI 和大數據，即時捕捉鏈上所有交易的信息。</p>
+
+
+
+<p>此外，我們還有多重簽名和帳戶抽象等技術，使用戶的加密錢包像銀行帳戶一樣安全。今年，OKX 還研發了實時監測系統，能夠阻止黑客使用我們的錢包服務。</p>
+
+
+
+<p><strong>OKX&nbsp;</strong><strong>如何參與構建未來金融？</strong></p>
+
+
+
+<p>成立已有十二年的 OKX，在鏈上金融基礎建設上，亦有許多貢獻。</p>
+
+
+
+<p>首先，OKX CEX 已經成為全球流動性最強大的交易所之一，並且在多個主要司法管轄區獲得監管執照，包括美國、歐盟、阿聯酋、新加坡和澳大利亞等。</p>
+
+
+
+<p>其次，我們始終把用戶資產的自託管放在發展願景的第一位。OKX Pay 就是一個合規的自託管錢包，讓用戶可以像發信息一樣簡單地完成轉賬。</p>
+
+
+
+<p>此外，我們還建設了 L2 網絡 X Layer，支持處理 OKX Pay 的鏈上交易。幫助全球用戶實現真正的點對點跨境轉賬等等。 不僅如此，我們還與眾多行業夥伴達成合作，推動鏈上金融的發展。在體育領域，我們贊助了麥凱輪 F1 車隊和曼城足球俱樂部，將加密夢想傳遞給上億的體育粉絲。在金融與科技領域，我們與 Circle、Mastercard、Tether、Paxos 等業內公司建立合作；同時，也與許多加密原生企業緊密合作，例如 Aptos、Sui、Uniswap 和 1inch。透過 OKX Pay 和 X Layer，這些合作讓我們的生態系統更加開放和高效。</p>
+
+
+
+<p>此外，我們也與全球影響力的個人合作，每年與節點分享數億美元的收益。為了支持創新，我們成立了 OKX Vision Fund，幫助更多創業項目將產品部署到 X Layer，加速鏈上金融落地。</p>
+
+
+
+<p>所以，我信「鏈上金融時代」，不只屬於 OKX，它屬於所有人，也應該由我們所有人一起建設。</p>
+
+
+
+<p>金融的未來不在保險庫裡，而在你的加密錢包裡。這是一個美麗的未來。</p>
+
+
+
+<p>謝謝大家！</p>
+
+
+
+<p>免責聲明</p>
+
+
+
+<p>本文僅供參考。本文僅代表作者的觀點，並不代表&nbsp;OKX 的立場。本文並無意圖提供&nbsp;(i) 投資建議或投資推薦；&nbsp;(ii) 購買、出售或持有數位資產的要約或招攬；&nbsp;(iii) 財務、會計、法律或稅務建議。我們不保證該等資訊的準確性、完整性或有用性。持有的數位資產（包括穩定幣和&nbsp;NFTs）涉及高風險，可能會大幅波動。歷史收益並不代表未來收益，過往表現亦不代表未來結果。您應該根據您的財務狀況仔細考慮交易或持有數位資產是否適合您。有關您的情況，請諮詢您的法律&nbsp;/ 稅務&nbsp;/ 投資專業人士。請自行負責瞭解和遵守當地的有關適用法律和法規。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/star-xu-%e5%9c%a8-token2049-%e5%ae%9a%e7%be%a9%e6%9c%aa%e4%be%86%e9%87%91%e8%9e%8d%ef%bc%9a%e8%90%ac%e7%89%a9%e4%b8%8a%e9%8f%88%e8%88%87%e8%87%aa%e8%a8%97%e7%ae%a1%e8%87%b3%e9%97%9c%e9%87%8d%e8%a6%81/">Star Xu 在 Token2049 定義未來金融：萬物上鏈與自託管至關重要</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>美兆榮膺 2025 健康品牌風雲賞 — 健檢平台優等獎肯定科技轉型實力</title>
+		<link>https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%85%86%e6%a6%ae%e8%86%ba-2025-%e5%81%a5%e5%ba%b7%e5%93%81%e7%89%8c%e9%a2%a8%e9%9b%b2%e8%b3%9e-%e5%81%a5%e6%aa%a2%e5%b9%b3%e5%8f%b0%e5%84%aa%e7%ad%89%e7%8d%8e%e8%82%af%e5%ae%9a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 08:12:35 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262506</guid>
+
+					<description><![CDATA[<p>台灣健康管理先驅美兆健康管理機構 在《2025 健康品牌風雲賞》中脫穎而出，榮獲「健康科技類 — 健檢平台優等 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%85%86%e6%a6%ae%e8%86%ba-2025-%e5%81%a5%e5%ba%b7%e5%93%81%e7%89%8c%e9%a2%a8%e9%9b%b2%e8%b3%9e-%e5%81%a5%e6%aa%a2%e5%b9%b3%e5%8f%b0%e5%84%aa%e7%ad%89%e7%8d%8e%e8%82%af%e5%ae%9a/">美兆榮膺 2025 健康品牌風雲賞 — 健檢平台優等獎肯定科技轉型實力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>台灣健康管理先驅美兆健康管理機構 在《2025 健康品牌風雲賞》中脫穎而出，榮獲「健康科技類 — 健檢平台優等獎」。這項殊榮不僅肯定美兆 38 年來在預防醫學領域的深耕，更彰顯其透過大數據與 AI 技術，成功從傳統健檢服務邁向全面化健康平台的轉型實力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="449" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177586-1.jpg?resize=599%2C449&#038;ssl=1" alt="" class="wp-image-262507" data-recalc-dims="1"/><figcaption class="wp-element-caption">台灣健康管理領導品牌美兆健康管理機構甫於《2025健康品牌風雲賞》中脫穎而出，榮獲健康科技類．健檢平台優等獎。總裁林羣表示，將以此榮耀為起點，持續推動預防醫學與全民健康。</figcaption></figure>
+
+
+
+<p><strong>38</strong><strong>年守護全台</strong><strong> </strong><strong>醫檢分離始祖再創新篇章</strong></p>
+
+
+
+<p>美兆自1988年於高雄創立第一家健檢診所，首創「醫檢分離」模式，成為台灣預防醫學的重要推動者，樹立產業標竿。三十餘年來，美兆服務超過百萬民眾，累積近300萬筆健檢數據，成為亞洲最大華人健康數據庫。這些數據已廣泛應用於臨床、公共衛生與科研領域，推動健康政策與國際醫學研究，奠定美兆在產業的獨特價值。</p>
+
+
+
+<p><strong>數據×科技 實力印證「健檢平台」價值</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053687_12177617.jpg?resize=600%2C450&#038;ssl=1" alt="" class="wp-image-262508" data-recalc-dims="1"/><figcaption class="wp-element-caption">美兆健康管理機構榮獲《2025健康品牌風雲賞》健檢平台優等獎，該獎項為健康產業年度重要評選，代表專業、公信力與社會影響力。</figcaption></figure>
+
+
+
+<p>此次獲獎，更是對美兆持續創新的肯定。美兆也於近年積極導入AI智能內視鏡、半日健檢當日報告、數位健康管家平台，並針對北中南診所全面升級硬體與檢查體驗，打造舒適、快速且精準的健檢環境。透過300萬筆健檢數據分析，美兆能替不同年齡層提供個人化的健康風險評估，真正實踐「預防重於治療」的理念。</p>
+
+
+
+<p>美兆健康管理機構總裁林羣更表示，「能夠獲得這個獎項，不只是對我們的鼓勵，更是對全台預防醫學的重要肯定。從醫檢分離創始到今日的數位轉型，美兆始終以專業與創新，陪伴每一位民眾守護健康。未來，我們會以此榮耀為起點，持續擴展健康管理平台的深度與廣度，讓每一位民眾都能更早、更準確地掌握自己的健康。」</p>
+
+
+
+<p><strong>2025</strong><strong>美兆新啟航：持續推動全民健康</strong></p>
+
+
+
+<p>今年8月，全新升級的台北美兆診所正式啟用，以「健康生活新據點」為定位，導入女性專區、AI無痛腸胃鏡室與獨家高階檢驗中心，提供民眾更完整的健康檢查體驗。此舉象徵美兆進入數位轉型與平台化的嶄新階段，讓健檢不再只是單日服務，而是與日常生活緊密結合的健康管理旅程。</p>
+
+
+
+<p>「榮獲《2025 健康品牌風雲賞》不只是榮耀，更是責任。」林羣總裁也分享，未來美兆將持續發揮300萬筆健檢大數據優勢，結合專業醫師團隊與跨界合作夥伴，推動全民健康識能、企業健康管理與公共衛生研究，持續守護台灣每一個家庭的健康。</p>
+
+
+
+<p><a href="https://www.majorhealth.ai/?utm_source=email_signature" target="_blank" rel="noreferrer noopener">美兆所見．健康所願</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/%e7%be%8e%e5%85%86%e6%a6%ae%e8%86%ba-2025-%e5%81%a5%e5%ba%b7%e5%93%81%e7%89%8c%e9%a2%a8%e9%9b%b2%e8%b3%9e-%e5%81%a5%e6%aa%a2%e5%b9%b3%e5%8f%b0%e5%84%aa%e7%ad%89%e7%8d%8e%e8%82%af%e5%ae%9a/">美兆榮膺 2025 健康品牌風雲賞 — 健檢平台優等獎肯定科技轉型實力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Optoma 進軍高爾夫模擬器市場：打造頂級沉浸式揮桿體驗</title>
+		<link>https://firenews.com.tw/2025/10/02/optoma-%e9%80%b2%e8%bb%8d%e9%ab%98%e7%88%be%e5%a4%ab%e6%a8%a1%e6%93%ac%e5%99%a8%e5%b8%82%e5%a0%b4%ef%bc%9a%e6%89%93%e9%80%a0%e9%a0%82%e7%b4%9a%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%8f%ae%e6%a1%bf%e9%ab%94/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 08:10:23 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262502</guid>
+
+					<description><![CDATA[<p>顯示技術領導品牌 Optoma 正式宣布將全面進軍高爾夫模擬器市場，透過旗下全系列短焦投影機搭載全新 「高爾夫 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/optoma-%e9%80%b2%e8%bb%8d%e9%ab%98%e7%88%be%e5%a4%ab%e6%a8%a1%e6%93%ac%e5%99%a8%e5%b8%82%e5%a0%b4%ef%bc%9a%e6%89%93%e9%80%a0%e9%a0%82%e7%b4%9a%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%8f%ae%e6%a1%bf%e9%ab%94/">Optoma 進軍高爾夫模擬器市場：打造頂級沉浸式揮桿體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>顯示技術領導品牌 Optoma 正式宣布將全面進軍高爾夫模擬器市場，透過旗下全系列短焦投影機搭載全新 「高爾夫模式（Golf Mode）」 功能，專為綠茵球道、天空與草地細節進行影像優化，力求為高爾夫愛好者提供最真實、無縫的室內揮桿體驗。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="444" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Optoma_GolfSimulator_New_tw_1.jpg?resize=599%2C444&#038;ssl=1" alt="" class="wp-image-262503" data-recalc-dims="1"/><figcaption class="wp-element-caption">奧圖碼Optoma強攻高爾夫模擬器市場，打造一站式完整服務</figcaption></figure>
+
+
+
+<p><strong>量身打造「高爾夫模式」，提供頂級視覺饗宴</strong></p>
+
+
+
+<p>Optoma 深刻了解高爾夫模擬器市場的需求，其全系列短焦投影機均搭載專屬的「高爾夫模式」。此模式針對綠色草地、藍色天空、球道紋理等畫面細節進行優化，確保色彩飽和、對比分明，讓球友彷彿身歷其境。此技術不僅提供逼真的視覺效果，更讓Optoma在投影機競品中脫穎而出，成為高爾夫練習環境的最佳選擇。</p>
+
+
+
+<p><strong>全系列產品線，滿足各種應用需求</strong></p>
+
+
+
+<p>Optoma 針對家用與商用市場，提供完整的高爾夫模擬器投影機選擇。從高性價比的機種到頂級雷射光源機型，Optoma 可以滿足不同階段使用者的需求。全系列搭載雷射光源的機種具備更長的壽命與更高的色彩亮度，能呈現更精準且鮮豔的畫面，大幅提升高爾夫模擬器的視覺效果，為使用者帶來極致的沉浸式體驗。</p>
+
+
+
+<p>短焦投影機在模擬高爾夫系統中扮演的關鍵角色，由於其可在短距離內投射出大尺寸畫面，因此能完美避免揮桿時產生的人影干擾，確保使用者擁有零死角的視野。此外，短焦機種也大大減少了安裝空間的需求，讓高爾夫模擬器不再受限於大型場地，大幅提升了應用彈性。</p>
+
+
+
+<p><strong>整合服務鏈，提供一站式解決方案</strong></p>
+
+
+
+<p>為提供高爾夫愛好者最完善的服務，Optoma 與數家台灣最具經驗、器材選擇最多的系統商建立合作關係，共同打造完整的服務生態鏈。從設備諮詢、場地規劃、安裝設定到售後服務，Optoma 皆能提供一站式解決方案，確保使用者能輕鬆享受高品質的模擬高爾夫體驗。</p>
+
+
+
+<p><strong>全面佈局，拓展高爾夫運動新版圖</strong></p>
+
+
+
+<p>Optoma 將於2025年第四季起全面啟動市場攻勢，目標鎖定高爾夫球練習場、高端社區及高端飯店。此外，Optoma 也積極與各大建商及居家設計公司合作，將高爾夫模擬器融入住宅空間，讓高爾夫愛好者能夠隨時隨地享受彷彿教練隨時候教的揮桿樂趣，同時也不再受時間，氣候與地點的限制。</p>
+
+
+
+<p>Optoma 亞太區總經理吳俊佑表示：「我們相信，Optoma 的高階投影技術結合在地專業團隊的服務，將能徹底顛覆高爾夫訓練的傳統模式，讓更多高爾夫愛好者享受到再提高一個層次的服務。」</p>
+
+
+
+<p>更多高爾夫模擬器資訊，歡迎前往官網了解：<a href="https://www.optoma.com.tw/TW-Golf/golfsimsolution" target="_blank" rel="noreferrer noopener">https://www.optoma.com.tw/TW-Golf/golfsimsolution</a></p>
+
+
+
+<p><strong>關於Optoma</strong> </p>
+
+
+
+<p>Optoma作為全球領先的顯示解決方案供應商，致力於提供高效、創新的顯示技術與解決方案，服務於各行各業。從投影機、顯示器到智慧顯示系統，Optoma秉持著「不斷創新」的核心理念，致力於推動顯示技術的進步與應用，為客戶提供卓越的視覺體驗與管理效能。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/02/optoma-%e9%80%b2%e8%bb%8d%e9%ab%98%e7%88%be%e5%a4%ab%e6%a8%a1%e6%93%ac%e5%99%a8%e5%b8%82%e5%a0%b4%ef%bc%9a%e6%89%93%e9%80%a0%e9%a0%82%e7%b4%9a%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%8f%ae%e6%a1%bf%e9%ab%94/">Optoma 進軍高爾夫模擬器市場：打造頂級沉浸式揮桿體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
