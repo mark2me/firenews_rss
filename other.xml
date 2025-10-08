@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/其他/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 07 Oct 2025 13:54:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 01:41:30 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,176 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Synology 推出一站式 AI 解方　助企業兼顧資安與效率</title>
+		<link>https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 01:41:27 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=264686</guid>
+
+					<description><![CDATA[<p>生成式 AI 正在重塑企業工作流程，並成為提升團隊生產力的核心工具。然而，隨著 AI 滲透至日常營運，IT 團 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/">Synology 推出一站式 AI 解方　助企業兼顧資安與效率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生成式 AI 正在重塑企業工作流程，並成為提升團隊生產力的核心工具。然而，隨著 AI 滲透至日常營運，IT 團隊正面臨兩大挑戰：資安與合規風險急遽升高，以及 AI 系統整合與維運人才的短缺。</p>
+
+
+
+<p>「生成式 AI 可以說是一把雙面刃，帶來便利性的同時，也得考量伴隨的資料安全與合規挑戰。畢竟 AI 應用經常涉及大量敏感資訊，如果缺乏有效治理，可能導致『影子 AI』氾濫、資料誤用甚至外洩風險。」Synology 企業應用事業群協理黃智廣觀察，「同時，零散的工具與繁瑣的部署流程，也讓中小企業 IT 團隊在人才不足的情況下面臨沉重負擔。」</p>
+
+
+
+<p>企業當前迫切需要一套能整合 AI 生產力工具，同時確保資安與合規的一站式解決方案，對此Synology 全新推出的管理工具 AI Console，將能有效協助企業應對資安與人才缺口的雙重壓力。</p>
+
+
+
+<p><strong>化解影子</strong><strong> AI</strong><strong>，打造透明治理的中控台</strong></p>
+
+
+
+<p>黃智廣說明，Synology AI Console 首先可賦予 IT 部門靈活部署多元 AI 模型的能力，IT 得以在單一介面，輕鬆管理包括 OpenAI、Azure OpenAI、Google Gemini、Amazon Bedrock 等模型，還能避免員工使用未經公司授權的 AI 工具，大幅降低影子 AI 的風險。</p>
+
+
+
+<p>接著，IT 可為每個 AI 模型，設定每日或每分鐘的 token 用量上限，有效防止濫用，以控制 AI 成本在預算範圍內。同時，透過角色權限管理，可針對特定團隊或使用者開啟 AI 功能，確保 AI 資源被正確的使用者充分發揮價值。</p>
+
+
+
+<p><strong>從遮蔽與還原資料，到監控行為都在本地完成</strong></p>
+
+
+
+<p>除了提供管理易用性，黃智廣強調 Synology AI Console 的另一個目標，是保護企業最重要的機密資料，並滿足如 GDPR、個資法等多國資料合規要求。</p>
+
+
+
+<p>具體來說，Synology AI Console 支援去識別化功能，內建了全球與各國機密資料的標準項目，例如姓名、信用卡號碼、銀行帳戶、IP 位置、電子郵件地址、API 金鑰等。選定項目之後，員工傳送內容到第三方 AI 供應商時，AI Console 就會先自動遮蔽中的機密資訊；而當模型回傳結果，再由 AI Console 還原資料，整個遮蔽與還原過程皆在地端執行，確保所有機密資料都只流通於企業儲存伺服器，防止資料外洩或被第三方 AI 模型用於訓練。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
+
+
+
+<p>另外，Synology AI Console 提供完整的稽核日誌，從使用者 AI 操作行為（使用時間、IP、token 數量、指令內容），到 AI 輸入與輸出，以及管理員變更配置，都會詳實記錄，讓 IT 部門隨時掌控員工如何使用 AI 工具，確保符合公司政策，並得以定期匯出報告，滿足稽核與合規需求。</p>
+
+
+
+<p><strong>無額外</strong><strong> AI </strong><strong>整合成本，賦能原生</strong><strong> Synology Office Suite</strong></p>
+
+
+
+<p>回到團隊生產力，企業現行經常使用公有雲生產力平台的 AI 訂閱方案，但往往要價不菲且方案持續變動、難以預測未來開支。黃智廣指出，Synology AI Console 本身無需額外費用，只要企業新增原有的第三方 AI 模型，再啟用 Synology Office Suite 的支援套件，即可享有同等級的 AI 生產力工具。</p>
+
+
+
+<p>黃智廣舉例，Synology Office 透過 AI 助理，可快速撰寫草稿、協助潤飾文字、翻譯整份簡報、在試算表生成公式，甚至能參考存放在 Synology Drive 的檔案，得到更精準、更符合需求的內容；而 Synology MailPlus 亦能快速摘要冗長信件，並參考歷史信件提供回覆建議，有效減少繁瑣重複的工作。他強調，相較於訂閱公有雲 AI 方案，Synology AI Console 整套解決方案相當實惠，且易於掌握整體擁有成本（TCO），更適合企業打造智慧辦公環境。</p>
+
+
+
+<p>Synology AI Console 只是落實私有雲 AI 整合的第一步，黃智廣分享了 Synology 的 AI 策略藍圖，未來將支援與 OpenAI API 相容的 AI 伺服器，讓企業能自由選擇自建的大型語言模型（Large Language Model, LLM）。同時，結合 MCP（Model Context Protocol）與 RAG（Retrieval-Augmented Generation）技術，將真正實現「全地端 AI 使用環境」。</p>
+
+
+
+<p>這意味著企業能在完全掌控資料與伺服器的前提下，靈活打造各種 AI 應用場景，並兼顧安全與合規。舉例來說，企業可將 Synology AI Console 作為 MCP server，串接 LLM 供內部 AI Agent 存取，用來自動化重複繁瑣的工作流程，除此之外，還能建構專屬的內部知識庫，透過 RAG 讓 AI 參考企業資料，生成結果更加精準。</p>
+
+
+
+<p>從 AI 模型選擇、使用權限控管、資料安全到稽核與合規，還能提供高成本效益的智慧生產力工具，Synology 一站式 AI 管理方案，讓企業能夠放心地完成 AI 轉型，高效又安全地邁向 AI 驅動的新工作模式。</p>
+
+
+
+<p>立即諮詢 Synology AI 私有雲解決方案：<a href="https://sy.to/aymua" target="_blank" rel="noreferrer noopener">https://sy.to/aymua</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/">Synology 推出一站式 AI 解方　助企業兼顧資安與效率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>雲樁科技攜手國霖機電　8,000棟建築導入EMS智慧充電能源管理系統</title>
+		<link>https://firenews.com.tw/2025/10/08/%e9%9b%b2%e6%a8%81%e7%a7%91%e6%8a%80%e6%94%9c%e6%89%8b%e5%9c%8b%e9%9c%96%e6%a9%9f%e9%9b%bb%e3%80%808000%e6%a3%9f%e5%bb%ba%e7%af%89%e5%b0%8e%e5%85%a5ems%e6%99%ba%e6%85%a7%e5%85%85%e9%9b%bb%e8%83%bd/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 01:33:42 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[智慧充電]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[雲樁科技]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=264682</guid>
+
+					<description><![CDATA[<p>打造全台最大社區充電優化計畫，提升用電效率與車主體驗 電動車普及帶動建築充電設施快速成長。高林實業（股票代號： &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%b2%e6%a8%81%e7%a7%91%e6%8a%80%e6%94%9c%e6%89%8b%e5%9c%8b%e9%9c%96%e6%a9%9f%e9%9b%bb%e3%80%808000%e6%a3%9f%e5%bb%ba%e7%af%89%e5%b0%8e%e5%85%a5ems%e6%99%ba%e6%85%a7%e5%85%85%e9%9b%bb%e8%83%bd/">雲樁科技攜手國霖機電　8,000棟建築導入EMS智慧充電能源管理系統</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>打造全台最大社區充電優化計畫，提升用電效率與車主體驗</strong><strong></strong></p>
+
+
+
+<p>電動車普及帶動建築充電設施快速成長。<strong>高林實業（股票代號：2906）子公司高明能源持股之充電領導品牌雲樁科技（WinCharge）宣布與台灣機電整合龍頭國霖機電</strong>展開策略合作，導入<strong>雲樁EMS智慧充電能源管理系統</strong>至國霖維運的<strong>8,000棟社區與建築</strong>，共同打造全台最大規模的社區充電升級計畫。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="883" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1759886952428.jpg?resize=1220%2C883&#038;ssl=1" alt="" class="wp-image-264683" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1759886952428.jpg?w=1346&amp;ssl=1 1346w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1759886952428.jpg?resize=768%2C556&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雲樁科技執行長葉勁廷(左)、國霖機電執行長徐春福(右)。圖/雲樁科技</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading"><a></a><strong>整合技術與工程優勢，啟動智慧營運</strong><strong></strong></h3>
+
+
+
+<p>國霖機電深耕社區機電整合與維運，具備全台佈局與大規模執行能力。雲樁科技則專注開發<strong>專為充電設備設計的能源管理系統（EMS）</strong>，具備跨品牌整合能力與模組化架構，支援多元充電設備的即時監控、功率限流與容量調度等功能。雙方合作將協助社區從傳統設備安裝邁向智慧營運，全面提升電力使用效率與住戶充電體驗。</p>
+
+
+
+<h3 class="wp-block-heading"><a></a><strong>EMS 系統四大特色</strong></h3>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>跨品牌相容／全樁整合<br></strong>支援市面上各品牌的充電樁（包括 Tesla 或符合 OCPP 標準者），實現一套系統統整管理，不必侷限於單一品牌。<br></li>
+
+
+
+<li><strong>智慧電源調度與安全防護<br></strong>即時監測電壓／電流，依契約容量控制負載，避免超量使用；遇異常可遠端警報，保障用電安全與運行穩定。<br></li>
+
+
+
+<li><strong>節省空間與建置成本<br></strong>EMS 可整合自有分散式電錶架構，簡化安裝流程與設備需求，縮減佈線與硬體成本，使系統更具擴展彈性。<br></li>
+
+
+
+<li><strong>APP 支援金流代管與營運管理<br></strong>住戶可透過專屬 App 查詢用電紀錄、接收充電通知，並完成費率支付；同時平台支援社區端的金流代收、收費管理與後台營運控管，有效簡化物業管理流程。</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading"><a></a><strong>補足維運斷點，打造一條龍服務體系</strong><strong></strong></h3>
+
+
+
+<p>目前多數社區充電設施缺乏完善後續維護，導致使用率偏低與故障處理延宕。國霖機電擁有全台維運據點與標準化流程，將與雲樁EMS系統深度整合，提供從建置、調度到維護的<strong>一條龍充電服務</strong>，大幅提升設備可靠度與整體營運效率。</p>
+
+
+
+<h3 class="wp-block-heading"><a></a><strong>領航社區充電轉型，共創長期價值</strong><strong></strong></h3>
+
+
+
+<p>雲樁科技執行長表示：「我們致力於打造可落地、可擴展、可維運的智慧充電解決方案。透過與國霖機電的合作，我們將在台灣建立值得信賴的社區充電基礎，為住戶帶來穩定便捷的充電服務，也為社區營運創造長期效益。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%b2%e6%a8%81%e7%a7%91%e6%8a%80%e6%94%9c%e6%89%8b%e5%9c%8b%e9%9c%96%e6%a9%9f%e9%9b%bb%e3%80%808000%e6%a3%9f%e5%bb%ba%e7%af%89%e5%b0%8e%e5%85%a5ems%e6%99%ba%e6%85%a7%e5%85%85%e9%9b%bb%e8%83%bd/">雲樁科技攜手國霖機電　8,000棟建築導入EMS智慧充電能源管理系統</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>TEDxTaipei 2025  陳光耀博士倡議無癌城市</title>
 		<link>https://firenews.com.tw/2025/10/07/tedxtaipei-2025-%e9%99%b3%e5%85%89%e8%80%80%e5%8d%9a%e5%a3%ab%e5%80%a1%e8%ad%b0%e7%84%a1%e7%99%8c%e5%9f%8e%e5%b8%82/</link>
 		
@@ -47,7 +217,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="694" height="888" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-64.png?resize=694%2C888&#038;ssl=1" alt="" class="wp-image-264603" data-recalc-dims="1"/><figcaption class="wp-element-caption">陶聲洋防癌基金會董事長<strong>陳光耀博士在TEDxTaipei 2025</strong>主講「無癌城市、人道防癌」。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="694" height="888" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-64.png?resize=694%2C888&#038;ssl=1" alt="" class="wp-image-264603" data-recalc-dims="1"/><figcaption class="wp-element-caption">陶聲洋防癌基金會董事長<strong>陳光耀博士在TEDxTaipei 2025</strong>主講「無癌城市、人道防癌」。</figcaption></figure>
 
 
 
@@ -752,109 +922,6 @@
 
 <p>高雄門市10/18（六）11:00～12:30</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/05/%e5%be%9e%e9%81%8b%e5%8b%95%e5%88%b0%e8%97%9d%e8%a1%93%e3%80%80%e9%a6%99%e8%8f%af%e5%a4%a9%e8%b7%a8%e7%95%8c%e5%b1%95%e7%8f%be%e5%8f%b0%e7%81%a3%e8%bb%9f%e5%af%a6%e5%8a%9b/">從運動到藝術　香華天跨界展現台灣軟實力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>寵物醫療費飆漲！「寵星」助飼主預防重於治療</title>
-		<link>https://firenews.com.tw/2025/10/05/%e5%af%b5%e7%89%a9%e9%86%ab%e7%99%82%e8%b2%bb%e9%a3%86%e6%bc%b2%ef%bc%81%e3%80%8c%e5%af%b5%e6%98%9f%e3%80%8d%e5%8a%a9%e9%a3%bc%e4%b8%bb%e9%a0%90%e9%98%b2%e9%87%8d%e6%96%bc%e6%b2%bb%e7%99%82/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Sun, 05 Oct 2025 09:49:40 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=263818</guid>
-
-					<description><![CDATA[<p>台灣受到少子化影響，毛孩已是家中的一份子。但毛孩健康的醫療費，卻是許多飼主的心裡的痛。根據台灣獸醫師公會資料， &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/05/%e5%af%b5%e7%89%a9%e9%86%ab%e7%99%82%e8%b2%bb%e9%a3%86%e6%bc%b2%ef%bc%81%e3%80%8c%e5%af%b5%e6%98%9f%e3%80%8d%e5%8a%a9%e9%a3%bc%e4%b8%bb%e9%a0%90%e9%98%b2%e9%87%8d%e6%96%bc%e6%b2%bb%e7%99%82/">寵物醫療費飆漲！「寵星」助飼主預防重於治療</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>台灣受到少子化影響，毛孩已是家中的一份子。但毛孩健康的醫療費，卻是許多飼主的心裡的痛。根據台灣獸醫師公會資料，犬貓常見的骨折手術費用平均落在2至5萬元；若遇到慢性疾病如腎臟病、心臟病，每月藥費與檢查費更可能高達數千至上萬元，對一般家庭而言負擔不小。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1525" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-37.png?resize=1220%2C1525&#038;ssl=1" alt="" class="wp-image-263819" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-37.png?w=1440&amp;ssl=1 1440w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-37.png?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-37.png?resize=1229%2C1536&amp;ssl=1 1229w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">寵物醫療花費不小，國內飼主開始興起預防保健新趨勢。(圖/寵星提供)</figcaption></figure>
-
-
-
-<p>根據近來國際研究，如果毛孩能從日常生活中補充腸胃、免疫或關節等營養素，發病率及臨床就醫次數都有顯著下降。因此，台灣寵物保健食品市場快速成長，也逐漸被視為「分散醫療風險」的重要方式。不過，高價位仍是許多飼主的門檻。市面上知名品牌一個月的保健支出動輒上千元，讓不少家庭只能選擇「有病再治」，承擔更大風險。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1108" height="1477" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-38.png?resize=1108%2C1477&#038;ssl=1" alt="" class="wp-image-263820" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-38.png?w=1108&amp;ssl=1 1108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-38.png?resize=768%2C1024&amp;ssl=1 768w" sizes="(max-width: 1108px) 100vw, 1108px" data-recalc-dims="1" /><figcaption class="wp-element-caption">寵物醫療費用逐年攀升，增加飼主的經濟壓力。 (圖/寵星提供)</figcaption></figure>
-
-
-
-<p>國內新創品牌「寵星」切入市場，以「讓每位飼主都能負擔得起的優質保健食品」為理念，推出四大系列產品，包括腸道保健、毛髮亮麗、免疫增強與魚油護眼。品牌強調，日花不到一杯飲料的金額，就能讓毛孩獲得有效的健康照護。 </p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1525" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-39.png?resize=1220%2C1525&#038;ssl=1" alt="" class="wp-image-263821" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-39.png?w=1440&amp;ssl=1 1440w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-39.png?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-39.png?resize=1229%2C1536&amp;ssl=1 1229w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">毛孩若能補充營養素，可分散醫療風險。 (圖/寵星提供)</figcaption></figure>
-
-
-
-<p>寵星創辦人指出：「我們希望透過平價的保健品，讓更多飼主能夠在疾病發生前就開始守護毛孩，而不是等到病痛來襲才後悔。唯有降低價格門檻，才能讓預防照護普及化。」在醫療費用高漲、寵物壽命逐漸延長的時代，「預防重於治療」已不再只是口號，而是每位飼主能為毛孩減輕痛苦、為自己減輕壓力的最佳策略。寵星相信，唯有提供可負擔的選擇，才能真正讓更多毛孩享有健康、快樂的陪伴時光。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/05/%e5%af%b5%e7%89%a9%e9%86%ab%e7%99%82%e8%b2%bb%e9%a3%86%e6%bc%b2%ef%bc%81%e3%80%8c%e5%af%b5%e6%98%9f%e3%80%8d%e5%8a%a9%e9%a3%bc%e4%b8%bb%e9%a0%90%e9%98%b2%e9%87%8d%e6%96%bc%e6%b2%bb%e7%99%82/">寵物醫療費飆漲！「寵星」助飼主預防重於治療</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</title>
-		<link>https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[穗稻飽]]></category>
-		<category><![CDATA[臺東縣農創協會]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=263323</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 融合農業文化與生態教育的《穗稻飽．池上花草集》市集，於 10 月 3 日下午在池上福原 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/">池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>融合農業文化與生態教育的《穗稻飽．池上花草集》市集，於 10 月 3 日下午在池上福原社區「池上星球」熱鬧登場，活動為期兩天，吸引許多民眾與遊客攜家帶眷參與，為池上的秋日午後增添濃厚人文農村風情。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263325" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《穗稻飽．池上花草集》3日於池上鄉福原社區登場，串聯縱谷地區青農與經營主體共同參與，展現在地特色，營造農村慢活風情。/圖片來源：臺東縣農創協會</figcaption></figure>
-
-
-
-<p>本次市集由臺東縣農創協會結合福原社區共同辦理，並透過農村發展及水土保持署臺東分署的區域亮點計畫支持，集結縱谷地區青農、手作職人與文創品牌，展售範疇涵蓋在地農產、美食佳餚與特色選物。現場更安排皮革飾品、木雕工藝、香氛精油與香皂製作等體驗，打造從嗅覺、味覺到觸覺的五感探索旅程。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263326" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">活動結合縱谷地區青農、手作職人與文創品牌，呈現在地農產、美食佳餚與特色選物，展現農村多元風貌與生活美學。/圖片來源：臺東縣農創協會</figcaption></figure>
-
-
-
-<p>活動亮點之一「穗稻時光聊天室」，邀請在地居民、返鄉青年與東漂族群，在輕鬆氛圍下對談池上如何兼顧發展與生態，展望農村的新未來。臺東縣農創協會創辦人范逸嫻與福原社區發展協會理事長邱烈貞表示，期望透過交流開啟更多社區共創的契機。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263327" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/003.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「穗稻時光聊天室」，邀請在地居民、返鄉青年與東漂族群，在輕鬆氛圍下對談池上如何兼顧發展與生態，展望農村的新未來。/圖片來源：臺東縣農創協會</figcaption></figure>
-
-
-
-<p>素有「稻米之鄉」美譽的池上，此次以「穗稻」為名，象徵豐收與文化紮根。《穗稻飽．池上花草集》不僅是一場市集，更是農村教育、產業共創與生態價值的實驗平台，讓池上展現創新與包容的能量。未來主辦單位也將持續與地方組織合作，規劃更多元豐富的活動，推動池上成為農村、生態與美學交融的實踐場域。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263328" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《穗稻飽．池上花草集》作為農村教育、產業共創與生態價值的實踐平台，展現池上創新與包容的能量。/圖片來源：臺東縣農創協會</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/">池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
