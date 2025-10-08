@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 08 Oct 2025 01:41:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 05:31:47 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</title>
+		<link>https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 05:31:45 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=264833</guid>
+
+					<description><![CDATA[<p>雅特力科技（ARTERY Technology）於10月1日至2日首次亮相由 EETimes 主辦的「2025 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/">雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>雅特力科技（ARTERY Technology）於10月1日至2日首次亮相由 EETimes 主辦的「2025 EE 前瞻技術大會」（Taipei EE Intelligent TechCon），在台北文創大樓展出其最新 AT32 系列微控制器與整體解決方案。此次會展聚焦 AIoT、邊緣運算與嵌入式系統應用，雅特力以高效能、高整合度產品，強調其在智慧控制與邊緣 AI 領域的研發實力與市場願景。</p>
+
+
+
+<p><strong>AT32 MCU 新品推動智慧控制</strong> 雅特力本次展示的AT32 MCU新品系列涵蓋 AT32F422/426、AT32M412/416與 AT32F455/456/457。其中AT32F422/426為最新推出的高效能小封裝產品，具備 180MHz高速主頻、CAN/CAN-FD支援與高精度ADC，能在有限尺寸中兼顧運算性能與多介面整合，適合應用於電動兩輪車、智慧燈光控制與邊緣裝置。搭配針對馬達驅動優化的M412/416以及提供豐富週邊與安全功能的AT32F455/456/457，AT32系列MCU形成靈活完整的產品組合，滿足從工控、智慧家電到AIoT邊緣計算的多元需求。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/ARTERY_Showcases_AT32_MCU_2025_EE_Intelligent_TechCon.jpg?resize=599%2C400&#038;ssl=1" alt="" class="wp-image-264835" data-recalc-dims="1"/><figcaption class="wp-element-caption">雅特力科技 AT32 MCU 亮相 2025 EE前瞻技術大會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>多樣 Demo 驅動AIoT發展</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Edge AI Sensor Board</strong><strong>互動體驗</strong></li>
+</ul>
+
+
+
+<p>全新AT32 Edge AI Sensor Board方案搭載TOF (Time-of-Flight)感測器，能精確捕捉10至20公分範圍內的手勢軌跡，並結合AT32 MCU的即時訊號處理與邊緣AI推理能力，完成無接觸式手勢控制。現場觀眾只需揮手，即可觸發方向控制與互動功能，直觀感受低延遲響應與人機互動技術。該方案不僅凸顯雅特力在感測融合與邊緣智能的突破，也展示其在智慧家電、醫療監測、工業自動化與娛樂系統&nbsp;等場景的廣泛延伸潛力。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>高速電競鍵盤與滑鼠</strong></li>
+</ul>
+
+
+
+<p>基於 AT32高速USB MCU 平台，支援 8k回報率，展現極低延遲回饋與高速傳輸，並結合彩色燈光效果，營造沉浸式的電競互動體驗，呼應 AIoT娛樂裝置的高速互動需求。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>智能無弦電吉他</strong></li>
+</ul>
+
+
+
+<p>透過觸控與壓力感測，結合AI和弦辨識與自動伴奏功能，實現智慧音樂互動，展現 MCU 在&nbsp;多模態訊號處理與低延遲控制的優勢。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>BLDC</strong><strong>馬達控制方案</strong></li>
+</ul>
+
+
+
+<p>支援有/無感測 FOC、雙/三電阻電流檢測與GUI即時監控，應用涵蓋電動二輪車、工業風扇、智慧家電等場景，透過高速運轉的即時展示，突顯控制演算法在效率與穩定度上的技術優勢。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AT-SURF-F437 </strong><strong>開發板</strong></li>
+</ul>
+
+
+
+<p>內建高主頻 288MHz AT32F437 MCU，支援 SDRAM、CMOS感測器與 3.5 吋 LCD，並提供乙太網路、RS-485、音訊介面等多種通訊功能，提供完整的開發資源，加速多媒體處理與邊緣智慧設計。</p>
+
+
+
+<p><strong>AI </strong><strong>與邊緣智慧驅動產業升級</strong></p>
+
+
+
+<p>在本次論壇中，雅特力所展出的多元方案讓與會者直觀感受到AI與邊緣運算 在未來應用的潛能。從人機互動、娛樂體驗到動力控制，MCU已不再僅是傳統控制核心，而是智慧應用的演算與決策引擎。</p>
+
+
+
+<p>雅特力科技未來將持續強化AI演算法支援、感測融合與即時響應能力，並攜手合作夥伴推動智慧製造、AIoT與消費性電子的持續升級。透過「高效能、高性價比」的MCU解決方案，雅特力將為開發者帶來更靈活的設計選擇，並推動全球智慧生態的發展。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/">雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Synology 推出一站式 AI 解方　助企業兼顧資安與效率</title>
 		<link>https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/</link>
 		
@@ -81,7 +177,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
 
 
 
@@ -128,6 +224,7 @@
 		<pubDate>Wed, 08 Oct 2025 01:33:42 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[智慧充電]]></category>
@@ -202,17 +299,17 @@
 			</item>
 		<item>
 		<title>精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</title>
-		<link>https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/</link>
+		<link>https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/</link>
 		
 		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 00:30:00 +0000</pubDate>
+		<pubDate>Wed, 08 Oct 2025 00:30:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
 		<category><![CDATA[綜合]]></category>
 		<guid isPermaLink="false">https://firenews.com.tw/?p=262974</guid>
 
 					<description><![CDATA[<p>子宮息肉與子宮肌瘤是女性常見的婦科疾病，輕則造成經血過多、經痛，嚴重時更可能影響生育與生活品質。 過去這些問題 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
@@ -262,7 +359,7 @@
 
 
 <p>曾院長指出，新式的赫拉冷刀適合處理子宮內膜息肉與小型肌瘤，能輔助患者恢復，對需要兼顧工作或生活的族群會是較便利的選擇。赫拉冷刀不只是治療子宮息肉及子宮肌瘤的新器械，而是象徵婦科手術進入新時代的代表性工具，婦科手術正朝向微創、安全、有效率的方向發展。同時，曾宇泰院長也強調，手術方式沒有絕對的標準答案，仍須依個別病況、病灶大小與病人需求來選擇，患者應與醫師充分討論，才能找到最適合的方案。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
@@ -792,61 +889,6 @@
 
 <p>Peri Lithon 珮芮珠寶 沉浸式開幕體驗<br>2025年10月15日(三) – 11月9日(日)<br>台北旗艦店｜104 台北市中山區樂群二路309號<br>僅限受邀嘉賓，並開放有限席次預約。<br>僅接待完成登記之貴賓。<br>預約專線：02-8501-2340</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e7%8f%ae%e8%8a%ae%e7%8f%a0%e5%af%b6%e9%a6%96%e9%96%93%e7%b4%85%e8%97%8d%e5%af%b6%e5%b0%88%e8%b3%a3%e6%97%97%e8%89%a6%e5%ba%97%e5%8f%b0%e5%8c%97%e9%96%8b%e5%b9%95/">珮芮珠寶首間紅藍寶專賣旗艦店台北開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>台中山田舉辦「ESG產業專題講座」</title>
-		<link>https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/</link>
-		
-		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 08:00:11 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[產業]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=262998</guid>
-
-					<description><![CDATA[<p>在永續發展與社會責任日益受到重視的今天，台中山田聯誼會和第48屆 楊士賢會長 於9月29日（一）特別在星時代婚 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/">台中山田舉辦「ESG產業專題講座」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>在永續發展與社會責任日益受到重視的今天，台中山田聯誼會和第48屆 楊士賢會長 於9月29日（一）特別在星時代婚姻會館舉辦「ESG產業專題講座」。活動邀請各產業專家齊聚一堂，分享專業見解與實務經驗，期望透過交流激盪，推動在地產業升級與社會責任的深度連結。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263012" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/AA091F56-CAF9-4392-B976-32AE67D2CB4B_0-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">台中山田 ESG產業專題講座。圖/台中山田提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading">第一位講者：凱悅窗簾 蔡咏橙</h2>
-
-
-
-<p>深耕窗簾產業逾30年的凱悅窗簾，始終堅持專業與品質，陪伴無數家庭與商業空間一同成長。凱悅窗簾位於國立台中美術館附近，融入當地濃厚的藝術與人文氣息，將設計美感與實用功能完美結合。<br><br>產品涵蓋調光簾、片簾、蜂巢簾、鋁百葉簾、木百葉簾、布簾、手動、電動等多樣選擇，兼具隔熱、遮光與調光功能，不僅滿足居家舒適需求，更能展現獨特的空間風格。服務過的單位包括國立台中美術館、國立台中圖書館、中華電信等。<br><br>凱悅窗簾提供專業丈量、設計到安裝的一站式服務，以細膩工藝與貼心態度，打造最符合顧客需求的理想環境。未來也將持續引進創新材質與流行色彩，秉持美學與實用並重的理念，為居家與空間注入更多品味與藝術氛圍。<br><br>聯絡電話：凱悅窗簾09-3319-4943</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-263023" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850404_0.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">傳法禮儀（股）公司執行副總蔡佩茹上台演講。圖/台中山田提供</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading">第二位講者：傳法禮儀（股）公司 執行副總 蔡佩茹</h2>
-
-
-
-<p>傳法禮儀（股）公司自91年成立至今，始終專注經營唯一商品——「慈安山生前契約」。<br><br>合法生前契約依內政部規定：<br>1. 資本額：3,000萬元以上<br>2. 銀行信託 75％<br>3. 會計年度三年平均無虧<br>4. 網站公告<br><br>目前全台合法登記生前契約僅30家。生前契約的優點：<br>01. 可自由轉讓、買賣、家屬繼承<br>02. 履約專線 0800-203456 全台服務<br><br>慈安山生前契約優勢：<br>01. 公司資產與信託及運用透明化<br>02. 館內/館外契約均一價（會館除外）<br>03. 包含專利藝術罐（骨灰罐）<br>04. 包含大體冰存五日<br>05. 不限制三等親，可指定履約服務<br><br>慈安山生前契約提供安心、放心且溫馨的服務，履約信託保障，以現在的價格換取未來的價值。生前契約是針對未來不確定的時間與地點，所做的預先安排與保障，合法合規、信託有保障，歡迎免費諮詢。<br><br>聯絡資訊：終身靠山 / 慈安山 佩茹 0980-489298</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263024" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__17850435_0.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">講座合照。圖/台中山田提供</figcaption></figure>
-
-
-
-<p>此次專題講座，不僅展現出台中產業的專業能量與創新思維，也體現了企業在ESG浪潮下對社會責任的積極。透過跨領域的知識分享與合作，楊士賢會長期盼能夠帶動更多產業共同參與，為台中在地的永續發展注入新動能。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/03/%e5%8f%b0%e4%b8%ad%e5%b1%b1%e7%94%b0%e8%88%89%e8%be%a6%e3%80%8cesg%e7%94%a2%e6%a5%ad%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7%e3%80%8d/">台中山田舉辦「ESG產業專題講座」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		

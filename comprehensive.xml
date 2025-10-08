@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 08 Oct 2025 03:23:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 05:31:47 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</title>
+		<link>https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 05:31:45 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=264833</guid>
+
+					<description><![CDATA[<p>雅特力科技（ARTERY Technology）於10月1日至2日首次亮相由 EETimes 主辦的「2025 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/">雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>雅特力科技（ARTERY Technology）於10月1日至2日首次亮相由 EETimes 主辦的「2025 EE 前瞻技術大會」（Taipei EE Intelligent TechCon），在台北文創大樓展出其最新 AT32 系列微控制器與整體解決方案。此次會展聚焦 AIoT、邊緣運算與嵌入式系統應用，雅特力以高效能、高整合度產品，強調其在智慧控制與邊緣 AI 領域的研發實力與市場願景。</p>
+
+
+
+<p><strong>AT32 MCU 新品推動智慧控制</strong> 雅特力本次展示的AT32 MCU新品系列涵蓋 AT32F422/426、AT32M412/416與 AT32F455/456/457。其中AT32F422/426為最新推出的高效能小封裝產品，具備 180MHz高速主頻、CAN/CAN-FD支援與高精度ADC，能在有限尺寸中兼顧運算性能與多介面整合，適合應用於電動兩輪車、智慧燈光控制與邊緣裝置。搭配針對馬達驅動優化的M412/416以及提供豐富週邊與安全功能的AT32F455/456/457，AT32系列MCU形成靈活完整的產品組合，滿足從工控、智慧家電到AIoT邊緣計算的多元需求。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/ARTERY_Showcases_AT32_MCU_2025_EE_Intelligent_TechCon.jpg?resize=599%2C400&#038;ssl=1" alt="" class="wp-image-264835" data-recalc-dims="1"/><figcaption class="wp-element-caption">雅特力科技 AT32 MCU 亮相 2025 EE前瞻技術大會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>多樣 Demo 驅動AIoT發展</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Edge AI Sensor Board</strong><strong>互動體驗</strong></li>
+</ul>
+
+
+
+<p>全新AT32 Edge AI Sensor Board方案搭載TOF (Time-of-Flight)感測器，能精確捕捉10至20公分範圍內的手勢軌跡，並結合AT32 MCU的即時訊號處理與邊緣AI推理能力，完成無接觸式手勢控制。現場觀眾只需揮手，即可觸發方向控制與互動功能，直觀感受低延遲響應與人機互動技術。該方案不僅凸顯雅特力在感測融合與邊緣智能的突破，也展示其在智慧家電、醫療監測、工業自動化與娛樂系統&nbsp;等場景的廣泛延伸潛力。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>高速電競鍵盤與滑鼠</strong></li>
+</ul>
+
+
+
+<p>基於 AT32高速USB MCU 平台，支援 8k回報率，展現極低延遲回饋與高速傳輸，並結合彩色燈光效果，營造沉浸式的電競互動體驗，呼應 AIoT娛樂裝置的高速互動需求。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>智能無弦電吉他</strong></li>
+</ul>
+
+
+
+<p>透過觸控與壓力感測，結合AI和弦辨識與自動伴奏功能，實現智慧音樂互動，展現 MCU 在&nbsp;多模態訊號處理與低延遲控制的優勢。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>BLDC</strong><strong>馬達控制方案</strong></li>
+</ul>
+
+
+
+<p>支援有/無感測 FOC、雙/三電阻電流檢測與GUI即時監控，應用涵蓋電動二輪車、工業風扇、智慧家電等場景，透過高速運轉的即時展示，突顯控制演算法在效率與穩定度上的技術優勢。</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AT-SURF-F437 </strong><strong>開發板</strong></li>
+</ul>
+
+
+
+<p>內建高主頻 288MHz AT32F437 MCU，支援 SDRAM、CMOS感測器與 3.5 吋 LCD，並提供乙太網路、RS-485、音訊介面等多種通訊功能，提供完整的開發資源，加速多媒體處理與邊緣智慧設計。</p>
+
+
+
+<p><strong>AI </strong><strong>與邊緣智慧驅動產業升級</strong></p>
+
+
+
+<p>在本次論壇中，雅特力所展出的多元方案讓與會者直觀感受到AI與邊緣運算 在未來應用的潛能。從人機互動、娛樂體驗到動力控制，MCU已不再僅是傳統控制核心，而是智慧應用的演算與決策引擎。</p>
+
+
+
+<p>雅特力科技未來將持續強化AI演算法支援、感測融合與即時響應能力，並攜手合作夥伴推動智慧製造、AIoT與消費性電子的持續升級。透過「高效能、高性價比」的MCU解決方案，雅特力將為開發者帶來更靈活的設計選擇，並推動全球智慧生態的發展。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/">雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Synology 推出一站式 AI 解方　助企業兼顧資安與效率</title>
 		<link>https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/</link>
 		
@@ -81,7 +177,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
 
 
 
@@ -128,6 +224,7 @@
 		<pubDate>Wed, 08 Oct 2025 01:33:42 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[智慧充電]]></category>
@@ -195,6 +292,74 @@
 
 <p>雲樁科技執行長表示：「我們致力於打造可落地、可擴展、可維運的智慧充電解決方案。透過與國霖機電的合作，我們將在台灣建立值得信賴的社區充電基礎，為住戶帶來穩定便捷的充電服務，也為社區營運創造長期效益。」</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%b2%e6%a8%81%e7%a7%91%e6%8a%80%e6%94%9c%e6%89%8b%e5%9c%8b%e9%9c%96%e6%a9%9f%e9%9b%bb%e3%80%808000%e6%a3%9f%e5%bb%ba%e7%af%89%e5%b0%8e%e5%85%a5ems%e6%99%ba%e6%85%a7%e5%85%85%e9%9b%bb%e8%83%bd/">雲樁科技攜手國霖機電　8,000棟建築導入EMS智慧充電能源管理系統</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</title>
+		<link>https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 00:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262974</guid>
+
+					<description><![CDATA[<p>子宮息肉與子宮肌瘤是女性常見的婦科疾病，輕則造成經血過多、經痛，嚴重時更可能影響生育與生活品質。 過去這些問題 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>子宮息肉與子宮肌瘤是女性常見的婦科疾病，輕則造成經血過多、經痛，嚴重時更可能影響生育與生活品質。</strong></p>
+</blockquote>
+
+
+
+<p>過去這些問題大多透過子宮鏡電燒方式治療，雖然有效，但仍可能帶來熱傷害、交叉感染與術後恢復不適等疑慮。近年婦科微創手術持續演進，醫界的關注點已從「單純治療病灶」提升到「兼顧安全與病患需求」，逐步邁向「更安全、更精準、更微創」的新趨勢，其中，新式的「赫拉冷刀」技術，也逐漸受到醫界與患者的關注。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-262975" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>「赫拉冷刀」治療息肉肌瘤！拋棄式設計防交叉感染</strong></h2>
+
+
+
+<p>傑生婦科內視鏡微無創中心院長曾宇泰指出，傳統在治療子宮息肉或子宮肌瘤等子宮鏡手術時，器械多為反覆消毒再使用，但隨著病人生活水平與醫療品質意識的提升，醫師逐漸在意的是兼顧療效與手術安全，希望減少不必要的傷害，同時讓病人獲得更高品質的照護，而赫拉冷刀採取手術全程「一人一套」的拋棄式設計，在治療子宮息肉或肌瘤時，有助於避免交叉感染，也能讓病人感受到安全與安心，展現出婦科術式的新改革。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>「零熱傷害」溫和切除息肉肌瘤 子宮內膜不再受苦</strong></h2>
+
+
+
+<p>在治療子宮內膜息肉與肌瘤時，傳統電燒切割可能帶來高溫熱傷害。曾院長指出，赫拉冷刀以物理性剪鉗取代高熱能量切除息肉及肌瘤，切口整齊乾淨，能減少子宮腔與內膜的負擔，對後續癒合與沾黏控制也更有利。而赫拉冷刀管徑只有 4.8mm，不到半公分的極細導管，在許多情境下不需要擴張子宮，也能完成操作，因此病人手術時更舒適，對麻醉的依賴也相對較低。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>升級搭配鈥雷射與負壓導管 子宮鏡手術精準又輕鬆</strong> </h2>
+
+
+
+<p>曾院長分享，臨床觀察顯示，使用非熱能切割方式的婦科手術，子宮腔受到的負擔較小，患者疼痛感通常更輕，且術後恢復狀況穩定。赫拉冷刀除了具備剪刀與抓鉗設計外，搭配鈥雷射輔助，能更俐落且完整地切除大部分子宮息肉、子宮肌瘤等病灶。同時，若結合負壓導管，手術過程中可同步吸走血水與殘留組織，維持清晰視野，讓醫師操作更精準，進一步提升手術整體效率與安全性。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="480" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021994_0.jpg?resize=640%2C480&#038;ssl=1" alt="" class="wp-image-262986" data-recalc-dims="1"/><figcaption class="wp-element-caption">粘膜下肌瘤示意圖</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>婦科微創手術新標配！廣泛族群都適用</strong></h2>
+
+
+
+<p>曾院長指出，新式的赫拉冷刀適合處理子宮內膜息肉與小型肌瘤，能輔助患者恢復，對需要兼顧工作或生活的族群會是較便利的選擇。赫拉冷刀不只是治療子宮息肉及子宮肌瘤的新器械，而是象徵婦科手術進入新時代的代表性工具，婦科手術正朝向微創、安全、有效率的方向發展。同時，曾宇泰院長也強調，手術方式沒有絕對的標準答案，仍須依個別病況、病灶大小與病人需求來選擇，患者應與醫師充分討論，才能找到最適合的方案。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
@@ -314,74 +479,6 @@
 
 <p>在外資湧入與產業轉移的雙重推力下，菲律賓工業地的投資價值正加速提升。現在布局菲律賓工業地，就像十多年前在越南、泰國買工業園土地一樣政策剛鬆綁、價格尚未飆升、外資潮正在起步，正處於黃金卡位期。愈早進場，未來轉手或自用的空間愈大。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/07/%e5%8f%b0%e7%98%8b%e6%90%b6%e8%8f%b2%e5%9c%8b%e5%b7%a5%e6%a5%ad%e5%9c%b0-%e5%9c%b0%e5%83%b9%e6%bc%b2%e5%b9%85%e5%8b%9d%e9%81%8e%e9%bb%83%e9%87%91/">台瘋搶菲國工業地 地價漲幅勝過黃金</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</title>
-		<link>https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 00:30:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=262974</guid>
-
-					<description><![CDATA[<p>子宮息肉與子宮肌瘤是女性常見的婦科疾病，輕則造成經血過多、經痛，嚴重時更可能影響生育與生活品質。 過去這些問題 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>子宮息肉與子宮肌瘤是女性常見的婦科疾病，輕則造成經血過多、經痛，嚴重時更可能影響生育與生活品質。</strong></p>
-</blockquote>
-
-
-
-<p>過去這些問題大多透過子宮鏡電燒方式治療，雖然有效，但仍可能帶來熱傷害、交叉感染與術後恢復不適等疑慮。近年婦科微創手術持續演進，醫界的關注點已從「單純治療病灶」提升到「兼顧安全與病患需求」，逐步邁向「更安全、更精準、更微創」的新趨勢，其中，新式的「赫拉冷刀」技術，也逐漸受到醫界與患者的關注。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=800%2C450&#038;ssl=1" alt="" class="wp-image-262975" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021996_0.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>「赫拉冷刀」治療息肉肌瘤！拋棄式設計防交叉感染</strong></h2>
-
-
-
-<p>傑生婦科內視鏡微無創中心院長曾宇泰指出，傳統在治療子宮息肉或子宮肌瘤等子宮鏡手術時，器械多為反覆消毒再使用，但隨著病人生活水平與醫療品質意識的提升，醫師逐漸在意的是兼顧療效與手術安全，希望減少不必要的傷害，同時讓病人獲得更高品質的照護，而赫拉冷刀採取手術全程「一人一套」的拋棄式設計，在治療子宮息肉或肌瘤時，有助於避免交叉感染，也能讓病人感受到安全與安心，展現出婦科術式的新改革。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>「零熱傷害」溫和切除息肉肌瘤 子宮內膜不再受苦</strong></h2>
-
-
-
-<p>在治療子宮內膜息肉與肌瘤時，傳統電燒切割可能帶來高溫熱傷害。曾院長指出，赫拉冷刀以物理性剪鉗取代高熱能量切除息肉及肌瘤，切口整齊乾淨，能減少子宮腔與內膜的負擔，對後續癒合與沾黏控制也更有利。而赫拉冷刀管徑只有 4.8mm，不到半公分的極細導管，在許多情境下不需要擴張子宮，也能完成操作，因此病人手術時更舒適，對麻醉的依賴也相對較低。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>升級搭配鈥雷射與負壓導管 子宮鏡手術精準又輕鬆</strong> </h2>
-
-
-
-<p>曾院長分享，臨床觀察顯示，使用非熱能切割方式的婦科手術，子宮腔受到的負擔較小，患者疼痛感通常更輕，且術後恢復狀況穩定。赫拉冷刀除了具備剪刀與抓鉗設計外，搭配鈥雷射輔助，能更俐落且完整地切除大部分子宮息肉、子宮肌瘤等病灶。同時，若結合負壓導管，手術過程中可同步吸走血水與殘留組織，維持清晰視野，讓醫師操作更精準，進一步提升手術整體效率與安全性。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="640" height="480" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__161021994_0.jpg?resize=640%2C480&#038;ssl=1" alt="" class="wp-image-262986" data-recalc-dims="1"/><figcaption class="wp-element-caption">粘膜下肌瘤示意圖</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>婦科微創手術新標配！廣泛族群都適用</strong></h2>
-
-
-
-<p>曾院長指出，新式的赫拉冷刀適合處理子宮內膜息肉與小型肌瘤，能輔助患者恢復，對需要兼顧工作或生活的族群會是較便利的選擇。赫拉冷刀不只是治療子宮息肉及子宮肌瘤的新器械，而是象徵婦科手術進入新時代的代表性工具，婦科手術正朝向微創、安全、有效率的方向發展。同時，曾宇泰院長也強調，手術方式沒有絕對的標準答案，仍須依個別病況、病灶大小與病人需求來選擇，患者應與醫師充分討論，才能找到最適合的方案。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/07/%e7%b2%be%e6%ba%96%e6%b8%85%e9%99%a4%e5%ad%90%e5%ae%ae%e6%81%af%e8%82%89%e8%88%87%e8%82%8c%e7%98%a4-%e6%96%b0%e5%bc%8f%e8%b5%ab%e6%8b%89%e5%86%b7%e5%88%80%e6%89%8b%e8%a1%93%e6%9b%b4%e5%ae%89%e5%85%a8/">精準清除子宮息肉與肌瘤 新式赫拉冷刀手術更安全</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
@@ -805,64 +902,6 @@
 
 <figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-263328" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/004.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">《穗稻飽．池上花草集》作為農村教育、產業共創與生態價值的實踐平台，展現池上創新與包容的能量。/圖片來源：臺東縣農創協會</figcaption></figure>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e6%b1%a0%e4%b8%8a%e6%9c%80%e5%a5%bd%e3%80%8c%e7%a9%97%e3%80%8d%e5%b8%82%e9%9b%86%e7%99%bb%e5%a0%b4%ef%bc%81%e3%80%8a%e7%a9%97%e7%a8%bb%e9%a3%bd%ef%bc%8e%e6%b1%a0%e4%b8%8a%e8%8a%b1%e8%8d%89%e9%9b%86/">池上最好「穗」市集登場！《穗稻飽．池上花草集》打造五感食農新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</title>
-		<link>https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/</link>
-		
-		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 06:00:33 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[軍事]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=263430</guid>
-
-					<description><![CDATA[<p>▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）  &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/">「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263432" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/605213-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>記者 莊全成／高雄報導</p>
-
-
-
-<p>陸軍8軍團田單營區「勤誠樓」昨（3）日落成啟用，以「住辦合一」設計打造現代化營舍，設施完善、寢室寬敞舒適，大幅改善官兵生活品質。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263433" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603629-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲曾任單位主官受邀「回娘家」參加啟用典禮，見證國軍「興安專案」成果。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>啟用典禮由8軍團中將指揮官廖建興主持，並邀請前軍備局長房茂宏、歷任庫長、地方仕紳共同見證，展現國軍積極推動現代化營舍的成果。典禮後，與會貴賓參觀隊史館、寢室與生活空間，對官兵居住品質的提升表達高度肯定。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263434" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603624-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲曾任南彈庫庫長的欣桃天然氣公司董事長房茂宏（右4）在隊史館中，向廖指揮官說明單位隊史文物。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>廖建興表示，新大樓以「勤為體、竭誠為魂」為精神。「勤」象徵後勤部隊持續不懈的奉獻，「誠」則展現對國家與使命的忠誠，新大樓命名正寓意將精神內化於空間中，讓官兵深刻體會「勤與誠」的意涵。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263435" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603628-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲出席來賓一同參觀勤誠樓官兵公設與生活區，4人一間的寢室及冬暖夏涼的2用床墊。（圖／記者莊全成攝）</figcaption></figure>
-
-
-
-<p>「勤誠樓」工程源自105年納入國軍「興安專案」規劃，總工程款4億7千萬，於112年4月動工，今年6月完成驗收，如期如質交付使用。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-263438" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/603307-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲「興安專案」陸軍8軍團田單營區「勤誠樓」啟用典禮，邀請單位歷任主官、地方仕紳共同見證。（圖／記者莊全成攝）</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/04/%e3%80%8c%e8%88%88%e5%ae%89%e5%b0%88%e6%a1%88%e3%80%8d%e6%94%b9%e5%96%84%e5%ae%98%e5%85%b5%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%80%808%e8%bb%8d%e5%9c%98%e7%94%b0%e5%96%ae%e7%87%9f%e5%8d%80%e6%96%b0/">「興安專案」改善官兵生活環境　8軍團田單營區新大樓啟用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
