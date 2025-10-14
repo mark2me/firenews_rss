@@ -1,120 +1,1001 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>其他 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/其他/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Tue, 14 Oct 2025 04:26:40 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>其他 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/其他/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>投酷加碼合規布局 於台灣設立分支機構推動亞太地區服務能力</title>
+		<link>https://firenews.com.tw/2025/10/14/%e6%8a%95%e9%85%b7%e5%8a%a0%e7%a2%bc%e5%90%88%e8%a6%8f%e5%b8%83%e5%b1%80-%e6%96%bc%e5%8f%b0%e7%81%a3%e8%a8%ad%e7%ab%8b%e5%88%86%e6%94%af%e6%a9%9f%e6%a7%8b%e6%8e%a8%e5%8b%95%e4%ba%9e%e5%a4%aa%e5%9c%b0/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 04:26:35 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266988</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>亞太區領先的 AI 驅動 360 度客戶體驗（CX）平台投酷今日宣布於台灣設立分支機構，以應對區域監管環境的最 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e6%8a%95%e9%85%b7%e5%8a%a0%e7%a2%bc%e5%90%88%e8%a6%8f%e5%b8%83%e5%b1%80-%e6%96%bc%e5%8f%b0%e7%81%a3%e8%a8%ad%e7%ab%8b%e5%88%86%e6%94%af%e6%a9%9f%e6%a7%8b%e6%8e%a8%e5%8b%95%e4%ba%9e%e5%a4%aa%e5%9c%b0/">投酷加碼合規布局 於台灣設立分支機構推動亞太地區服務能力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>亞太區領先的 AI 驅動 360 度客戶體驗（CX）平台投酷今日宣布於台灣設立分支機構，以應對區域監管環境的最新發展，並持續強化其於亞太市場的合規與服務體系。公司表示，這項投資不僅展現其長期深耕亞太的決心，也將進一步完善跨國企業在地化支持，提供符合國際標準的卓越營運體驗。</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5018110_35573268.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-266989" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5018110_35573268.jpg?w=1413&amp;ssl=1 1413w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5018110_35573268.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>這項戰略投資旨在全面適應台灣地區不斷更新的監管要求，同時為客戶提供符合區域及全球標準的卓越運營服務。</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>投酷創始人兼首席執行官Thomas Laboulle表示：「企業客戶將跨多市場的關鍵客戶互動服務托付於我們，而台灣正是區域佈局中至關重要的組成部分。這項投資既確保了我們在恪守合規要求的同時，也能構建深耕各市場所需的本地合作夥伴關係，實現卓越服務交付。正是這種『客戶業務所至，我們服務與合規必達』的承諾，確立了投酷作為真正亞太合作夥伴的定位，彰顯了我們駕馭複雜局面的規模化能力。」</p>
+
+
+
+<p>新設立的台灣分支機構為提升服務交付能力奠定了基礎，使投酷能夠與本地系統集成商和渠道合作夥伴建立戰略合作關係，從而在台灣構建起經過認證的專業服務網絡。這一舉措將助力投酷快速響應市場變化，同時培育具備深厚市場知識的本地合作夥伴生態系統，為客戶提供實施、支持與維護服務。此次擴張緊隨投酷在馬來西亞、越南、香港和韓國進行的戰略投資之後，進一步拓展了投酷在亞太地區的全面佈局。</p>
+
+
+
+<p><strong>關於投酷</strong></p>
+
+
+
+<p>投酷總部位於新加坡，專為企業提供基於雲的創新通信與互動解決方案，助其提升客戶體驗。憑借其在亞太區的深厚專長和不斷拓展的全球佈局，投酷平台集一體化聯絡中心、可編程API和生成式AI功能於一體，涵蓋轉錄、摘要、對話分析及虛擬客服。其解決方案無縫對接客戶數據與業務流程，簡化互動流程，助力企業實現可持續增長。投酷深受各大品牌信賴，助力企業優化成效，深化客戶關係。 更多信息，請訪問：<a href="https://toku.co/" target="_blank" rel="noreferrer noopener">toku.co</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e6%8a%95%e9%85%b7%e5%8a%a0%e7%a2%bc%e5%90%88%e8%a6%8f%e5%b8%83%e5%b1%80-%e6%96%bc%e5%8f%b0%e7%81%a3%e8%a8%ad%e7%ab%8b%e5%88%86%e6%94%af%e6%a9%9f%e6%a7%8b%e6%8e%a8%e5%8b%95%e4%ba%9e%e5%a4%aa%e5%9c%b0/">投酷加碼合規布局 於台灣設立分支機構推動亞太地區服務能力</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>用10年翻轉人生，打造女性財富系統</title>
+		<link>https://firenews.com.tw/2025/10/14/%e7%94%a810%e5%b9%b4%e7%bf%bb%e8%bd%89%e4%ba%ba%e7%94%9f%ef%bc%8c%e6%89%93%e9%80%a0%e5%a5%b3%e6%80%a7%e8%b2%a1%e5%af%8c%e7%b3%bb%e7%b5%b1/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 03:48:38 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266959</guid>
+
+					<description><![CDATA[<p>沛淳，來自一個很普通的家庭。從小家裡就告訴他：「想要什麼，就靠自己去賺。」他很早就懂了——人生不能靠等，更不能 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e7%94%a810%e5%b9%b4%e7%bf%bb%e8%bd%89%e4%ba%ba%e7%94%9f%ef%bc%8c%e6%89%93%e9%80%a0%e5%a5%b3%e6%80%a7%e8%b2%a1%e5%af%8c%e7%b3%bb%e7%b5%b1/">用10年翻轉人生，打造女性財富系統</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>沛淳，來自一個很普通的家庭。從小家裡就告訴他：「想要什麼，就靠自己去賺。」他很早就懂了——人生不能靠等，更不能靠人。</strong></p>
+</blockquote>
+
+
+
+<p>15歲開始，他一邊念書、一邊在餐廳打工。從端盤子、收銀到排班管理，只做過七年的服務業，沒有休息、也沒有選擇，腦海只有一個信念：想要改變，就只能靠自己。</p>
+
+
+
+<p>22歲那年，他選擇踏入金融業當業務。那是一個沒人脈、沒背景的起點。</p>
+
+
+
+<p>沒有親戚朋友可找，沒有貴人牽線，他只能硬著頭皮開始陌生開發。每天面對無數拒絕、質疑，甚至有人當面說：「你這麼年輕，真的懂財務嗎？」但他始終沒有退縮。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="863" height="1162" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-110.png?resize=863%2C1162&#038;ssl=1" alt="" class="wp-image-266960" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-110.png?w=863&amp;ssl=1 863w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-110.png?resize=768%2C1034&amp;ssl=1 768w" sizes="(max-width: 863px) 100vw, 863px" data-recalc-dims="1" /></figure>
+
+
+
+<p>開始一通通打電話、一場場去拜訪，從每一次拒絕中學習，從每一次被否定中累積經驗。</p>
+
+
+
+<p>花了好幾年時間，從零經營出屬於自己的人脈圈與信任網絡，一點一滴地把專業變成價值，讓曾經不相信我的人最後成了他源源不絕的轉介紹來源。</p>
+
+
+
+<p>沛淳努力的不單單只是為了收入，更是因為他想扛起家人。曾看著家人為了生活壓力而咬牙苦撐，那一刻他下定決心：不要只是賺錢，要有能力保護他們。</p>
+
+
+
+<p>十年後，沛淳把當年的「年收入」翻轉成現在的「月收入」，也打造出屬於自己的財務顧問品牌。更驕傲的是，他沒有靠誰——靠自己撐出來，也走出來了。</p>
+
+
+
+<p>沛淳始終相信，財富是可以被設計的，自由是女人該有的底氣。所以他開始陪伴更多女性，從0打造她們自己的財富系統。因為他太清楚，很多女人不是不夠努力，只是沒有人教她們如何掌握資源、創造現金流、保護資產，從而建立真正的選擇權。</p>
+
+
+
+<p>沛淳想做的，就是讓更多女生知道：妳可以不靠誰，也能過得漂亮。因為真正的自由，是當妳有能力說「我想怎麼過，就怎麼過。」</p>
+
+
+
+<p>創業初期，沛淳沒有背景、沒有資源，甚至連最基本的人脈都沒有。靠著陌生開發、堅持信念，一步步從零開始，打造出一套不依賴背景、但能產生結果的財務顧問系統。</p>
+
+
+
+<p>如今，沛淳已成功將過去的「年收入」翻轉成現在的「月收入」，並創立以女性財務自由為核心的品牌事業，幫助更多人從「沒有」走向「有選擇權」。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="632" height="842" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-111.png?resize=632%2C842&#038;ssl=1" alt="" class="wp-image-266961" data-recalc-dims="1"/></figure>
+
+
+
+<p>她最驕傲的，不是收入翻倍，而是我終於有能力照顧家人，讓家人不用再為錢煩惱。讓自己不再為了生存而委屈，而是能夠理直氣壯地活出喜歡的樣子。</p>
+
+
+
+<p>她沒有靠山，所以創造選擇，成為自己的保護網。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e7%94%a810%e5%b9%b4%e7%bf%bb%e8%bd%89%e4%ba%ba%e7%94%9f%ef%bc%8c%e6%89%93%e9%80%a0%e5%a5%b3%e6%80%a7%e8%b2%a1%e5%af%8c%e7%b3%bb%e7%b5%b1/">用10年翻轉人生，打造女性財富系統</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 03:34:21 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Upbeat Technology]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266933</guid>
+
+					<description><![CDATA[<p>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 </p>
+
+
+
+<p>此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-266952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器, 可應用於IoT, 穿戴裝置, 無人機, 機器人。圖/阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。 目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。</p>
+
+
+
+<p>目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於 SiFive</strong></h2>
+
+
+
+<p>SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【最新調查】台灣六成國人維生素D不足！專家警告：「防曬一族」反成健康陷阱</title>
+		<link>https://firenews.com.tw/2025/10/14/%e3%80%90%e6%9c%80%e6%96%b0%e8%aa%bf%e6%9f%a5%e3%80%91%e5%8f%b0%e7%81%a3%e5%85%ad%e6%88%90%e5%9c%8b%e4%ba%ba%e7%b6%ad%e7%94%9f%e7%b4%a0d%e4%b8%8d%e8%b6%b3%ef%bc%81%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 01:38:06 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266878</guid>
+
+					<description><![CDATA[<p>現代人「集體隱形疲勞確診」，營養師教你3招補回「陽光維生素」 你也是每天從早到晚待在辦公室、幾乎沒曬到太陽的上 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%90%e6%9c%80%e6%96%b0%e8%aa%bf%e6%9f%a5%e3%80%91%e5%8f%b0%e7%81%a3%e5%85%ad%e6%88%90%e5%9c%8b%e4%ba%ba%e7%b6%ad%e7%94%9f%e7%b4%a0d%e4%b8%8d%e8%b6%b3%ef%bc%81%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a/">【最新調查】台灣六成國人維生素D不足！專家警告：「防曬一族」反成健康陷阱</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong>現代人「集體隱形疲勞確診」，營養師教你3招補回「陽光維生素」</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-266879" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
+
+
+
+<p>你也是每天從早到晚待在辦公室、幾乎沒曬到太陽的上班族嗎？</p>
+
+
+
+<p>根據國民營養健康狀況變遷調查，<strong>全台超過六成民眾維生素D不足</strong>！營養師警告，這不僅會影響骨骼健康，更可能是你「常感疲倦、專注力下降、情緒起伏大」的真正原因。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>現代人最容易忽略的「陽光危機」</strong></h2>
+
+
+
+<p>悠活原力營養師李依縉指出，維生素D主要來自「日曬合成」，但現代人為了抗老、防曬、美白，一整天幾乎都與陽光絕緣；加上飲食多以外食為主、魚類與蛋奶攝取不足，使得體內維生素D含量普遍偏低。</p>
+
+
+
+<p>她提醒：「即使一年四季陽光充足，<strong>城市生活也讓台灣人成為典型的『缺D族』</strong>。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖1.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-266880" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖1.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>缺乏維生素D的3大警訊</strong></h2>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>骨骼與牙齒脆弱</strong>：維生素D能幫助鈣與磷吸收，是骨骼與牙齒發展關鍵。</li>
+
+
+
+<li><strong>肌肉與體能下降</strong>：維生素D參與肌肉正常生理運作，缺乏容易導致肌力流失、活動力下降。</li>
+
+
+
+<li><strong>情緒與專注力低落</strong>：研究顯示，D不足與情緒波動、專注力不集中等狀態相關。</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading"><strong>日常補足維生素D，其實很簡單</strong></h2>
+
+
+
+<p>營養師建議，只要養成這3個習慣，就能有效補足「陽光維生素」：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>曬太陽10–20分鐘</strong>：建議於每天上午10點以前或下午2點以後，陽光充足但不是最強烈的時段，每週2-3次，在不塗抹防曬的情況下，每次約曬太陽10至20分鐘，使身體能生成足量的維生素D。</li>
+
+
+
+<li><strong>飲食多元攝取</strong>：日常飲食中，可經由富含維生素D的魚類(如鯖魚、秋刀魚、鮭魚)、蛋黃、日曬過的乾香菇等來補充。維生素D屬於脂溶性維生素，飲食中含有油脂可增加吸收率，建議烹調食物宜採添加油脂或與油拌炒的方式。<strong>適度補充保健品</strong>：忙碌上班族可選擇品質檢驗通過的維生素D營養品，作為每日基礎補給。</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖2.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-266881" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖2.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖2.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>專家推薦：「原力維生素D3」</strong></h2>
+
+
+
+<p>針對現代人普遍缺乏維生素D的狀況，，可以透過保健食品來做額外補充。挑選要點1.每錠含有高劑量 <strong>800 IU</strong>，小小一錠即能滿足每日所需。2.挑選高品質原料，如有百年研發歷史的大廠 <strong>dsm-firmenich</strong>，3.通過微生物、重金屬等第三方檢驗的產品</p>
+
+
+
+<p>悠活原力營養師李依縉表示：「額外<strong>補充維生素D不是為了少曬太陽，而是讓身體在沒有陽光的日子裡，也能維持健康運作的能量</strong>。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="960" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖3.jpg?resize=960%2C960&#038;ssl=1" alt="" class="wp-image-266882" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖3.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_內文圖3.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>別讓「陽光」缺席你的生活</strong></h2>
+
+
+
+<p>不論是上班族、學生、孕婦或銀髮族，都可能身處「隱形缺D危機」中。</p>
+
+
+
+<p>補足維生素D，不只是為了骨骼健康，更是支持神經、肌肉與情緒穩定的基礎能量。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%90%e6%9c%80%e6%96%b0%e8%aa%bf%e6%9f%a5%e3%80%91%e5%8f%b0%e7%81%a3%e5%85%ad%e6%88%90%e5%9c%8b%e4%ba%ba%e7%b6%ad%e7%94%9f%e7%b4%a0d%e4%b8%8d%e8%b6%b3%ef%bc%81%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a/">【最新調查】台灣六成國人維生素D不足！專家警告：「防曬一族」反成健康陷阱</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</title>
+		<link>https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 01:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[傑尼斯時尚]]></category>
+		<category><![CDATA[傑尼斯時尚醫美]]></category>
+		<category><![CDATA[傑尼斯時尚醫美整形外科診所]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=262204</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 在抗衡時間與重力的醫美療程中，拉皮手術的需求年齡逐漸年輕化，患者除了追求長效拉提，也越 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90/">多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在抗衡時間與重力的醫美療程中，拉皮手術的需求年齡逐漸年輕化，患者除了追求長效拉提，也越來越重視術後曲線自然流暢、隱痕不明顯，以及恢復期短的舒適體驗。</strong></p>
+</blockquote>
+
+
+
+<p>針對這樣的需求，安多可七爪釘於 7 月上市後，由全台首間引進的傑尼斯時尚醫美整形外科診所率先啟用，並由潘俊豪院長完成首例施作。潘院長表示:「實際操作時，可以感受到安多可七爪釘在固定上的穩定性更高，拉提效果分布更平均，不會集中在單一點，減少了併發症的產生。在縫合與隱痕處理上，搭配內視鏡操作更能兼顧精細度，術後恢復期也較快。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-262210" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲(圖/傑尼斯時尚醫美整形外科診所提供)</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>拉皮需求年輕化 預防式拉提成新趨勢</strong> </h2>
+
+
+
+<p>近年來，臉部拉提的訴求已不僅僅是解決皮膚鬆弛下垂，更多患者希望調整臉部比例及五官細節，如:眉毛角度、眉眼間距、下顎線&#8230;等，使五官更細緻，線條更柔和。因此，臉部拉皮手術的患者不再侷限於 50、60 歲熟齡患者，越來越多年輕族群也開始進行「預防式拉提」，在療程中也更在意效果與恢復期，期待手術能兼顧自然與隱痕，並且能快速回歸工作及日常生活。潘俊豪院長表示:「在規劃手術時，我會根據鬆弛部位、皮膚厚薄度與骨架條件，挑選適合的拉皮方式，並非所有人都適合同一種拉皮手術，而內視鏡七爪釘拉皮手術，讓我的客人有更好的選擇。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-262211" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲(圖/傑尼斯時尚醫美整形外科診所提供)</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>七爪釘強化固定力與隱痕精細度 專業醫師安全把關更是成功關鍵</strong> </h2>
+
+
+
+<p>安多可七爪釘是目前市面上爪數最多的爪釘，設計上兼顧固定力與操作彈性，針對不同皮膚厚度提供多尺寸選擇，協助醫師更精準地固定、更穩定地拉提。而拉皮手術的成功，不僅止於醫材升級，更取決於醫師對臉部結構的專業評估與操作經驗。潘俊豪院長提醒民眾在選擇療程時，除了關注產品特性與原廠認證外，更應慎選診所和操作醫師，建議選擇，通過醫策會診所美容醫學品質認證的診所，並由經驗豐富的整形外科專科醫師進行手術，才能兼顧美麗與安全。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-262212" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲傑尼斯時尚醫美整形外科診所潘俊豪院長擔任「Endochor 安多可」講師，並為台灣使用七爪釘於拉皮手術的首例施作醫師。(圖/美佳美帝國際企業有限公司提供)</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90/">多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</title>
+		<link>https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 23:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[充電]]></category>
+		<category><![CDATA[台達電]]></category>
+		<category><![CDATA[國霖機電]]></category>
+		<category><![CDATA[能源管理]]></category>
+		<category><![CDATA[雲樁科技]]></category>
+		<category><![CDATA[高明能源]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266691</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 高明能源股份有限公司（高林實業〔2906〕持股子公司，下稱「高明能源」）今宣布，集團於 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/">高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>高明能源股份有限公司（高林實業〔2906〕持股子公司，下稱「高明能源」）今宣布，集團於2025年第三季在儲能、智慧充電與能源管理領域穩健推進，全面落實「儲能 × 充電 × 能源管理」三軸整合策略，並積極串聯台達電、國霖機電集團、泰國ENSYS集團等業界夥伴，展現在台灣能源轉型進程中的關鍵角色與價值。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>錶前儲能實績強勁  導入台達電系統展現系統整合優勢</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="846" height="676" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?resize=846%2C676&#038;ssl=1" alt="" class="wp-image-266720" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?w=846&amp;ssl=1 846w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?resize=768%2C614&amp;ssl=1 768w" sizes="(max-width: 846px) 100vw, 846px" data-recalc-dims="1" /><figcaption class="wp-element-caption">愷蘭電力宜蘭利澤工業區的50MW E-dReg增強型動態調頻儲能案場。圖 / 高明能源</figcaption></figure>
+
+
+
+<p>高明能源持股之愷蘭電力，位於宜蘭利澤工業區的 50MW E-dReg 增強型動態調頻儲能案場，在高明能源代操營運團隊執行下，順利通過台電通訊與服務能力測試，已於本季正式掛錶送電，並進入電力交易平台提供電網調節服務。高明能源副執行長林哲衛指出，該案場地位於供電不足之東北電網，係未來台電重要調度資源，且因採用電力整合龍頭廠台達電（DELTA）儲能系統及能源管理平台（EMS），優異整合電源、儲能、機櫃、PCS控制系統與 AI 智慧運算，將大幅提升放電效率與調度電力精度。</p>
+
+
+
+<p>台達電長期深耕電力電子與系統整合領域，為全球儲能系統技術領導者。透過此次合作，高明能源進一步展現跨領域 EPC 整合與維運管理能力，其中 EPC 總包由國內機電大廠士林電機承攬，升壓站則由雲豹能源建置，全面實現系統級整合與穩定併網。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>表後儲能全面切入　導入AI能源調度系統AEGIS  創造尖離峰套利新契機</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="510" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=1220%2C510&#038;ssl=1" alt="" class="wp-image-266722" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=1536%2C642&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=2048%2C856&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">德叡科技於Thailand Buakhao Herb多元能源(光電+儲能)示範案場，以AEGIS能源管理系統進行多目標能源智慧調控管理。圖 / 高明能源</figcaption></figure>
+
+
+
+<p>高明能源積極布局表後儲能市場，攜手旗下德叡科技正式成為台達電表後儲能系統之經銷合作夥伴。此合作結合台達電先進ALL-IN-ONE儲能系統、高明能源全台超過 100MW 的儲能整合實績，以及德叡科技具 AI Autopilot 智慧調度技術的 AEGIS能源管理系統，三方共同推動企業用戶導入尖離峰調度、時間電價套利與用電效率優化等應用，提供完整的一站式軟硬體整合解決方案。</p>
+
+
+
+<p>此策略呼應能源署推動的尖離峰價差擴大政策。依據能源局規劃，「夏月」尖峰電價最高可達每度 10.2 元、離峰僅 2.61 元，價差超過 7.5 元，遠高於儲能投資門檻，企業導入儲能系統可望兼顧節能與收益。透過AI驅動的能源管理，高明能源與德叡科技協助企業建構具「預測性調度、自主電力轉移、用電風險分散」能力的智慧用能系統，助力企業邁向低碳轉型。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>拓展海外布局　德叡科技攜手泰國ENSYS集團拓展工商儲能市場</strong></h2>
+
+
+
+<p>在海外市場方面，德叡科技持續拓展國際布局，繼在泰國完成首座光電與儲能複合能源示範場域後，近日再與泰國指標性系統整合商ENSYS集團達成合作意向。ENSYS業務橫跨高壓輸配電、太陽能電廠建置與再生能源維運等領域，雙方將共同拓展泰國工商儲能應用市場，運用德叡科技AEGIS能源管理系統，結合ENSYS 在地系統建置能力，協助客戶提升儲能資產運轉效率與收益潛力，此合作不僅展現德叡科技的系統整合能力，更標誌了高明集團能源管理系統具備輸出海外能力。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>雲樁科技攜手國霖機電集團，打造建築能源轉型新典範</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1179" height="861" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?resize=1179%2C861&#038;ssl=1" alt="" class="wp-image-266721" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?w=1179&amp;ssl=1 1179w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?resize=768%2C561&amp;ssl=1 768w" sizes="(max-width: 1179px) 100vw, 1179px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雲樁科技執行長葉勁廷(左)、國霖機電執行長徐春福(右)宣布策略合作，共同打造全台最大規模的社區充電升級計畫。圖 / 高明能源</figcaption></figure>
+
+
+
+<p>在智能充電領域，高明能源旗下雲樁科技與全台機電管理龍頭國霖機電集團攜手合作。國霖機電自1988年營運以來，簽約管理全台逾8,000 棟社區大樓，擁有逾千人專業工程師團隊，為台灣最大規模的機電服務商之一。</p>
+
+
+
+<p>雲樁科技執行長葉勁廷表示，此合作將結合雲樁科技的即時用電監測、充電排程與AI負載平衡技術，以及國霖機電在全台社區與商辦物業的深厚管理基礎，實現「建築即能源節點」之智慧化能源應用，並加速台灣建商及社區能源轉型與建築節能落地。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>能源展亮相，打造智慧能源生態圈</strong></h2>
+
+
+
+<p>展望未來，高明能源將持續深化集團內儲能開發、智慧充電與能源管理三大核心事業的協同效益，並將於2025年10月29日登場之台灣國際淨零永續展（NET-ZERO TAIWAN 2025）中，攜手雲樁科技與德叡科技於南港展覽館1館1樓聯合亮相，展示AI能源調控、智慧充電與再生能源整合應用的最新成果。 </p>
+
+
+
+<p>高明能源表示，未來將持續與台達電、國霖機電集團及泰國ENSYS集團等合作夥伴深度協作，結合跨國技術與市場資源，透過創新技術與商業模式落地，打造可持續運作、具高度彈性與回報潛力的智慧能源生態圈。高明能源將持續以「儲能 × 充電 × 能源管理」整合戰略為核心，推動能源轉型、強化電網韌性，為台灣與區域能源投資市場注入嶄新動能。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/">高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>24小時聲量飆破萬筆 長榮航空陷社群信任崩塌</title>
+		<link>https://firenews.com.tw/2025/10/14/24%e5%b0%8f%e6%99%82%e8%81%b2%e9%87%8f%e9%a3%86%e7%a0%b4%e8%90%ac%e7%ad%86-%e9%95%b7%e6%a6%ae%e8%88%aa%e7%a9%ba%e9%99%b7%e7%a4%be%e7%be%a4%e4%bf%a1%e4%bb%bb%e5%b4%a9%e5%a1%8c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 17:23:03 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[QuickseeK]]></category>
+		<category><![CDATA[長榮航空]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266852</guid>
+
+					<description><![CDATA[<p>近日，長榮航空一名空服員在執勤歐洲航班期間突感身體不適，一則Threads網友的爆料，短短二十四小時內，從社群 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/24%e5%b0%8f%e6%99%82%e8%81%b2%e9%87%8f%e9%a3%86%e7%a0%b4%e8%90%ac%e7%ad%86-%e9%95%b7%e6%a6%ae%e8%88%aa%e7%a9%ba%e9%99%b7%e7%a4%be%e7%be%a4%e4%bf%a1%e4%bb%bb%e5%b4%a9%e5%a1%8c/">24小時聲量飆破萬筆 長榮航空陷社群信任崩塌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>近日，長榮航空一名空服員在執勤歐洲航班期間突感身體不適，一則Threads網友的爆料，短短二十四小時內，從社群平台延燒至主流媒體，掀起長榮航空的品牌聲譽危機。根據輿情分析機構 QuickseeK 觀察，相關討論聲量在一天內突破近萬筆，顯示社會對勞動制度與企業文化的高度敏感，加上隨著其他空服員爆料、乘客證詞與主管機關相繼表態，長榮航空不僅陷入勞權爭議核心，其品牌形象與公信力也在輿論壓力下急速下滑，進而牽動整體航空市場的消費者信任版圖。</p>
+
+
+
+<p><strong>Threads爆料掀輿論海嘯，24小時快速形成長榮航空品牌危機</strong><strong></strong></p>
+
+
+
+<p>根據QuickseeK針對網路輿情數據觀察，長榮航空近期的品牌危機在短短二十四小時內急速擴散。起初僅是一則Threads網友的爆料貼文，卻迅速點燃輿論焦點，事件延燒至各大論壇成為熱門討論，不僅有多位空服員接連分享長榮航空內部請假制度的不友善實況，更揭露在畸形制度下長期累積的職場壓力與健康風險。同班乘客隨後也現身描述目擊情況，使得社會輿論對長榮航空忽視勞動權益的質疑持續升高，議題於隔日早上也躍上主流新聞版面，相關聲量在一天內即達到近萬筆，顯示輿論關注程度極高。</p>
+
+
+
+<p>雖然長榮航空隨即表示已啟動內部調查，且當日下午涉事座艙長發布「七點聲明」，強調「說我害空服員往生太沉重」，不過此舉不但未能平息外界怒火，反而因與多數組員及乘客說法相左引發更大爭議，當然也有網友認為與其針對座艙長，更應該被檢討的是公司制度。同時，民航局也指出公司報告未提及組員病況，勞動部亦公開點名長榮「多次違法」，進一步放大社會對其勞權管理的質疑。隨著事件不斷延燒，網友更是批評長榮「企圖媒體洗白、避重就輕」，讓品牌形象急遽下滑，近一日長榮航空網路好感度僅剩 0.36。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="1200" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-105.png?resize=1200%2C1200&#038;ssl=1" alt="" class="wp-image-266853" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-105.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-105.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-105.png?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖：長榮航空近24小時聲量趨勢（圖片來源：QuickseeK網路輿情資料庫）</figcaption></figure>
+
+
+
+<p><strong>華航、星宇亦成輿論焦點，消費者偏好開始出現動搖</strong></p>
+
+
+
+<p>此次長榮航空空服員事件延燒後，同為國內航空的中華航空與星宇航空也難免被網友一併討論。根據長榮航空近二十四小時與中華航空與星宇航空交叉聲量顯示，相關熱議關鍵字除聚焦於三家航空公司間的勞權制度對比之外，亦延伸至乘客服務體驗與企業文化差異。當中許多網友將中華航空視為替代選項，直接留言表示：「里程用完準備去華航」，顯示事件對於消費者的品牌偏好已產生連鎖效應。不過，也有網友提醒，空服員勞權問題並非是長榮航空獨有，網友更是直接指出：「猝死華航也有，只是沒爆」。</p>
+
+
+
+<p>相較之下，作為台灣本土三大航空的新興品牌星宇航空，雖然在交叉聲量中的討論量相對較低，但是其輿情風向多為正面評論。網友更查證指出：「星宇航空是國內三大航空中今年唯一未被勞基法開罰的公司」，與長榮、華航形成鮮明對比。不少留言也讚譽「星宇員工整體最有禮貌、不會臭臉，應該是真的比較善待員工」，甚至有網友半開玩笑建議：「乾脆讓星宇收購長榮吧」。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="1200" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-106.png?resize=1200%2C1200&#038;ssl=1" alt="" class="wp-image-266854" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-106.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-106.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-106.png?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖：品牌交叉聲量熱詞關鍵字（圖片來源：QuickseeK網路輿情資料庫）</figcaption></figure>
+
+
+
+<p>長榮航空空服員事件從社群爆料延燒至全台輿論焦點，不僅反映企業危機處理機制的薄弱，也再次凸顯航空業品牌形象與內部制度之間的高度連動性，更反映出社會對企業治理與員工關懷的強烈期盼，當企業形象與員工權益緊密相扣時，一次危機往往足以撼動消費者信任與市場格局，而長榮航空後續的企業應對動作與公關處理，也將成為能否重建信任的關鍵。</p>
+
+
+
+<p>*輿情分析期間：2025/10/12 19:00 &#8211; 2025/10/13 18:59</p>
+
+
+
+<p>*資料涵蓋：網路輿情全頻道，包含新聞、社群、論壇、threads、Instagram等平台。</p>
+
+
+
+<p>*網路聲量：利用輿情系統計算提及文章數量，聲量越高代表網友討論度越高。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/24%e5%b0%8f%e6%99%82%e8%81%b2%e9%87%8f%e9%a3%86%e7%a0%b4%e8%90%ac%e7%ad%86-%e9%95%b7%e6%a6%ae%e8%88%aa%e7%a9%ba%e9%99%b7%e7%a4%be%e7%be%a4%e4%bf%a1%e4%bb%bb%e5%b4%a9%e5%a1%8c/">24小時聲量飆破萬筆 長榮航空陷社群信任崩塌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>睡眠不該只有一種角度  迪奧斯從「智慧電動床」開始睡眠健康革命</title>
+		<link>https://firenews.com.tw/2025/10/13/%e7%9d%a1%e7%9c%a0%e4%b8%8d%e8%a9%b2%e5%8f%aa%e6%9c%89%e4%b8%80%e7%a8%ae%e8%a7%92%e5%ba%a6-%e8%bf%aa%e5%a5%a7%e6%96%af%e5%be%9e%e3%80%8c%e6%99%ba%e6%85%a7%e9%9b%bb%e5%8b%95%e5%ba%8a%e3%80%8d%e9%96%8b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 08:47:30 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[智慧電動床]]></category>
+		<category><![CDATA[迪奧斯]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266674</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 現代人講究「睡得久」，卻常忽略「睡得好」。根據睡眠專家建議，睡姿不良容易影響放鬆與休息 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e7%9d%a1%e7%9c%a0%e4%b8%8d%e8%a9%b2%e5%8f%aa%e6%9c%89%e4%b8%80%e7%a8%ae%e8%a7%92%e5%ba%a6-%e8%bf%aa%e5%a5%a7%e6%96%af%e5%be%9e%e3%80%8c%e6%99%ba%e6%85%a7%e9%9b%bb%e5%8b%95%e5%ba%8a%e3%80%8d%e9%96%8b/">睡眠不該只有一種角度  迪奧斯從「智慧電動床」開始睡眠健康革命</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>現代人講究「睡得久」，卻常忽略「睡得好」。根據睡眠專家建議，睡姿不良容易影響放鬆與休息品質。例如頭部過低可能造成呼吸不順，上半身平躺過久也會讓血液循環不順、腿部容易疲累。這些看似細微的姿勢問題，其實都會悄悄影響身體恢復。 </p>
+
+
+
+<p>專家指出，比起依賴助眠用品，更重要的是找到適合身體的睡姿與支撐角度。如今，電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-266675" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1.床架與床墊的平衡，是電動床健康價值與舒適度的核心-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">床架與床墊的平衡，是電動床健康價值與舒適度的核心。圖/迪奧斯提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>角度，讓身體更懂休息</strong></h2>
+
+
+
+<p>研究指出，睡眠姿勢與身體放鬆程度息息相關：<br>•　<strong>頭部微抬約15度</strong>，能讓呼吸更順暢。<br>•　<strong>上半身輕抬</strong>，可減少飯後平躺帶來的不適。<br>•　<strong>雙腳略抬</strong>，有助腿部放鬆、減輕久站後的壓力。<br>•　<strong>腰背支撐</strong>，能分散重量、減少壓迫感。<br>•　<strong>零重力姿勢</strong>，讓全身達到放鬆平衡狀態。 </p>
+
+
+
+<p>因此，可調式電動床逐漸成為現代人日常健康管理的重要選擇之一。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2.電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-266676" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2.電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2.電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2.電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2.電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">電動床早已從醫療輔具進化為「智慧家電」，讓每個人都能依需求調整角度，找到更舒適的休息方式。圖/迪奧斯提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>睡姿革命：R600 北極星AI智能電動床</strong></h2>
+
+
+
+<p>台灣品牌 <strong>迪奧斯 Dios</strong> 推出的 <strong>R600 北極星 AI 智能電動床</strong>，搭載德國 OKIN 靜音馬達，具 17 種角度模式，可透過遙控器或手機 App 操控。</p>
+
+
+
+<p>最受歡迎的「<strong>零重力模式（Zero Gravity）</strong>」靈感來自太空員姿勢，能讓身體重量更平均分散，達到全身放鬆的感覺。<br>此外，**獨家「撐腰設計（Lumbar Lift）」**可支撐腰部曲線，幫助長時間坐姿後的腰背放鬆。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>天然乳膠床墊：完美支撐的關鍵</strong> </h2>
+
+
+
+<p>床架與床墊的平衡，是電動床健康價值與舒適度的核心。<br>多數品牌使用泡棉或記憶棉材質，容易因長期使用而變形塌陷。<br>迪奧斯 是全台唯一搭配 100% 天然乳膠床墊 的電動床品牌，密度高達 D95／D110（一般乳膠床墊約 D75），能隨角度變化貼合人體曲線，維持穩定支撐力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3.床墊達人JASON指出，睡眠姿勢與身體放鬆程度息息相關.png?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-266677" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3.床墊達人JASON指出，睡眠姿勢與身體放鬆程度息息相關.png?w=1919&amp;ssl=1 1919w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3.床墊達人JASON指出，睡眠姿勢與身體放鬆程度息息相關.png?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3.床墊達人JASON指出，睡眠姿勢與身體放鬆程度息息相關.png?resize=1536%2C859&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">床墊達人JASON指出，睡眠姿勢與身體放鬆程度息息相關。圖/迪奧斯提供</figcaption></figure>
+
+
+
+<p>天然乳膠具有高彈性、透氣、抗菌特性，適合重視舒適與衛生的族群。<br>電動床搭配天然乳膠床墊，讓每個角度都能自然服貼、支撐剛好。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>品質與信賴：台灣製造的堅持</strong></h2>
+
+
+
+<p><strong>迪奧斯 Dios</strong> 深耕台灣 30 年，堅持台灣製造，結合人體工學、美學設計與智慧科技，打造最符合亞洲人體型的睡眠系統。<br>品牌針對不同需求，從入門到旗艦款皆有合適選擇，並提供 6 期 0 利率方案，讓好睡更無負擔。</p>
+
+
+
+<p>目前正值周年慶，全台 15 間門市皆提供「無壓力試躺體驗」，由專人協助找出最適合的睡姿與角度。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>讓科技回歸身體的自然節奏</strong></h2>
+
+
+
+<p>良好的睡眠不僅是閉上眼，更是讓身體找到屬於自己的節奏。<br><strong>R600 </strong><strong>智能電動床 × 天然乳膠床墊</strong>，以科技與人體工學打造全新的舒眠體驗。</p>
+
+
+
+<p>睡眠不該只有一種角度，讓每一夜都成為真正的充電時光。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>迪奧斯 Dios 智慧電動床｜台灣製造・專業支撐・健康推薦</strong></h2>
+
+
+
+<p>門市資訊：<a href="https://lihi3.me/0HOEd">https://lihi3.me/0HOEd</a> </p>
+
+
+
+<p>迪奧斯官網：<a href="https://www.mdios.net/">https://www.mdios.net/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e7%9d%a1%e7%9c%a0%e4%b8%8d%e8%a9%b2%e5%8f%aa%e6%9c%89%e4%b8%80%e7%a8%ae%e8%a7%92%e5%ba%a6-%e8%bf%aa%e5%a5%a7%e6%96%af%e5%be%9e%e3%80%8c%e6%99%ba%e6%85%a7%e9%9b%bb%e5%8b%95%e5%ba%8a%e3%80%8d%e9%96%8b/">睡眠不該只有一種角度  迪奧斯從「智慧電動床」開始睡眠健康革命</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>職人茶 X美人湯X匠人魂  九州養生之旅：茶香裊裊  山海盛宴</title>
+		<link>https://firenews.com.tw/2025/10/13/%e8%81%b7%e4%ba%ba%e8%8c%b6-x%e7%be%8e%e4%ba%ba%e6%b9%afx%e5%8c%a0%e4%ba%ba%e9%ad%82-%e4%b9%9d%e5%b7%9e%e9%a4%8a%e7%94%9f%e4%b9%8b%e6%97%85%ef%bc%9a%e8%8c%b6%e9%a6%99%e8%a3%8a%e8%a3%8a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 12 Oct 2025 23:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[すすり]]></category>
+		<category><![CDATA[九州養生]]></category>
+		<category><![CDATA[旅奇傳媒]]></category>
+		<category><![CDATA[日本福岡縣]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[茶香裊裊]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=265098</guid>
+
+					<description><![CDATA[<p>【旅奇傳媒/編輯部報導】旅行不只是景點之間的移動，而是療癒身心的藝術，更是講究質感的生活縮影，太平洋旅行社《嬉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e8%81%b7%e4%ba%ba%e8%8c%b6-x%e7%be%8e%e4%ba%ba%e6%b9%afx%e5%8c%a0%e4%ba%ba%e9%ad%82-%e4%b9%9d%e5%b7%9e%e9%a4%8a%e7%94%9f%e4%b9%8b%e6%97%85%ef%bc%9a%e8%8c%b6%e9%a6%99%e8%a3%8a%e8%a3%8a/">職人茶 X美人湯X匠人魂  九州養生之旅：茶香裊裊  山海盛宴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>【旅奇傳媒/編輯部報導】旅行不只是景點之間的移動，而是療癒身心的藝術，更是講究質感的生活縮影，太平洋旅行社《<a href="https://url.pac-group.net/86bpvh">嬉野八十八茶琉璃．八女玉露．伊萬里燒五日</a>》正是為懂品味的人打造的專屬假期！以茶香為基底，調和九州山海風光盛宴，從日本最高級綠茶「八女玉露」、千年美肌名湯「嬉野溫泉」，到百年工藝聖地「大川內山」，串起茶香美學X溫泉養生X 陶瓷工藝的獨特旅程，兼具文化與藝術的內涵，串起佐賀、福岡最迷人的療癒軌跡。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="628" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/封面-1.jpg?resize=1200%2C628&#038;ssl=1" alt="" class="wp-image-265100" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/封面-1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/封面-1.jpg?resize=768%2C402&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲太平洋旅行社以茗茶、溫泉、藝文規劃感動人心的深度旅程。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<p>入住新穎舒適的溫泉旅宿，沉浸於日法融合的茶饗料理，當夜幕降臨，更前往長崎，俯瞰被譽為「新世界三大夜景」之一的燈火輝煌，為這場五感行旅畫下餘韻悠長的句點。限量專屬，太平洋旅行社只為知音與VIP規劃的九州佐賀、福岡心靈之旅，就近在日本，卻宛如南法鄉間生活般緩慢且美好。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>養生茶旅　四大不凡體驗</strong></h2>
+
+
+
+<h2 class="wp-block-heading"><strong>【1-茶文化風雅巡禮】</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶啜飲體驗─susuricha／yamekanko.com_machiya.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-265101" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶啜飲體驗─susuricha／yamekanko.com_machiya.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶啜飲體驗─susuricha／yamekanko.com_machiya.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶啜飲體驗─susuricha／yamekanko.com_machiya.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲八女茶啜飲體驗。 圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>細品《八女茶》&nbsp; 福岡山野的清新靈秀</strong></h2>
+
+
+
+<p>日本福岡縣八女市的「八女茶」，是日本綠茶中的翹楚，以玉露最為著稱。當地茶農傳承600年茶藝精髓，採用覆蔭培養、手摘嫩芽工法，孕育出香氣高雅、口感濃醇、鮮甜回甘的極品綠茶，為日本茶道的珍品。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>八女傳統本玉露・啜飲之道</strong></h2>
+
+
+
+<p>以「すすり（啜飲）」為名的茶體驗，體現對八女玉露的極致崇敬。色澤墨青的茶葉，經軟水潤養，緩釋展葉、滴滴萃取，如品甘露，不僅為飲茶，更是沉靜心境、體會四季韻致的生活藝術。與醋和醬油一起食用，別有一番滋味！</p>
+
+
+
+<h2 class="wp-block-heading"><strong>慢飲《嬉野茶》&nbsp; 佐賀平原的溫潤綿長</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶香和洋饗宴ティーセレモニー②.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-265102" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶香和洋饗宴ティーセレモニー②.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶香和洋饗宴ティーセレモニー②.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/八女茶香和洋饗宴ティーセレモニー②.jpg?resize=1536%2C1025&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲侍茶師引領體驗嬉野茶文化。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<p>佐賀縣嬉野市自15世紀起即為日本重要茶鄉，嬉野茶由中國移民陶藝家所引進，歷史悠久，以其獨特的「玉綠茶（勾玉形狀）」而聞名，具獨特香氣、甘甜鮮味與清爽口感，是傳統與匠心的象徵。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>十德茶室・沉浸式品茗之道</strong></h2>
+
+
+
+<p>在「嬉野八十八」茶室，旅人可在侍茶師引領下，體驗嬉野茶文化。從釜炒與蒸製法的工藝比較、泡茶技法、品茗禮儀到甜點搭配，在盈盈茶香與裊裊湯氣間，是一場五感與心靈交融的靜謐修行，也是一場與歷史對話的旅程。</p>
+
+
+
+<p><strong>【2-美食饗宴】</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="987" height="696" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-76.png?resize=987%2C696&#038;ssl=1" alt="" class="wp-image-265104" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-76.png?w=987&amp;ssl=1 987w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-76.png?resize=768%2C542&amp;ssl=1 768w" sizes="(max-width: 987px) 100vw, 987px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲以八女茶入菜的《LE UN》美饌。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>八女茶香</strong>X<strong>法餐風華：LE UN餐桌藝術饗宴</strong></h2>
+
+
+
+<p>在福岡NIPPONIA HOTEL的《LE UN》餐廳，於明治洋館建築中品味一席兼具文化與美學的和洋饗宴。主廚石井之悠以法式技法揉合筑後在地旬材，將八女茶入菜，細膩呈現甘香回韻。從開胃小品到甜點，層次分明、茶韻隱現。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="792" height="787" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-77.png?resize=792%2C787&#038;ssl=1" alt="" class="wp-image-265105" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-77.png?w=792&amp;ssl=1 792w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-77.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-77.png?resize=768%2C763&amp;ssl=1 768w" sizes="(max-width: 792px) 100vw, 792px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲呈現料理人與產地情感連結的嬉野八十八美食。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>嬉野八十八：在地旬食的料理哲學</strong></h2>
+
+
+
+<p>嬉野八十八以「八十八公里內的山海旬材」為核心，佐賀牛、竹崎螃蟹等皆由主廚親訪嚴選，體現料理人與產地的深度連結。溫泉湯豆腐滑嫩純粹，為朝食添一份暖意，每一道料理皆講述著嬉野土地與料理者心意的故事。</p>
+
+
+
+<p><strong>【3-溫泉養生】</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="927" height="510" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-78.png?resize=927%2C510&#038;ssl=1" alt="" class="wp-image-265106" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-78.png?w=927&amp;ssl=1 927w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-78.png?resize=768%2C423&amp;ssl=1 768w" sizes="(max-width: 927px) 100vw, 927px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲2023年年底開幕的「嬉野八十八」，以茶、溫泉調和身心的溫泉旅館。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">嬉野八十八：茶湯交融的靜謐饗宿</h2>
+
+
+
+<p>嬉野八十八於2023年落成，以百年茶鄉與美肌名湯為主題，為身心帶來深度療癒。全館36間客房均配有「100%天然溫泉水」，大浴場設有茶香琉璃桑拿和茶香爐乾式桑拿，揉合佐賀美饌與在地工藝，讓旅人透過五感體驗茶與湯的文化交織，回歸寧靜本心。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1094" height="728" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-79.png?resize=1094%2C728&#038;ssl=1" alt="" class="wp-image-265107" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-79.png?w=1094&amp;ssl=1 1094w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-79.png?resize=768%2C511&amp;ssl=1 768w" sizes="(max-width: 1094px) 100vw, 1094px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲雲仙地獄谷。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">雲仙地獄谷：火山幻境中的湯療之所</h2>
+
+
+
+<p>雲仙地獄谷坐落於古湯與新湯之間，煙霧繚繞、硫磺瀰漫，景色壯麗如仙界幻境。旅宿設有半露天風呂，面對噴煙岩景，白日觀湯雲翻湧，夜晚仰望銀河低垂，泉水潤膚、氣韻沉靜，是一場與大地能量相融的養生之旅。</p>
+
+
+
+<p><strong>【4-禮讚工藝‧精選景點】</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-265108" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/佐賀─大川內山秘窯之鄉shutterstock_1752860327-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲在清脆悅耳的風鈴聲中體驗有田燒之美。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">大川內山秘窯之鄉</h2>
+
+
+
+<p>1675年的佐賀藩主鍋島家，將製窯場移至大川內山，發展出江戶時代以來知名的有田燒（伊萬里燒），迄今仍有三十餘座窯元，保留傳統陶瓷燒製技術；石板街道蜿蜒、陶工橋橫跨溪流，陶瓷風鈴清脆悅耳，讓旅人感受跨越時空的工藝之美。</p>
+
+
+
+<h2 class="wp-block-heading">長崎出島</h2>
+
+
+
+<p>昔日鎖國時代日本唯一對歐美通商的窗口，西洋文化交匯之地，如今宛如一座開放式的歷史博物館，訴說江戶與異國之間的時空交會。</p>
+
+
+
+<h2 class="wp-block-heading">哥拉巴公園</h2>
+
+
+
+<p>日本首座洋式建築——蝴蝶夫人故居公園，又稱哥拉巴公園，知名歌劇《蝴蝶夫人》即以哥拉巴氏和其妻蝴蝶夫人的愛情為背景，而風靡全世界。</p>
+
+
+
+<h2 class="wp-block-heading">祐德稻荷神社</h2>
+
+
+
+<p>三大稻荷神社之一，工法精湛的本殿、御神樂殿、樓門等，華麗堂皇，被譽為「鎮西日光」，祈求事業和結緣，是佐賀必訪勝地。</p>
+
+
+
+<h2 class="wp-block-heading">御船山樂園</h2>
+
+
+
+<p>占地約10座東京巨蛋大小，為佐賀武雄藩主建造的廣闊庭園，以御船山斷崖為借景，融合山水畫美學，四季分明、景致幻變，是觀景與靜心之所。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-265109" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─有明海渡輪pixta_108248930-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲有明海渡輪。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">有明海渡輪體驗</h2>
+
+
+
+<p>太平洋旅行社特別安排搭乘渡輪，從熊本長洲到長崎島原的多比良，只需45分鐘，穿越被譽為「藍色公路」的有明海，感受不同於陸路的悠然節奏；冬日時節更有成群海鷗隨行，更添詩意。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-265110" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/長崎─稻佐山shutterstock_706160425-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲稻佐山夜景。　圖：太平洋旅行社／提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">「新世界三大夜景」長崎夜景</h2>
+
+
+
+<p>長崎稻佐山夜景與摩納哥、上海一起被選為「世界新三大夜景」，在被評價為價值千萬美金、非常值得一看，晴天時可遠眺雲仙、天草、五島列島等。</p>
+
+
+
+<p>《<a href="https://url.pac-group.net/86bpvh">嬉野八十八茶琉璃．八女玉露．伊萬里燒五日</a>》不是一般的行程，是為熱愛探索文化、尋訪工藝的品味人士量身打造的身心療癒之旅。從八女玉露的細緻甘韻，到「日本三大美人湯」嬉野溫泉的潤澤，結合陶藝美學，勾勒出深度療癒假期。從茶道到名湯、從歷史到美學，每一個停駐都滋養身心，囊括九州佐賀、福岡的文化厚度與自然節奏，體現太平洋旅行社規劃行程的核心靈魂。席次限量，專為注重生活質感的旅客設計，可洽詢連結暨VIP 旅遊顧問聯繫方式：<a href="https://url.pac-group.net/86xurq">https://url.pac-group.net/86xurq</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e8%81%b7%e4%ba%ba%e8%8c%b6-x%e7%be%8e%e4%ba%ba%e6%b9%afx%e5%8c%a0%e4%ba%ba%e9%ad%82-%e4%b9%9d%e5%b7%9e%e9%a4%8a%e7%94%9f%e4%b9%8b%e6%97%85%ef%bc%9a%e8%8c%b6%e9%a6%99%e8%a3%8a%e8%a3%8a/">職人茶 X美人湯X匠人魂  九州養生之旅：茶香裊裊  山海盛宴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>英國倫敦的科技對話—量子運算抵禦新興威脅</title>
+		<link>https://firenews.com.tw/2025/10/09/%e8%8b%b1%e5%9c%8b%e5%80%ab%e6%95%a6%e7%9a%84%e7%a7%91%e6%8a%80%e5%b0%8d%e8%a9%b1-%e9%87%8f%e5%ad%90%e9%81%8b%e7%ae%97%e6%8a%b5%e7%a6%a6%e6%96%b0%e8%88%88%e5%a8%81%e8%84%85/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 06:41:15 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=265370</guid>
+
+					<description><![CDATA[<p>由北約組織以及英國量子產業聯盟 (UKQuantum) 等重要官方與民間單位長期合作舉辦的「倫敦金融城量子與人 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/09/%e8%8b%b1%e5%9c%8b%e5%80%ab%e6%95%a6%e7%9a%84%e7%a7%91%e6%8a%80%e5%b0%8d%e8%a9%b1-%e9%87%8f%e5%ad%90%e9%81%8b%e7%ae%97%e6%8a%b5%e7%a6%a6%e6%96%b0%e8%88%88%e5%a8%81%e8%84%85/">英國倫敦的科技對話—量子運算抵禦新興威脅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>由北約組織以及英國量子產業聯盟 (UKQuantum) 等重要官方與民間單位長期合作舉辦的「倫敦金融城量子與人工智慧高峰會」已於2025年10月8日倫敦金融城市長官邸圓滿落幕。台灣量子運算企業阿證科技受邀參與韌性技術專題座談，分享其量子運算雲端平台的安全架構與國際合作經驗等。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="864" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/az_AhP_20250714_ok_v2.jpg?resize=1220%2C864&#038;ssl=1" alt="" class="wp-image-265371" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/az_AhP_20250714_ok_v2.jpg?w=1590&amp;ssl=1 1590w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/az_AhP_20250714_ok_v2.jpg?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/az_AhP_20250714_ok_v2.jpg?resize=1536%2C1088&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿證科技創辦人/董事長/技術長 釋湛阿 阿闍梨(陳朝煌先生)</figcaption></figure>
+
+
+
+<p>本屆峰會期間，阿證科技創辦人暨董事長 <strong>釋湛阿</strong> 阿闍梨接受峰會創辦人<strong>Karina Robinson</strong>的邀請擔任本屆峰會白皮書「國際合作」章節的共同撰稿人，並且揭櫫量子運算雲端平台之供應商所應具備的韌性技術能力。</p>
+
+
+
+<p>創辦人暨董事長同時透過大會社群媒體的文字專訪，闡述了阿證科技為全球永續企業所準備的量子安全架構，並藉由後量子公用標準加上自有抗量子專利技術的混合解決方案，以面對由AI與量子運算所帶來的新興威脅。</p>
+
+
+
+<p>此外，其公司總經理亦擔任代表團領隊，參與現場分組討論議程，除了體現在深度科技方面的跨國友好交流，並且於大會的韌性主題議程中介紹阿證科技的量子運算雲端平台 <strong>(AhP-Tech&#8217;s Quantum Computing Cloud Platform</strong><strong>；</strong><strong>AQCCP)</strong>，該平台充分考量了供應鏈廠商在技術轉換方面的實際需求。</p>
+
+
+
+<p>於此同時，阿證科技亦發表了持續創新的研發進度。除了已獲<strong>NIST</strong> <strong>FIPS-203/204</strong>全參數認證的後量子加密函式庫可用於強化傳統<strong>RSA</strong>及<strong>ECDH</strong>等用例之外；並且宣布<strong>AQCCP</strong>正導入<strong>NIST SP800-227</strong>金鑰封裝機制之安全指引。</p>
+
+
+
+<p>在實體模組開發方面，利用自有技術研發成功的真隨機實體熵源，是台灣第一個量子運算廠商運用光量子特性不經調控函數加工即可高效能產出超高亂度(每個取樣位元大於<strong>0.9</strong>)的實體量子熵源，並且已正式遞交<strong>NIST</strong>認證實驗室進行熵源驗證；此外在量子化學的領域方面，該公司自行研發的通用型哈密頓量分析套件預計於<strong>2026</strong>年也將取得突破性的重大進展。 </p>
+
+
+
+<p>此次阿證科技積極參與以深度科技的兩用供應鏈角色為主的國際合作峰會，不僅藉此倡議供應鏈跨國合作的重要性，也為台灣的量子運算產業開啟了更廣大的視野。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/09/%e8%8b%b1%e5%9c%8b%e5%80%ab%e6%95%a6%e7%9a%84%e7%a7%91%e6%8a%80%e5%b0%8d%e8%a9%b1-%e9%87%8f%e5%ad%90%e9%81%8b%e7%ae%97%e6%8a%b5%e7%a6%a6%e6%96%b0%e8%88%88%e5%a8%81%e8%84%85/">英國倫敦的科技對話—量子運算抵禦新興威脅</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
