@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 14 Oct 2025 06:29:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Oct 2025 08:16:47 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -352,6 +352,105 @@
 		
 			</item>
 		<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 03:34:21 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Upbeat Technology]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266933</guid>
+
+					<description><![CDATA[<p>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 </p>
+
+
+
+<p>此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-266952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器, 可應用於IoT, 穿戴裝置, 無人機, 機器人。圖/阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。 目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。</p>
+
+
+
+<p>目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於 SiFive</strong></h2>
+
+
+
+<p>SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</title>
 		<link>https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/</link>
 		
@@ -563,53 +662,6 @@
 
 <p>5.兔子&nbsp;<br>兔子溫順安靜，外表軟萌到讓人心都被融化，牠們不太會叫，也不會破壞家具，飼主只需要注意飲食（多吃牧草少吃飼料）與清潔環境，就能讓牠們過得很健康，不過兔子對溫度的變化十分敏感，通常需要安靜與穩定的生活環境。&nbsp;</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e5%af%b5%e7%89%a9%e4%b8%8d%e6%98%af%e5%8f%aa%e6%9c%89%e8%b2%93%e7%8b%97%ef%bc%81%e6%9c%80%e9%81%a9%e5%90%88%e6%96%b0%e6%89%8b%e9%a3%bc%e9%a4%8a%e7%9a%84%e3%80%8c%e4%ba%94%e5%a4%a7%e5%8b%95%e7%89%a9/">寵物不是只有貓狗！最適合新手飼養的「五大動物」這些也很熱門 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>音樂難聽到貓咪都受不了？飼主拉小提琴到一半竟被愛貓制止 </title>
-		<link>https://firenews.com.tw/2025/10/13/%e9%9f%b3%e6%a8%82%e9%9b%a3%e8%81%bd%e5%88%b0%e8%b2%93%e5%92%aa%e9%83%bd%e5%8f%97%e4%b8%8d%e4%ba%86%ef%bc%9f%e9%a3%bc%e4%b8%bb%e6%8b%89%e5%b0%8f%e6%8f%90%e7%90%b4%e5%88%b0%e4%b8%80%e5%8d%8a%e7%ab%9f/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 06:07:11 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[小提琴]]></category>
-		<category><![CDATA[搞笑]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266572</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 國外一名女子近日在家練習小提琴時，意外上演了一場「貓咪音樂抗議事件」，她的愛貓 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e9%9f%b3%e6%a8%82%e9%9b%a3%e8%81%bd%e5%88%b0%e8%b2%93%e5%92%aa%e9%83%bd%e5%8f%97%e4%b8%8d%e4%ba%86%ef%bc%9f%e9%a3%bc%e4%b8%bb%e6%8b%89%e5%b0%8f%e6%8f%90%e7%90%b4%e5%88%b0%e4%b8%80%e5%8d%8a%e7%ab%9f/">音樂難聽到貓咪都受不了？飼主拉小提琴到一半竟被愛貓制止 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>國外一名女子近日在家練習小提琴時，意外上演了一場「貓咪音樂抗議事件」，她的愛貓原本安靜陪伴在身旁，卻沒想到在音樂才進行沒多久後，就突然撲上前，直接咬住主人的手臂，彷彿在控訴「太難聽拜託別再拉了！」爆笑反應在網路上掀起熱議。 </p>
-
-
-
-<p>原來這名女子從小就熱愛古典音樂，最近她決定自學小提琴，並在家中勤加練習，事發當天，她信心滿滿地拉起旋律，同時讓家中的貓咪趴在旁邊，安靜享受與考察成果，然而，隨著音階愈來愈刺耳，這位「頭號粉絲兼觀眾」的耐性也顯然逐漸被耗盡。 </p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esra-afsar-xa9aU2LJ1uI-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-266577" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esra-afsar-xa9aU2LJ1uI-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esra-afsar-xa9aU2LJ1uI-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esra-afsar-xa9aU2LJ1uI-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esra-afsar-xa9aU2LJ1uI-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪聽音樂到一半咬住主人的手，似乎在表達難聽與不滿<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>當主人拉奏到一半時，一旁的貓咪忽然起身，表情充滿不悅地衝上前，一口咬住她的手臂，還用力甩尾離開現場，仿佛在表達無聲的抗議，女子見狀後只能無奈地停下演奏，好氣又好笑地看著自己的手臂，將這段有趣的故事分享至網路上給大家評評理。&nbsp;</p>
-
-
-
-<p>故事曝光後立刻在網路上引起廣大迴響，不少網友看完紛紛笑翻表示「好奇到底是有多難聽」、「拜託放過小貓的耳朵」、「小提琴老師看到這幕應該也會想哭」、「牠只是用行動表達真相」、「這隻貓用了最直接的方法來評價主人的音樂」、「感覺好可憐哈哈」。 </p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e9%9f%b3%e6%a8%82%e9%9b%a3%e8%81%bd%e5%88%b0%e8%b2%93%e5%92%aa%e9%83%bd%e5%8f%97%e4%b8%8d%e4%ba%86%ef%bc%9f%e9%a3%bc%e4%b8%bb%e6%8b%89%e5%b0%8f%e6%8f%90%e7%90%b4%e5%88%b0%e4%b8%80%e5%8d%8a%e7%ab%9f/">音樂難聽到貓咪都受不了？飼主拉小提琴到一半竟被愛貓制止 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
