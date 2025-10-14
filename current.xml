@@ -1,671 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
-<channel>
-	<title>時事 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/時事/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 14 Oct 2025 08:16:47 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
-
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>時事 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/時事/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>Google 加碼「100億美元」投資印度 AI 與雲端基礎設施</title>
-		<link>https://firenews.com.tw/2025/10/14/google-%e5%8a%a0%e7%a2%bc%e3%80%8c100%e5%84%84%e7%be%8e%e5%85%83%e3%80%8d%e6%8a%95%e8%b3%87%e5%8d%b0%e5%ba%a6-ai-%e8%88%87%e9%9b%b2%e7%ab%af%e5%9f%ba%e7%a4%8e%e8%a8%ad%e6%96%bd/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 05:54:19 +0000</pubDate>
-				<category><![CDATA[時事]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[印度]]></category>
-		<category><![CDATA[新聞]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=267037</guid>
-
-					<description><![CDATA[<p>火報記者 陳銳/報導 Alphabet 旗下科技巨擘 Google 宣布，將在印度南部的安得拉邦（Andhra &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/google-%e5%8a%a0%e7%a2%bc%e3%80%8c100%e5%84%84%e7%be%8e%e5%85%83%e3%80%8d%e6%8a%95%e8%b3%87%e5%8d%b0%e5%ba%a6-ai-%e8%88%87%e9%9b%b2%e7%ab%af%e5%9f%ba%e7%a4%8e%e8%a8%ad%e6%96%bd/">Google 加碼「100億美元」投資印度 AI 與雲端基礎設施</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 陳銳/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>Alphabet 旗下科技巨擘 Google 宣布，將在印度南部的安得拉邦（Andhra Pradesh）投資 100 億美元，建設一座大型資料中心與人工智慧（AI）園區，這將是該公司在印度規模最大的基礎設施投資案。</strong></p>
-</blockquote>
-
-
-
-<p>根據安得拉邦政府發布的聲明，Google 計畫在港口城市 <strong>維沙卡帕特南（Visakhapatnam）</strong> 建立一個 <strong>1 千兆瓦（1GW）級資料中心園區</strong>，園區將整合 AI 運算設施、能源供應與高速光纖網路，支援雲端運算與生成式 AI 應用的快速成長。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-119.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-267048" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">Google 將在維沙卡帕特南建 1GW 資料中心園區，整合 AI 運算、能源與光纖網路，支援雲端與生成式 AI。圖:istockphoto</figcaption></figure></div>
-
-
-<p>這項重大投資案正值全球科技巨頭爭相擴建資料中心的熱潮之際。隨著生成式 AI 應用與大型語言模型的運算需求激增，Google、亞馬遜與微軟等企業正投入前所未有的資金擴張雲端與 AI 基礎設施。</p>
-
-
-
-<p>安得拉邦資訊技術部長 <strong>納拉·洛克什（Nara Lokesh）</strong> 表示：「在數據就是新石油的時代，這樣的投資不僅將推動本地科技發展，更會成為印度在全球 AI 競爭中取得長遠優勢的關鍵。」</p>
-
-
-
-<p>分析人士指出，Google 此舉不僅能提升印度本地的 AI 運算與雲端服務能力，也象徵印度正逐漸成為全球科技生態的重要戰略中心。隨著各大科技公司加碼投資基礎設施，印度的數位轉型與 AI 產業將進入全新階段。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/google-%e5%8a%a0%e7%a2%bc%e3%80%8c100%e5%84%84%e7%be%8e%e5%85%83%e3%80%8d%e6%8a%95%e8%b3%87%e5%8d%b0%e5%ba%a6-ai-%e8%88%87%e9%9b%b2%e7%ab%af%e5%9f%ba%e7%a4%8e%e8%a8%ad%e6%96%bd/">Google 加碼「100億美元」投資印度 AI 與雲端基礎設施</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>養別人養過的狗狗不親人？學會重建信任才是第一步 !</title>
-		<link>https://firenews.com.tw/2025/10/14/%e9%a4%8a%e5%88%a5%e4%ba%ba%e9%a4%8a%e9%81%8e%e7%9a%84%e7%8b%97%e7%8b%97%e4%b8%8d%e8%a6%aa%e4%ba%ba%ef%bc%9f%e5%ad%b8%e6%9c%83%e9%87%8d%e5%bb%ba%e4%bf%a1%e4%bb%bb%e6%89%8d%e6%98%af%e7%ac%ac%e4%b8%80/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 05:35:22 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[不親人]]></category>
-		<category><![CDATA[信任]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=267023</guid>
-
-					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主在收養二手狗或領養曾經被其他人飼養的狗狗時，會遇到毛孩對陌生人冷淡、躲避甚至抗 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%a4%8a%e5%88%a5%e4%ba%ba%e9%a4%8a%e9%81%8e%e7%9a%84%e7%8b%97%e7%8b%97%e4%b8%8d%e8%a6%aa%e4%ba%ba%ef%bc%9f%e5%ad%b8%e6%9c%83%e9%87%8d%e5%bb%ba%e4%bf%a1%e4%bb%bb%e6%89%8d%e6%98%af%e7%ac%ac%e4%b8%80/">養別人養過的狗狗不親人？學會重建信任才是第一步 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>許多飼主在收養二手狗或領養曾經被其他人飼養的狗狗時，會遇到毛孩對陌生人冷淡、躲避甚至抗拒親近的情況。這種行為並非狗狗天生不親人，而是過往經驗或環境影響造成的信任缺口。</strong></p>
-</blockquote>
-
-
-
-<p><strong>1. 了解狗狗的不親人行為</strong><br>曾被其他家庭飼養的狗狗，可能因曾遭忽略、懲罰或不穩定環境，對陌生人保持警戒。牠們可能出現躲避、低頭、縮尾、發出警告吠叫或拒絕接觸的行為。這些都是狗狗表達「我還不信任你」的方式，而非故意挑釁或調皮。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="401" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-117.png?resize=600%2C401&#038;ssl=1" alt="" class="wp-image-267031" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">曾被其他家庭飼養的狗狗，可能因過往經驗對陌生人保持警戒，表現出躲避、縮尾或吠叫等行為。圖:unsplash</figcaption></figure></div>
-
-
-<p><strong>2. 尊重狗狗的邊界</strong><br>初期與二手狗建立關係時，飼主需要尊重牠的個人空間。避免強行抱起、拍打或逼迫互動，而是提供安全的環境與舒適的休息區，讓狗狗有自主選擇靠近或保持距離的自由。慢慢地，牠會開始願意探索、接近並觀察主人。</p>
-
-
-
-<p><strong>3. 建立正向互動</strong><br>透過獎勵、零食或輕柔語調的讚美，飼主可以讓狗狗把靠近人與愉快經驗連結起來。簡單的互動遊戲、散步或餵食過程，都能成為增進信任的橋樑。重點在於循序漸進，不急於求成，讓狗狗在安全感中逐步打開心扉。</p>
-
-
-
-<p><strong>4. 穩定日常生活</strong><br>狗狗對環境的安全感會直接影響對主人的信任。保持固定的餵食、散步、休息與互動時間，能讓毛孩感受到生活的可預測性，進而放下戒心。避免頻繁改變環境或忽冷忽熱的對待，信任的建立需要穩定與耐心。</p>
-
-
-
-<p><strong>5. 觀察細微肢體語言</strong><br>狗狗的尾巴擺動、耳朵位置、眼神及身體姿態，都透露牠的情緒。飼主觀察並尊重這些訊號，可以避免造成壓力，也能在合適時機給予安撫與互動。慢慢地，狗狗會學會主人是安全可靠的依靠。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-118.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-267032" style="width:720px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗的尾巴、耳朵、眼神與身體姿態都透露情緒，飼主觀察並尊重這些訊號，可避免壓力。圖:unsplash</figcaption></figure></div>
-
-
-<p>曾被其他人飼養的狗狗不親人並非天性問題，而是信任需要重建。飼主若能以耐心、尊重與正向互動作為基礎，循序建立穩定的生活規律，就能逐步打開毛孩的心門。透過理解與細心陪伴，狗狗最終會展現親近與信任的真情，讓新家庭與毛孩之間的連結更加穩固。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%a4%8a%e5%88%a5%e4%ba%ba%e9%a4%8a%e9%81%8e%e7%9a%84%e7%8b%97%e7%8b%97%e4%b8%8d%e8%a6%aa%e4%ba%ba%ef%bc%9f%e5%ad%b8%e6%9c%83%e9%87%8d%e5%bb%ba%e4%bf%a1%e4%bb%bb%e6%89%8d%e6%98%af%e7%ac%ac%e4%b8%80/">養別人養過的狗狗不親人？學會重建信任才是第一步 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>你真的懂貓咪嗎？貓咪隱藏的「五種冷知識」飼主們必須了解！ </title>
-		<link>https://firenews.com.tw/2025/10/14/%e4%bd%a0%e7%9c%9f%e7%9a%84%e6%87%82%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e8%b2%93%e5%92%aa%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e4%ba%94%e7%a8%ae%e5%86%b7%e7%9f%a5%e8%ad%98%e3%80%8d%e9%a3%bc%e4%b8%bb/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 04:51:15 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[冷知識]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266993</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 相信不少飼主每天看著家中的貓咪吃飯睡覺時，總會覺得牠們的生活好像一成不變，但其 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e4%bd%a0%e7%9c%9f%e7%9a%84%e6%87%82%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e8%b2%93%e5%92%aa%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e4%ba%94%e7%a8%ae%e5%86%b7%e7%9f%a5%e8%ad%98%e3%80%8d%e9%a3%bc%e4%b8%bb/">你真的懂貓咪嗎？貓咪隱藏的「五種冷知識」飼主們必須了解！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>相信不少飼主每天看著家中的貓咪吃飯睡覺時，總會覺得牠們的生活好像一成不變，但其實貓咪身上藏著許多你想不到的小祕密！牠們的行為、身體構造，甚至是睡覺姿勢，都有著有趣的科學根據，以下為大家整理出五個「貓咪冷知識」，希望能幫助各位飼主更了解牠們可愛又神秘的一面。&nbsp;</p>
-
-
-
-<p>1.貓咪的呼嚕聲&nbsp;</p>
-
-
-
-<p>很多人以為貓咪只要打呼嚕就代表心情好，但其實不完全是，貓咪在緊張、生病或疼痛時，也會透過呼嚕聲試著讓自己冷靜下來，有研究發現這種低頻震動（約25至150赫茲）能幫助牠們放鬆，並促進自我修復，是一種天然的「療癒機制」。&nbsp;</p>
-
-
-
-<p>2.貓咪的鬍鬚&nbsp;<br>貓咪的鬍鬚不只是可愛的裝飾，也是重要的「感測器」，牠們的每根鬍鬚都能感應空氣流動和物體距離，以幫助牠們在黑暗中判斷通道是否能通過，因此飼主們千萬不要隨意剪掉貓咪的鬍鬚，否則牠們可能會失去方向感、變得焦慮喔！&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/aleksandra-sapozhnikova-JUoam7gygLg-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-266999" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/aleksandra-sapozhnikova-JUoam7gygLg-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/aleksandra-sapozhnikova-JUoam7gygLg-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/aleksandra-sapozhnikova-JUoam7gygLg-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/aleksandra-sapozhnikova-JUoam7gygLg-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪尾巴是牠們的情緒指標，學會讀懂這些訊息，就能更精準地掌握牠們的心情<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>3.貓咪的的視覺&nbsp;<br>雖然貓咪的夜視能力很強，但牠們其實在看距離鼻子下10公分以內的物體時是模糊的！這也是為什麼當你把食物靠太近時，牠反而會「用手撥」或著「低頭找半天」，對於貓咪來說，鼻子和鬍鬚有時候比眼睛更可靠。&nbsp;</p>
-
-
-
-<p>4.貓咪的尾巴&nbsp;<br>貓咪尾巴是牠們的情緒指標，尾巴豎直時表示開心或期待，輕輕搖動代表好奇與觀望，而如果尾巴快速甩動，那可能是牠們有點不耐煩了，學會讀懂這些貓咪專屬的「尾巴語言」，就能更精準地掌握牠們的心情。&nbsp;</p>
-
-
-
-<p>5.貓咪的心情&nbsp;<br>研究指出，貓咪其實能分辨主人與陌生人聲音的不同，只是牠們通常選擇「不回應」，這並不代表牠們不在乎，而是因為貓咪不像狗狗那樣演化出取悅人類的需求，簡單來說，牠們確實聽到了，但只是單純地不想動。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e4%bd%a0%e7%9c%9f%e7%9a%84%e6%87%82%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e8%b2%93%e5%92%aa%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e4%ba%94%e7%a8%ae%e5%86%b7%e7%9f%a5%e8%ad%98%e3%80%8d%e9%a3%bc%e4%b8%bb/">你真的懂貓咪嗎？貓咪隱藏的「五種冷知識」飼主們必須了解！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪愛不釋手的「獨特臭味」？小貓把臉塞進鞋內猛聞讓主人超傻眼 </title>
-		<link>https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e6%84%9b%e4%b8%8d%e9%87%8b%e6%89%8b%e7%9a%84%e3%80%8c%e7%8d%a8%e7%89%b9%e8%87%ad%e5%91%b3%e3%80%8d%ef%bc%9f%e5%b0%8f%e8%b2%93%e6%8a%8a%e8%87%89%e5%a1%9e%e9%80%b2%e9%9e%8b%e5%85%a7/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 04:51:13 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[皮鞋]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266992</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 日本一名飼主近日分享自家愛貓「喵喵」的爆笑行為，引發網友熱議，這隻10歲的白底 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e6%84%9b%e4%b8%8d%e9%87%8b%e6%89%8b%e7%9a%84%e3%80%8c%e7%8d%a8%e7%89%b9%e8%87%ad%e5%91%b3%e3%80%8d%ef%bc%9f%e5%b0%8f%e8%b2%93%e6%8a%8a%e8%87%89%e5%a1%9e%e9%80%b2%e9%9e%8b%e5%85%a7/">貓咪愛不釋手的「獨特臭味」？小貓把臉塞進鞋內猛聞讓主人超傻眼 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>日本一名飼主近日分享自家愛貓「喵喵」的爆笑行為，引發網友熱議，這隻10歲的白底虎斑貓在客人來訪時，竟然對客人的皮鞋「一見鍾情」，不僅朝著鞋內猛聞，還多次試圖把自己的整張臉埋進鞋子裡，讓現場笑聲不斷。&nbsp;</p>
-
-
-
-<p>該名飼主在社群平台上分享當天的趣事，當時家中正迎來妹妹與未婚夫到訪作客，沒想到家中平時安靜內向的貓咪「喵喵」，竟悄悄地走到玄關，熱情地歡迎客人，同時被妹夫的那雙皮鞋氣味給深深吸引。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="950" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?resize=1220%2C950&#038;ssl=1" alt="" class="wp-image-267001" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?resize=768%2C598&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?resize=1536%2C1196&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?resize=2048%2C1595&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/edan-cohen-xQdiFDCZDTI-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「喵喵」的特殊癖好讓主人感到相當尷尬，網友笑稱：妹夫通過考驗了<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>「喵喵」先是小心翼翼地靠近鞋子，確認安全後便開始深吸氣，接著完全沉浸其中，甚至將整張臉往鞋裡塞，臉頰的肉都被擠得變形，這一幕被主人發現後尷尬地連忙制止，但貓咪仍難掩陶醉神情，似乎已經認定了這位準妹夫。&nbsp;</p>
-
-
-
-<p>貓咪的搞笑行為曝光後，立刻引起網友熱烈討論，不少人留言表示「好奇到底有多香」、「傳說中的越聞越上癮」、「看來妹夫通過考驗了」，此外也有飼主分享自家貓的類似怪癖，包括吸襪子、嗅枕頭、舔拖鞋等皆讓人感到啼笑皆非。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e6%84%9b%e4%b8%8d%e9%87%8b%e6%89%8b%e7%9a%84%e3%80%8c%e7%8d%a8%e7%89%b9%e8%87%ad%e5%91%b3%e3%80%8d%ef%bc%9f%e5%b0%8f%e8%b2%93%e6%8a%8a%e8%87%89%e5%a1%9e%e9%80%b2%e9%9e%8b%e5%85%a7/">貓咪愛不釋手的「獨特臭味」？小貓把臉塞進鞋內猛聞讓主人超傻眼 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪的報恩！小貓半夜叼「神秘禮物」上床讓網友笑翻 </title>
-		<link>https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e7%9a%84%e5%a0%b1%e6%81%a9%ef%bc%81%e5%b0%8f%e8%b2%93%e5%8d%8a%e5%a4%9c%e5%8f%bc%e3%80%8c%e7%a5%9e%e7%a7%98%e7%a6%ae%e7%89%a9%e3%80%8d%e4%b8%8a%e5%ba%8a%e8%ae%93%e7%b6%b2%e5%8f%8b/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 04:51:12 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[報恩]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266991</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 最近國外發生一起有關於「貓咪報恩」的寵物事件，在網路上掀起熱烈討論，一隻小貓為 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e7%9a%84%e5%a0%b1%e6%81%a9%ef%bc%81%e5%b0%8f%e8%b2%93%e5%8d%8a%e5%a4%9c%e5%8f%bc%e3%80%8c%e7%a5%9e%e7%a7%98%e7%a6%ae%e7%89%a9%e3%80%8d%e4%b8%8a%e5%ba%8a%e8%ae%93%e7%b6%b2%e5%8f%8b/">貓咪的報恩！小貓半夜叼「神秘禮物」上床讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>最近國外發生一起有關於「貓咪報恩」的寵物事件，在網路上掀起熱烈討論，一隻小貓為了向主人表達感激，竟在半夜中叼著一隻蟑螂送上床當作「禮物」，這段可愛又驚悚的故事曝光後，讓不少網友直呼「這份愛真的太沉重了！」。&nbsp;</p>
-
-
-
-<p>據了解，這位受到自家貓咪報恩的飼主，從小就非常疼愛這隻小貓，平日裡經常為牠準備鮮食、玩具與舒適的睡窩，讓愛貓十分幸福地生活著，而小貓似乎也感受到了主人的愛意，不僅天天黏在她身邊，偶爾也會送上自己喜愛的獵物「報恩」。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1220" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?resize=1220%2C1220&#038;ssl=1" alt="" class="wp-image-267003" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rohan-On8712CI0qE-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小貓經常會叼「禮物」到主人的床邊，專家指出這是牠們獨特的報恩方式<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>這天晚上，小貓嘴裡叼著一隻仍在掙扎的蟑螂，牠步伐輕盈地走向主人的床邊，並輕輕地將「戰利品」放在飼主枕邊後，抬起頭以天真無邪的眼神望著對方，彷彿在邀功「快點吃呀！」，這一幕令飼主當場僵住，不知該感動還是該尖叫。&nbsp;</p>
-
-
-
-<p>飼主將這段神奇的故事分享至網路上後，引來許多網友留言打趣「滴水之恩，蟑螂相報」、「這份禮物我真的消化不良」、「感動得眼淚都要從嘴角流出來」，也有專家指出，其實在貓咪的世界裡，將食物帶回來給對方，就是牠們最純粹「愛」的表達方式。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e8%b2%93%e5%92%aa%e7%9a%84%e5%a0%b1%e6%81%a9%ef%bc%81%e5%b0%8f%e8%b2%93%e5%8d%8a%e5%a4%9c%e5%8f%bc%e3%80%8c%e7%a5%9e%e7%a7%98%e7%a6%ae%e7%89%a9%e3%80%8d%e4%b8%8a%e5%ba%8a%e8%ae%93%e7%b6%b2%e5%8f%8b/">貓咪的報恩！小貓半夜叼「神秘禮物」上床讓網友笑翻 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>狗狗狂吠、咬東西不停？可能是分離焦慮！這樣改善最有效</title>
-		<link>https://firenews.com.tw/2025/10/14/%e7%8b%97%e7%8b%97%e7%8b%82%e5%90%a0%e3%80%81%e5%92%ac%e6%9d%b1%e8%a5%bf%e4%b8%8d%e5%81%9c%ef%bc%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%88%86%e9%9b%a2%e7%84%a6%e6%85%ae%ef%bc%81%e9%80%99%e6%a8%a3%e6%94%b9/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 04:40:19 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[分離焦慮]]></category>
-		<category><![CDATA[改善]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266965</guid>
-
-					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主一出門，家中狗狗就開始狂吠、抓門、咬家具，這種行為很可能是狗狗在面對與主人的分 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e7%8b%97%e7%8b%97%e7%8b%82%e5%90%a0%e3%80%81%e5%92%ac%e6%9d%b1%e8%a5%bf%e4%b8%8d%e5%81%9c%ef%bc%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%88%86%e9%9b%a2%e7%84%a6%e6%85%ae%ef%bc%81%e9%80%99%e6%a8%a3%e6%94%b9/">狗狗狂吠、咬東西不停？可能是分離焦慮！這樣改善最有效</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>許多飼主一出門，家中狗狗就開始狂吠、抓門、咬家具，這種行為很可能是狗狗在面對與主人的分離時感到強烈不安，以破壞或叫喊來尋求安全感。了解原因並採取正確方法，能幫助毛孩逐步恢復平靜。</strong></p>
-</blockquote>
-
-
-
-<p><strong>1. 分離焦慮的常見徵兆</strong><br>狗狗的分離焦慮多半在主人出門後發作。常見行為包括持續吠叫、抓門、抓窗、咬家具或翻垃圾桶。有些狗狗甚至會出現流口水、喘氣、來回踱步等焦躁反應，嚴重時還可能因過度緊張導致嘔吐或腹瀉。這些都是牠在「恐懼被丟下」時的身體反應。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="434" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-114.png?resize=612%2C434&#038;ssl=1" alt="" class="wp-image-266994" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗的分離焦慮通常在主人離開後出現，會狂吠、抓門、咬家具，甚至流口水、喘氣或嘔吐。圖:istockphoto</figcaption></figure></div>
-
-
-<p><strong>2. 為什麼狗狗會這樣？</strong><br>狗狗是群居動物，對牠們而言，主人就是「族群」的一部分。當熟悉的安全依靠突然消失，便會引發強烈的不安。此外，若平時過度依賴主人、出門前互動太激烈、或曾經有被遺棄經驗，焦慮情緒更容易被放大。長時間獨處卻缺乏訓練，也會讓問題惡化。</p>
-
-
-
-<p><strong>3. 離開前要「淡處理」</strong><br>出門前過度告別、擁抱或哄慰，反而會強化狗狗的焦慮感。飼主應採取「淡出式」離開法——在出門前的10到15分鐘內，不與狗狗有過多互動，離開時也不要刻意說再見。讓狗狗逐漸理解「主人離開是正常的日常」，焦慮自然會減輕。</p>
-
-
-
-<p><strong>4. 創造安全的獨處環境</strong><br>離家時可以給狗狗留下一些安全物品，如主人的衣物、咬膠、嗅聞玩具或填充零食的益智球，讓牠透過氣味與遊戲轉移注意力。若狗狗對開門聲、鑰匙聲特別敏感，也可在平時訓練牠「習慣這些聲音」而不產生焦慮反應。保持環境安靜與熟悉，能有效穩定情緒。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="372" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-115.png?resize=612%2C372&#038;ssl=1" alt="" class="wp-image-266995" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">離家時，可給狗狗主人的衣物、咬膠或益智玩具，利用氣味和遊戲轉移注意力。圖:istockphoto</figcaption></figure></div>
-
-
-<p><strong>5. 循序訓練最關鍵</strong><br>改善分離焦慮的核心是「漸進式訓練」。一開始可讓狗狗獨處幾分鐘，等牠能冷靜下來再逐漸拉長時間。過程中若牠表現平靜，可給予口頭讚美或小零食獎勵。長期累積下，狗狗會學會「主人總會回來」，逐步建立安全感。</p>
-
-
-
-<p>狗狗的分離焦慮不是壞行為，而是一種「害怕被遺棄」的情緒反應。飼主若能用耐心與正確方式陪牠適應獨處，不僅能減少破壞與叫吠問題，更能讓毛孩心理更健康、生活更穩定 !</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e7%8b%97%e7%8b%97%e7%8b%82%e5%90%a0%e3%80%81%e5%92%ac%e6%9d%b1%e8%a5%bf%e4%b8%8d%e5%81%9c%ef%bc%9f%e5%8f%af%e8%83%bd%e6%98%af%e5%88%86%e9%9b%a2%e7%84%a6%e6%85%ae%ef%bc%81%e9%80%99%e6%a8%a3%e6%94%b9/">狗狗狂吠、咬東西不停？可能是分離焦慮！這樣改善最有效</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
-		<link>https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 03:34:21 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Upbeat Technology]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266933</guid>
-
-					<description><![CDATA[<p>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
-</blockquote>
-
-
-
-<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
-
-
-
-<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
-
-
-
-<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
-
-
-
-<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 </p>
-
-
-
-<p>此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-266952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器, 可應用於IoT, 穿戴裝置, 無人機, 機器人。圖/阿比特電子科技</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
-
-
-
-<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
-
-
-
-<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
-
-
-
-<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
-
-
-
-<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。 目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。</p>
-
-
-
-<p>目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
-
-
-
-<h2 class="wp-block-heading">媒體聯絡</h2>
-
-
-
-<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
-
-
-
-<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
-
-
-
-<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
-
-
-
-<h2 class="wp-block-heading"><strong>關於 SiFive</strong></h2>
-
-
-
-<p>SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</title>
-		<link>https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 23:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[充電]]></category>
-		<category><![CDATA[台達電]]></category>
-		<category><![CDATA[國霖機電]]></category>
-		<category><![CDATA[能源管理]]></category>
-		<category><![CDATA[雲樁科技]]></category>
-		<category><![CDATA[高明能源]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266691</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 高明能源股份有限公司（高林實業〔2906〕持股子公司，下稱「高明能源」）今宣布，集團於 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/">高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<p>高明能源股份有限公司（高林實業〔2906〕持股子公司，下稱「高明能源」）今宣布，集團於2025年第三季在儲能、智慧充電與能源管理領域穩健推進，全面落實「儲能 × 充電 × 能源管理」三軸整合策略，並積極串聯台達電、國霖機電集團、泰國ENSYS集團等業界夥伴，展現在台灣能源轉型進程中的關鍵角色與價值。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>錶前儲能實績強勁  導入台達電系統展現系統整合優勢</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="846" height="676" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?resize=846%2C676&#038;ssl=1" alt="" class="wp-image-266720" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?w=846&amp;ssl=1 846w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片20251009.png?resize=768%2C614&amp;ssl=1 768w" sizes="(max-width: 846px) 100vw, 846px" data-recalc-dims="1" /><figcaption class="wp-element-caption">愷蘭電力宜蘭利澤工業區的50MW E-dReg增強型動態調頻儲能案場。圖 / 高明能源</figcaption></figure>
-
-
-
-<p>高明能源持股之愷蘭電力，位於宜蘭利澤工業區的 50MW E-dReg 增強型動態調頻儲能案場，在高明能源代操營運團隊執行下，順利通過台電通訊與服務能力測試，已於本季正式掛錶送電，並進入電力交易平台提供電網調節服務。高明能源副執行長林哲衛指出，該案場地位於供電不足之東北電網，係未來台電重要調度資源，且因採用電力整合龍頭廠台達電（DELTA）儲能系統及能源管理平台（EMS），優異整合電源、儲能、機櫃、PCS控制系統與 AI 智慧運算，將大幅提升放電效率與調度電力精度。</p>
-
-
-
-<p>台達電長期深耕電力電子與系統整合領域，為全球儲能系統技術領導者。透過此次合作，高明能源進一步展現跨領域 EPC 整合與維運管理能力，其中 EPC 總包由國內機電大廠士林電機承攬，升壓站則由雲豹能源建置，全面實現系統級整合與穩定併網。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>表後儲能全面切入　導入AI能源調度系統AEGIS  創造尖離峰套利新契機</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="510" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=1220%2C510&#038;ssl=1" alt="" class="wp-image-266722" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=1536%2C642&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?resize=2048%2C856&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760346519982-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">德叡科技於Thailand Buakhao Herb多元能源(光電+儲能)示範案場，以AEGIS能源管理系統進行多目標能源智慧調控管理。圖 / 高明能源</figcaption></figure>
-
-
-
-<p>高明能源積極布局表後儲能市場，攜手旗下德叡科技正式成為台達電表後儲能系統之經銷合作夥伴。此合作結合台達電先進ALL-IN-ONE儲能系統、高明能源全台超過 100MW 的儲能整合實績，以及德叡科技具 AI Autopilot 智慧調度技術的 AEGIS能源管理系統，三方共同推動企業用戶導入尖離峰調度、時間電價套利與用電效率優化等應用，提供完整的一站式軟硬體整合解決方案。</p>
-
-
-
-<p>此策略呼應能源署推動的尖離峰價差擴大政策。依據能源局規劃，「夏月」尖峰電價最高可達每度 10.2 元、離峰僅 2.61 元，價差超過 7.5 元，遠高於儲能投資門檻，企業導入儲能系統可望兼顧節能與收益。透過AI驅動的能源管理，高明能源與德叡科技協助企業建構具「預測性調度、自主電力轉移、用電風險分散」能力的智慧用能系統，助力企業邁向低碳轉型。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>拓展海外布局　德叡科技攜手泰國ENSYS集團拓展工商儲能市場</strong></h2>
-
-
-
-<p>在海外市場方面，德叡科技持續拓展國際布局，繼在泰國完成首座光電與儲能複合能源示範場域後，近日再與泰國指標性系統整合商ENSYS集團達成合作意向。ENSYS業務橫跨高壓輸配電、太陽能電廠建置與再生能源維運等領域，雙方將共同拓展泰國工商儲能應用市場，運用德叡科技AEGIS能源管理系統，結合ENSYS 在地系統建置能力，協助客戶提升儲能資產運轉效率與收益潛力，此合作不僅展現德叡科技的系統整合能力，更標誌了高明集團能源管理系統具備輸出海外能力。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>雲樁科技攜手國霖機電集團，打造建築能源轉型新典範</strong></h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1179" height="861" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?resize=1179%2C861&#038;ssl=1" alt="" class="wp-image-266721" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?w=1179&amp;ssl=1 1179w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/新聞稿照片202510092.png?resize=768%2C561&amp;ssl=1 768w" sizes="(max-width: 1179px) 100vw, 1179px" data-recalc-dims="1" /><figcaption class="wp-element-caption">雲樁科技執行長葉勁廷(左)、國霖機電執行長徐春福(右)宣布策略合作，共同打造全台最大規模的社區充電升級計畫。圖 / 高明能源</figcaption></figure>
-
-
-
-<p>在智能充電領域，高明能源旗下雲樁科技與全台機電管理龍頭國霖機電集團攜手合作。國霖機電自1988年營運以來，簽約管理全台逾8,000 棟社區大樓，擁有逾千人專業工程師團隊，為台灣最大規模的機電服務商之一。</p>
-
-
-
-<p>雲樁科技執行長葉勁廷表示，此合作將結合雲樁科技的即時用電監測、充電排程與AI負載平衡技術，以及國霖機電在全台社區與商辦物業的深厚管理基礎，實現「建築即能源節點」之智慧化能源應用，並加速台灣建商及社區能源轉型與建築節能落地。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>能源展亮相，打造智慧能源生態圈</strong></h2>
-
-
-
-<p>展望未來，高明能源將持續深化集團內儲能開發、智慧充電與能源管理三大核心事業的協同效益，並將於2025年10月29日登場之台灣國際淨零永續展（NET-ZERO TAIWAN 2025）中，攜手雲樁科技與德叡科技於南港展覽館1館1樓聯合亮相，展示AI能源調控、智慧充電與再生能源整合應用的最新成果。 </p>
-
-
-
-<p>高明能源表示，未來將持續與台達電、國霖機電集團及泰國ENSYS集團等合作夥伴深度協作，結合跨國技術與市場資源，透過創新技術與商業模式落地，打造可持續運作、具高度彈性與回報潛力的智慧能源生態圈。高明能源將持續以「儲能 × 充電 × 能源管理」整合戰略為核心，推動能源轉型、強化電網韌性，為台灣與區域能源投資市場注入嶄新動能。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e9%ab%98%e6%98%8e%e8%83%bd%e6%ba%90%e6%b7%b1%e5%8c%96%e3%80%8c%e5%84%b2%e8%83%bdx%e5%85%85%e9%9b%bbx%e8%83%bd%e6%ba%90%e7%ae%a1%e7%90%86%e3%80%8d%e6%95%b4%e5%90%88%e6%88%b0%e7%95%a5/">高明能源深化「儲能×充電×能源管理」整合戰略，聯手台達電、國霖機電集團、泰國ENSYS集團邁向智慧能源新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</title>
-		<link>https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90-2/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 21:00:00 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=267050</guid>
-
-					<description><![CDATA[<p>記者 陳聖偉 / 報導 在抗衡時間與重力的醫美療程中，拉皮手術的需求年齡逐漸年輕化，患者除了追求長效拉提，也越 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90-2/">多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 陳聖偉 / 報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>在抗衡時間與重力的醫美療程中，拉皮手術的需求年齡逐漸年輕化，患者除了追求長效拉提，也越來越重視術後曲線自然流暢、隱痕不明顯，以及恢復期短的舒適體驗。</strong></p>
-</blockquote>
-
-
-
-<p>針對這樣的需求，安多可七爪釘於 7 月上市後，由全台首間引進的傑尼斯時尚醫美整形外科診所率先啟用，並由潘俊豪院長完成首例施作。潘院長表示:「實際操作時，可以感受到安多可七爪釘在固定上的穩定性更高，拉提效果分布更平均，不會集中在單一點，減少了併發症的產生。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267055" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1090628傑尼斯醫美診所-診所內部照-35_0-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲(圖/傑尼斯時尚醫美整形外科診所提供)</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>拉皮需求年輕化 預防式拉提成新趨勢</strong></h2>
-
-
-
-<p>近年來，臉部拉提的訴求已不僅僅是解決皮膚鬆弛下垂，更多患者希望調整臉部比例及五官細節，如:眉毛角度、眉眼間距、下顎線…等，使五官更細緻，線條更柔和。因此，臉部拉皮手術的患者不再侷限於 50、60 歲熟齡患者，越來越多年輕族群也開始進行「預防式拉提」，在療程中也更在意效果與恢復期，期待手術能兼顧自然與隱痕，並且能快速回歸工作及日常生活。潘俊豪院長表示:「在規劃手術時，我會根據鬆弛部位、皮膚厚薄度與骨架條件，挑選適合的拉皮方式，並非所有人都適合同一種拉皮手術，而內視鏡七爪釘拉皮手術，讓我的客人有更好的選擇。」</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0-1.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267056" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0-1.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_0444_0-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲(圖/傑尼斯時尚醫美整形外科診所提供)</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>七爪釘強化固定力與隱痕精細度 專業醫師安全把關更是成功關鍵</strong></h2>
-
-
-
-<p>安多可七爪釘是目前市面上爪數最多的爪釘，設計上兼顧固定力與操作彈性，針對不同皮膚厚度提供多尺寸選擇，協助醫師更精準地固定、更穩定地拉提。而拉皮手術的成功，不僅止於醫材升級，更取決於醫師對臉部結構的專業評估與操作經驗。潘俊豪院長提醒民眾在選擇療程時，除了關注產品特性與原廠認證外，更應慎選診所和操作醫師，建議選擇，通過醫策會診所美容醫學品質認證的診所，並由經驗豐富的整形外科專科醫師進行手術，才能兼顧美麗與安全。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267057" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/CQR01467-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲傑尼斯時尚醫美整形外科診所潘俊豪院長擔任「Endochor 安多可」講師，並為台灣使用七爪釘於拉皮手術的首例施作醫師。(圖/美佳美帝國際企業有限公司提供)</figcaption></figure>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e5%a4%9a%e3%80%8c%e7%88%aa%e3%80%8d%e5%bf%85%e4%b8%ad%ef%bc%81%e8%bc%95%e7%86%9f%e9%bd%a1%e5%96%9a%e9%a1%8f%e6%96%b0%e6%85%8b%e5%ba%a6%e4%b8%8d%e5%83%85%e8%a6%81%e9%95%b7%e6%95%88%e6%8b%89%e6%8f%90-2/">多「爪」必中！輕熟齡喚顏新態度不僅要長效拉提更要隱痕加分</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>寵物不是只有貓狗！最適合新手飼養的「五大動物」這些也很熱門 </title>
-		<link>https://firenews.com.tw/2025/10/13/%e5%af%b5%e7%89%a9%e4%b8%8d%e6%98%af%e5%8f%aa%e6%9c%89%e8%b2%93%e7%8b%97%ef%bc%81%e6%9c%80%e9%81%a9%e5%90%88%e6%96%b0%e6%89%8b%e9%a3%bc%e9%a4%8a%e7%9a%84%e3%80%8c%e4%ba%94%e5%a4%a7%e5%8b%95%e7%89%a9/</link>
-		
-		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 06:07:12 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[倉鼠]]></category>
-		<category><![CDATA[兔子]]></category>
-		<category><![CDATA[寵物]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[火報]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=266573</guid>
-
-					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 你是不是也曾經想過飼養一隻可愛的毛孩，但又怕自己照顧不好？其實，並不是所有寵物 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e5%af%b5%e7%89%a9%e4%b8%8d%e6%98%af%e5%8f%aa%e6%9c%89%e8%b2%93%e7%8b%97%ef%bc%81%e6%9c%80%e9%81%a9%e5%90%88%e6%96%b0%e6%89%8b%e9%a3%bc%e9%a4%8a%e7%9a%84%e3%80%8c%e4%ba%94%e5%a4%a7%e5%8b%95%e7%89%a9/">寵物不是只有貓狗！最適合新手飼養的「五大動物」這些也很熱門 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 洪瑜蓉 / 綜合報導</p>
-
-
-
-<p>你是不是也曾經想過飼養一隻可愛的毛孩，但又怕自己照顧不好？其實，並不是所有寵物都適合新手飼主，有些寵物需要照顧的時間與心力都比你想像中要來的多，如果你正準備迎接人生第一隻寵物，不妨參考以下這五種「最適合新手」飼養的動物，或許是個不錯的開始！&nbsp;</p>
-
-
-
-<p>1.貓咪&nbsp;<br>貓咪可以說是新手飼主的首選之一，牠們愛乾淨、會自己上廁所，也不需要每天出門散步，雖然貓咪有時候有點「高冷」，但當牠們主動靠過來撒嬌時，那份溫柔真的會融化人心，建議想養貓的民眾，飼養前需備好貓砂盆、飼料和玩具，再做好定期清理環境的準備，基本上就能讓貓咪快樂生活。&nbsp;</p>
-
-
-
-<p>2.小型犬&nbsp;<br>如果你喜歡互動多一點、想要每天都有「回家歡迎儀式」的小夥伴，小型犬是個不錯的選擇，像是貴賓犬、博美、吉娃娃等品種，牠們的性格親人又聰明，容易學習基本口令，不過特別要注意，狗狗是非常需要主人每天陪伴與運動的寵物，因此飼主對時間安排要有一定的規劃。&nbsp;</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/li-yan-3m4it24gFSg-unsplash-scaled.jpg?resize=1220%2C1627&#038;ssl=1" alt="" class="wp-image-266575" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/li-yan-3m4it24gFSg-unsplash-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/li-yan-3m4it24gFSg-unsplash-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/li-yan-3m4it24gFSg-unsplash-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/li-yan-3m4it24gFSg-unsplash-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">兔子的性格溫順安靜，只需要多注意飲食與環境的變化<br>(示意圖/Unsplash)</figcaption></figure>
-
-
-
-<p>3.倉鼠&nbsp;<br>倉鼠的可愛程度絕對不遜色於貓和狗！牠們的體型小、活動空間需求不大，只要有籠子、滾輪和乾淨的墊材，就能在家中快樂地生活，除了壽命較短的缺點以外，對於上班族或學生來說，照顧起來都相對輕鬆。&nbsp;</p>
-
-
-
-<p>4.烏龜&nbsp;<br>對於想養一隻安靜的寵物主人來說，烏龜是很不錯的選擇，牠們性格溫和、活動量小，只需要乾淨的水質與適當的曬太陽時間，往往就能陪伴飼主十年以上，是非常適合有耐心的新手最佳伴侶。&nbsp;</p>
-
-
-
-<p>5.兔子&nbsp;<br>兔子溫順安靜，外表軟萌到讓人心都被融化，牠們不太會叫，也不會破壞家具，飼主只需要注意飲食（多吃牧草少吃飼料）與清潔環境，就能讓牠們過得很健康，不過兔子對溫度的變化十分敏感，通常需要安靜與穩定的生活環境。&nbsp;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/13/%e5%af%b5%e7%89%a9%e4%b8%8d%e6%98%af%e5%8f%aa%e6%9c%89%e8%b2%93%e7%8b%97%ef%bc%81%e6%9c%80%e9%81%a9%e5%90%88%e6%96%b0%e6%89%8b%e9%a3%bc%e9%a4%8a%e7%9a%84%e3%80%8c%e4%ba%94%e5%a4%a7%e5%8b%95%e7%89%a9/">寵物不是只有貓狗！最適合新手飼養的「五大動物」這些也很熱門 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>The page is temporarily unavailable</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #900;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #900;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #000;
+            }
+            h3 {
+                text-align: center;
+                background-color: #ff0000;
+                padding: 0.5em;
+                color: #fff;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1><strong>nginx error!</strong></h1>
+
+        <div class="content">
+
+            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>Something has triggered missing webpage on your
+                    website. This is the default error page for
+                    <strong>nginx</strong> that is distributed with
+                    Red Hat Enterprise Linux.  It is located
+                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+
+                    <p>You should customize this error page for your own
+                    site or edit the <tt>error_page</tt> directive in
+                    the <strong>nginx</strong> configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+                <a href="http://www.redhat.com/"><img
+                    src="poweredby.png"
+                    alt="[ Powered by Red Hat Enterprise Linux ]"
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</html>
