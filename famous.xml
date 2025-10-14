@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/名家/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 14 Oct 2025 01:38:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Oct 2025 03:34:25 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,104 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 03:34:21 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Upbeat Technology]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=266933</guid>
+
+					<description><![CDATA[<p>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 </p>
+
+
+
+<p>此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-266952" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器, 可應用於IoT, 穿戴裝置, 無人機, 機器人。圖/阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。 目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。</p>
+
+
+
+<p>目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於 SiFive</strong></h2>
+
+
+
+<p>SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>【最新調查】台灣六成國人維生素D不足！專家警告：「防曬一族」反成健康陷阱</title>
 		<link>https://firenews.com.tw/2025/10/14/%e3%80%90%e6%9c%80%e6%96%b0%e8%aa%bf%e6%9f%a5%e3%80%91%e5%8f%b0%e7%81%a3%e5%85%ad%e6%88%90%e5%9c%8b%e4%ba%ba%e7%b6%ad%e7%94%9f%e7%b4%a0d%e4%b8%8d%e8%b6%b3%ef%bc%81%e5%b0%88%e5%ae%b6%e8%ad%a6%e5%91%8a/</link>
 		
@@ -49,7 +147,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-266879" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-266879" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/悠活原力_首圖.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
 
 
 
@@ -968,96 +1066,6 @@
 
 <p>雅特力科技未來將持續強化AI演算法支援、感測融合與即時響應能力，並攜手合作夥伴推動智慧製造、AIoT與消費性電子的持續升級。透過「高效能、高性價比」的MCU解決方案，雅特力將為開發者帶來更靈活的設計選擇，並推動全球智慧生態的發展。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e9%9b%85%e7%89%b9%e5%8a%9b%e6%b7%b1%e8%80%95%e9%82%8a%e7%b7%a3-ai-%e8%88%87%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%ef%bc%9aat32-mcu-%e5%9c%a8-2025-ee-%e5%89%8d%e7%9e%bb%e6%8a%80%e8%a1%93%e5%a4%a7/">雅特力深耕邊緣 AI 與智慧應用：AT32 MCU 在 2025 EE 前瞻技術大會盛大登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Synology 推出一站式 AI 解方　助企業兼顧資安與效率</title>
-		<link>https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 01:41:27 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=264686</guid>
-
-					<description><![CDATA[<p>生成式 AI 正在重塑企業工作流程，並成為提升團隊生產力的核心工具。然而，隨著 AI 滲透至日常營運，IT 團 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/">Synology 推出一站式 AI 解方　助企業兼顧資安與效率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>生成式 AI 正在重塑企業工作流程，並成為提升團隊生產力的核心工具。然而，隨著 AI 滲透至日常營運，IT 團隊正面臨兩大挑戰：資安與合規風險急遽升高，以及 AI 系統整合與維運人才的短缺。</p>
-
-
-
-<p>「生成式 AI 可以說是一把雙面刃，帶來便利性的同時，也得考量伴隨的資料安全與合規挑戰。畢竟 AI 應用經常涉及大量敏感資訊，如果缺乏有效治理，可能導致『影子 AI』氾濫、資料誤用甚至外洩風險。」Synology 企業應用事業群協理黃智廣觀察，「同時，零散的工具與繁瑣的部署流程，也讓中小企業 IT 團隊在人才不足的情況下面臨沉重負擔。」</p>
-
-
-
-<p>企業當前迫切需要一套能整合 AI 生產力工具，同時確保資安與合規的一站式解決方案，對此Synology 全新推出的管理工具 AI Console，將能有效協助企業應對資安與人才缺口的雙重壓力。</p>
-
-
-
-<p><strong>化解影子</strong><strong> AI</strong><strong>，打造透明治理的中控台</strong></p>
-
-
-
-<p>黃智廣說明，Synology AI Console 首先可賦予 IT 部門靈活部署多元 AI 模型的能力，IT 得以在單一介面，輕鬆管理包括 OpenAI、Azure OpenAI、Google Gemini、Amazon Bedrock 等模型，還能避免員工使用未經公司授權的 AI 工具，大幅降低影子 AI 的風險。</p>
-
-
-
-<p>接著，IT 可為每個 AI 模型，設定每日或每分鐘的 token 用量上限，有效防止濫用，以控制 AI 成本在預算範圍內。同時，透過角色權限管理，可針對特定團隊或使用者開啟 AI 功能，確保 AI 資源被正確的使用者充分發揮價值。</p>
-
-
-
-<p><strong>從遮蔽與還原資料，到監控行為都在本地完成</strong></p>
-
-
-
-<p>除了提供管理易用性，黃智廣強調 Synology AI Console 的另一個目標，是保護企業最重要的機密資料，並滿足如 GDPR、個資法等多國資料合規要求。</p>
-
-
-
-<p>具體來說，Synology AI Console 支援去識別化功能，內建了全球與各國機密資料的標準項目，例如姓名、信用卡號碼、銀行帳戶、IP 位置、電子郵件地址、API 金鑰等。選定項目之後，員工傳送內容到第三方 AI 供應商時，AI Console 就會先自動遮蔽中的機密資訊；而當模型回傳結果，再由 AI Console 還原資料，整個遮蔽與還原過程皆在地端執行，確保所有機密資料都只流通於企業儲存伺服器，防止資料外洩或被第三方 AI 模型用於訓練。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="599" height="292" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Synology_AI_Console.jpg?resize=599%2C292&#038;ssl=1" alt="" class="wp-image-264687" data-recalc-dims="1"/><figcaption class="wp-element-caption">Synology AI Console 提供機敏資料去識別化功能，避免重要資訊洩漏。</figcaption></figure>
-
-
-
-<p>另外，Synology AI Console 提供完整的稽核日誌，從使用者 AI 操作行為（使用時間、IP、token 數量、指令內容），到 AI 輸入與輸出，以及管理員變更配置，都會詳實記錄，讓 IT 部門隨時掌控員工如何使用 AI 工具，確保符合公司政策，並得以定期匯出報告，滿足稽核與合規需求。</p>
-
-
-
-<p><strong>無額外</strong><strong> AI </strong><strong>整合成本，賦能原生</strong><strong> Synology Office Suite</strong></p>
-
-
-
-<p>回到團隊生產力，企業現行經常使用公有雲生產力平台的 AI 訂閱方案，但往往要價不菲且方案持續變動、難以預測未來開支。黃智廣指出，Synology AI Console 本身無需額外費用，只要企業新增原有的第三方 AI 模型，再啟用 Synology Office Suite 的支援套件，即可享有同等級的 AI 生產力工具。</p>
-
-
-
-<p>黃智廣舉例，Synology Office 透過 AI 助理，可快速撰寫草稿、協助潤飾文字、翻譯整份簡報、在試算表生成公式，甚至能參考存放在 Synology Drive 的檔案，得到更精準、更符合需求的內容；而 Synology MailPlus 亦能快速摘要冗長信件，並參考歷史信件提供回覆建議，有效減少繁瑣重複的工作。他強調，相較於訂閱公有雲 AI 方案，Synology AI Console 整套解決方案相當實惠，且易於掌握整體擁有成本（TCO），更適合企業打造智慧辦公環境。</p>
-
-
-
-<p>Synology AI Console 只是落實私有雲 AI 整合的第一步，黃智廣分享了 Synology 的 AI 策略藍圖，未來將支援與 OpenAI API 相容的 AI 伺服器，讓企業能自由選擇自建的大型語言模型（Large Language Model, LLM）。同時，結合 MCP（Model Context Protocol）與 RAG（Retrieval-Augmented Generation）技術，將真正實現「全地端 AI 使用環境」。</p>
-
-
-
-<p>這意味著企業能在完全掌控資料與伺服器的前提下，靈活打造各種 AI 應用場景，並兼顧安全與合規。舉例來說，企業可將 Synology AI Console 作為 MCP server，串接 LLM 供內部 AI Agent 存取，用來自動化重複繁瑣的工作流程，除此之外，還能建構專屬的內部知識庫，透過 RAG 讓 AI 參考企業資料，生成結果更加精準。</p>
-
-
-
-<p>從 AI 模型選擇、使用權限控管、資料安全到稽核與合規，還能提供高成本效益的智慧生產力工具，Synology 一站式 AI 管理方案，讓企業能夠放心地完成 AI 轉型，高效又安全地邁向 AI 驅動的新工作模式。</p>
-
-
-
-<p>立即諮詢 Synology AI 私有雲解決方案：<a href="https://sy.to/aymua" target="_blank" rel="noreferrer noopener">https://sy.to/aymua</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/synology-%e6%8e%a8%e5%87%ba%e4%b8%80%e7%ab%99%e5%bc%8f-ai-%e8%a7%a3%e6%96%b9%e3%80%80%e5%8a%a9%e4%bc%81%e6%a5%ad%e5%85%bc%e9%a1%a7%e8%b3%87%e5%ae%89%e8%88%87%e6%95%88%e7%8e%87/">Synology 推出一站式 AI 解方　助企業兼顧資安與效率</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
