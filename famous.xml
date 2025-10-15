@@ -1,120 +1,849 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Wed, 15 Oct 2025 06:57:01 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</title>
+		<link>https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 06:56:59 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[打造你的菁彩人生]]></category>
+		<category><![CDATA[耶魯愛絲一號救護車]]></category>
+		<category><![CDATA[黃衍菁]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267648</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>生活中心/綜合報導 作家暨保險業領導人黃衍菁老師，以新書《打造你的菁彩人生》（渠成文化出版發行）為起點，發起「 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/">萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/綜合報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>作家暨保險業領導人黃衍菁老師，以新書《打造你的菁彩人生》（渠成文化出版發行）為起點，發起「耶魯愛絲一號救護車計畫」，透過版稅盈餘及萬人響應支持，於專書出版滿一周年之際，成功將一輛高規格救護車捐贈給臺北市立聯合醫院和平婦幼院區。</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267650" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">歷時一年，黃衍菁老師與其團隊順利實現捐贈救護車的承諾，為臺北市立聯合醫院和平婦幼院區添增頂規良將，展現民間力量的大愛與善心。圖/匠心文創‧渠成文化提供</figcaption></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>黃衍菁老師表示，這是她「101個人生夢想」之一，源於年少時曾搭乘由善心人士捐贈的救護車而深受感動。她回憶道：「當時我突然昏倒，雖然被救護車送醫後轉危為安，但心裡很擔心要付多少錢？沒想到院方告訴我：『不用錢，因為這是老奶奶捐的。』這句話在我心裡種下了一顆種子。今天能夠不只是靠我個人，而是帶動大家一起實現這個夢想，真的覺得很難得！」</p>
+
+
+
+<p>事實上，《打造你的菁彩人生》一書正記錄了她在保險事業的奮鬥歷程與人生哲學，也見證她如何將「夢想與勇氣」轉化為社會貢獻。黃衍菁老師自執筆之初便已規劃將版稅全數投入公益，如今能在一年內兌現捐贈救護車的承諾，不僅展現務實明確的行動力，也凸顯她以出版號召萬人響應的影響力。</p>
+
+
+
+<p>臺北市立聯合醫院和平婦幼院區許家禎先生在致詞時指出：「在這個充滿衝突的時代，社會更需要傳遞溫暖與愛。公益善舉應該被多多傳揚，因為它能啟發更多人行善。」他也強調，公立醫院編列大型設備預算往往需要多年流程，但臨床第一線卻瞬息萬變，「民間的善舉就像及時雨，讓我們能更快守護病人。」他鼓勵民眾主動洽詢鄰近醫院的需求，無論金額大小，都可能在最需要的時刻成為關鍵支持。</p>
+
+
+
+<p>救護車廠商代表陳先生補充，本次捐贈車輛自德國進口，依照院方需求規格改裝到交車需符合相關單位規定及審查，通常從簽約、訂車、改裝至交車需八至十個月。也因救護車非一般市面銷售車輛，因此都是在有需求時才會訂購特定車款來依照單位需求打造救護車輛，因此能在短短一年內從想法化作實際行動到完成交車，實屬難得。他也指出，相較消防體系，醫療體系的車輛汰換年限相對較長（10年）因此能獲贈此次較高規格的加護型救護車可以為更多所需病患提供更完善的服務。</p>
+
+
+
+<p>交接儀式於臺北市立聯合醫院和平婦幼院區圓滿舉行，這輛全新頂級加護型救護車包含：攜帶式電擊器含心電圖、加護型急救包、椅座式鋁合金擔架等，以最高規格提升緊急醫療救護品質，即日起正式投入院方勤務，隨時支援病患需求，以最高規格守護台北市民。黃衍菁老師也非常感謝讀者、企業與出版社的支持，讓書籍成為凝聚公益能量的媒介。她表示：「這是一個萬人發起、萬人響應的計畫，每一份心意都匯聚成守護生命的力量。」</p>
+
+
+
+<p>值得一提的是，這輛「耶魯愛絲一號」救護車車身特別設置了一個 QR Code，掃描即可連結至雲端「捐贈芳名錄」，凡參與購書與捐贈的朋友都能留名，共同見證這份愛心。黃衍菁老師說：「這不僅是一台救護車，更是一場大家一起完成的公益行動。也誠摯歡迎更多人未來加入，攜手成就更多回饋社會的計畫。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/">萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</title>
+		<link>https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 05:29:31 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[社團法人台灣身心障礙兒童權利促進會]]></category>
+		<category><![CDATA[超級小玩家]]></category>
+		<category><![CDATA[身障童盟]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267579</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 由社團法人台灣身心障礙兒童權利促進會主辦、財團法人顯恩慈善基金會贊助支持的「超級小玩家 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/">「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>由社團法人台灣身心障礙兒童權利促進會主辦、財團法人顯恩慈善基金會贊助支持的「超級小玩家」計畫，自2024年4月啟動，歷時五個月，14位身心障礙兒童化身「超級小玩家」，成功完成任務——走訪並實地體驗雙北市 274座共融遊戲場。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267582" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025年4月4日，「超級小玩家」授證與啟動儀式於台北市前港公園舉行。社團法人台灣身心障礙兒童權利促進會祕書長（前排左四）、顯恩慈善基金會創辦人（前排左六）與多位台北市議員共同出席，見證計畫正式啟動。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>計畫於 <strong>4月4日(兒童節)</strong> 在台北市前港公園舉行授證與啟動儀式，14位孩子領取專屬識別證與任務背包，正式展開實地探勘。當天獲得各界熱烈支持，包括台北市議員顏若芳、簡舒培、郭昭巖、林珍羽，新北市議員鄭宇恩，立法委員蘇巧慧服務團隊，臺北市社會局、臺北市政府工務局公園路燈工程管理處、中華民國景觀學會、社團法人台灣兒童遊戲設備發展協會、台灣公園設施協會、前港里里長陳瑞華、集仕股份有限公司、康鼎勤業股份有限公司等單位與人士蒞臨或致意。公私部門齊聚一堂，共同肯定以兒少視角推動共融價值的重要性。 </p>
+
+
+
+<p>在五個月的任務歷程中，「超級小玩家」不僅是遊戲場的參與者，更是觀察員與檢視者。他們以自身真實使用經驗，檢視設施是否友善、無障礙，並提出實際的困難與建議。例如，部分遊具雖設有坡道，但坡度過陡難以獨立使用；有些設施雖標榜共融，卻缺乏適合輪椅使用者的選項。孩子們的觀察與回饋，為遊戲場設計與改善提供了第一手、真實的寶貴資料。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>孩子發聲，推動改變——讓每個人都能一起玩</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267581" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小玩家在任務過程中體驗遊戲板，透過實際操作感受遊具的設計與使用情況。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>社團法人台灣身心障礙兒童權利促進會周淑菁秘書長指出，根據國土管理署統計，目前全台近7,000座公園遊戲場中，提供身心障礙兒童使用的遊戲場僅佔10.7%。對許多身心障礙兒童來說，「玩耍」仍是一項遙不可及的權利。</p>
+
+
+
+<p>「共融遊戲場不是為了特定群體，而是為了讓每一個孩子，都能有平等參與的機會。」協會強調，本計畫的核心不只在於硬體改善，更在於讓孩子成為公共空間設計的參與者。透過實地走訪與回饋，小玩家們將與社區、校園、大眾對話，一步步推動空間與觀念的轉變。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>顯恩慈善基金會支持兒童參與權，實踐CRPD精神</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1152" height="2560" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=1152%2C2560&#038;ssl=1" alt="" class="wp-image-267580" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?w=1152&amp;ssl=1 1152w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=768%2C1707&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=691%2C1536&amp;ssl=1 691w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=922%2C2048&amp;ssl=1 922w" sizes="(max-width: 1152px) 100vw, 1152px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小玩家於任務過程中隨身攜帶捲尺，實地量測遊戲場洗手台高度，檢視是否符合兒童及輪椅使用者的需求。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>顯恩慈善基金會創辦人廖楓老師表示，「超級小玩家」計畫不僅關注身心障礙兒童在遊戲場中的平等權利，更著眼於他們在社會中的全面參與。她強調，這項計畫讓孩子學習表達自身需求、發現問題，並透過實地行動促使社會改變，是一次重要的自我發聲與倡議機會。</p>
+
+
+
+<p>廖楓老師指出，讓身心障礙兒童成為共融遊戲場的實地探勘者，是實踐平等、尊嚴與社會責任的具體行動。她呼籲社會各界應正視無障礙設施的重要性，攜手為每個孩子創造更友善的成長環境，並表示基金會將持續全力支持，讓每位孩子的聲音都被聽見、需求被理解與回應。</p>
+
+
+
+<p>本計畫成果將於 <strong>11月7日（五）~11月9日（日）假剝皮寮歷史街區演藝廳</strong> 舉辦成果發表，屆時將呈現孩子們的紀錄影像與觀察報告，邀請社會各界一同見證「超級小玩家」的努力與收穫。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/">「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</title>
+		<link>https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:59:49 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ESG for Culture：企業Ｘ文化｜跨界新想像]]></category>
+		<category><![CDATA[上銀科技]]></category>
+		<category><![CDATA[大可創藝]]></category>
+		<category><![CDATA[文化內容策進院]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267542</guid>
+
+					<description><![CDATA[<p>生活中心/綜合報導 為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG f &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/">當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/綜合報導</p>
+
+
+
+<p>為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG for Culture：企業Ｘ文化｜跨界新想像》。本集邀請「上銀科技股份有限公司」（以下稱上銀科技）總經理蔡惠卿，以及「大可創藝股份有限公司」（以下稱大可創藝）創辦人潘思廷，分享雙方跨界的合作歷程，並帶領觀眾深入了解企業能夠如何為臺灣這座科技之島注入更多文化底蘊，實踐文化 ESG 的創新行動。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-267544" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"> 【ESG for Culture：企業Ｘ文化｜跨界新想像】本集節目訪談畫面（圖片來源：文化內容策進院）</figcaption></figure>
+
+
+
+<p>上銀科技長期關注科技、藝術結合的可能性，早在 2007 年時便與法國藝術家 Daniel Depoutot 合作，將精密零組件轉化為具有故事性與生命力的裝置藝術。此次透過文策院媒合，上銀科技與致力推動文化平權與人才培育的大可創藝攜手合作，推動「機器手臂推廣創作培力計畫」，打造結合教育、科技與表演的跨域工作坊。</p>
+
+
+
+<p>在合作的過程中，藝術家與工程師跳脫自身專業框架，透過不斷轉譯彼此的語言逐漸建立理解與默契，也重新思索自身對藝術與科技的想像與定義。原本冰冷的機器手臂，也逐步轉變為具表演性與敘事能力的「舞台角色」。</p>
+
+
+
+<p>文化內容能夠為科技注入溫度，而科技也為文化內容帶來突破既有框架的可能與支撐。本次合作不僅讓科技走入藝術場域，也為企業投入文化內容合作提供可借鏡的行動經驗，無論是藝術科技化、科技藝術化，都是彼此學習、滋養的過程，更進一步打破科技與藝術之間的界線。</p>
+
+
+
+<p>展望未來，雙方預計將持續合作，期望共同打造出一個能長期運作的教育、創作平台，成為藝術與科技共創的孵化基地，展現出這段合作不只是一次創新的嘗試，更是對人才培育與藝術永續的具體實踐。</p>
+
+
+
+<p>#【ESG for Culture：企業Ｘ文化｜跨界新想像】節目資訊<br>▍YT、FB 同步上架┃文化內容策進院TAICCA<br>▍更新時間┃每月第一、三個完整周上片<br>文策院官方 Facebook：<a href="https://www.facebook.com/taicca.tw">https://www.facebook.com/taicca.tw</a><br>文策院 YouTube 頻道：<a href="https://www.youtube.com/@TAICCA">https://www.youtube.com/@TAICCA</a><br>ESG for Culture 官網：<a href="https://taicca.tw/resources/cooperation_matchmak/esg">https://taicca.tw/resources/cooperation_matchmak/esg</a></p>
+
+
+
+<p></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/">當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</title>
+		<link>https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:41:51 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267533</guid>
+
+					<description><![CDATA[<p>全球物聯網與嵌入式運算技術領導品牌 控創（Kontron）推出型號為「KBox E-430-AML/ADN/A &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/">控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球物聯網與嵌入式運算技術領導品牌 控創（Kontron）推出型號為「KBox E-430-AML/ADN/AMH/ADH」的新一代工業電腦。該系列可提供一個無風扇且堅固耐用的小型運算平台，協助加速智慧製造、智慧醫療、智慧城市及智慧零售等多元智能應用的落地發展。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=1024%2C1024&#038;ssl=1" alt="" class="wp-image-267534" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /><figcaption class="wp-element-caption">控創KBox E-430-AML/ADN/AMH/ADH無風扇工業電腦</figcaption></figure>
+
+
+
+<p><strong>人工智慧賦能運算平台</strong></p>
+
+
+
+<p>KBox E-430-AML/ADN/AMH/ADH搭載Intel® Atom® x7000RE系列、Intel® Core<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i3 N系列或Intel® N系列中央處理器，可借助其內建高達32個執行單元的整合式圖形處理器與人工智慧加速功能，提供一個兼具效能與成本優勢的4K影像處理以及深度學習與人工智慧工作負載加速的低功耗邊緣運算利器。</p>
+
+
+
+<p><strong>即時反應能力</strong></p>
+
+
+
+<p>該工業電腦視機種可支援Intel®時序協調運算（Time Coordinated Computing或縮寫為TCC）技術與時效性網路（Time-Sensitive Networking或縮寫為TSN）標準，能夠在系統內以及乙太網路環境下各系統間展現即時反應能力，確保諸如協同作業、即時控制與安全應變等時間關鍵型任務可以在預期的時間點準確完成。</p>
+
+
+
+<p><strong>工業級韌性</strong></p>
+
+
+
+<p>除了商用級操作溫度範圍，KBox E-430-AML/ADN/AMH/ADH還有支援操作溫度範圍從-40°C到65°C的寬溫機種，此外，還設計整合了多項堅固耐用的特性，可應付各種外在危害與威脅，確保系統可以穩健運行，例如無風扇與通風口的被動式散熱設計可以防止灰塵、污垢與溼氣的侵入；寬輸入電壓範圍可適應不穩定的電力供給、電壓突波或支援不同應用所需的各種電壓要求；內建獨立的TPM 2.0安全晶片則可提供更高的安全防護機制。</p>
+
+
+
+<p><strong>兩種影像輸出埠配置</strong></p>
+
+
+
+<p>該工業電腦提供兩種影像輸出埠配置可供選擇：KBox E-430-AML/ADN配有兩個DisplayPort連接埠，方便進行多顯設置；至於KBox E-430-AMH/ADH則分別有一個HDMI連接埠與一個DisplayPort連接埠，可兼容兩大主流影像傳輸介面，創造最大的應用可能性。此外，兩者都還配置了一個支援DisplayPort Alt模式的USB Type-C連接埠，可滿足USB-C觸控螢幕顯示器單一接孔傳輸之所需。</p>
+
+
+
+<p>更多關於KBox E-430-AML/ADN/AMH/ADH的詳情請參考：<a href="https://www.kontron.com/en/products/kbox-e-430-aml-adn-amh-adh/p186545" target="_blank" rel="noreferrer noopener">https://www.kontron.com/en/products/kbox-e-430-aml-adn-amh-adh/p186545</a>。</p>
+
+
+
+<p><strong>關於控創</strong> 控創引領物聯網與工業4.0技術市場，推出涵蓋硬體、軟體與服務的各種安全先進解決方案，藉以加快客戶產品上市時間、降低整體擁有成本、同時提供長期供貨承諾，鞏固其在智慧技術整合方面作為一個可信賴夥伴的角色。更多資訊，請參考控創官網www.kontron.com、電洽+886-(0)<a href="mailto:2-2799-2789或email至SalesAsia@kontron.com">2-2799-2789或email至SalesAsia@kontron.com</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/">控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>亞洲大學攜手美國 NucleicAI 建構主權 AI 生醫數據平台　推動台灣生命科學創新生態</title>
+		<link>https://firenews.com.tw/2025/10/15/%e4%ba%9e%e6%b4%b2%e5%a4%a7%e5%ad%b8%e6%94%9c%e6%89%8b%e7%be%8e%e5%9c%8b-nucleicai-%e5%bb%ba%e6%a7%8b%e4%b8%bb%e6%ac%8a-ai-%e7%94%9f%e9%86%ab%e6%95%b8%e6%93%9a%e5%b9%b3%e5%8f%b0/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:32:48 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267530</guid>
+
+					<description><![CDATA[<p>亞洲大學持續深化人工智慧在生醫領域的應用，校長蔡進發13日代表學校與美國麻省理工學院（MIT）、哈佛大學設立的 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%ba%9e%e6%b4%b2%e5%a4%a7%e5%ad%b8%e6%94%9c%e6%89%8b%e7%be%8e%e5%9c%8b-nucleicai-%e5%bb%ba%e6%a7%8b%e4%b8%bb%e6%ac%8a-ai-%e7%94%9f%e9%86%ab%e6%95%b8%e6%93%9a%e5%b9%b3%e5%8f%b0/">亞洲大學攜手美國 NucleicAI 建構主權 AI 生醫數據平台　推動台灣生命科學創新生態</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>亞洲大學持續深化人工智慧在生醫領域的應用，校長蔡進發13日代表學校與美國麻省理工學院（MIT）、哈佛大學設立的&nbsp;Broad Institute&nbsp;衍生公司&nbsp;NucleicAI&nbsp;共同創辦人、哈佛醫學院國際遺傳疾病中心主任哈吉希，正式簽署合作備忘錄。雙方將共同開發並部署 「生命科學數據平台」（Life Science Data Platform），結合國際頂尖AI與基因體技術與亞大的科研能量，打造新一代健康數據生態系。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="864" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053796_31277869.jpg?resize=1220%2C864&#038;ssl=1" alt="" class="wp-image-267531" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053796_31277869.jpg?w=1430&amp;ssl=1 1430w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_5053796_31277869.jpg?resize=768%2C544&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">亞大校長蔡進發(左)、美國麻州波士頓的 NucleicAI 公司共同創辦人、哈佛醫學院國際遺傳疾病中心主任哈吉希教授(右)，簽署合作備忘錄（MoU），將共同開發「生命科學數據平台」。</figcaption></figure>
+
+
+
+<p>哈吉希教授指出，台灣在生醫、學術生態方面具備世界級的優勢，此次合作將打造主權AI生醫數據平台，有助於加速預測醫學、預防醫學與精準醫療的發展，同時促進更具成本效益的藥物研發。</p>
+
+
+
+<p>辛克萊教授提到，這樣具前瞻、遠見的合作，將改變運用數據推進人類健康與延壽研究的方式，很高興能與亞大攜手，展現人工智慧與生命科學結合，所能創造的無限可能。</p>
+
+
+
+<p>此次合作將以 NucleicAI 平台為核心，建構大規模的生命科學數據平台，並推展基因體學、表觀基因體學、AI分析及人類健康長壽等領域的研究合作。由「中亞聯大」體系亞大、亞大附屬醫院、中國醫藥大學附設醫院等，未來將逐步整合、安全管理有關生命科學與健康資料在該平台，促進跨領域研究合作、隱私保護分析、AI洞察生成、及與國際產學研夥伴的更廣泛連結。 蔡校長強調，在執行時，雙方將嚴格遵守國際數據治理與法規準則，確保資料主權與安全。這項計畫突顯出在人工智慧時代下，建構安全且智慧化的生醫數據基礎設施對於公共健康、醫學研究與國家競爭力的重要性。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%ba%9e%e6%b4%b2%e5%a4%a7%e5%ad%b8%e6%94%9c%e6%89%8b%e7%be%8e%e5%9c%8b-nucleicai-%e5%bb%ba%e6%a7%8b%e4%b8%bb%e6%ac%8a-ai-%e7%94%9f%e9%86%ab%e6%95%b8%e6%93%9a%e5%b9%b3%e5%8f%b0/">亞洲大學攜手美國 NucleicAI 建構主權 AI 生醫數據平台　推動台灣生命科學創新生態</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kiton 生活藝術的優雅收藏家｜the best of the best +1</title>
+		<link>https://firenews.com.tw/2025/10/15/kiton-%e7%94%9f%e6%b4%bb%e8%97%9d%e8%a1%93%e7%9a%84%e5%84%aa%e9%9b%85%e6%94%b6%e8%97%8f%e5%ae%b6%ef%bd%9cthe-best-of-the-best-1/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Kiton]]></category>
+		<category><![CDATA[生活藝術]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267428</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 Kiton 歷史與理念 Kiton 來自Italy Naplas（義大利．那不勒斯）鄰 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/kiton-%e7%94%9f%e6%b4%bb%e8%97%9d%e8%a1%93%e7%9a%84%e5%84%aa%e9%9b%85%e6%94%b6%e8%97%8f%e5%ae%b6%ef%bd%9cthe-best-of-the-best-1/">Kiton 生活藝術的優雅收藏家｜the best of the best +1</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Kiton 歷史與理念</strong></h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>Kiton 來自Italy Naplas（義大利．那不勒斯）鄰近的小鎮 Arzano（阿爾扎諾），Naplas 是Italy古老剪裁傳統的聖地，Kiton自1968年創立以來，堅持手工打造，每日不斷精進更新，深深地傳遞著對服飾深沉的愛。</strong></p>
+</blockquote>
+
+
+
+<p>從過去只是一間服飾工作坊，近20年間，已蛻變成頗具規模的全球知名品牌，從Naplas走向全球，為世人展現獨特的創意魅力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1178" height="800" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1完美匠心執著，精湛剪裁技藝.png?resize=1178%2C800&#038;ssl=1" alt="" class="wp-image-267429" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1完美匠心執著，精湛剪裁技藝.png?w=1178&amp;ssl=1 1178w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1完美匠心執著，精湛剪裁技藝.png?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1完美匠心執著，精湛剪裁技藝.png?resize=220%2C150&amp;ssl=1 220w" sizes="(max-width: 1178px) 100vw, 1178px" data-recalc-dims="1" /><figcaption class="wp-element-caption">完美匠心執著，精湛剪裁技藝。圖/ Kiton提供</figcaption></figure>
+
+
+
+<p>針、線、剪刀，裁縫師利用這些永恆的工具，賦予每一件服飾獨特且唯一的生命，完美的匠心執著、精湛的剪裁技藝，一絲不苟，確保每一個細節、每一件作品、讓每一次體驗皆臻於至高無上之境。品牌核心理念始終如一：the best of the best +1 最好中的頂級選擇，沒有之一，也與Kiton “I”上的紅點象徵著通往奢華時尚世界的啟動按鈕，同時寓意著太陽、力量與豐沛的活力。整體設計以醒目的襯線字體，搭配經典的黑、紅、白配色，透露著對生活精緻、優雅的風韻。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Kiton 永續傳承</strong></h2>
+
+
+
+<p>Kiton千禧年後，高瞻遠矚設立了高級訂製服學院，為卓越剪裁注入新生。</p>
+
+
+
+<p>品牌展望未來，將持續傳承精湛技藝，同時擁抱創新與實驗精神。2021年，家族第二代承繼創始人Ciro Paone先生的道德與創業遺產，以技術革新與剪裁實驗重塑品牌價值。</p>
+
+
+
+<p><strong>「對美的熱愛，代代相傳」</strong>是Kiton的核心。Ciro Paone深知精湛剪裁源於日復一日的精進與手工技藝的累積，因此他將對美的熱情和對細節的執著，廣傳給每一位員工，使之成為知識的守護者與傳承者。</p>
+
+
+
+<p>Kiton深信，企業基石在於文化、技能與熱情。透過學院培育人才，確保員工在尊重與平等的環境中發展，尤其重視且支持性別平等。品牌精神本質上即為永續，手工製程對環境影響極微。Kiton積極選用環保材質，研發可分解紗線，並承諾透過修復服務、環保包裝、太陽能系統及環境永續部門，為地球獻上一份優雅而深遠的貢獻。 </p>
+
+
+
+<p>現今，Kiton在義大利坐擁5家工廠與800名以上員工，其中一半以上為工匠，將精湛工藝結合有效的分銷系統持續成長，於全球擁有超過60家旗艦店，在台北也設置兩家門市據點，2025/26 秋冬系列已悄然掀開篇章，此系列透過細緻布料、結合具有豐富層次的色彩運用與設計，每一件作品都是藝術，值得珍藏，除了過往大家所熟稔的男裝系列外，本季女裝獨特創意魅力也值得您的細細品味。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>§ 2025/26 秋冬女裝系列｜生活精髓的收藏家</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1727" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2本季深邃的森林綠散發著永恆的優雅和精緻-scaled.jpg?resize=1220%2C1727&#038;ssl=1" alt="" class="wp-image-267430" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2本季深邃的森林綠散發著永恆的優雅和精緻-scaled.jpg?w=1808&amp;ssl=1 1808w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2本季深邃的森林綠散發著永恆的優雅和精緻-scaled.jpg?resize=768%2C1088&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2本季深邃的森林綠散發著永恆的優雅和精緻-scaled.jpg?resize=1085%2C1536&amp;ssl=1 1085w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2本季深邃的森林綠散發著永恆的優雅和精緻-scaled.jpg?resize=1446%2C2048&amp;ssl=1 1446w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">本季深邃的森林綠散發著永恆的優雅和精緻。圖/ Kiton提供</figcaption></figure>
+
+
+
+<p>秋冬女裝系列為充滿閱歷、熱愛藝術與美的女性而生。</p>
+
+
+
+<p>本系列以「生活精髓的收藏家」為靈感出發，融合了對美的崇拜與文化價值，展現多變的設計靈魂，源於細緻的布料與色彩研究。</p>
+
+
+
+<p>色彩的運用，從丹寧藍、亮片藍、米咖棕、森林綠到繡紅印花，營造出豐富層次。經典黑白與復古色調交織，散發永恆優雅；同時，在服裝的實用性也相當講究，剪裁與面料能輕鬆適應各種場合，同時不失Kiton品牌獨有的格調與精緻。 </p>
+
+
+
+<p>配飾方面，經典的柔軟皮革手提包與麂皮質感的包款能為穿著搭配加入高雅藝術格調。鞋款系列涵蓋運動鞋、靴子及高跟鞋，設計皆以經久不衰的色調與圖案為主，旨在打造一個既能體現自我身份又能與真實和諧共處的衣櫥。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>§  2025/26 秋冬男裝系列｜生活藝術的收藏家</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1728" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采-scaled.jpg?resize=1220%2C1728&#038;ssl=1" alt="" class="wp-image-267431" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采-scaled.jpg?w=1807&amp;ssl=1 1807w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采-scaled.jpg?resize=768%2C1088&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采-scaled.jpg?resize=1084%2C1536&amp;ssl=1 1084w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/3那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采-scaled.jpg?resize=1446%2C2048&amp;ssl=1 1446w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">那不勒斯藍，如流動的詩篇，綻放出優雅而和諧的靜謐光采。圖/ Kiton提供</figcaption></figure>
+
+
+
+<p>Kiton所描繪的紳士典範，一位品味卓絕、格調高雅的智者，無需浮誇便能引人注目，在美學與文化感知的交織中泰然自若。他不僅遊歷世界標誌性地點，更懂得涵養其獨特文化，深知無論身處何處，都能融入一種反映真實藝術的生活方式。</p>
+
+
+
+<p>Kiton服裝能隨之遊走任何場合，從閒暇到商務，從晚宴到聚會，皆以簡約風範呈現。</p>
+
+
+
+<p>全新系列完美體現義大利剪裁的精髓，連最微小細節也精雕細琢，從袖口到拉鍊，皆有其意義。Kiton追求的，不僅是表面的美感，更是與真實、豐富且有意義的生活和諧共處，著重保存與昇華。</p>
+
+
+
+<p>色彩創新低調而優雅，選用Barbera羊毛廠的精選紗線，布料與圖案的巧妙組合，展現優雅與活力並存。服飾輕盈實用，每件單品都訴說著故事，引領著永恆精緻的光芒。Kiton為一位深知所求、勇於探索的男士而生，美是持續發現與成長的旅程，無需華麗框架，本身即傑作。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Kiton 匠心執著，全心為您，竭誠蒞臨</strong></h2>
+
+
+
+<p>台北文華東方酒店-文華精品1F｜ 02-2545-3688</p>
+
+
+
+<p>台北晶華酒店-麗晶精品B1｜ 02-2521-6115</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Kiton 臉書粉專</strong></h2>
+
+
+
+<p><a href="https://www.facebook.com/Kiton.Taiwan">https://www.facebook.com/Kiton.Taiwan</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Kiton 官網</strong></h2>
+
+
+
+<p><a href="https://kiton.com">https://kiton.com</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/kiton-%e7%94%9f%e6%b4%bb%e8%97%9d%e8%a1%93%e7%9a%84%e5%84%aa%e9%9b%85%e6%94%b6%e8%97%8f%e5%ae%b6%ef%bd%9cthe-best-of-the-best-1/">Kiton 生活藝術的優雅收藏家｜the best of the best +1</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>薪水漲、管理費凍漲？「AI鷹眼云狩隊」助社區年省50%夜間人力成本</title>
+		<link>https://firenews.com.tw/2025/10/15/%e8%96%aa%e6%b0%b4%e6%bc%b2%e3%80%81%e7%ae%a1%e7%90%86%e8%b2%bb%e5%87%8d%e6%bc%b2%ef%bc%9f%e3%80%8cai%e9%b7%b9%e7%9c%bc%e4%ba%91%e7%8b%a9%e9%9a%8a%e3%80%8d%e5%8a%a9%e7%a4%be%e5%8d%80%e5%b9%b4%e7%9c%81/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 02:03:25 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267467</guid>
+
+					<description><![CDATA[<p>面對基本工資連年上升，但社區管理費卻難以提升的普遍困境 ，台灣綜合性保全領導品牌—華辰保全，推出全新的「AI鷹 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%96%aa%e6%b0%b4%e6%bc%b2%e3%80%81%e7%ae%a1%e7%90%86%e8%b2%bb%e5%87%8d%e6%bc%b2%ef%bc%9f%e3%80%8cai%e9%b7%b9%e7%9c%bc%e4%ba%91%e7%8b%a9%e9%9a%8a%e3%80%8d%e5%8a%a9%e7%a4%be%e5%8d%80%e5%b9%b4%e7%9c%81/">薪水漲、管理費凍漲？「AI鷹眼云狩隊」助社區年省50%夜間人力成本</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>面對基本工資連年上升，但社區管理費卻難以提升的普遍困境 ，台灣綜合性保全領導品牌—華辰保全，推出全新的「AI鷹眼云狩隊」智慧安防服務 。這套方案結合了母公司云辰集團 的AI、物聯網(IoT)與雲端技術，鎖定社區夜間保全的人力成本痛點，主打「看得見的保全，AI永遠在線守護」 ，為社區管理提供一個更經濟、更高效的解決方案。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-127.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267536" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-127.png?w=1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-127.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">華辰保全透過無線智慧保全系統與雲端物聯網架構，整合多元裝置，能即時精準掌握社區安全異常狀況</figcaption></figure>
+
+
+
+<p>傳統的夜間駐衛警不僅人力成本高昂，也可能因疲勞或視線死角而產生安全漏洞。華辰保全表示「AI鷹眼云狩隊」為了解決這個問題，透過在社區大門、地下室、車道等重要區域，安裝無線門窗、紅外線、淹水等多種智慧感測器 ，進行24小時全方位監控 。所有訊號都會即時傳回雲端，由專業的管制中心全年無休監控。</p>
+
+
+
+<p>華辰保全總監何懿玲指出，「AI鷹眼云狩隊」整合了云辰集團四十多年的研發實力 ，以及華辰近三十年的在地服務經驗 ，目標就是將被動的防守，轉變為主動、全時偵測的智慧守護。這不僅是服務升級，更是對客戶資產安全的堅定承諾。</p>
+
+
+
+<p>在20年前，華辰保全推出「鷹眼影像保全」，現在「AI鷹眼云狩隊」將此優勢再度升級。當警報觸發時，系統會將現場影像同步傳回24小時管制中心 ，透過AI輔助判讀，中心人員能在3分鐘內掌握現場真實狀況 。相較於其他同業往往需要超過20分鐘，等待巡邏人員到場回報才能確認情況 ，反應速度與判斷準確度都有了大幅度提升。</p>
+
+
+
+<p>「AI鷹眼云狩隊」並非只是冷冰冰的系統。華辰保全說明，在每個社區服務前，團隊都會親自場勘，並為社區量身製作專屬的《社區夜間維護管理手冊》 ，詳細記載社區配置、設備操作與緊急處理SOP等 。</p>
+
+
+
+<p>為了符合不同社區的預算考量，華辰提供了「彈性半哨」、「夜間減哨」等多種合作方案 。社區白天可保留保全處理行政事務，夜間則交由管制中心遠端監控，最高可節省30-50%的人力成本 。此外，為響應ESG永續發展，華辰保全的巡邏車隊也正逐步汰換為高效能的油電混合動力車，以實際行動落實綠色營運。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%96%aa%e6%b0%b4%e6%bc%b2%e3%80%81%e7%ae%a1%e7%90%86%e8%b2%bb%e5%87%8d%e6%bc%b2%ef%bc%9f%e3%80%8cai%e9%b7%b9%e7%9c%bc%e4%ba%91%e7%8b%a9%e9%9a%8a%e3%80%8d%e5%8a%a9%e7%a4%be%e5%8d%80%e5%b9%b4%e7%9c%81/">薪水漲、管理費凍漲？「AI鷹眼云狩隊」助社區年省50%夜間人力成本</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>來自歐洲的幸福滋味  名廚林耀輝 親訪產地分享風味筆記  帕達諾乳酪 Grana Padano PDO 登台推廣計畫公開</title>
+		<link>https://firenews.com.tw/2025/10/15/%e4%be%86%e8%87%aa%e6%ad%90%e6%b4%b2%e7%9a%84%e5%b9%b8%e7%a6%8f%e6%bb%8b%e5%91%b3-%e5%90%8d%e5%bb%9a%e6%9e%97%e8%80%80%e8%bc%9d-%e8%a6%aa%e8%a8%aa%e7%94%a2%e5%9c%b0%e5%88%86%e4%ba%ab%e9%a2%a8/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 23:40:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Grana Padano]]></category>
+		<category><![CDATA[Happiness from Europe]]></category>
+		<category><![CDATA[PDO]]></category>
+		<category><![CDATA[主廚林耀輝]]></category>
+		<category><![CDATA[帕達諾乳酪聯盟]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267178</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 為行銷獲得歐盟原產地命名保護（PDO）的Grana Padano帕達諾乳酪，歐盟今年在 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%be%86%e8%87%aa%e6%ad%90%e6%b4%b2%e7%9a%84%e5%b9%b8%e7%a6%8f%e6%bb%8b%e5%91%b3-%e5%90%8d%e5%bb%9a%e6%9e%97%e8%80%80%e8%bc%9d-%e8%a6%aa%e8%a8%aa%e7%94%a2%e5%9c%b0%e5%88%86%e4%ba%ab%e9%a2%a8/">來自歐洲的幸福滋味  名廚林耀輝 親訪產地分享風味筆記  帕達諾乳酪 Grana Padano PDO 登台推廣計畫公開</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>為行銷獲得歐盟原產地命名保護（PDO）的Grana Padano帕達諾乳酪，歐盟今年在台啟動「來自歐洲的幸福滋味 Happiness from Europe」計畫，邀請曾於歐洲修業，並於米蘭、都靈等地工作的「你家樓下downstairs」主廚林耀輝親赴歐洲，展開一段Grana Padano PDO帕達諾乳酪產地之旅，成為未來在台推廣Grana Padano PDO帕達諾乳酪的種子教練，並揭示未來兩年在台推廣計畫。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267186" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P01-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1181" height="787" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P04-.jpg?resize=1181%2C787&#038;ssl=1" alt="" class="wp-image-267187" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P04-.jpg?w=1181&amp;ssl=1 1181w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P04-.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1181px) 100vw, 1181px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Grana Padano帕達諾乳酪屬於風味醇厚的硬質乳酪，帶有顆粒的口感為其特色。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+
+
+
+<p>在歐洲，Grana Padano帕達諾乳酪幾乎是家家必備的食材，從燉飯、義大利麵到沙拉，都少不了它替盤中飧風味畫龍點睛，甚至有人誇張地說：「少了Grana Padano，燉飯就只剩下米和水！」1996年起，嚴格依照生產規範製作的Grana Padano帕達諾乳酪獲得歐盟原產地命名保護（PDO），並在歐盟贊助下行銷全球，在追求美食者眾台灣也將掀起Grana Padano PDO帕達諾乳酪風潮，一起揭秘這來自歐洲的幸福滋味吧！<a href="https://happinessfromeu.com/hk/">點擊連結了解更多Grana Padano PDO帕達諾乳酪資訊</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>PDO原產地命名保護 凸顯食材可貴與價值</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="810" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-125.png?resize=1220%2C810&#038;ssl=1" alt="" class="wp-image-267188" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-125.png?w=1926&amp;ssl=1 1926w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-125.png?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-125.png?resize=1536%2C1019&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Grana Padan PDO帕達諾乳酪已成經典，並且受到歐盟 PDO (Protected Designation of Origin) 原產地命名保護的嚴格規範。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+
+
+
+<p>Grana Padano 帕達諾乳酪歷史可追溯至1135年，原產地廣袤的波河(River Po)河谷上，本篤會修士運用智慧將剩餘牛奶轉化為風味醇厚的硬質乳酪，由於這種乳酪帶有顆粒狀的結構，人們稱之為Grana，這也正是Grana Padano帕達諾乳酪名稱的由來。當地的乳酪職人於1954年成立Grana Padano 帕達諾乳酪保護協會（Consorzio Tutela Grana Padano）致力於在全球範圍內保護與推廣帕達諾乳酪。該協會確保每一塊乳酪均嚴格依照生產規範製作，以獲得原產地保護 (PDO) 認證，並烙印有 Grana Padano 帕達諾乳酪標誌。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267191" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P03-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Grana Padano PDO帕達諾乳酪經過繁複製成進入熟成室，在木架上接受歲月的淬鍊。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+
+
+
+<p>PDO意味著：從牛群吃什麼、乳源來自哪裡，到乳酪如何攪拌、熟成多久，都必須遵守傳統工藝與規範。原產地命名保護意義不只在於產地管控，更是對消費者的權益保障，當你在市場上看到 Grana Padano PDO的印記，便可相信這塊乳酪來自正統職人而非仿冒品。全球化的今日，PDO制度更顯珍貴，它不僅只守護了一樣食材，更守護了世代與風土的記憶。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>台灣義餐名廚產地見證&nbsp; 12-24個月帕達諾乳酪風韻</strong></h2>
+
+
+
+<p>2025年9月底，台北餐廳「你家樓下downstairs」主廚林耀輝應歐盟「來自歐洲的幸福滋味 Happiness from Europe」計畫之邀親赴原產地，展開一段Grana Padano PDO帕達諾乳酪體驗之旅。在當地的乳酪工坊，他看見一早汲取的鮮乳被倒進巨大銅鍋裡，經過長時間緩慢加熱與攪拌，逐漸凝聚成乳酪的雛形。接著，它們被壓模、浸泡在鹽水裡，最後進入熟成室，在木架上靜靜接受歲月的淬鍊。「這趟參訪讓我感動。」林耀輝形容：「職人們用手感去判斷乳酪的各種狀態，卻又結合現代設備來替代勞力。傳統與現代在這裡不是對立，而是共同守護一個產品的方式。」他也分享了不同熟成期的帕達諾乳酪風味筆記： 12-14個月的乳酪：帶著清新的牛乳香與淡淡青草氣息，乳脂香氣柔和，適合輕盈料理。</p>
+
+
+
+<p>18個月的乳酪：開始出現微小結晶體，嚐起來帶濃郁的脂肪香和一些蜂蜜香，尾勁帶著些許辛辣，適合灑在燉飯或麵上。</p>
+
+
+
+<p>24個月的乳酪：結晶體豐富，咀嚼時細碎脆感明顯，風味帶木質調與更複雜的酸甜苦辣，單獨搭紅酒也不是問題。 而在林主廚的餐廳裡，Grana Padano PDO 帕達諾乳酪也為其招牌菜增色不少，例如限量松露榛果麻醬手工麵、義式風味碳烤 PRIME肋眼心和嫩煎鰻魚搭配鴨醬汁與圓茄等都很受老饕喜愛！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P06-jpg.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-267193" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P06-jpg.jpg?w=1672&amp;ssl=1 1672w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P06-jpg.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P06-jpg.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P06-jpg.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">主廚林耀輝的招牌料理-限量松露榛果麻醬手工麵使用帕達諾乳酪增添風味。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1621" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P07-.jpg?resize=1220%2C1621&#038;ssl=1" alt="" class="wp-image-267194" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P07-.jpg?w=1776&amp;ssl=1 1776w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P07-.jpg?resize=768%2C1021&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P07-.jpg?resize=1156%2C1536&amp;ssl=1 1156w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P07-.jpg?resize=1541%2C2048&amp;ssl=1 1541w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">林耀輝主廚的碳烤 PRIME 肋眼心 12OZ.也施展帕達諾乳酪的調味魔法。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>參展、課程、串連餐廳週 Grana Padano PDO拼能見度</strong> </h2>
+
+
+
+<p>Grana Padano PDO帕達諾乳酪的可貴之處，未來將透過一系列活動規劃呈現國人面前，例如2026年 Grana Padano PDO帕達諾乳酪將登上台北國際食品展，並舉辦校園講習與專業示範課程，由林耀輝主廚親自分享如何在料理中運用這款乳酪。2027年則將計畫與台北餐廳週串連，邀請餐廳推出期間限定菜色，讓消費者親身感受Grana Padano PDO帕達諾乳酪的多種可能。</p>
+
+
+
+<p><strong>林耀輝主廚小檔案：</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267185" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04232-scaled.jpeg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>主廚林耀輝早年赴歐洲進修，曾在米蘭、都靈等地工作，累積了紮實的廚藝基礎。返台後，他致力於將歐洲食材的精髓轉譯到台灣餐桌，風格講求純粹與真誠。除了餐廳經營，他也積極參與國際推廣活動，成為歐盟推廣食材在台灣的重要證言人。他認為，料理能讓人感受到土地、氣候與時間的重量，那才是它最迷人之處。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267192" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">林耀輝主廚（左2）9月親赴歐洲進行Grana Padano PDO帕達諾乳酪產地之旅。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%be%86%e8%87%aa%e6%ad%90%e6%b4%b2%e7%9a%84%e5%b9%b8%e7%a6%8f%e6%bb%8b%e5%91%b3-%e5%90%8d%e5%bb%9a%e6%9e%97%e8%80%80%e8%bc%9d-%e8%a6%aa%e8%a8%aa%e7%94%a2%e5%9c%b0%e5%88%86%e4%ba%ab%e9%a2%a8/">來自歐洲的幸福滋味  名廚林耀輝 親訪產地分享風味筆記  帕達諾乳酪 Grana Padano PDO 登台推廣計畫公開</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</title>
+		<link>https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 22:21:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[豐傑生醫]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267254</guid>
+
+					<description><![CDATA[<p>台灣品牌再度登上國際舞台！豐傑生醫明星產品【712D益生菌－克菲爾PLUS】榮耀入選2025國際營養原料獎（N &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/">豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台灣品牌再度登上國際舞台！豐傑生醫明星產品【712D益生菌－克菲爾PLUS】榮耀入選2025國際營養原料獎（NutraIngredients-Asia Awards 2025）決賽，並晉級「年度最佳免疫支持產品」前三名，成為極少數進入決選的亞洲品牌。</strong></p>
+</blockquote>
+
+
+
+<p>該獎項被譽為「亞洲保健食品界的奧斯卡」，是全球營養與健康產業最具代表性的國際獎項之一。評選從創新性、科學實證、配方設計到市場價值，全面進行評比。每一個類別僅有3個產品能夠晉級決賽。712D益生菌能站上這個舞台，代表在品質上的全面肯定。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-267260" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲豐傑生醫712D益生菌，榮獲2025國際營養原料獎全亞洲前三名！</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>712D益生菌：「黃金三角配方」打造全方位防護力</strong></h2>
+
+
+
+<p>豐傑生醫712D益生菌以創新的「金三角配方（益生菌×益生元×後生元）」為核心，結合科學實證與專利技術，打造出兼具幫助消化、排便順暢、調整體質的全方位配方。</p>
+
+
+
+<p>2025年全新升級版本【克菲爾PLUS】中，專利後生元克菲爾桿菌M1從50億提升至200億，為目前市售最高添加量。該菌株由台灣大學歷經20多年研究開發，具備發明專利與臨床實證，能協同益生菌調整體質與幫助菌叢穩定。 </p>
+
+
+
+<p>712D益生菌同時添加ImmuUP專利雙重菌株（LP28植物乳桿菌、LRH113鼠李糖桿菌），經實驗證實對季節變化、常請假者特別有幫助。再結合母乳營養BIMUNO®半乳寡糖，協助益菌生長、改變細菌叢生態，展現完整防護力，獲得國際評審青睞，榮登「2025年度最佳免疫支持類產品」決賽。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>出廠1700億菌數，兩年後仍保證250億活菌</strong></h2>
+
+
+
+<p>為確保活菌穩定性，712D益生菌採用SYNPACK®「動態氣體控制科技」與「獨創單層包埋凍乾技術」，此雙重防護可讓包裝內氧氣含量低於20%，提升益生菌存活率20%以上。 </p>
+
+
+
+<p>產品自出廠菌數即高達1700億，經兩年保存後，仍維持保證菌數250億以上，並通過SGS、台美雙檢驗、ISO22000、HACCP與國際A.A. 100%無添加驗證，真正做到無調味糖粉、無香料、無防腐劑，純淨配方讓每一株活菌都能發揮最大效益。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>台灣益生菌科研實力，躍上世界舞台</strong></h2>
+
+
+
+<p>豐傑生醫創辦人表示：「712D的設計初衷，是讓科學證據成為日常保健的基礎。每一株菌、每一項技術都來自嚴謹的實驗數據驗證，而非市場話術。」 </p>
+
+
+
+<p>「這次能獲得全亞洲國際營養原料獎前三名，不僅是台灣益生菌研發實力被世界看見的最佳證明，更代表我們在品質與創新上獲得國際專業肯定。未來，我們將持續以科學為本，為消費者帶來真正有效的保健產品。」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>產品資訊</strong></h2>
+
+
+
+<p>豐傑生醫【712D益生菌-克菲爾PLUS】產品特色</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>黃金三角配方</strong>｜益生菌×益生元×後生元，消化順暢、體質調理一次到位</li>
+
+
+
+<li><strong>克菲爾M1後生元200億</strong>｜專利菌株加倍升級，調整體質更有感</li>
+
+
+
+<li><strong>ImmuUP雙專利菌</strong>｜LP28＋LRH113實證健康維持</li>
+
+
+
+<li><strong>保證菌數250億</strong>｜SYNPACK®動態氣控技術，兩年仍保有高活性</li>
+
+
+
+<li><strong>100%無添加驗證</strong>｜無糖粉、無香料、無防腐劑，純淨安心</li>
+
+
+
+<li><strong>SGS、台美檢驗合格</strong>｜零重金屬、零農藥、零塑化劑，全齡適用</li>
+
+
+
+<li><strong>獲多項國際大獎</strong>｜法國發明雙金獎、日本PAVONE優質品質獎、乳酸菌創新獎、國家品質金牌獎</li>
+
+
+
+<li><strong>2025亞洲乳酸菌大會官方指定品牌</strong></li>
+
+
+
+<li><strong>腸胃科醫師 張力仁 真心推薦益生菌</strong></li>
+</ul>
+
+
+
+<p><strong>官網連結：</strong> <a href="https://www.fjb100.com/">https://www.fjb100.com/</a></p>
+
+
+
+<p><strong>客服專線：</strong> 0809-089-886</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/">豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</title>
+		<link>https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 08:09:27 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267159</guid>
+
+					<description><![CDATA[<p>芬蘭—越南合資教育企業 Finest Future 再次榮獲國際肯定，於近日舉行的 2025年亞太傑出企業獎（ &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/">「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>芬蘭—越南合資教育企業 <strong>Finest Future</strong> 再次榮獲國際肯定，於近日舉行的 <strong>2025年亞太傑出企業獎（Asia Pacific Enterprise Awards, APEA）</strong> 評選中，連續第二年榮膺「企業躍進獎」。此項殊榮不僅彰顯公司持續穩健的成長動能與教育創新實力，也進一步鞏固了 Finest Future 作為亞洲地區最具活力與發展潛力的跨國教育企業之一的地位。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-267168" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?w=1380&amp;ssl=1 1380w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?resize=768%2C511&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">芬蘭未來教育（Finest Future）執行長 Tuomas Aleksi Tiilikainen 先生於 2025 年亞太傑出企業獎（APEA）典禮上領取「企業躍進獎」（PRNewsfoto／Finest Future Vietnam Joint Stock Company） (PRNewsfoto/Finest Future Vietnam Joint Stock Company)</figcaption></figure>
+
+
+
+<p><strong>教育創新與全球拓展的重要里程碑</strong></p>
+
+
+
+<p>自2020年成立以來，<strong>Finest Future</strong>始終致力於通過將全球學子與<strong>芬蘭優質高中與職業教育項目</strong>對接，重塑國際教育格局。四年來，公司已實現跨越式發展，從2021年首批15名學生，迅速擴展至在<strong>越南、泰國、印尼和緬甸擁有逾千名學生</strong>的規模。這一擴張得益於其在芬蘭全境構建的近百所合作高中與職業院校的堅實網絡。</p>
+
+
+
+<p>2024年，Finest Future推出<strong>AI </strong><strong>驅動的</strong><strong> AINO </strong><strong>平臺</strong>，該集成式數位生態系統旨在為學生提供語言學習、申請流程與個人發展方面的全方位指導與支持。公司持續擴大區域佈局，即將登陸<strong>馬來西亞、香港特別行政區、臺灣地區及菲律賓</strong>市場，這一舉措進一步彰顯其構建無障礙、無邊界教育生態的堅定承諾。</p>
+
+
+
+<p><strong>首席執行官</strong><strong>Tuomas Aleksi Tiilikainen</strong><strong>強調：「教育是通往美好未來的橋樑。」</strong></p>
+
+
+
+<p>在<strong>胡志明市</strong><strong>GEM</strong><strong>中心</strong>舉行的<strong>2025</strong><strong>年亞太傑出企業獎頒獎晚宴</strong>上，Finest Future首席執行官<strong>Tuomas Aleksi Tiilikainen</strong><strong>先生</strong>登臺領獎時表示：</p>
+
+
+
+<p>「這份認可印證了一個信念 —— 即有意義的創新可以從任何地方萌芽。我們始終致力於通過教育連接人、文化和機遇。</p>
+
+
+
+<p>對我們行業同仁而言，這證明教育創新完全能夠從越南這樣的新興市場快速且可持續地崛起；對家長和學生群體來說，此項殊榮更堅定了他們與Finest Future並肩同行的信心。</p>
+
+
+
+<p>我們堅信教育應當植根於幸福、平等與機遇。這份榮譽激勵我們繼續構築芬蘭與亞洲之間的橋樑，讓每個學生，無論其來自何種背景，都能擁抱更廣闊的夢想，成就更卓越的人生。」</p>
+
+
+
+<p><strong>培育新一代世界公民</strong></p>
+
+
+
+<p>Finest Future以「<strong>幸福教育</strong>」為核心理念，不僅追求學業成就，更致力於培養學生掌握生活技能、跨文化理解力以及畢業後的真實職業發展道路。</p>
+
+
+
+<p>公司通過多項關鍵舉措，持續培育新一代世界公民。這些舉措包括促進芬蘭校長與亞洲家長學生直接交流的<strong>2025</strong><strong>芬蘭教育博覽會</strong>、激勵青少年擁抱語言學習與文化交流的<strong>芬蘭冠軍</strong>賽，以及<strong>Finest Future</strong><strong>卓越高中獎學金計劃</strong>。</p>
+
+
+
+<p>通過與芬蘭教育機構及政府合作夥伴的緊密協作，Finest Future為學生提供全球最受推崇的教育體系之一。這套體系始終將身心健康、教育公平與終身學習置於首位。公司的各項計劃助力亞洲學子不僅能在芬蘭完成學業，還能在當地乃至更廣闊的天地打造受人尊重、可持續發展的職業與生活。</p>
+
+
+
+<p><strong>關於</strong><strong> Finest Future</strong></p>
+
+
+
+<p><strong>Finest Future</strong>是一家成立於2020年的芬蘭-越南合資教育企業，致力於打造連接全球學子與芬蘭優質教育資源的國際教育生態。通過芬蘭高中與職業教育計劃、AI驅動的學習解決方案以及文化交流項目，公司助力數千名亞洲學生在芬蘭求學、生活並茁壯成長。</p>
+
+
+
+<p><strong>網站</strong>：<a href="http://www.finestfuture.education/" target="_blank" rel="noreferrer noopener">www.finestfuture.education</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/">「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
