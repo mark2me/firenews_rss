@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e7%b6%9c%e5%90%88/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/綜合/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 15 Oct 2025 06:57:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Oct 2025 11:54:18 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267838</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-267839" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器，可應用於IoT、穿戴裝置、無人機、機器人。圖 / 阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。</p>
+
+
+
+<p>目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<p><strong>關於 SiFive</strong> SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</title>
+		<link>https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[58金高]]></category>
+		<category><![CDATA[58金高千日醇音樂熟成品鑑組]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[暈船]]></category>
+		<category><![CDATA[黑松公司]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267841</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過船」的暈船仔們。</strong></p>
+</blockquote>
+
+
+
+<p>活動貼文上線後短短時間內即掀起廣大迴響，留言區瞬間成為大型戀愛自助會現場。原來，這是金高為全台第一支情歌熟成高粱酒上市所舉辦的號召活動，邀請曾在戀愛中暈船的暈船仔一起登船品酒，不但吸引上千位暈船仔踴躍報名，有網友笑說：「這船不開也沒關係，我早就暈了」、「我不只暈，還沉船」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-267850" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></figure>
+
+
+
+<p>不少網友也聯想到近日在Threads上，一名男子分享自己暗戀六年的經歷，從午休跑去買馬卡龍、幫忙搶演唱會票，到在面試樓下等候，只為多看心儀對象一眼。網友笑稱這與暈船仔活動相呼應，彷彿命中註定。</p>
+
+
+
+<p>貼文結尾一句「今晚月亮很美，我不確定暈的是高粱還是妳」成為熱門金句，引發網友共鳴，留言湧入「兄弟，喝十瓶高粱也不會那麼暈」、「暈船仔活動很適合你！」形成趣味十足的「暈船互助會」。</p>
+
+
+
+<p>留言中也出現多則與高粱相關的討論：「喝起來不會更暈？」「愛你一萬年，暈你到失眠」「聽音樂長大的高粱酒真的假的？」「以為是智商稅，結果真的不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>經典結合新世代浪漫巧思　58金高「情歌熟成」掀話題</strong></h2>
+
+
+
+<p>黑松公司近年創意不斷，每次推出新酒款都能掀起網友熱議與搶購潮。這回再度顛覆想像，大膽採用浪漫搖滾情歌〈愛你一萬年〉，推出全台第一瓶情歌熟成「58金高千日醇音樂熟成品鑑組」。品鑑組內有兩瓶「同年同月同日」生、陳放超過十年的千日醇老酒，其中一瓶是在標準熟成環境下靜置成長，另一瓶是在情歌陪伴中完成熟成。藉由這樣的對照設計，讓消費者可以很直觀感受差異，有喝過的網友也驚喜表示：「音樂熟成高粱酒，真的喝出不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>消費生態變化　品牌以情感共鳴創造新連結</strong> </h2>
+
+
+
+<p>身為白酒市場領導品牌，金門高粱酒在黑松的創新詮釋下，不僅突破傳統框架，更以兼具話題性與文化溫度的創意操作，展現品牌持續進化的企圖與高度。「58金高千日醇音樂熟成品鑑組」不僅是一款新產品的誕生，更象徵台灣烈酒市場在產品創新上，邁入全新里程碑。</p>
+
+
+
+<p>Threads 連結：<a href="https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg">https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</title>
 		<link>https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/</link>
 		
@@ -56,7 +221,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267650" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">歷時一年，黃衍菁老師與其團隊順利實現捐贈救護車的承諾，為臺北市立聯合醫院和平婦幼院區添增頂規良將，展現民間力量的大愛與善心。圖/匠心文創‧渠成文化提供</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267650" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">歷時一年，黃衍菁老師與其團隊順利實現捐贈救護車的承諾，為臺北市立聯合醫院和平婦幼院區添增頂規良將，展現民間力量的大愛與善心。圖/匠心文創‧渠成文化提供</figcaption></figure>
 
 
 
@@ -627,219 +792,6 @@
 
 <figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267192" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/P05--scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">林耀輝主廚（左2）9月親赴歐洲進行Grana Padano PDO帕達諾乳酪產地之旅。Grana Padano 帕達諾乳酪聯盟提供</figcaption></figure>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%be%86%e8%87%aa%e6%ad%90%e6%b4%b2%e7%9a%84%e5%b9%b8%e7%a6%8f%e6%bb%8b%e5%91%b3-%e5%90%8d%e5%bb%9a%e6%9e%97%e8%80%80%e8%bc%9d-%e8%a6%aa%e8%a8%aa%e7%94%a2%e5%9c%b0%e5%88%86%e4%ba%ab%e9%a2%a8/">來自歐洲的幸福滋味  名廚林耀輝 親訪產地分享風味筆記  帕達諾乳酪 Grana Padano PDO 登台推廣計畫公開</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</title>
-		<link>https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 22:21:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[豐傑生醫]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=267254</guid>
-
-					<description><![CDATA[<p>台灣品牌再度登上國際舞台！豐傑生醫明星產品【712D益生菌－克菲爾PLUS】榮耀入選2025國際營養原料獎（N &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/">豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>台灣品牌再度登上國際舞台！豐傑生醫明星產品【712D益生菌－克菲爾PLUS】榮耀入選2025國際營養原料獎（NutraIngredients-Asia Awards 2025）決賽，並晉級「年度最佳免疫支持產品」前三名，成為極少數進入決選的亞洲品牌。</strong></p>
-</blockquote>
-
-
-
-<p>該獎項被譽為「亞洲保健食品界的奧斯卡」，是全球營養與健康產業最具代表性的國際獎項之一。評選從創新性、科學實證、配方設計到市場價值，全面進行評比。每一個類別僅有3個產品能夠晉級決賽。712D益生菌能站上這個舞台，代表在品質上的全面肯定。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-267260" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/益生菌-2025國際營養原料獎-新聞稿配圖1000x667_.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲豐傑生醫712D益生菌，榮獲2025國際營養原料獎全亞洲前三名！</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>712D益生菌：「黃金三角配方」打造全方位防護力</strong></h2>
-
-
-
-<p>豐傑生醫712D益生菌以創新的「金三角配方（益生菌×益生元×後生元）」為核心，結合科學實證與專利技術，打造出兼具幫助消化、排便順暢、調整體質的全方位配方。</p>
-
-
-
-<p>2025年全新升級版本【克菲爾PLUS】中，專利後生元克菲爾桿菌M1從50億提升至200億，為目前市售最高添加量。該菌株由台灣大學歷經20多年研究開發，具備發明專利與臨床實證，能協同益生菌調整體質與幫助菌叢穩定。 </p>
-
-
-
-<p>712D益生菌同時添加ImmuUP專利雙重菌株（LP28植物乳桿菌、LRH113鼠李糖桿菌），經實驗證實對季節變化、常請假者特別有幫助。再結合母乳營養BIMUNO®半乳寡糖，協助益菌生長、改變細菌叢生態，展現完整防護力，獲得國際評審青睞，榮登「2025年度最佳免疫支持類產品」決賽。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>出廠1700億菌數，兩年後仍保證250億活菌</strong></h2>
-
-
-
-<p>為確保活菌穩定性，712D益生菌採用SYNPACK®「動態氣體控制科技」與「獨創單層包埋凍乾技術」，此雙重防護可讓包裝內氧氣含量低於20%，提升益生菌存活率20%以上。 </p>
-
-
-
-<p>產品自出廠菌數即高達1700億，經兩年保存後，仍維持保證菌數250億以上，並通過SGS、台美雙檢驗、ISO22000、HACCP與國際A.A. 100%無添加驗證，真正做到無調味糖粉、無香料、無防腐劑，純淨配方讓每一株活菌都能發揮最大效益。</p>
-
-
-
-<h2 class="wp-block-heading"><strong>台灣益生菌科研實力，躍上世界舞台</strong></h2>
-
-
-
-<p>豐傑生醫創辦人表示：「712D的設計初衷，是讓科學證據成為日常保健的基礎。每一株菌、每一項技術都來自嚴謹的實驗數據驗證，而非市場話術。」 </p>
-
-
-
-<p>「這次能獲得全亞洲國際營養原料獎前三名，不僅是台灣益生菌研發實力被世界看見的最佳證明，更代表我們在品質與創新上獲得國際專業肯定。未來，我們將持續以科學為本，為消費者帶來真正有效的保健產品。」</p>
-
-
-
-<h2 class="wp-block-heading"><strong>產品資訊</strong></h2>
-
-
-
-<p>豐傑生醫【712D益生菌-克菲爾PLUS】產品特色</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>黃金三角配方</strong>｜益生菌×益生元×後生元，消化順暢、體質調理一次到位</li>
-
-
-
-<li><strong>克菲爾M1後生元200億</strong>｜專利菌株加倍升級，調整體質更有感</li>
-
-
-
-<li><strong>ImmuUP雙專利菌</strong>｜LP28＋LRH113實證健康維持</li>
-
-
-
-<li><strong>保證菌數250億</strong>｜SYNPACK®動態氣控技術，兩年仍保有高活性</li>
-
-
-
-<li><strong>100%無添加驗證</strong>｜無糖粉、無香料、無防腐劑，純淨安心</li>
-
-
-
-<li><strong>SGS、台美檢驗合格</strong>｜零重金屬、零農藥、零塑化劑，全齡適用</li>
-
-
-
-<li><strong>獲多項國際大獎</strong>｜法國發明雙金獎、日本PAVONE優質品質獎、乳酸菌創新獎、國家品質金牌獎</li>
-
-
-
-<li><strong>2025亞洲乳酸菌大會官方指定品牌</strong></li>
-
-
-
-<li><strong>腸胃科醫師 張力仁 真心推薦益生菌</strong></li>
-</ul>
-
-
-
-<p><strong>官網連結：</strong> <a href="https://www.fjb100.com/">https://www.fjb100.com/</a></p>
-
-
-
-<p><strong>客服專線：</strong> 0809-089-886</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%b1%90%e5%82%91%e7%94%9f%e9%86%ab%e7%9b%8a%e7%94%9f%e8%8f%8c%e5%8b%87%e5%a5%aa2025%e5%b9%b4%e5%ba%a6%e3%80%8c%e6%9c%80%e4%bd%b3%e5%85%8d%e7%96%ab%e6%94%af%e6%8c%81%e7%94%a2%e5%93%81%e3%80%8d/">豐傑生醫益生菌勇奪2025年度「最佳免疫支持產品」全亞洲前三強！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</title>
-		<link>https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 08:09:27 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=267159</guid>
-
-					<description><![CDATA[<p>芬蘭—越南合資教育企業 Finest Future 再次榮獲國際肯定，於近日舉行的 2025年亞太傑出企業獎（ &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/">「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>芬蘭—越南合資教育企業 <strong>Finest Future</strong> 再次榮獲國際肯定，於近日舉行的 <strong>2025年亞太傑出企業獎（Asia Pacific Enterprise Awards, APEA）</strong> 評選中，連續第二年榮膺「企業躍進獎」。此項殊榮不僅彰顯公司持續穩健的成長動能與教育創新實力，也進一步鞏固了 Finest Future 作為亞洲地區最具活力與發展潛力的跨國教育企業之一的地位。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="812" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?resize=1220%2C812&#038;ssl=1" alt="" class="wp-image-267168" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?w=1380&amp;ssl=1 1380w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Mr_Tuomas_Aleksi_Tiilikainen_CEO_Finest_Future_receiving_Fast_Enterprise.jpg?resize=768%2C511&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">芬蘭未來教育（Finest Future）執行長 Tuomas Aleksi Tiilikainen 先生於 2025 年亞太傑出企業獎（APEA）典禮上領取「企業躍進獎」（PRNewsfoto／Finest Future Vietnam Joint Stock Company） (PRNewsfoto/Finest Future Vietnam Joint Stock Company)</figcaption></figure>
-
-
-
-<p><strong>教育創新與全球拓展的重要里程碑</strong></p>
-
-
-
-<p>自2020年成立以來，<strong>Finest Future</strong>始終致力於通過將全球學子與<strong>芬蘭優質高中與職業教育項目</strong>對接，重塑國際教育格局。四年來，公司已實現跨越式發展，從2021年首批15名學生，迅速擴展至在<strong>越南、泰國、印尼和緬甸擁有逾千名學生</strong>的規模。這一擴張得益於其在芬蘭全境構建的近百所合作高中與職業院校的堅實網絡。</p>
-
-
-
-<p>2024年，Finest Future推出<strong>AI </strong><strong>驅動的</strong><strong> AINO </strong><strong>平臺</strong>，該集成式數位生態系統旨在為學生提供語言學習、申請流程與個人發展方面的全方位指導與支持。公司持續擴大區域佈局，即將登陸<strong>馬來西亞、香港特別行政區、臺灣地區及菲律賓</strong>市場，這一舉措進一步彰顯其構建無障礙、無邊界教育生態的堅定承諾。</p>
-
-
-
-<p><strong>首席執行官</strong><strong>Tuomas Aleksi Tiilikainen</strong><strong>強調：「教育是通往美好未來的橋樑。」</strong></p>
-
-
-
-<p>在<strong>胡志明市</strong><strong>GEM</strong><strong>中心</strong>舉行的<strong>2025</strong><strong>年亞太傑出企業獎頒獎晚宴</strong>上，Finest Future首席執行官<strong>Tuomas Aleksi Tiilikainen</strong><strong>先生</strong>登臺領獎時表示：</p>
-
-
-
-<p>「這份認可印證了一個信念 —— 即有意義的創新可以從任何地方萌芽。我們始終致力於通過教育連接人、文化和機遇。</p>
-
-
-
-<p>對我們行業同仁而言，這證明教育創新完全能夠從越南這樣的新興市場快速且可持續地崛起；對家長和學生群體來說，此項殊榮更堅定了他們與Finest Future並肩同行的信心。</p>
-
-
-
-<p>我們堅信教育應當植根於幸福、平等與機遇。這份榮譽激勵我們繼續構築芬蘭與亞洲之間的橋樑，讓每個學生，無論其來自何種背景，都能擁抱更廣闊的夢想，成就更卓越的人生。」</p>
-
-
-
-<p><strong>培育新一代世界公民</strong></p>
-
-
-
-<p>Finest Future以「<strong>幸福教育</strong>」為核心理念，不僅追求學業成就，更致力於培養學生掌握生活技能、跨文化理解力以及畢業後的真實職業發展道路。</p>
-
-
-
-<p>公司通過多項關鍵舉措，持續培育新一代世界公民。這些舉措包括促進芬蘭校長與亞洲家長學生直接交流的<strong>2025</strong><strong>芬蘭教育博覽會</strong>、激勵青少年擁抱語言學習與文化交流的<strong>芬蘭冠軍</strong>賽，以及<strong>Finest Future</strong><strong>卓越高中獎學金計劃</strong>。</p>
-
-
-
-<p>通過與芬蘭教育機構及政府合作夥伴的緊密協作，Finest Future為學生提供全球最受推崇的教育體系之一。這套體系始終將身心健康、教育公平與終身學習置於首位。公司的各項計劃助力亞洲學子不僅能在芬蘭完成學業，還能在當地乃至更廣闊的天地打造受人尊重、可持續發展的職業與生活。</p>
-
-
-
-<p><strong>關於</strong><strong> Finest Future</strong></p>
-
-
-
-<p><strong>Finest Future</strong>是一家成立於2020年的芬蘭-越南合資教育企業，致力於打造連接全球學子與芬蘭優質教育資源的國際教育生態。通過芬蘭高中與職業教育計劃、AI驅動的學習解決方案以及文化交流項目，公司助力數千名亞洲學生在芬蘭求學、生活並茁壯成長。</p>
-
-
-
-<p><strong>網站</strong>：<a href="http://www.finestfuture.education/" target="_blank" rel="noreferrer noopener">www.finestfuture.education</a></p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e3%80%8c%e5%b9%b8%e7%a6%8f%e6%95%99%e8%82%b2%e3%80%8d%e7%82%ba%e6%a0%b8%e5%bf%83%e7%90%86%e5%bf%b5-finest-future%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b9%b4%e6%a6%ae%e7%8d%b2%e4%ba%9e%e5%a4%aa%e5%82%91/">「幸福教育」為核心理念  Finest Future連續兩年榮獲亞太傑出企業獎「企業躍進獎」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
