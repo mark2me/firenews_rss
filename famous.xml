@@ -1,120 +1,726 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Thu, 16 Oct 2025 13:25:13 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>「藝文能量 × 食農體驗」展現農村產業魅力新風貌</title>
+		<link>https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268039</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 林俊偉 / 報導 台東縱谷串連豐饒自然與多元人文，今年在農村發展及水土保持署臺東分署推動下，透過「藝文能 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/">「藝文能量 × 食農體驗」展現農村產業魅力新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 林俊偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台東縱谷串連豐饒自然與多元人文，今年在農村發展及水土保持署臺東分署推動下，透過「藝文能量 × 食農體驗」系列行動，讓文化與產業交融，展現農村創生的新樣貌。從池上藍染文化的技藝復興，到關山「大地食力」的食農教育體驗，縱谷的村落正以文化為筆，書寫屬於自己的當代篇章。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<h2 class="wp-block-heading"><strong>藍染技藝復興　池上以文化力翻轉產業</strong></h2>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>池上萬安社區以藍染為核心，重啟藍草種植與客家染布技藝的傳承，讓原本逐漸消逝的傳統工藝重新發光。由「沐藍六感美學協會」推動的藍染復興計畫，結合工作坊、手作市集與文化展演，讓藍染不僅是一門技術，更是一場五感的文化體驗。</p>
+
+
+
+<p>曾經在台灣失落六十多年的藍染技藝，如今在池上的田野間再次綻放。從藍草栽培、藍靛製作到染布體驗，這項文化行動不僅讓居民重拾自信，也逐步發展出具地方特色的農村產業。靛藍色的織品、手感溫潤的布料與獨特的香氣，共同構築出台東縱谷的文化新風景。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="437" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=1220%2C437&#038;ssl=1" alt="" class="wp-image-268040" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=768%2C275&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=1536%2C551&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=2048%2C734&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">臺東縣沐藍六感美學推廣協會結合工作坊、藝文表演重現當地藍染文化，引領參與者透過五感體驗感受當地歷史與客家文化。/圖片來源：臺東縣沐藍六感美學推廣協會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>關山「大地食力」　以文化入菜、食農入村</strong></h2>
+
+
+
+<p>在關山鎮農會以「從泥巴到嘴巴」為理念舉辦「大地食力」活動，邀請親子一同體驗食材轉化的樂趣。課程中以洛神、肉桂等在地農產為主角，帶領學員製作創意點心。成果展中更有薩克斯風樂團現場演奏，讓學員在音樂與香氣交織下，體驗縱谷四季的味覺記憶。 此外，關山鎮農會將舊穀倉改造為共享文化空間，園區內設有小農格子鋪、惜食專區與農夫市集，並定期舉辦藝文展演。這樣的轉型，不僅活化了閒置空間，也形塑出「食農教育 × 文化藝術」的新農村樣貌。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=1220%2C427&#038;ssl=1" alt="" class="wp-image-268041" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?w=2338&amp;ssl=1 2338w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=768%2C269&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=1536%2C537&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=2048%2C717&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">關山鎮農會辦理親子烘焙課程，結合台東洛神、肉桂等農產，帶領學員從味覺中感受縱谷故事，並推動食農教育。/圖片來源：關山鎮農會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>藝文串聯產業　縱谷共創文化經濟</strong> </h2>
+
+
+
+<p>如今，藝術走進農村、農村成為藝術舞台。從池上的藍布飄揚，到關山的米香與樂聲，文化與土地緊密結合。這些來自社區的創新行動，象徵著縱谷農村從「生產」走向「生活」，再進化為「文化」的力量。台東縱谷正以文化為筆、以產業為墨，描繪一幅屬於這片土地的當代新畫卷。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/">「藝文能量 × 食農體驗」展現農村產業魅力新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</title>
+		<link>https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 06:38:47 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268121</guid>
+
+					<description><![CDATA[<p>在競爭激烈的數位時代，「客服」早已不只是售後服務的窗口，而是品牌體驗與顧客轉化的關鍵戰場。當人力客服面臨高成本 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/">AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在競爭激烈的數位時代，「客服」早已不只是售後服務的窗口，而是品牌體驗與顧客轉化的關鍵戰場。當人力客服面臨高成本與覆蓋侷限時，AI客服正成為企業數位轉型的核心解方。戰國策以全通路整合與智慧客服系統，協助企業打造24/7的服務體驗，成功讓客戶成交率平均提升 27%、人力成本降低 30%。</strong></p>
+</blockquote>
+
+
+
+<p><strong>AI客服 vs. 真人客服：誰才是企業的最佳選擇？</strong></p>
+
+
+
+<p>真人客服的優勢在於情感溝通與複雜問題處理，但其限制同樣明顯：人力成本高、夜間與假日無法全面覆蓋、回覆速度受限；相對地，AI客服能在數秒內回應、全年無休運作，且具備強大的數據分析能力，成為客服中心數位升級的重要推手。根據戰國策資料顯示，多數企業在導入AI客服後，能自動回覆約70%常見問題，不僅降低超過三成的人力支出，更將省下的資源投入行銷與研發，讓客服中心從「成本部門」轉為「成長引擎」。</p>
+
+
+
+<p><strong>戰國策AI客服系統三大優勢</strong></p>
+
+
+
+<p><a href="https://livechat.com.tw/">戰國策AI客服</a>主要有以下三大優勢，可以為客戶帶來便捷的服務</p>
+
+
+
+<p>一、全通路整合，一站式管理</p>
+
+
+
+<p>支援LINE、Facebook Messenger、WhatsApp、WeChat、Telegram等主流通訊平台，所有訊息集中於單一後台管理，避免訊息分散、效率低落，讓客服團隊輕鬆掌握所有顧客互動。</p>
+
+
+
+<p>二、智慧即時回覆，速度快10倍</p>
+
+
+
+<p>內建AI智慧聊天機器人，平均可在10秒內回應顧客問題，比人工快10倍。研究顯示，76%的顧客只願意等待2分鐘內的回覆，戰國策AI客服的高速反應，有效提升顧客滿意度與品牌信任感。</p>
+
+
+
+<p>三、全年無休，全天候服務不間斷 系統全年365天自動運作，無論白天或深夜皆能即時回應，避免潛在顧客流失。實際導入數據顯示，企業平均成交率因此提升27%。</p>
+
+
+
+<p><strong>成為客服系統推薦解方從客服到行銷：AI帶來數據驅動的商業洞察，成為客服系統推薦解方</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="854" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?resize=1220%2C854&#038;ssl=1" alt="" class="wp-image-268127" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?resize=768%2C538&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">AI客服崛起戰國策引領「智慧客服革命」。圖/戰國策提供</figcaption></figure>
+
+
+
+<p>傳統客服只能「回應問題」，而戰國策AI客服能進一步「理解顧客」。內建的數據分析與顧客分群功能，可清楚掌握服務績效、顧客行為與互動紀錄，協助企業制定精準的行銷策略，讓客服部門轉化為營收推動力。另戰國策AI客服還有五大特色打造戰略級客服系統，包含智慧AI 輔助、LINE、FB、WhatsApp等平台訊息全通路整合、從FAQ到售後工單全自動處理、內建分析報表與顧客評分，並結合推播與電子報行銷、還有支援自有OpenAI API，遵循GDPR與個資法規，確保資料安全。</p>
+
+
+
+<p><strong>趨勢解析：AI客服＋真人客服，成為未來新常態</strong></p>
+
+
+
+<p>面對未來，企業客服的主流模式將不再是「AI 取代人工」，而是「AI＋人工」的混合協作。AI負責高頻、重複性問題，真人客服則專注於高價值對話與情感交流。戰國策的AI＋人工無縫交接機制，正是這一趨勢的最佳實踐，讓服務更智慧、更有人情味。</p>
+
+
+
+<p>AI客服不僅是科技升級，更是企業營運效率與品牌體驗的全面革新。戰國策 LiveChat.com.tw以強大的全通路整合與AI智能系統，為企業打造真正「不打烊」的服務中心，讓每一次互動都成為成長契機。</p>
+
+
+
+<p>戰國策官方Line@ ID: @119m </p>
+
+
+
+<p>官方網站：<a href="https://www.nss.com.tw/">https://www.nss.com.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/">AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</title>
+		<link>https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 03:24:45 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268032</guid>
+
+					<description><![CDATA[<p>因應全台各縣市帶狀疱疹罹病人數連年上升，已經有多個地方縣市政府陸續推出帶狀疱疹疫苗公費施打及補助計劃，以降低市 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/">補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>因應全台各縣市帶狀疱疹罹病人數連年上升，已經有多個地方縣市政府陸續推出帶狀疱疹疫苗公費施打及補助計劃，以降低市民接受接種的負擔。高雄市議員林智鴻長期關懷市民健康，今（16）日在議會警消衛環部門質詢建議衛生局，六都之中，高雄市是少數沒有帶狀疱疹公費政策的都市之一，呼籲衛生局加快腳步，讓 65 歲以上的弱勢長輩或高風險族群，可以盡快獲得市府協助。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="832" height="468" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=832%2C468&#038;ssl=1" alt="" class="wp-image-268034" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?w=832&amp;ssl=1 832w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 832px) 100vw, 832px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／擷取自高雄市議會網站</figcaption></figure>
+
+
+
+<p>林智鴻議員首先分析帶狀疱疹對市民的威脅性，其病毒風險與日俱增，全台灣每三人就有一人會罹患帶狀疱疹，好發於 50 歲以上高齡者、慢性病患者、免疫力低下族群、壓力大者，且復發的風險高達 2.4 倍。綜合高雄市的狀況來看，高雄的高齡化程度六都第二，也就是說長輩罹患帶狀疱疹的機率很高。</p>
+
+
+
+<p>林智鴻議員根據調閱資料指出，高雄市帶狀疱疹就醫人數超過 31,000 人、就醫件數超過 95,000 件，醫療費用超過 8,600 萬元；換算下來，帶狀疱疹患者平均每一人需要就醫三次、每次就醫需要耗費近 3,000 元，這對一個病患和一座城市來說，都是不小的負擔。作為帶狀疱疹病友，林智鴻議員表示，發病期間的神經痛與併發症只有四個字形容，根本是「痛不欲生」，那能不能提早為長輩等高風險族群準備，協助他們預防帶狀疱疹的疾病痛苦和衍生的經濟負擔呢？</p>
+
+
+
+<p>林智鴻議員指出，這一年多來，跨黨派的高雄市議員為了守護長輩健康，各自提出對帶狀疱疹疫苗補助的關心。據此，林智鴻議員也要求高雄市衛生局回覆，如果已經正在研議，那預計會有多少人受惠？經費需求多少？最快什麼時候可以上路？目前六都之中，僅台中、高雄沒有帶狀疱疹的公費施打政策，但台中市似乎也已經開始評估規劃，不能讓高雄成為六都裡唯一沒有補助，或最慢上路的都市。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="832" height="468" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=832%2C468&#038;ssl=1" alt="" class="wp-image-268035" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?w=832&amp;ssl=1 832w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 832px) 100vw, 832px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／擷取自高雄市議會網站</figcaption></figure>
+
+
+
+<p>對此，高雄市衛生局長黃志中回覆，衛生局有收到議員們對帶狀疱疹疫苗政策的關切，也因此一直在徵詢衛福部疾管署、ACIP 以及各界專家學者意見。不過目前對於施打對象的意見並不一致，加上帶狀疱疹疫苗要價相對較高，有其他疫苗的預算考量下需要更周密的實施規劃，市府團隊會持續努力。</p>
+
+
+
+<p>林智鴻議員建議，高雄市可優先考慮弱勢長輩的福祉，讓 65 歲以上低收、中低收入戶，或具重大傷病或高風險者先行，未來再漸進開展至其他次高風險族群。「疫苗有價，但長輩健康無價」林智鴻議員以此呼籲衛生局，儘速整合各方歧異，至少能讓最有需要的市民朋友接受疫苗保護、獲得市府的幫助。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/">補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</title>
+		<link>https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 02:53:53 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268014</guid>
+
+					<description><![CDATA[<p>在社群經濟成為新資產時代的今日，創作者與品牌對社群帳號的依賴已超越單純的內容平台。然而，因駭客攻擊、惡意檢舉或 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/">日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在社群經濟成為新資產時代的今日，創作者與品牌對社群帳號的依賴已超越單純的內容平台。然而，因駭客攻擊、惡意檢舉或 AI 誤判而導致帳號被封、資料遺失的案例屢見不鮮。為協助創作者守護心血成果，日商唄粉智能科技正式推出自研產品 ShellFans AI，以「數位資產保險箱」為核心理念，結合 AI 與 NLP 技術，協助用戶即時備份並還原社群資產，讓創作更安全、品牌更長久。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-268015" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源：Shellfans AI</figcaption></figure>
+
+
+
+<p>為解決痛點，日商唄粉智能科技推出自研產品 <strong>ShellFans AI</strong> 系統，以「數位資產保險箱」為核心概念，協助用戶守護社群資產，確保創作成果長期留存與延續。透過 AI 與 NLP 技術，更能快速分析數據價值，將粉絲互動轉化為經營洞察，加速社群經營進入智慧時代。</p>
+
+
+
+<p>「你的創作，有備無患。」是唄粉秉持的信念。作為一家專注於社群資產守護與智能應用的 SaaS 公司，唄粉相信每一位創作者與品牌都必須具備守護能力，並能將多年累積的內容與粉絲關係，轉化為可持續的影響力。</p>
+
+
+
+<p>當帳號可能因政策或不明原因消失，社群資產便暴露在高風險之下。我們實現的不只是讓用戶「不怕帳號消失」，更要透過獨家技術，創造能理解人際互動脈絡的智慧 AI 科技，成為創作者與企業最值得信賴的數位夥伴。</p>
+
+
+
+<p><strong>ShellFans AI</strong> 的設計以「簡單、安全、完整」為核心。登入時，用戶只需一次性驗證碼（OTP），即可免去繁瑣密碼管理，帶來輕鬆卻安全的體驗。進入系統後，所有貼文、留言、互動數據與粉絲清單將自動留存，確保多年經營成果不因意外消失。即便帳號遭封鎖，用戶也能迅速復原內容，維持社群熱度不中斷。同時系統會持續維護頻道授權與營運狀況，一旦發現異常即刻提醒並啟動備援計畫。進一步透過可視化圖表與 AI 洞察，創作者能清楚掌握粉絲偏好與互動模式，將數據轉化為策略，讓每一次創作更具價值與長遠影響力。</p>
+
+
+
+<p>ShellFans AI 將「留存」視為基礎，並進一步強調「持續性與智慧化」。這不僅是一套安全機制，更是一個能讓創作者預防與保護社群資產的數位基礎建設。透過它，用戶不必再被動任由誤判或惡意檢舉，而能提前主動保存並活用自身數據。</p>
+
+
+
+<p>未來 ShellFans AI 將支援 Facebook、Instagram、Thread、YouTube 等主流平台，協助創作者與品牌在跨平台經營中降低風險，並提取更多數據價值。隨著多平台營運成趨勢，ShellFans AI 的導入不僅提升安全感，更能幫助用戶以前瞻方式規劃長期策略，進而打造真正具有永續性的社群影響力。 </p>
+
+
+
+<p>日商唄粉科技股份有限公司<br>官方網站：<a href="https://shell.fans/" target="_blank" rel="noreferrer noopener">https://shell.fans/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/">日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267838</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-267839" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器，可應用於IoT、穿戴裝置、無人機、機器人。圖 / 阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。</p>
+
+
+
+<p>目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<p><strong>關於 SiFive</strong> SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</title>
+		<link>https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[58金高]]></category>
+		<category><![CDATA[58金高千日醇音樂熟成品鑑組]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[暈船]]></category>
+		<category><![CDATA[黑松公司]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267841</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過船」的暈船仔們。</strong></p>
+</blockquote>
+
+
+
+<p>活動貼文上線後短短時間內即掀起廣大迴響，留言區瞬間成為大型戀愛自助會現場。原來，這是金高為全台第一支情歌熟成高粱酒上市所舉辦的號召活動，邀請曾在戀愛中暈船的暈船仔一起登船品酒，不但吸引上千位暈船仔踴躍報名，有網友笑說：「這船不開也沒關係，我早就暈了」、「我不只暈，還沉船」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-267850" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲網友深情告白，被推坑參加金高號召的百位暈船仔活動。（圖／網路截圖 Threads ）</figcaption></figure>
+
+
+
+<p>不少網友也聯想到近日在Threads上，一名男子分享自己暗戀六年的經歷，從午休跑去買馬卡龍、幫忙搶演唱會票，到在面試樓下等候，只為多看心儀對象一眼。網友笑稱這與暈船仔活動相呼應，彷彿命中註定。</p>
+
+
+
+<p>貼文結尾一句「今晚月亮很美，我不確定暈的是高粱還是妳」成為熱門金句，引發網友共鳴，留言湧入「兄弟，喝十瓶高粱也不會那麼暈」、「暈船仔活動很適合你！」形成趣味十足的「暈船互助會」。</p>
+
+
+
+<p>留言中也出現多則與高粱相關的討論：「喝起來不會更暈？」「愛你一萬年，暈你到失眠」「聽音樂長大的高粱酒真的假的？」「以為是智商稅，結果真的不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>經典結合新世代浪漫巧思　58金高「情歌熟成」掀話題</strong></h2>
+
+
+
+<p>黑松公司近年創意不斷，每次推出新酒款都能掀起網友熱議與搶購潮。這回再度顛覆想像，大膽採用浪漫搖滾情歌〈愛你一萬年〉，推出全台第一瓶情歌熟成「58金高千日醇音樂熟成品鑑組」。品鑑組內有兩瓶「同年同月同日」生、陳放超過十年的千日醇老酒，其中一瓶是在標準熟成環境下靜置成長，另一瓶是在情歌陪伴中完成熟成。藉由這樣的對照設計，讓消費者可以很直觀感受差異，有喝過的網友也驚喜表示：「音樂熟成高粱酒，真的喝出不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>消費生態變化　品牌以情感共鳴創造新連結</strong> </h2>
+
+
+
+<p>身為白酒市場領導品牌，金門高粱酒在黑松的創新詮釋下，不僅突破傳統框架，更以兼具話題性與文化溫度的創意操作，展現品牌持續進化的企圖與高度。「58金高千日醇音樂熟成品鑑組」不僅是一款新產品的誕生，更象徵台灣烈酒市場在產品創新上，邁入全新里程碑。</p>
+
+
+
+<p>原文 Threads 連結：<a href="https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg">https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</title>
+		<link>https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 06:56:59 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[打造你的菁彩人生]]></category>
+		<category><![CDATA[耶魯愛絲一號救護車]]></category>
+		<category><![CDATA[黃衍菁]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267648</guid>
+
+					<description><![CDATA[<p>生活中心/綜合報導 作家暨保險業領導人黃衍菁老師，以新書《打造你的菁彩人生》（渠成文化出版發行）為起點，發起「 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/">萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/綜合報導</p>
+
+
+
+<p>作家暨保險業領導人黃衍菁老師，以新書《打造你的菁彩人生》（渠成文化出版發行）為起點，發起「耶魯愛絲一號救護車計畫」，透過版稅盈餘及萬人響應支持，於專書出版滿一周年之際，成功將一輛高規格救護車捐贈給臺北市立聯合醫院和平婦幼院區。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267650" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251003-1.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">歷時一年，黃衍菁老師與其團隊順利實現捐贈救護車的承諾，為臺北市立聯合醫院和平婦幼院區添增頂規良將，展現民間力量的大愛與善心。圖/匠心文創‧渠成文化提供</figcaption></figure>
+
+
+
+<p>黃衍菁老師表示，這是她「101個人生夢想」之一，源於年少時曾搭乘由善心人士捐贈的救護車而深受感動。她回憶道：「當時我突然昏倒，雖然被救護車送醫後轉危為安，但心裡很擔心要付多少錢？沒想到院方告訴我：『不用錢，因為這是老奶奶捐的。』這句話在我心裡種下了一顆種子。今天能夠不只是靠我個人，而是帶動大家一起實現這個夢想，真的覺得很難得！」</p>
+
+
+
+<p>事實上，《打造你的菁彩人生》一書正記錄了她在保險事業的奮鬥歷程與人生哲學，也見證她如何將「夢想與勇氣」轉化為社會貢獻。黃衍菁老師自執筆之初便已規劃將版稅全數投入公益，如今能在一年內兌現捐贈救護車的承諾，不僅展現務實明確的行動力，也凸顯她以出版號召萬人響應的影響力。</p>
+
+
+
+<p>臺北市立聯合醫院和平婦幼院區許家禎先生在致詞時指出：「在這個充滿衝突的時代，社會更需要傳遞溫暖與愛。公益善舉應該被多多傳揚，因為它能啟發更多人行善。」他也強調，公立醫院編列大型設備預算往往需要多年流程，但臨床第一線卻瞬息萬變，「民間的善舉就像及時雨，讓我們能更快守護病人。」他鼓勵民眾主動洽詢鄰近醫院的需求，無論金額大小，都可能在最需要的時刻成為關鍵支持。</p>
+
+
+
+<p>救護車廠商代表陳先生補充，本次捐贈車輛自德國進口，依照院方需求規格改裝到交車需符合相關單位規定及審查，通常從簽約、訂車、改裝至交車需八至十個月。也因救護車非一般市面銷售車輛，因此都是在有需求時才會訂購特定車款來依照單位需求打造救護車輛，因此能在短短一年內從想法化作實際行動到完成交車，實屬難得。他也指出，相較消防體系，醫療體系的車輛汰換年限相對較長（10年）因此能獲贈此次較高規格的加護型救護車可以為更多所需病患提供更完善的服務。</p>
+
+
+
+<p>交接儀式於臺北市立聯合醫院和平婦幼院區圓滿舉行，這輛全新頂級加護型救護車包含：攜帶式電擊器含心電圖、加護型急救包、椅座式鋁合金擔架等，以最高規格提升緊急醫療救護品質，即日起正式投入院方勤務，隨時支援病患需求，以最高規格守護台北市民。黃衍菁老師也非常感謝讀者、企業與出版社的支持，讓書籍成為凝聚公益能量的媒介。她表示：「這是一個萬人發起、萬人響應的計畫，每一份心意都匯聚成守護生命的力量。」</p>
+
+
+
+<p>值得一提的是，這輛「耶魯愛絲一號」救護車車身特別設置了一個 QR Code，掃描即可連結至雲端「捐贈芳名錄」，凡參與購書與捐贈的朋友都能留名，共同見證這份愛心。黃衍菁老師說：「這不僅是一台救護車，更是一場大家一起完成的公益行動。也誠摯歡迎更多人未來加入，攜手成就更多回饋社會的計畫。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e8%90%ac%e4%ba%ba%e8%b3%bc%e6%9b%b8%e6%8d%90%e6%95%91%e8%ad%b7%e8%bb%8a-%e3%80%8c%e8%80%b6%e9%ad%af%e6%84%9b%e7%b5%b2%e4%b8%80%e8%99%9f%e3%80%8d%e8%8f%81%e5%bd%a9%e4%b8%8a%e8%b7%af/">萬人購書捐救護車 「耶魯愛絲一號」菁彩上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</title>
+		<link>https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 05:29:31 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[社團法人台灣身心障礙兒童權利促進會]]></category>
+		<category><![CDATA[超級小玩家]]></category>
+		<category><![CDATA[身障童盟]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267579</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 由社團法人台灣身心障礙兒童權利促進會主辦、財團法人顯恩慈善基金會贊助支持的「超級小玩家 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/">「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>由社團法人台灣身心障礙兒童權利促進會主辦、財團法人顯恩慈善基金會贊助支持的「超級小玩家」計畫，自2024年4月啟動，歷時五個月，14位身心障礙兒童化身「超級小玩家」，成功完成任務——走訪並實地體驗雙北市 274座共融遊戲場。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-267582" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025.04.04授證與啟動儀式-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025年4月4日，「超級小玩家」授證與啟動儀式於台北市前港公園舉行。社團法人台灣身心障礙兒童權利促進會祕書長（前排左四）、顯恩慈善基金會創辦人（前排左六）與多位台北市議員共同出席，見證計畫正式啟動。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>計畫於 <strong>4月4日(兒童節)</strong> 在台北市前港公園舉行授證與啟動儀式，14位孩子領取專屬識別證與任務背包，正式展開實地探勘。當天獲得各界熱烈支持，包括台北市議員顏若芳、簡舒培、郭昭巖、林珍羽，新北市議員鄭宇恩，立法委員蘇巧慧服務團隊，臺北市社會局、臺北市政府工務局公園路燈工程管理處、中華民國景觀學會、社團法人台灣兒童遊戲設備發展協會、台灣公園設施協會、前港里里長陳瑞華、集仕股份有限公司、康鼎勤業股份有限公司等單位與人士蒞臨或致意。公私部門齊聚一堂，共同肯定以兒少視角推動共融價值的重要性。 </p>
+
+
+
+<p>在五個月的任務歷程中，「超級小玩家」不僅是遊戲場的參與者，更是觀察員與檢視者。他們以自身真實使用經驗，檢視設施是否友善、無障礙，並提出實際的困難與建議。例如，部分遊具雖設有坡道，但坡度過陡難以獨立使用；有些設施雖標榜共融，卻缺乏適合輪椅使用者的選項。孩子們的觀察與回饋，為遊戲場設計與改善提供了第一手、真實的寶貴資料。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>孩子發聲，推動改變——讓每個人都能一起玩</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-267581" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小玩家在任務過程中體驗遊戲板，透過實際操作感受遊具的設計與使用情況。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>社團法人台灣身心障礙兒童權利促進會周淑菁秘書長指出，根據國土管理署統計，目前全台近7,000座公園遊戲場中，提供身心障礙兒童使用的遊戲場僅佔10.7%。對許多身心障礙兒童來說，「玩耍」仍是一項遙不可及的權利。</p>
+
+
+
+<p>「共融遊戲場不是為了特定群體，而是為了讓每一個孩子，都能有平等參與的機會。」協會強調，本計畫的核心不只在於硬體改善，更在於讓孩子成為公共空間設計的參與者。透過實地走訪與回饋，小玩家們將與社區、校園、大眾對話，一步步推動空間與觀念的轉變。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>顯恩慈善基金會支持兒童參與權，實踐CRPD精神</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1152" height="2560" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=1152%2C2560&#038;ssl=1" alt="" class="wp-image-267580" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?w=1152&amp;ssl=1 1152w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=768%2C1707&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=691%2C1536&amp;ssl=1 691w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/超級小玩家出任務-4-scaled.jpg?resize=922%2C2048&amp;ssl=1 922w" sizes="(max-width: 1152px) 100vw, 1152px" data-recalc-dims="1" /><figcaption class="wp-element-caption">小玩家於任務過程中隨身攜帶捲尺，實地量測遊戲場洗手台高度，檢視是否符合兒童及輪椅使用者的需求。圖/社團法人台灣身心障礙兒童權利促進會</figcaption></figure>
+
+
+
+<p>顯恩慈善基金會創辦人廖楓老師表示，「超級小玩家」計畫不僅關注身心障礙兒童在遊戲場中的平等權利，更著眼於他們在社會中的全面參與。她強調，這項計畫讓孩子學習表達自身需求、發現問題，並透過實地行動促使社會改變，是一次重要的自我發聲與倡議機會。</p>
+
+
+
+<p>廖楓老師指出，讓身心障礙兒童成為共融遊戲場的實地探勘者，是實踐平等、尊嚴與社會責任的具體行動。她呼籲社會各界應正視無障礙設施的重要性，攜手為每個孩子創造更友善的成長環境，並表示基金會將持續全力支持，讓每位孩子的聲音都被聽見、需求被理解與回應。</p>
+
+
+
+<p>本計畫成果將於 <strong>11月7日（五）~11月9日（日）假剝皮寮歷史街區演藝廳</strong> 舉辦成果發表，屆時將呈現孩子們的紀錄影像與觀察報告，邀請社會各界一同見證「超級小玩家」的努力與收穫。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e3%80%8c%e8%b6%85%e7%b4%9a%e5%b0%8f%e7%8e%a9%e5%ae%b6%e3%80%8d%e5%87%ba%e4%bb%bb%e5%8b%99%e3%80%80%e8%b5%b0%e8%a8%aa%e9%9b%99%e5%8c%97274%e5%ba%a7%e5%85%b1%e8%9e%8d%e9%81%8a%e6%88%b2%e5%a0%b4/">「超級小玩家」出任務　走訪雙北274座共融遊戲場檢視成果出爐  身障童盟以兒童為主體，推動友善共融環境</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</title>
+		<link>https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:59:49 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ESG for Culture：企業Ｘ文化｜跨界新想像]]></category>
+		<category><![CDATA[上銀科技]]></category>
+		<category><![CDATA[大可創藝]]></category>
+		<category><![CDATA[文化內容策進院]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267542</guid>
+
+					<description><![CDATA[<p>生活中心/綜合報導 為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG f &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/">當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/綜合報導</p>
+
+
+
+<p>為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG for Culture：企業Ｘ文化｜跨界新想像》。本集邀請「上銀科技股份有限公司」（以下稱上銀科技）總經理蔡惠卿，以及「大可創藝股份有限公司」（以下稱大可創藝）創辦人潘思廷，分享雙方跨界的合作歷程，並帶領觀眾深入了解企業能夠如何為臺灣這座科技之島注入更多文化底蘊，實踐文化 ESG 的創新行動。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-267544" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文策院_平面文稿04_上銀科技x大可創意_照片01-的副本-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"> 【ESG for Culture：企業Ｘ文化｜跨界新想像】本集節目訪談畫面（圖片來源：文化內容策進院）</figcaption></figure>
+
+
+
+<p>上銀科技長期關注科技、藝術結合的可能性，早在 2007 年時便與法國藝術家 Daniel Depoutot 合作，將精密零組件轉化為具有故事性與生命力的裝置藝術。此次透過文策院媒合，上銀科技與致力推動文化平權與人才培育的大可創藝攜手合作，推動「機器手臂推廣創作培力計畫」，打造結合教育、科技與表演的跨域工作坊。</p>
+
+
+
+<p>在合作的過程中，藝術家與工程師跳脫自身專業框架，透過不斷轉譯彼此的語言逐漸建立理解與默契，也重新思索自身對藝術與科技的想像與定義。原本冰冷的機器手臂，也逐步轉變為具表演性與敘事能力的「舞台角色」。</p>
+
+
+
+<p>文化內容能夠為科技注入溫度，而科技也為文化內容帶來突破既有框架的可能與支撐。本次合作不僅讓科技走入藝術場域，也為企業投入文化內容合作提供可借鏡的行動經驗，無論是藝術科技化、科技藝術化，都是彼此學習、滋養的過程，更進一步打破科技與藝術之間的界線。</p>
+
+
+
+<p>展望未來，雙方預計將持續合作，期望共同打造出一個能長期運作的教育、創作平台，成為藝術與科技共創的孵化基地，展現出這段合作不只是一次創新的嘗試，更是對人才培育與藝術永續的具體實踐。</p>
+
+
+
+<p>#【ESG for Culture：企業Ｘ文化｜跨界新想像】節目資訊<br>▍YT、FB 同步上架┃文化內容策進院TAICCA<br>▍更新時間┃每月第一、三個完整周上片<br>文策院官方 Facebook：<a href="https://www.facebook.com/taicca.tw">https://www.facebook.com/taicca.tw</a><br>文策院 YouTube 頻道：<a href="https://www.youtube.com/@TAICCA">https://www.youtube.com/@TAICCA</a><br>ESG for Culture 官網：<a href="https://taicca.tw/resources/cooperation_matchmak/esg">https://taicca.tw/resources/cooperation_matchmak/esg</a></p>
+
+
+
+<p></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e7%95%b6%e6%a9%9f%e5%99%a8%e6%89%8b%e8%87%82%e6%88%90%e7%82%ba%e8%97%9d%e8%a1%93%e5%ae%b6%ef%bc%9a%e4%b8%8a%e9%8a%80%e7%a7%91%e6%8a%80%e8%88%87%e5%a4%a7%e5%8f%af%e5%89%b5%e8%97%9d%e5%b0%8d%e8%97%9d/">當機器手臂成為藝術家：上銀科技與大可創藝對藝術科技的再定義</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</title>
+		<link>https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 03:41:51 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267533</guid>
+
+					<description><![CDATA[<p>全球物聯網與嵌入式運算技術領導品牌 控創（Kontron）推出型號為「KBox E-430-AML/ADN/A &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/">控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球物聯網與嵌入式運算技術領導品牌 控創（Kontron）推出型號為「KBox E-430-AML/ADN/AMH/ADH」的新一代工業電腦。該系列可提供一個無風扇且堅固耐用的小型運算平台，協助加速智慧製造、智慧醫療、智慧城市及智慧零售等多元智能應用的落地發展。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=1024%2C1024&#038;ssl=1" alt="" class="wp-image-267534" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/kbox_e_430_aml_adn_amh_adh.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /><figcaption class="wp-element-caption">控創KBox E-430-AML/ADN/AMH/ADH無風扇工業電腦</figcaption></figure>
+
+
+
+<p><strong>人工智慧賦能運算平台</strong></p>
+
+
+
+<p>KBox E-430-AML/ADN/AMH/ADH搭載Intel® Atom® x7000RE系列、Intel® Core<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i3 N系列或Intel® N系列中央處理器，可借助其內建高達32個執行單元的整合式圖形處理器與人工智慧加速功能，提供一個兼具效能與成本優勢的4K影像處理以及深度學習與人工智慧工作負載加速的低功耗邊緣運算利器。</p>
+
+
+
+<p><strong>即時反應能力</strong></p>
+
+
+
+<p>該工業電腦視機種可支援Intel®時序協調運算（Time Coordinated Computing或縮寫為TCC）技術與時效性網路（Time-Sensitive Networking或縮寫為TSN）標準，能夠在系統內以及乙太網路環境下各系統間展現即時反應能力，確保諸如協同作業、即時控制與安全應變等時間關鍵型任務可以在預期的時間點準確完成。</p>
+
+
+
+<p><strong>工業級韌性</strong></p>
+
+
+
+<p>除了商用級操作溫度範圍，KBox E-430-AML/ADN/AMH/ADH還有支援操作溫度範圍從-40°C到65°C的寬溫機種，此外，還設計整合了多項堅固耐用的特性，可應付各種外在危害與威脅，確保系統可以穩健運行，例如無風扇與通風口的被動式散熱設計可以防止灰塵、污垢與溼氣的侵入；寬輸入電壓範圍可適應不穩定的電力供給、電壓突波或支援不同應用所需的各種電壓要求；內建獨立的TPM 2.0安全晶片則可提供更高的安全防護機制。</p>
+
+
+
+<p><strong>兩種影像輸出埠配置</strong></p>
+
+
+
+<p>該工業電腦提供兩種影像輸出埠配置可供選擇：KBox E-430-AML/ADN配有兩個DisplayPort連接埠，方便進行多顯設置；至於KBox E-430-AMH/ADH則分別有一個HDMI連接埠與一個DisplayPort連接埠，可兼容兩大主流影像傳輸介面，創造最大的應用可能性。此外，兩者都還配置了一個支援DisplayPort Alt模式的USB Type-C連接埠，可滿足USB-C觸控螢幕顯示器單一接孔傳輸之所需。</p>
+
+
+
+<p>更多關於KBox E-430-AML/ADN/AMH/ADH的詳情請參考：<a href="https://www.kontron.com/en/products/kbox-e-430-aml-adn-amh-adh/p186545" target="_blank" rel="noreferrer noopener">https://www.kontron.com/en/products/kbox-e-430-aml-adn-amh-adh/p186545</a>。</p>
+
+
+
+<p><strong>關於控創</strong> 控創引領物聯網與工業4.0技術市場，推出涵蓋硬體、軟體與服務的各種安全先進解決方案，藉以加快客戶產品上市時間、降低整體擁有成本、同時提供長期供貨承諾，鞏固其在智慧技術整合方面作為一個可信賴夥伴的角色。更多資訊，請參考控創官網www.kontron.com、電洽+886-(0)<a href="mailto:2-2799-2789或email至SalesAsia@kontron.com">2-2799-2789或email至SalesAsia@kontron.com</a>。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e6%8e%a7%e5%89%b5%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3-kbox-e-430-%e7%b3%bb%e5%88%97%e5%b7%a5%e6%a5%ad%e9%9b%bb%e8%85%a6%e3%80%80%e4%bb%a5%e9%ab%98%e6%95%88%e8%83%bd%e4%bd%8e/">控創推出新一代 KBox E-430 系列工業電腦　以高效能低功耗平台賦能智慧應用</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
