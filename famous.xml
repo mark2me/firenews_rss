@@ -1,120 +1,920 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Fri, 17 Oct 2025 08:42:18 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>「2025台灣卓越印刷設計展」不在對位，翻轉印刷設計新視界——於高雄駁二盛大開幕</title>
+		<link>https://firenews.com.tw/2025/10/17/%e3%80%8c2025%e5%8f%b0%e7%81%a3%e5%8d%93%e8%b6%8a%e5%8d%b0%e5%88%b7%e8%a8%ad%e8%a8%88%e5%b1%95%e3%80%8d%e4%b8%8d%e5%9c%a8%e5%b0%8d%e4%bd%8d%ef%bc%8c%e7%bf%bb%e8%bd%89%e5%8d%b0%e5%88%b7%e8%a8%ad/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 08:41:16 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268744</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 由經濟部產業發展署、台灣區印刷暨機器材料工業同業公會指導，財團法人印刷創新科技研究發展 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/%e3%80%8c2025%e5%8f%b0%e7%81%a3%e5%8d%93%e8%b6%8a%e5%8d%b0%e5%88%b7%e8%a8%ad%e8%a8%88%e5%b1%95%e3%80%8d%e4%b8%8d%e5%9c%a8%e5%b0%8d%e4%bd%8d%ef%bc%8c%e7%bf%bb%e8%bd%89%e5%8d%b0%e5%88%b7%e8%a8%ad/">「2025台灣卓越印刷設計展」不在對位，翻轉印刷設計新視界——於高雄駁二盛大開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>由經濟部產業發展署、台灣區印刷暨機器材料工業同業公會指導，財團法人印刷創新科技研究發展中心與高雄市印刷商業同業公會共同主辦的「2025台灣卓越印刷設計展」，今（17）日上午於高雄駁二藝術特區蓬萊B4倉庫正式登場。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-268747" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0030-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>2025台灣卓越印刷設計展在高雄駁二特區蓬萊B4倉庫正式開展。圖／財團法人印刷創新科技研究發展中心提供</strong></figcaption></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>今年邁入第三屆的展覽以「<strong>不在對位 OUT OF REGISTER</strong>」為主題，象徵印刷產業在跨域融合下的再創新。開幕典禮現場貴賓雲集，包括經濟部產業發展署代表、台灣區印刷暨機器材料工業同業公會邱永順常務理事、印研中心陳正剛董事長、高雄市印刷商業同業公會林伯瑜理事長，以及高雄市政府青年局林楷軒局長等近150位產官學研界貴賓，共同見證這場以「印刷×設計×文創IP×AI科技藝術」為核心的創意盛會。</p>
+
+
+
+<p><strong>經濟部產業發展署民生化工產業組陳愷雯科長表示，本展不僅展現印刷設計的美學創新，更是產業發展導入新科技與新材料的縮影。透過展覽平台，讓產業界得以交流最新成果、媒合商機，見證印刷設計為產業轉型升級所帶來的多元可能。</strong><strong>台灣區印刷暨機器材料工業同業公會邱永順常務理事指出，「台灣卓越印刷設計展」為業界新生代與新技術提供了展示舞台，讓更多創意與實力被看見，是產業創新與人才培育的重要推力。</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-268748" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0029-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>台灣區印刷暨機器材料工業同業公會-邱永順常務理事（左一）、高雄市印刷商業同業公會-林伯瑜理事長（左二）、財團法人印刷創新科技研究發展中心-陳正剛董事長（中間）、高雄市政府青年局-林楷軒局長（右一）、經濟部產業發展署-陳愷雯科長（右二）。圖／財團法人印刷創新科技研究發展中心提供</strong></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>儀式以「對位」為名，重構印刷美學的語言</strong></h2>
+
+
+
+<p>主辦單位提及：「<strong>『不在對位』的主題，象徵印刷設計產業在錯位中尋找新構圖的平衡，在跨域的融合裡創造新的對話。</strong>」並指出，印刷記號不再只是技術符號，而是一種設計語言的再造，透過視覺設計、層次構成與排版運用，讓錯位成為創意發生的契機。</p>
+
+
+
+<p>啟動儀式以「對位」為象徵主軸，邀請貴賓將象徵印刷記號的圖卡依序貼上背板，完成「不在對位」主題構圖。隨著最後一塊拼圖貼上、禮炮響起，象徵印刷技術與設計創意的完美結合，也宣告「2025台灣卓越印刷設計展」正式開幕。</p>
+
+
+
+<p><strong>印研中心陳正剛董事長表示，印研中心長期扮演連結全國產官學研的重要角色，將持續以專業與創新能量服務產業，並透過展覽與示範場域，推動印刷技術與設計應用的深化與加值。</strong><strong>高雄市印刷商業同業公會林伯瑜理事長則感謝各界蒞臨高雄共襄盛舉，期盼藉由本展讓更多人看見南部印刷產業的能量，持續推動地方產業與設計文化的融合發展。</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-268749" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0044-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>2025台灣卓越印刷設計展主視覺背板。圖／財團法人印刷創新科技研究發展中心提供</strong></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>展覽亮點匯聚：印刷×設計×文創IP×AI科技藝術</strong></h2>
+
+
+
+<p>本屆展覽以「印刷設計加值」為核心，規劃多元特色展區：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>台灣金印獎特展：</strong>「台灣金印獎」為台灣印刷、出版及相關產業最知名之獎項，本獎項為獎勵並激發國內印刷產業的優秀印刷技術，不斷地創新精進。今年將囊括所有第19屆台灣金印獎得獎作品，提前搶先曝光一睹優異印刷成果。</li>
+
+
+
+<li><strong>年度卓越特區〈雷射全像定位印刷展〉</strong>：由光群雷射科技與印研中心聯合策劃，展示雷射全像定位印刷技術在三維視覺、防偽保全、精密定位等多元應用的新篇章。</li>
+
+
+
+<li><strong>AI科技印藝特區</strong>：以「人工智慧與新藝術」為主題，展現AI圖紋生成、瑕疵檢測等智慧化技術，開啟印刷產業的未來想像。</li>
+
+
+
+<li><strong>印刷設計品牌區：</strong>延續展覽自創辦以來的經典展區架構，邀請多家國內外優質印刷設計品牌重磅登場，展現其專業工藝與創新風格。</li>
+
+
+
+<li><strong>IPrint印創聚場</strong>：首次登場的全新展區，聚焦角色圖像與授權品牌合作，集結多組知名IP創作品牌（青青文具、卡米客、小虎Day等），過程中透過與印刷廠媒合共創展覽限定商品，讓創意設計貼近生活、激發消費新契機。</li>
+</ul>
+
+
+
+<p>展期期間同步推出「跨域論壇講座」，邀請國內外專家、設計師及廠商代表分享實務經驗與設計觀點，促進產業與創意間的深度對話。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-268750" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251017_0010_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><strong>2025台灣卓越印刷設計展展區圖。圖／財團法人印刷創新科技研究發展中心提供</strong></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>邀您一同見證「不在對位」的印創能量</strong></h2>
+
+
+
+<p>「2025台灣卓越印刷設計展」自10月17日至20日於高雄駁二蓬萊B4倉庫展出，免費入場。誠摯邀請產業先進、設計文創工作者與社會大眾前來參與，一同走進高雄駁二，感受印刷設計的無限創意與跨域魅力。</p>
+
+
+
+<h2 class="wp-block-heading">2025台灣卓越印刷設計展</h2>
+
+
+
+<p>不在對位 ᴏᴜᴛ ᴏғ ʀᴇɢɪsᴛᴇʀ</p>
+
+
+
+<p>𝙄𝙋𝘳𝘪𝘯𝘵 印創聚場</p>
+
+
+
+<p><strong>免費入場</strong></p>
+
+
+
+<p><strong>展覽｜2025.10.17 → 10.20</strong></p>
+
+
+
+<p><strong>時間｜10:00~17:00 假日~18:00</strong></p>
+
+
+
+<p><strong>地點｜高雄駁二蓬萊B4倉庫</strong></p>
+
+
+
+<h2 class="wp-block-heading">官方網站／社群：</h2>
+
+
+
+<p>Facebook｜<a href="https://www.facebook.com/printdesign.tw/">https://www.facebook.com/printdesign.tw/</a></p>
+
+
+
+<p>Instagram｜<a href="https://www.instagram.com/print_design.tw/">https://www.instagram.com/print_design.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/%e3%80%8c2025%e5%8f%b0%e7%81%a3%e5%8d%93%e8%b6%8a%e5%8d%b0%e5%88%b7%e8%a8%ad%e8%a8%88%e5%b1%95%e3%80%8d%e4%b8%8d%e5%9c%a8%e5%b0%8d%e4%bd%8d%ef%bc%8c%e7%bf%bb%e8%bd%89%e5%8d%b0%e5%88%b7%e8%a8%ad/">「2025台灣卓越印刷設計展」不在對位，翻轉印刷設計新視界——於高雄駁二盛大開幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《紅塵問仙》預約飆破百萬！赤鬼伯伯 × SWAG 夢幻聯動企劃限時登場</title>
+		<link>https://firenews.com.tw/2025/10/17/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e8%a1%9d%e7%a0%b4%e7%99%be%e8%90%ac%e9%a0%90%e7%b4%84%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e8%b7%a8%e7%95%8c%e8%81%af/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 05:50:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[MMORPG]]></category>
+		<category><![CDATA[SheenaGames]]></category>
+		<category><![CDATA[SWAG]]></category>
+		<category><![CDATA[紅塵問仙]]></category>
+		<category><![CDATA[赤鬼伯伯]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267276</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 仙俠放置手遊《紅塵問仙》掀起預約狂潮！由 SheenaGames 開發的MMORPG  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e8%a1%9d%e7%a0%b4%e7%99%be%e8%90%ac%e9%a0%90%e7%b4%84%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e8%b7%a8%e7%95%8c%e8%81%af/">《紅塵問仙》預約飆破百萬！赤鬼伯伯 × SWAG 夢幻聯動企劃限時登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>仙俠放置手遊《紅塵問仙》掀起預約狂潮！由 SheenaGames 開發的MMORPG 自 9 月 22 日開放事前預約以來，在短短數週內吸引超過百萬玩家參與，隨著人氣持續飆升，官方今日正式宣布將推出跨界合作——邀請人氣創作者「赤鬼伯伯」與成人娛樂平台 SWAG 攜手打造特別聯動影片，預計於 10 月 22 日晚間限時公開。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖一.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-267301" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖一.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖一.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖一.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖一.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>百萬預約達成　開創成人仙俠全新類型</strong> </h2>
+
+
+
+<p>《紅塵問仙》以九州大陸為舞台，融合放置養成、裝備鍛造、古寶探索等多元系統，並首度在修仙題材中導入「成人雙修」機制。</p>
+
+
+
+<p>玩家不僅能體驗戰力成長的樂趣，亦可與師姐、師妹展開情感互動，在修煉之道中感受紅塵羈絆。</p>
+
+
+
+<p>憑藉創新的題材與完整的世界觀設定，《紅塵問仙》迅速吸引大量關注，成為近期最受矚目的成人向仙俠作品。 遊戲將於 10 月 22 日 登陸 EROLABS 平台 正式上線，未完成預約的玩家仍可於活動頁面登錄，領取專屬開服虛寶獎勵 !</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖三.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-267302" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖三.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖三.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖三.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖三.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>赤鬼伯伯 × SWAG 聯動企劃即將登場！尺度預告超越想像</strong></h2>
+
+
+
+<p>為感謝玩家一路以來的熱烈支持，《紅塵問仙》官方正式宣布，將與超人氣創作者 <strong>赤鬼伯伯</strong> 及成人平台 <strong>SWAG</strong> 攜手推出特別聯動企劃影片，預定於 <strong>10 月 22 日晚間限時公開</strong>。 根據官方透露，本次影片由 SWAG 團隊全程精心策劃與執導，內容將融合赤鬼伯伯獨特的娛樂風格與 SWAG 大膽前衛的影像語言，<strong>尺度之大、創意之新，勢必超乎觀眾想像</strong>。</p>
+
+
+
+<p><strong>想搶先欣賞影片、掌握第一手公開資訊的粉絲</strong>，請務必鎖定《紅塵問仙》官方粉絲團，精彩內容即將揭幕。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖二.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-267303" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖二.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖二.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖二.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/20251013_圖二.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>鎖定官方資訊　掌握最新活動進度</strong></h2>
+
+
+
+<p>官方提醒，欲獲得活動與影片消息的玩家，可關注《紅塵問仙》官方粉絲團與預約頁面，即時獲得最新資訊! </p>
+
+
+
+<p>事前預約頁面：<a href="https://www.col-pre.com/">https://www.col-pre.com/</a></p>
+
+
+
+<p>官方粉絲團：<a href="https://www.facebook.com/chronicleofimmortals">https://www.facebook.com/chronicleofimmortals</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e8%a1%9d%e7%a0%b4%e7%99%be%e8%90%ac%e9%a0%90%e7%b4%84%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e8%b7%a8%e7%95%8c%e8%81%af/">《紅塵問仙》預約飆破百萬！赤鬼伯伯 × SWAG 夢幻聯動企劃限時登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI客服助攻轉換率！戰國策揭密企業導入AI客服系統的成功關鍵</title>
+		<link>https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%8a%a9%e6%94%bb%e8%bd%89%e6%8f%9b%e7%8e%87%ef%bc%81%e6%88%b0%e5%9c%8b%e7%ad%96%e6%8f%ad%e5%af%86%e4%bc%81%e6%a5%ad%e5%b0%8e%e5%85%a5ai%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 03:00:27 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268521</guid>
+
+					<description><![CDATA[<p>在數位商戰中，客服早已不只是「回覆訊息」的部門，而是影響轉換率與營收的關鍵環節，隨著人工智慧技術的進步，「AI &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%8a%a9%e6%94%bb%e8%bd%89%e6%8f%9b%e7%8e%87%ef%bc%81%e6%88%b0%e5%9c%8b%e7%ad%96%e6%8f%ad%e5%af%86%e4%bc%81%e6%a5%ad%e5%b0%8e%e5%85%a5ai%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1/">AI客服助攻轉換率！戰國策揭密企業導入AI客服系統的成功關鍵</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在數位商戰中，客服早已不只是「回覆訊息」的部門，而是影響轉換率與營收的關鍵環節，隨著人工智慧技術的進步，「AI客服」成為企業行銷與客戶經營的新焦點。根據戰國策的導入數據顯示，採用AI客服系統的企業，線上成交率平均提升27%，人力成本降低30%。AI不僅提升效率，更重塑了顧客信任與品牌體驗，成為推動營收成長的無聲推手。</p>
+
+
+
+<p><strong>10</strong><strong>秒內回覆、365</strong><strong>天在線　AI</strong><strong>客服</strong><strong>讓「顧客不再等待」</strong></p>
+
+
+
+<p>根據研究顯示，高達76%的顧客願意等待客服回覆的時間不超過兩分鐘，超過這段時間，多數人會直接離開頁面。戰國策AI客服 能在10秒內自動回覆 顧客問題，比人工回應速度快10倍，並能全天候、365天運作，讓企業在深夜、假日也不錯過任何商機。</p>
+
+
+
+<p>當AI即時提供商品資訊、庫存狀態或訂單查詢時，顧客更容易在第一時間完成決策，進而提升轉換率。戰國策指出，AI的即時性與穩定性，已成為降低「顧客流失」與提升「信任度」的關鍵因素。</p>
+
+
+
+<p><strong>多元應用案例：AI</strong><strong>客服</strong><strong>不只是客服，更是營收助力</strong></p>
+
+
+
+<p>電商產業：減少放棄購物車，提升成交率</p>
+
+
+
+<p>許多電商平台面臨「顧客瀏覽卻未結帳」的難題。戰國策AI客服可自動回覆商品規格、庫存、物流查詢等常見問題，並主動推播優惠訊息或折扣券，降低顧客流失率。透過自動化對話流程（Automation Flow），顧客能在無需等待人工客服的情況下即時獲得解答，顯著提升購物轉換率。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章四-1.jpg?resize=1024%2C1024&#038;ssl=1" alt="" class="wp-image-268525" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章四-1.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章四-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章四-1.jpg?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /><figcaption class="wp-element-caption">戰國策揭密企業導入AI客服系統的成功關鍵。圖/戰國策提供</figcaption></figure>
+
+
+
+<p>服務業：自動預約、智能派單，提高營運效率</p>
+
+
+
+<p>對於餐飲、診所、美容或維修等服務業，AI客服能自動接收預約、派發工單，甚至可結合行事曆自動安排時段。這不僅減輕櫃檯與客服人員負擔，也讓顧客享受更流暢的預約體驗。AI也可辨識顧客常見需求，主動建議適合服務或方案，提升整體客戶滿意度。</p>
+
+
+
+<p>B2B產業：數據洞察推動商機轉化</p>
+
+
+
+<p>對企業對企業（B2B）的客戶而言，AI客服更扮演「數據分析助理」的角色。</p>
+
+
+
+<p>戰國策的 Insights &amp; Marketing 模組能蒐集互動數據，建立顧客分群分析，讓業務團隊精準掌握客戶行為與偏好，針對潛在客戶發送電子報或群組推播，創造後續轉單機會。客服不再只是售後支援，而成為推動銷售的前線工具。</p>
+
+
+
+<p><strong>戰國策AI</strong><strong>客服</strong><strong>：客服系統成為企業的成長引擎</strong></p>
+
+
+
+<p><a href="https://livechat.com.tw/">戰國策的AI客服系統</a>整合「智慧輔助、全通路支援、數據行銷」三大核心功能，幫助企業在顧客互動的每一刻創造價值。內建的智慧AI聊天機器人不僅能自動回覆常見問題，還提供即時翻譯、訊息修正與回覆建議，讓客服回覆更快、更專業；全通路整合（Omni-Channel Support）讓LINE、Facebook Messenger、WhatsApp、WeChat、Telegram 等平台訊息集中於同一後台，避免漏接或延誤；而Insights &amp; Marketing功能則能自動推送歡迎訊息、彈跳通知與電子報，將客服轉化為行銷推進器。</p>
+
+
+
+<p>透過數據驅動決策，戰國策協助企業將客服中心從「成本部門」轉型為「營收引擎」，真正實現以AI推動商業成長的目標。</p>
+
+
+
+<p><strong>安全與彈性並重：GDPR</strong><strong>合規與API</strong><strong>自由串接，打造多元化AI</strong><strong>客服</strong><strong>生態</strong></p>
+
+
+
+<p>為滿足中大型企業的安全與彈性需求，戰國策AI客服系統可自由串接企業自有 OpenAI API，確保資料不受平台綁架。系統同時符合GDPR與個資法規範，採用高標準加密技術，保障企業與顧客的資料安全，並支援CRM、ERP、電商平台等多元整合，打造符合不同產業需求的AI客服生態系。</p>
+
+
+
+<p>在顧客體驗決定品牌價值的時代，快速、準確、永不休息的AI客服已不只是客服工具，而是企業營收成長的新引擎。戰國策透過AI智能回覆、全通路整合與數據行銷，讓每一次顧客互動都能帶來轉換與價值。對企業而言，導入AI客服不僅是提升效率的手段，更是邁向智慧營運與永續成長的重要一步。</p>
+
+
+
+<p>戰國策官方Line@ ID: @119m</p>
+
+
+
+<p>戰國策AI客服系統：<a href="https://livechat.com.tw/">https://livechat.com.tw/</a></p>
+
+
+
+<p>戰國策官方網站：<a href="https://www.nss.com.tw/">https://www.nss.com.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%8a%a9%e6%94%bb%e8%bd%89%e6%8f%9b%e7%8e%87%ef%bc%81%e6%88%b0%e5%9c%8b%e7%ad%96%e6%8f%ad%e5%af%86%e4%bc%81%e6%a5%ad%e5%b0%8e%e5%85%a5ai%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1/">AI客服助攻轉換率！戰國策揭密企業導入AI客服系統的成功關鍵</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI客服崛起：戰國策引領客服系統革命從電話到雲端全面邁向智能自動化</title>
+		<link>https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%ef%bc%9a%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1%e9%9d%a9%e5%91%bd%e5%be%9e%e9%9b%bb%e8%a9%b1%e5%88%b0%e9%9b%b2%e7%ab%af/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 02:51:34 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268512</guid>
+
+					<description><![CDATA[<p>在數位轉型與人工智慧浪潮下，企業與顧客的互動方式正迎來前所未有的變革。從過去仰賴人力的電話客服，到如今由AI技術驅動的自動化客服系統，「AI客服」已成為企業提高效率與競爭力的關鍵利器。戰國策憑藉全通路整合、自動化流程與數據驅動行銷的優勢，協助企業完成客服升級轉型，讓客服中心從成本單位，蛻變為營收成長的核心引擎。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%ef%bc%9a%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1%e9%9d%a9%e5%91%bd%e5%be%9e%e9%9b%bb%e8%a9%b1%e5%88%b0%e9%9b%b2%e7%ab%af/">AI客服崛起：戰國策引領客服系統革命從電話到雲端全面邁向智能自動化</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在數位轉型與人工智慧浪潮下，企業與顧客的互動方式正迎來前所未有的變革。從過去仰賴人力的電話客服，到如今由AI技術驅動的自動化客服系統，「AI客服」已成為企業提高效率與競爭力的關鍵利器。戰國策憑藉全通路整合、自動化流程與數據驅動行銷的優勢，協助企業完成客服升級轉型，讓客服中心從成本單位，蛻變為營收成長的核心引擎。<strong></strong></p>
+
+
+
+<p><strong>傳統客服演進智能客服：從電話到雲端客服，挑戰與限制並存</strong></p>
+
+
+
+<p>早期的電話客服代表著最直接的人際溝通方式，但其高昂的人力成本與長時間等待問題，始終讓企業與顧客兩端都倍感壓力。當線上文字客服興起後，雖然服務範圍擴大、溝通即時，但客服人員仍需同時應對大量訊息，導致回覆速度有限、人力緊繃。</p>
+
+
+
+<p>後續登場的雲端客服系統雖帶來集中管理與資料整合的便利，能結合CRM與ERP等企業系統，但客服回覆仍需人工處理。當顧客需求暴增時，人工客服依舊無法滿足即時與高頻互動的挑戰。這樣的困境，直到AI自動化客服 的出現，才迎來根本性改變。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="854" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章三.jpg?resize=1220%2C854&#038;ssl=1" alt="" class="wp-image-268513" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章三.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/文章三.jpg?resize=768%2C538&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">戰國策引領客服系統革命從電話到雲端全面邁向智能自動化。圖/戰國策提供</figcaption></figure>
+
+
+
+<p><strong>AI</strong><strong>客服</strong><strong>登場：智慧自動化，讓客服更快、更準、更懂顧客</strong></p>
+
+
+
+<p><a href="https://livechat.com.tw/">戰國策AI客服系統</a> 結合人工智慧與全通路整合技術，能在十秒內自動回覆顧客，比傳統人工回應速度快十倍，且全年365天全天候運作，真正實現「不打烊的客服」。透過AI演算法與智慧決策模組，系統可自動處理常見問題（FAQ）、訂單查詢、售後服務及自動派單，讓人工客服專注於高價值對話與關鍵決策。戰國策實際導入數據顯示，企業平均能降低 30% 的客服人力成本，成交率提升27%，同時自動化處理約七成的客戶諮詢，讓服務效率與品牌體驗同步升級。</p>
+
+
+
+<p><strong>AI</strong><strong>客服系統</strong><strong>三大核心優勢：全通路整合、自動化流程、數據行銷</strong></p>
+
+
+
+<p>戰國策AI客服最突出的價值，在於「整合」與「智能」。首先是全通路整合（Omni-Channel Support）。系統支援LINE、Facebook Messenger、WhatsApp、WeChat、Telegram等主流通訊平台，所有訊息集中於單一後台管理，客服人員能即時掌握顧客互動狀況，避免資訊分散與漏接訊息。</p>
+
+
+
+<p>其次，透過 自動化流程（Automation Flow），AI能依照設定規則自動執行FAQ回覆、訂單查詢與售後派單，並在遇到複雜狀況時自動轉交真人客服，確保回覆不中斷。AI同時能根據顧客歷史紀錄提供最佳回覆建議，讓客服決策更快、更精準。</p>
+
+
+
+<p>最後，戰國策內建的 數據洞察與行銷分析（Insights &amp; Marketing） 模組，能即時分析客服績效、顧客互動數據，並進行顧客分群、推播優惠、電子報發送等行銷行動，讓客服不再只是售後支援，而是行銷推動力。企業能從對話中洞察顧客需求，主動創造轉化機會。</p>
+
+
+
+<p><strong>線上客服系統</strong><strong>彈性整合與資安保證：中大型企業的理想選擇</strong></p>
+
+
+
+<p>與市面上許多被系統綁架的客服平台不同，戰國策提供高彈性的API串接能力，企業可自由整合自有OpenAI API或其他AI模型，靈活客製對話邏輯與流程。此外，戰國策的系統架構符合GDPR與個資法規範，並提供端對端加密機制，確保顧客資料與企業營運資訊的安全穩定，成為中大型企業導入AI客服時最值得信賴的選擇。</p>
+
+
+
+<p><strong>數據為證：AI</strong><strong>客服</strong><strong>帶來的真實成效</strong></p>
+
+
+
+<p>根據戰國策提供的導入數據，多數企業在上線後短期內即可看到明顯成效：</p>
+
+
+
+<p>客服自動回覆率平均達70%，顧客等待時間縮短至十秒內，顧客滿意度明顯提升。同時，全年無休的AI客服有效防止顧客流失，並協助企業在非上班時段持續接單，讓每一次互動都成為新的轉化機會。</p>
+
+
+
+<p><strong>未來展望：AI</strong><strong>客服</strong><strong>成企業成長的引擎</strong></p>
+
+
+
+<p>客服系統的演進，是企業數位化進程中的重要指標。從電話客服的單線溝通，到AI客服的智慧自動化，客服已從「回應顧客」轉型為「預測需求」。</p>
+
+
+
+<p>戰國策AI客服系統 正以智能化、自動化與全通路整合的能力，協助企業實現更高效率、更低成本與更佳顧客體驗，打造出以數據驅動成長的新型客服生態。在競爭日益激烈的市場中，誰能讓客服更快、更聰明、更貼心，誰就掌握了顧客與市場的未來。戰國策以AI為核心的客服系統，正是這場智慧服務革命的關鍵推手。</p>
+
+
+
+<p>戰國策官方Line@ ID: @119m</p>
+
+
+
+<p>戰國策AI客服系統：<a href="https://livechat.com.tw/">https://livechat.com.tw/</a></p>
+
+
+
+<p>戰國策官方網站：<a href="https://www.nss.com.tw/">https://www.nss.com.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/17/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%ef%bc%9a%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e5%ae%a2%e6%9c%8d%e7%b3%bb%e7%b5%b1%e9%9d%a9%e5%91%bd%e5%be%9e%e9%9b%bb%e8%a9%b1%e5%88%b0%e9%9b%b2%e7%ab%af/">AI客服崛起：戰國策引領客服系統革命從電話到雲端全面邁向智能自動化</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「藝文能量 × 食農體驗」展現農村產業魅力新風貌</title>
+		<link>https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268039</guid>
+
+					<description><![CDATA[<p>記者 林俊偉 / 報導 台東縱谷串連豐饒自然與多元人文，今年在農村發展及水土保持署臺東分署推動下，透過「藝文能 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/">「藝文能量 × 食農體驗」展現農村產業魅力新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 林俊偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台東縱谷串連豐饒自然與多元人文，今年在農村發展及水土保持署臺東分署推動下，透過「藝文能量 × 食農體驗」系列行動，讓文化與產業交融，展現農村創生的新樣貌。從池上藍染文化的技藝復興，到關山「大地食力」的食農教育體驗，縱谷的村落正以文化為筆，書寫屬於自己的當代篇章。</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading"><strong>藍染技藝復興　池上以文化力翻轉產業</strong></h2>
+
+
+
+<p>池上萬安社區以藍染為核心，重啟藍草種植與客家染布技藝的傳承，讓原本逐漸消逝的傳統工藝重新發光。由「沐藍六感美學協會」推動的藍染復興計畫，結合工作坊、手作市集與文化展演，讓藍染不僅是一門技術，更是一場五感的文化體驗。</p>
+
+
+
+<p>曾經在台灣失落六十多年的藍染技藝，如今在池上的田野間再次綻放。從藍草栽培、藍靛製作到染布體驗，這項文化行動不僅讓居民重拾自信，也逐步發展出具地方特色的農村產業。靛藍色的織品、手感溫潤的布料與獨特的香氣，共同構築出台東縱谷的文化新風景。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="437" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=1220%2C437&#038;ssl=1" alt="" class="wp-image-268040" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=768%2C275&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=1536%2C551&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?resize=2048%2C734&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/001-scaled.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">臺東縣沐藍六感美學推廣協會結合工作坊、藝文表演重現當地藍染文化，引領參與者透過五感體驗感受當地歷史與客家文化。/圖片來源：臺東縣沐藍六感美學推廣協會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>關山「大地食力」　以文化入菜、食農入村</strong></h2>
+
+
+
+<p>在關山鎮農會以「從泥巴到嘴巴」為理念舉辦「大地食力」活動，邀請親子一同體驗食材轉化的樂趣。課程中以洛神、肉桂等在地農產為主角，帶領學員製作創意點心。成果展中更有薩克斯風樂團現場演奏，讓學員在音樂與香氣交織下，體驗縱谷四季的味覺記憶。 此外，關山鎮農會將舊穀倉改造為共享文化空間，園區內設有小農格子鋪、惜食專區與農夫市集，並定期舉辦藝文展演。這樣的轉型，不僅活化了閒置空間，也形塑出「食農教育 × 文化藝術」的新農村樣貌。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=1220%2C427&#038;ssl=1" alt="" class="wp-image-268041" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?w=2338&amp;ssl=1 2338w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=768%2C269&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=1536%2C537&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/002.png?resize=2048%2C717&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">關山鎮農會辦理親子烘焙課程，結合台東洛神、肉桂等農產，帶領學員從味覺中感受縱谷故事，並推動食農教育。/圖片來源：關山鎮農會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>藝文串聯產業　縱谷共創文化經濟</strong> </h2>
+
+
+
+<p>如今，藝術走進農村、農村成為藝術舞台。從池上的藍布飄揚，到關山的米香與樂聲，文化與土地緊密結合。這些來自社區的創新行動，象徵著縱谷農村從「生產」走向「生活」，再進化為「文化」的力量。台東縱谷正以文化為筆、以產業為墨，描繪一幅屬於這片土地的當代新畫卷。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e3%80%8c%e8%97%9d%e6%96%87%e8%83%bd%e9%87%8f-x-%e9%a3%9f%e8%be%b2%e9%ab%94%e9%a9%97%e3%80%8d%e5%b1%95%e7%8f%be%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e9%ad%85%e5%8a%9b%e6%96%b0%e9%a2%a8%e8%b2%8c/">「藝文能量 × 食農體驗」展現農村產業魅力新風貌</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</title>
+		<link>https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 06:38:47 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[火報]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268121</guid>
+
+					<description><![CDATA[<p>在競爭激烈的數位時代，「客服」早已不只是售後服務的窗口，而是品牌體驗與顧客轉化的關鍵戰場。當人力客服面臨高成本 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/">AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在競爭激烈的數位時代，「客服」早已不只是售後服務的窗口，而是品牌體驗與顧客轉化的關鍵戰場。當人力客服面臨高成本與覆蓋侷限時，AI客服正成為企業數位轉型的核心解方。戰國策以全通路整合與智慧客服系統，協助企業打造24/7的服務體驗，成功讓客戶成交率平均提升 27%、人力成本降低 30%。</strong></p>
+</blockquote>
+
+
+
+<p><strong>AI客服 vs. 真人客服：誰才是企業的最佳選擇？</strong></p>
+
+
+
+<p>真人客服的優勢在於情感溝通與複雜問題處理，但其限制同樣明顯：人力成本高、夜間與假日無法全面覆蓋、回覆速度受限；相對地，AI客服能在數秒內回應、全年無休運作，且具備強大的數據分析能力，成為客服中心數位升級的重要推手。根據戰國策資料顯示，多數企業在導入AI客服後，能自動回覆約70%常見問題，不僅降低超過三成的人力支出，更將省下的資源投入行銷與研發，讓客服中心從「成本部門」轉為「成長引擎」。</p>
+
+
+
+<p><strong>戰國策AI客服系統三大優勢</strong></p>
+
+
+
+<p><a href="https://livechat.com.tw/">戰國策AI客服</a>主要有以下三大優勢，可以為客戶帶來便捷的服務</p>
+
+
+
+<p>一、全通路整合，一站式管理</p>
+
+
+
+<p>支援LINE、Facebook Messenger、WhatsApp、WeChat、Telegram等主流通訊平台，所有訊息集中於單一後台管理，避免訊息分散、效率低落，讓客服團隊輕鬆掌握所有顧客互動。</p>
+
+
+
+<p>二、智慧即時回覆，速度快10倍</p>
+
+
+
+<p>內建AI智慧聊天機器人，平均可在10秒內回應顧客問題，比人工快10倍。研究顯示，76%的顧客只願意等待2分鐘內的回覆，戰國策AI客服的高速反應，有效提升顧客滿意度與品牌信任感。</p>
+
+
+
+<p>三、全年無休，全天候服務不間斷 系統全年365天自動運作，無論白天或深夜皆能即時回應，避免潛在顧客流失。實際導入數據顯示，企業平均成交率因此提升27%。</p>
+
+
+
+<p><strong>成為客服系統推薦解方從客服到行銷：AI帶來數據驅動的商業洞察，成為客服系統推薦解方</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="854" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?resize=1220%2C854&#038;ssl=1" alt="" class="wp-image-268127" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-140.png?resize=768%2C538&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">AI客服崛起戰國策引領「智慧客服革命」。圖/戰國策提供</figcaption></figure>
+
+
+
+<p>傳統客服只能「回應問題」，而戰國策AI客服能進一步「理解顧客」。內建的數據分析與顧客分群功能，可清楚掌握服務績效、顧客行為與互動紀錄，協助企業制定精準的行銷策略，讓客服部門轉化為營收推動力。另戰國策AI客服還有五大特色打造戰略級客服系統，包含智慧AI 輔助、LINE、FB、WhatsApp等平台訊息全通路整合、從FAQ到售後工單全自動處理、內建分析報表與顧客評分，並結合推播與電子報行銷、還有支援自有OpenAI API，遵循GDPR與個資法規，確保資料安全。</p>
+
+
+
+<p><strong>趨勢解析：AI客服＋真人客服，成為未來新常態</strong></p>
+
+
+
+<p>面對未來，企業客服的主流模式將不再是「AI 取代人工」，而是「AI＋人工」的混合協作。AI負責高頻、重複性問題，真人客服則專注於高價值對話與情感交流。戰國策的AI＋人工無縫交接機制，正是這一趨勢的最佳實踐，讓服務更智慧、更有人情味。</p>
+
+
+
+<p>AI客服不僅是科技升級，更是企業營運效率與品牌體驗的全面革新。戰國策 LiveChat.com.tw以強大的全通路整合與AI智能系統，為企業打造真正「不打烊」的服務中心，讓每一次互動都成為成長契機。</p>
+
+
+
+<p>戰國策官方Line@ ID: @119m </p>
+
+
+
+<p>官方網站：<a href="https://www.nss.com.tw/">https://www.nss.com.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/ai%e5%ae%a2%e6%9c%8d%e5%b4%9b%e8%b5%b7%e6%88%b0%e5%9c%8b%e7%ad%96%e5%bc%95%e9%a0%98%e3%80%8c%e6%99%ba%e6%85%a7%e5%ae%a2%e6%9c%8d%e9%9d%a9%e5%91%bd%e3%80%8d-%e4%bc%81%e6%a5%ad%e6%88%90%e4%ba%a4/">AI客服崛起戰國策引領「智慧客服革命」 企業成交率提升27% 成本降三成</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</title>
+		<link>https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 03:24:45 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268032</guid>
+
+					<description><![CDATA[<p>因應全台各縣市帶狀疱疹罹病人數連年上升，已經有多個地方縣市政府陸續推出帶狀疱疹疫苗公費施打及補助計劃，以降低市 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/">補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>因應全台各縣市帶狀疱疹罹病人數連年上升，已經有多個地方縣市政府陸續推出帶狀疱疹疫苗公費施打及補助計劃，以降低市民接受接種的負擔。高雄市議員林智鴻長期關懷市民健康，今（16）日在議會警消衛環部門質詢建議衛生局，六都之中，高雄市是少數沒有帶狀疱疹公費政策的都市之一，呼籲衛生局加快腳步，讓 65 歲以上的弱勢長輩或高風險族群，可以盡快獲得市府協助。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="832" height="468" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=832%2C468&#038;ssl=1" alt="" class="wp-image-268034" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?w=832&amp;ssl=1 832w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-133.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 832px) 100vw, 832px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／擷取自高雄市議會網站</figcaption></figure>
+
+
+
+<p>林智鴻議員首先分析帶狀疱疹對市民的威脅性，其病毒風險與日俱增，全台灣每三人就有一人會罹患帶狀疱疹，好發於 50 歲以上高齡者、慢性病患者、免疫力低下族群、壓力大者，且復發的風險高達 2.4 倍。綜合高雄市的狀況來看，高雄的高齡化程度六都第二，也就是說長輩罹患帶狀疱疹的機率很高。</p>
+
+
+
+<p>林智鴻議員根據調閱資料指出，高雄市帶狀疱疹就醫人數超過 31,000 人、就醫件數超過 95,000 件，醫療費用超過 8,600 萬元；換算下來，帶狀疱疹患者平均每一人需要就醫三次、每次就醫需要耗費近 3,000 元，這對一個病患和一座城市來說，都是不小的負擔。作為帶狀疱疹病友，林智鴻議員表示，發病期間的神經痛與併發症只有四個字形容，根本是「痛不欲生」，那能不能提早為長輩等高風險族群準備，協助他們預防帶狀疱疹的疾病痛苦和衍生的經濟負擔呢？</p>
+
+
+
+<p>林智鴻議員指出，這一年多來，跨黨派的高雄市議員為了守護長輩健康，各自提出對帶狀疱疹疫苗補助的關心。據此，林智鴻議員也要求高雄市衛生局回覆，如果已經正在研議，那預計會有多少人受惠？經費需求多少？最快什麼時候可以上路？目前六都之中，僅台中、高雄沒有帶狀疱疹的公費施打政策，但台中市似乎也已經開始評估規劃，不能讓高雄成為六都裡唯一沒有補助，或最慢上路的都市。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="832" height="468" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=832%2C468&#038;ssl=1" alt="" class="wp-image-268035" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?w=832&amp;ssl=1 832w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-134.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 832px) 100vw, 832px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖／擷取自高雄市議會網站</figcaption></figure>
+
+
+
+<p>對此，高雄市衛生局長黃志中回覆，衛生局有收到議員們對帶狀疱疹疫苗政策的關切，也因此一直在徵詢衛福部疾管署、ACIP 以及各界專家學者意見。不過目前對於施打對象的意見並不一致，加上帶狀疱疹疫苗要價相對較高，有其他疫苗的預算考量下需要更周密的實施規劃，市府團隊會持續努力。</p>
+
+
+
+<p>林智鴻議員建議，高雄市可優先考慮弱勢長輩的福祉，讓 65 歲以上低收、中低收入戶，或具重大傷病或高風險者先行，未來再漸進開展至其他次高風險族群。「疫苗有價，但長輩健康無價」林智鴻議員以此呼籲衛生局，儘速整合各方歧異，至少能讓最有需要的市民朋友接受疫苗保護、獲得市府的幫助。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e8%a3%9c%e5%8a%a9%e5%b8%b6%e7%8b%80%e7%96%b1%e7%96%b9%e7%96%ab%e8%8b%97%e8%a6%81%e5%8a%a0%e9%80%9f%ef%bc%81%e6%9e%97%e6%99%ba%e9%b4%bb%e8%ad%b0%e5%93%a1%ef%bc%9a%e5%ae%88%e8%ad%b7%e9%95%b7%e8%bc%a9/">補助帶狀疱疹疫苗要加速！林智鴻議員：守護長輩健康 優先補助高風險族群</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</title>
+		<link>https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 02:53:53 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=268014</guid>
+
+					<description><![CDATA[<p>在社群經濟成為新資產時代的今日，創作者與品牌對社群帳號的依賴已超越單純的內容平台。然而，因駭客攻擊、惡意檢舉或 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/">日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在社群經濟成為新資產時代的今日，創作者與品牌對社群帳號的依賴已超越單純的內容平台。然而，因駭客攻擊、惡意檢舉或 AI 誤判而導致帳號被封、資料遺失的案例屢見不鮮。為協助創作者守護心血成果，日商唄粉智能科技正式推出自研產品 ShellFans AI，以「數位資產保險箱」為核心理念，結合 AI 與 NLP 技術，協助用戶即時備份並還原社群資產，讓創作更安全、品牌更長久。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-268015" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1-3-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源：Shellfans AI</figcaption></figure>
+
+
+
+<p>為解決痛點，日商唄粉智能科技推出自研產品 <strong>ShellFans AI</strong> 系統，以「數位資產保險箱」為核心概念，協助用戶守護社群資產，確保創作成果長期留存與延續。透過 AI 與 NLP 技術，更能快速分析數據價值，將粉絲互動轉化為經營洞察，加速社群經營進入智慧時代。</p>
+
+
+
+<p>「你的創作，有備無患。」是唄粉秉持的信念。作為一家專注於社群資產守護與智能應用的 SaaS 公司，唄粉相信每一位創作者與品牌都必須具備守護能力，並能將多年累積的內容與粉絲關係，轉化為可持續的影響力。</p>
+
+
+
+<p>當帳號可能因政策或不明原因消失，社群資產便暴露在高風險之下。我們實現的不只是讓用戶「不怕帳號消失」，更要透過獨家技術，創造能理解人際互動脈絡的智慧 AI 科技，成為創作者與企業最值得信賴的數位夥伴。</p>
+
+
+
+<p><strong>ShellFans AI</strong> 的設計以「簡單、安全、完整」為核心。登入時，用戶只需一次性驗證碼（OTP），即可免去繁瑣密碼管理，帶來輕鬆卻安全的體驗。進入系統後，所有貼文、留言、互動數據與粉絲清單將自動留存，確保多年經營成果不因意外消失。即便帳號遭封鎖，用戶也能迅速復原內容，維持社群熱度不中斷。同時系統會持續維護頻道授權與營運狀況，一旦發現異常即刻提醒並啟動備援計畫。進一步透過可視化圖表與 AI 洞察，創作者能清楚掌握粉絲偏好與互動模式，將數據轉化為策略，讓每一次創作更具價值與長遠影響力。</p>
+
+
+
+<p>ShellFans AI 將「留存」視為基礎，並進一步強調「持續性與智慧化」。這不僅是一套安全機制，更是一個能讓創作者預防與保護社群資產的數位基礎建設。透過它，用戶不必再被動任由誤判或惡意檢舉，而能提前主動保存並活用自身數據。</p>
+
+
+
+<p>未來 ShellFans AI 將支援 Facebook、Instagram、Thread、YouTube 等主流平台，協助創作者與品牌在跨平台經營中降低風險，並提取更多數據價值。隨著多平台營運成趨勢，ShellFans AI 的導入不僅提升安全感，更能幫助用戶以前瞻方式規劃長期策略，進而打造真正具有永續性的社群影響力。 </p>
+
+
+
+<p>日商唄粉科技股份有限公司<br>官方網站：<a href="https://shell.fans/" target="_blank" rel="noreferrer noopener">https://shell.fans/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e6%97%a5%e5%95%86%e5%94%84%e7%b2%89%e6%99%ba%e8%83%bd%e7%a7%91%e6%8a%80%e6%8e%a8%e5%87%ba-shellfans-ai-%e4%bb%a5%e3%80%8c%e6%95%b8%e4%bd%8d%e8%b3%87%e7%94%a2%e4%bf%9d%e9%9a%aa/">日商唄粉智能科技推出 ShellFans AI  以「數位資產保險箱」守護創作者社群資產</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</title>
+		<link>https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267838</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>UP201／UP301 系列 MCU 結合雙核心 RISC-V 與 AI 加速器，實現突破性的運算效率、智慧化與電池續航表現——將於2025 RISC-V 高峰會正式亮相</strong></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">【台灣台北與美國加州聖塔克拉拉，2025 年 10 月 15 日訊】</h2>
+
+
+
+<p>超低功耗運算、語音與邊緣 AI 感測融合技術先驅 Upbeat Technology 今日宣布，與全球領先的商用 RISC-V 處理器 IP 與矽智財解決方案提供商 SiFive, Inc. 攜手推出 UP201／UP301 系列微控制器（MCU）。這款全新一代雙核心 RISC-V MCU 專為極致低功耗運算而設計，將於 2025 年 10 月 22–23 日在美國加州聖塔克拉拉舉行的 RISC-V 高峰會上首次亮相。</p>
+
+
+
+<h2 class="wp-block-heading">樹立邊緣運算新標竿</h2>
+
+
+
+<p>UP201／UP301 系列 MCU 整合了兩個 SiFive Essential IP 核心與兩個由 Upbeat 自主設計的 AI 加速器，在每瓦效能上達到業界領先水準，完美支援永續運作的物聯網（IoT）裝置、穿戴式設備、無人機與邊緣 AI 推論應用。Upbeat 的低功耗晶片技術以其專利技術的錯誤檢測與修正架構（EDAC, Error Detection and Correction）為基礎。 此系列 MCU 結合近閾值操作、EDAC 韌性與 SRAM 創新技術，能效表現達到前所未有的 16.8 µW/MHz/DMIPS（Dhrystone）。相較於傳統的 ARM 架構微控制器，UP201／UP301 提供高達 400 MHz 或 717 DMIPS 的可擴展設計，在效能、效率與智慧化間達到最佳平衡，是次世代連線裝置量產就緒平台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1103" height="702" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=1103%2C702&#038;ssl=1" alt="" class="wp-image-267839" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?w=1103&amp;ssl=1 1103w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760409988274-1.jpg?resize=768%2C489&amp;ssl=1 768w" sizes="(max-width: 1103px) 100vw, 1103px" data-recalc-dims="1" /><figcaption class="wp-element-caption">UP201/301 Trina-Pi 開發套件：超低功耗MCU結合AI加速器，可應用於IoT、穿戴裝置、無人機、機器人。圖 / 阿比特電子科技</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">業界夥伴高度肯定</h2>
+
+
+
+<p>「從晶片啟動到量產階段，Upbeat Technology 的 UP201／UP301 MCU 都展現出極佳的整合與穩定性。其功耗表現遠超我們預期——休眠模式極低功耗、運作中則維持高效能。內建 AI 加速器與 DSP 能分擔推論與訊號處理任務，使我們能輕鬆達成即時應用需求。由於 SOC 結合低功耗與高效架構，讓我們得以在裝置端運行更豐富的運算模型、更長的工作週期與更多創新功能，同時不影響電池續航力。」 — 連騰科技總經理 蕭富仁 博士</p>
+
+
+
+<h2 class="wp-block-heading">SiFive：推動邊緣 AI 與 RISC-V 生態普及</h2>
+
+
+
+<p>「隨著 AI 加速轉向邊緣運算，功耗效率已成為成功的關鍵。藉由運用 SiFive 的 Essential 系列 RISC-V IP 核心，Upbeat 成功打造出極低功耗 MCU，能在邊緣執行 AI 所需的高效能，同時延長電池續航與能源使用效率。我們非常榮幸能與 Upbeat 攜手，在 RISC-V 高峰會共同發表 UP201／UP301 MCU，推動邊緣 AI 創新與 RISC-V 技術的普及。」 — SiFive 全球業務開發、銷售和客戶體驗資深副總裁 Jack Kang</p>
+
+
+
+<p>UP201／UP301 MCU 將於 SiFive 展區現場展示，同步展出 Upbeat 的超低功耗 MEMS 骨傳導麥克風（BCM），可在極低功耗下提供高品質音訊錄製。此外，Upbeat 技術團隊將於 2025 年 10 月 22 日上午 11:10 舉辦主題演講：《用於高能效機器學習的異質雙核心 RISC-V 邊緣 AI 平台》，現場將進行展示與實作教學。</p>
+
+
+
+<p>目前已開放工程樣品與 SDK，並提供更多資源（包含規格書與參考設計）線上下載。目標應用領域包括：全時運作 IoT 裝置、穿戴式設備、無人機／UAV、智慧音訊、預測性維護和邊緣 AI 感測器。</p>
+
+
+
+<h2 class="wp-block-heading">媒體聯絡</h2>
+
+
+
+<p>若需預約簡報或展區示範，請聯繫：Linda Ferguson。電話：1+503-869-5827。</p>
+
+
+
+<h2 class="wp-block-heading">關於 Upbeat Technology</h2>
+
+
+
+<p>Upbeat Technology 總部位於台灣台北，是榮獲多項大獎的超低功耗運算、語音與邊緣 AI 感測技術先驅。公司擁有多項微機電與 AI 加速專利技術，其 UP201／UP301 系列 MCU 雙核心 RISC-V 處理器廣泛應用於從感測器到工業系統的 IoT 裝置，而 UPM01骨傳導 MEMS 麥克風則為穿戴與語音應用帶來低功耗音訊解決方案。Upbeat專注於全時運作 IoT、無人機與智慧工廠，並與全球合作夥伴攜手，實現智慧化、永續且高能效的連線系統。更多資訊請透過 info@Upbeattechtw.com 聯絡我們，或造訪<a href="https://www.upbeattechtw.com/">https://www.upbeattechtw.com/</a></p>
+
+
+
+<p><strong>關於 SiFive</strong> SiFive 是 RISC-V 運算領域的領導者，提供 AI 所需的客製化晶片基礎。作為 RISC-V CPU 的黃金標準，SiFive 結合開放架構的彈性與卓越效能，實現從邊緣到資料中心的可擴展 AI 解決方案。憑藉最廣泛的 IP 產品組合與深厚的系統專業知識，SiFive 協助全球領先科技公司更快速、低成本且效能更佳地打造差異化的AI 硬體。更多資訊請造訪 <a href="https://www.sifive.com/">https://www.sifive.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/upbeat-technology-%e8%88%87-sifive-%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e6%96%b0%e4%b8%80%e4%bb%a3%e8%b6%85%e4%bd%8e%e5%8a%9f%e8%80%97-risc-v-mcu-%e7%b5%90%e5%90%88-ai-%e5%8a%a0%e9%80%9f%e6%8a%80-2/">Upbeat Technology 與 SiFive 攜手推出新一代超低功耗 RISC-V MCU 結合 AI 加速技術</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</title>
+		<link>https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[58金高]]></category>
+		<category><![CDATA[58金高千日醇音樂熟成品鑑組]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[暈船]]></category>
+		<category><![CDATA[黑松公司]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=267841</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>最近網路上出現一則神秘的徵人啟事，要找的對象條件不限年齡、不限性別，但必須是「必須暈過船」的暈船仔們。</strong></p>
+</blockquote>
+
+
+
+<p>活動貼文上線後短短時間內即掀起廣大迴響，留言區瞬間成為大型戀愛自助會現場。原來，這是金高為全台第一支情歌熟成高粱酒上市所舉辦的號召活動，邀請曾在戀愛中暈船的暈船仔一起登船品酒，不但吸引上千位暈船仔踴躍報名，有網友笑說：「這船不開也沒關係，我早就暈了」、「我不只暈，還沉船」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-267850" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251015_195135.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲網友深情告白，被推坑參加金高號召的百位暈船仔活動。（圖／網路截圖 Threads ）</figcaption></figure>
+
+
+
+<p>不少網友也聯想到近日在Threads上，一名男子分享自己暗戀六年的經歷，從午休跑去買馬卡龍、幫忙搶演唱會票，到在面試樓下等候，只為多看心儀對象一眼。網友笑稱這與暈船仔活動相呼應，彷彿命中註定。</p>
+
+
+
+<p>貼文結尾一句「今晚月亮很美，我不確定暈的是高粱還是妳」成為熱門金句，引發網友共鳴，留言湧入「兄弟，喝十瓶高粱也不會那麼暈」、「暈船仔活動很適合你！」形成趣味十足的「暈船互助會」。</p>
+
+
+
+<p>留言中也出現多則與高粱相關的討論：「喝起來不會更暈？」「愛你一萬年，暈你到失眠」「聽音樂長大的高粱酒真的假的？」「以為是智商稅，結果真的不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>經典結合新世代浪漫巧思　58金高「情歌熟成」掀話題</strong></h2>
+
+
+
+<p>黑松公司近年創意不斷，每次推出新酒款都能掀起網友熱議與搶購潮。這回再度顛覆想像，大膽採用浪漫搖滾情歌〈愛你一萬年〉，推出全台第一瓶情歌熟成「58金高千日醇音樂熟成品鑑組」。品鑑組內有兩瓶「同年同月同日」生、陳放超過十年的千日醇老酒，其中一瓶是在標準熟成環境下靜置成長，另一瓶是在情歌陪伴中完成熟成。藉由這樣的對照設計，讓消費者可以很直觀感受差異，有喝過的網友也驚喜表示：「音樂熟成高粱酒，真的喝出不一樣！」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>消費生態變化　品牌以情感共鳴創造新連結</strong> </h2>
+
+
+
+<p>身為白酒市場領導品牌，金門高粱酒在黑松的創新詮釋下，不僅突破傳統框架，更以兼具話題性與文化溫度的創意操作，展現品牌持續進化的企圖與高度。「58金高千日醇音樂熟成品鑑組」不僅是一款新產品的誕生，更象徵台灣烈酒市場在產品創新上，邁入全新里程碑。</p>
+
+
+
+<p>原文 Threads 連結：<a href="https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg">https://www.threads.com/@58.kinmen_kaoliang/post/DPyLY7VEus7?xmt=AQF0tUGxb9TjHcb03ZRyxN1rkPnxQGr_H_MKjExj5CeoZg</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/16/%e7%a5%9e%e7%a7%98%e6%8b%9b%e5%8b%9f%e5%95%9f%e4%ba%8b%e6%9b%9d%e5%85%89%ef%bc%9a%e5%b0%8b%e6%89%be%e7%99%be%e4%bd%8d%e3%80%8e%e6%9a%88%e8%88%b9%e4%bb%94%e3%80%8f%e6%84%8f%e5%a4%96%e9%87%a3%e5%87%ba/">神秘招募啟事曝光：尋找百位『暈船仔』意外釣出六年癡情男掀共鳴</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
