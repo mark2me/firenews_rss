@@ -15,7 +15,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Wed, 22 Oct 2025 03:43:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Oct 2025 06:14:53 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI 推出「 AI 瀏覽器 」Atlas  正面挑戰 Google Chrome !</title>
+		<link>https://firenews.com.tw/2025/10/22/openai-%e6%8e%a8%e5%87%ba%e3%80%8c-ai-%e7%80%8f%e8%a6%bd%e5%99%a8-%e3%80%8datlas-%e6%ad%a3%e9%9d%a2%e6%8c%91%e6%88%b0-google-chrome/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 06:14:45 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[瀏覽器]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270789</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 OpenAI 週二正式發布全新人工智慧瀏覽器 ChatGPT Atlas，該產品以 Ch &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/openai-%e6%8e%a8%e5%87%ba%e3%80%8c-ai-%e7%80%8f%e8%a6%bd%e5%99%a8-%e3%80%8datlas-%e6%ad%a3%e9%9d%a2%e6%8c%91%e6%88%b0-google-chrome/">OpenAI 推出「 AI 瀏覽器 」Atlas  正面挑戰 Google Chrome !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>OpenAI 週二正式發布全新人工智慧瀏覽器 ChatGPT Atlas，該產品以 ChatGPT 為核心打造，被視為該公司對 Google Chrome 的最新挑戰。</strong></p>
+</blockquote>
+
+
+
+<p>Atlas 將 ChatGPT 的對話功能與網頁瀏覽深度整合，使用者可在任何視窗中開啟側邊欄，快速整理網頁內容、比較商品或分析網站資料。付費用戶還可啟用「代理模式」（Agent Mode），讓 ChatGPT 代為操作網站，完成搜尋、比價甚至購物下單等任務。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-202.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-270912" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">Atlas 結合 ChatGPT 對話與瀏覽功能，付費用戶可啟用「代理模式」，讓 AI 代為搜尋、比價與購物。圖:unsplash</figcaption></figure></div>
+
+
+<p>在發表會上，OpenAI 工程師展示了 Atlas 的實際應用：ChatGPT 先自動搜尋食譜，接著登入 Instacart 平台，並完成所有食材的購買流程，整個過程僅需幾分鐘，展現了 AI 自動化操作的強大潛力。</p>
+
+
+
+<p>目前 Atlas 已於 macOS 平台全球推出，Windows、iOS 與 Android 版本預計將於稍後上線。這項新產品標誌著 OpenAI 在 ChatGPT 巨大成功之後，進一步擴展其生態系的關鍵一步。</p>
+
+
+
+<p>OpenAI 目前擁有每週超過 <strong>8 億名活躍用戶</strong>，透過瀏覽器整合，該公司將更深入掌握用戶的上網行為，並持續推進生成式 AI 在搜尋、資訊整理與任務自動化上的應用。</p>
+
+
+
+<p>分析人士指出，隨著使用者越來越傾向以對話式介面獲取資訊，傳統依賴關鍵字的搜尋模式正受到衝擊。這也使 OpenAI 與 Google 之間的競爭愈發激烈。</p>
+
+
+
+<p>面對這股變化，Google 近期也將自家 <strong>Gemini AI</strong> 整合入 Chrome 瀏覽器，並推出「AI 概覽」功能，讓搜尋結果能即時生成摘要與建議，以維持其市場優勢。</p>
+
+
+
+<p>儘管如此，Google Chrome 仍以 <strong>71.9% 的全球市佔率</strong> 保持領先。然而，專家認為 Atlas 的問世將改變瀏覽器與搜尋市場的競爭格局。一旦 OpenAI 開始導入廣告營收模式，可能會動搖 Google 在搜尋廣告領域長期佔據的九成市場份額。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/openai-%e6%8e%a8%e5%87%ba%e3%80%8c-ai-%e7%80%8f%e8%a6%bd%e5%99%a8-%e3%80%8datlas-%e6%ad%a3%e9%9d%a2%e6%8c%91%e6%88%b0-google-chrome/">OpenAI 推出「 AI 瀏覽器 」Atlas  正面挑戰 Google Chrome !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>小家庭適合的貓咪首選！最受歡迎的「五個品種」排行榜出爐 </title>
 		<link>https://firenews.com.tw/2025/10/22/%e5%b0%8f%e5%ae%b6%e5%ba%ad%e9%81%a9%e5%90%88%e7%9a%84%e8%b2%93%e5%92%aa%e9%a6%96%e9%81%b8%ef%bc%81%e6%9c%80%e5%8f%97%e6%ad%a1%e8%bf%8e%e7%9a%84%e3%80%8c%e4%ba%94%e5%80%8b%e5%93%81%e7%a8%ae%e3%80%8d/</link>
 		
@@ -77,7 +139,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-270806" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">布偶貓的外型漂亮、性格溫馴，特別適合有小孩或長輩的家庭<br>(示意圖/Unsplash)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-270806" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/esteban-chinchilla-9m1OFDFAuss-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">布偶貓的外型漂亮、性格溫馴，特別適合有小孩或長輩的家庭<br>(示意圖/Unsplash)</figcaption></figure>
 
 
 
@@ -590,86 +652,6 @@
 
 <p>貓咪半夜暴走並非無理取鬧，而是天性、能量需求與心理需求的綜合反映。飼主若希望減少夜間騷動，可在白天提供足夠運動、互動與玩具刺激，幫助貓咪釋放能量；同時營造安靜舒適的睡眠環境，讓毛孩與主人都能享受夜晚的平靜。</p>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e8%b2%93%e5%92%aa%e5%8d%8a%e5%a4%9c%e3%80%8c%e6%9a%b4%e8%b5%b0%e3%80%8d%e7%9a%84%e5%8e%9f%e5%9b%a0%ef%bc%81%e5%be%9e%e5%a4%9c%e8%a1%8c%e6%9c%ac%e8%83%bd-%e8%83%bd%e9%87%8f%e9%87%8b%e6%94%be%e4%b8%80/">貓咪半夜「暴走」的原因！從夜行本能到能量釋放一次解析</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>貓咪有窩不睡偏愛紙箱？從這「5個」面向告訴你答案 !</title>
-		<link>https://firenews.com.tw/2025/10/20/%e8%b2%93%e5%92%aa%e6%9c%89%e7%aa%a9%e4%b8%8d%e7%9d%a1%e5%81%8f%e6%84%9b%e7%b4%99%e7%ae%b1%ef%bc%9f%e5%be%9e%e9%80%99%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9d%a2%e5%90%91%e5%91%8a%e8%a8%b4%e4%bd%a0%e7%ad%94/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 06:13:34 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[紙箱]]></category>
-		<category><![CDATA[貓咪]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=269823</guid>
-
-					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主精心準備柔軟的貓窩，卻發現貓咪總是偏愛擠進狹小的紙箱裡，甚至一待就是一整天。這 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e8%b2%93%e5%92%aa%e6%9c%89%e7%aa%a9%e4%b8%8d%e7%9d%a1%e5%81%8f%e6%84%9b%e7%b4%99%e7%ae%b1%ef%bc%9f%e5%be%9e%e9%80%99%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9d%a2%e5%90%91%e5%91%8a%e8%a8%b4%e4%bd%a0%e7%ad%94/">貓咪有窩不睡偏愛紙箱？從這「5個」面向告訴你答案 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>許多飼主精心準備柔軟的貓窩，卻發現貓咪總是偏愛擠進狹小的紙箱裡，甚至一待就是一整天。這種行為看似「任性」，其實背後有著貓咪獨特的安全感與天性邏輯。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">一、安全感是首要考量</h4>
-
-
-
-<p>貓咪是天生的警戒動物，牠們喜歡能遮蔽身體、限制視野的環境。紙箱的包覆感能讓牠們感到安全，不容易被突發聲響或動作嚇到。相較之下，開放式的貓窩會讓牠們覺得「太暴露」，因此更傾向選擇能隱蔽的角落休息。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-175.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-269831" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪偏好紙箱，因為包覆感帶來安全感，開放式貓窩反而讓牠覺得暴露。圖:istockphoto</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">二、溫度控制更理想</h4>
-
-
-
-<p>紙箱材質具備良好的保溫效果，能維持穩定溫度。對貓咪而言，紙箱不僅舒適，還能在寒冷天氣中保持體溫，成為天然的「保暖窩」。特別是在冬季或空調房內，貓咪更容易選擇紙箱作為休息場所。</p>
-
-
-
-<h4 class="wp-block-heading">三、氣味熟悉帶來安心</h4>
-
-
-
-<p>紙箱會吸附環境氣味，包括貓咪自己的味道。這種熟悉的氣味能讓牠放鬆警戒，視為「安全領域」。相反地，新買的貓窩若帶有人工纖維或清潔劑氣味，貓咪可能會感到陌生與抗拒，導致不願使用。</p>
-
-
-
-<h4 class="wp-block-heading">四、紙箱大小滿足空間偏好</h4>
-
-
-
-<p>貓咪偏好「剛好能塞進去」的空間。狹小的範圍讓牠能感受到四面包圍的安全感，同時方便觀察外界動靜。紙箱的尺寸多樣，能讓貓咪自由選擇最符合牠們偏好的「專屬堡壘」。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-176.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-269832" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪愛擠進剛好能塞的狹小空間，感受包覆的安全感，同時方便觀察周遭。圖:istockphoto</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">五、遊戲與探索的延伸</h4>
-
-
-
-<p>除了睡覺，紙箱對貓咪而言也是玩具。牠們喜歡在紙箱裡潛伏、撲跳、磨爪或偷窺外界，這些行為滿足了狩獵本能與好奇心。紙箱既是躲藏點，又是遊戲場所，對貓咪來說充滿樂趣。</p>
-
-
-
-<p>貓咪偏愛紙箱源自牠們的安全需求、溫度偏好與探索天性。飼主若希望貓咪更願意使用貓窩，可以嘗試將貓窩放在安靜角落，加入牠熟悉的氣味或柔軟墊子。只要營造出安全、溫暖又熟悉的環境，貓咪自然會願意在那裡安心休息 !</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e8%b2%93%e5%92%aa%e6%9c%89%e7%aa%a9%e4%b8%8d%e7%9d%a1%e5%81%8f%e6%84%9b%e7%b4%99%e7%ae%b1%ef%bc%9f%e5%be%9e%e9%80%99%e3%80%8c5%e5%80%8b%e3%80%8d%e9%9d%a2%e5%90%91%e5%91%8a%e8%a8%b4%e4%bd%a0%e7%ad%94/">貓咪有窩不睡偏愛紙箱？從這「5個」面向告訴你答案 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
