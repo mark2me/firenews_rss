@@ -1,120 +1,810 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Thu, 23 Oct 2025 07:43:46 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>彩藝永續 文化永榮 南台彩藝攜手文策院 推動綠色印刷與文化創意跨界合作</title>
+		<link>https://firenews.com.tw/2025/10/23/%e5%bd%a9%e8%97%9d%e6%b0%b8%e7%ba%8c-%e6%96%87%e5%8c%96%e6%b0%b8%e6%a6%ae-%e5%8d%97%e5%8f%b0%e5%bd%a9%e8%97%9d%e6%94%9c%e6%89%8b%e6%96%87%e7%ad%96%e9%99%a2-%e6%8e%a8%e5%8b%95%e7%b6%a0%e8%89%b2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 02:30:00 +0000</pubDate>
+				<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[文策院]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=271054</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>南台彩藝股份有限公司10月22日正式與文化內容策進院（文策院）簽署「彩藝永續，文化共融」合作意向書，共同推動綠 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/23/%e5%bd%a9%e8%97%9d%e6%b0%b8%e7%ba%8c-%e6%96%87%e5%8c%96%e6%b0%b8%e6%a6%ae-%e5%8d%97%e5%8f%b0%e5%bd%a9%e8%97%9d%e6%94%9c%e6%89%8b%e6%96%87%e7%ad%96%e9%99%a2-%e6%8e%a8%e5%8b%95%e7%b6%a0%e8%89%b2/">彩藝永續 文化永榮 南台彩藝攜手文策院 推動綠色印刷與文化創意跨界合作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>南台彩藝股份有限公司10月22日正式與文化內容策進院（文策院）簽署「彩藝永續，文化共融」合作意向書，共同推動綠色印刷與文化創意的跨界合作。這項合作不僅落實「ESG for Culture」的核心理念，也展現南台彩藝持續以綠色科技、低碳製程與文化創新，實踐綠色永續經營的決心。</strong></p>
+</blockquote>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>成立於1968年的南台彩藝，為臺灣印刷產業的領導品牌與國際合作夥伴，長期以卓越的印刷技術與品質深獲信賴。近年來，公司積極推動產業升級，導入先進的數位印刷技術，並在臺南科技工業園區打造融合永續理念、智慧科技與一貫化生產流程的新總部。新廠不僅致力環保節能，更榮獲美國LEED黃金級與臺灣EEWH鑽石級雙重綠建築認證，展現企業對節能減碳與環境友善的長期承諾。</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="768" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?resize=1220%2C768&#038;ssl=1" alt="" class="wp-image-271536" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?resize=768%2C483&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?resize=1536%2C967&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?resize=2048%2C1289&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/HAN09247-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>今年，南台彩藝與文策院培力團隊「七二設計工作室」合作，支持該團隊策辦的「明日動物巡迴展」，展覽於基隆星濱山 Space Moor 與日本京都 Gallery Biga 展出，預計年底將移師台南辦理。展覽以藝術與設計喚醒生態意識，關注台灣原生動物如台灣黑熊、石虎等保育議題。南台彩藝以綠色永續為核心，運用其綠色印刷技術協助製作展品與佈展，採用環保認證紙材與「以紙代塑」的印刷方式，在減碳的同時兼顧美學與創意，讓永續理念自然融入觀眾的感官體驗中。</p>
+
+
+
+<p>南台彩藝董事長鄭俊銘表示：「印刷不僅是製造，更是文化與價值的載體。透過綠色技術與設計思維，我們希望讓每一張印刷品都能傳遞永續的信念與文化的溫度。此次與文策院的合作，讓企業綠色轉型不再只是技術升級，而是一場文化共創的行動。」未來，南台彩藝將持續深化數位印刷技術與綠色印刷的應用，並積極攜手上下游夥伴打造綠色供應鏈，同時拓展更多與文化、設計單位的跨界合作，讓綠色永續的創新不只停留在製程，更走進人心，成為連結產業、文化與社會的新橋樑。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/23/%e5%bd%a9%e8%97%9d%e6%b0%b8%e7%ba%8c-%e6%96%87%e5%8c%96%e6%b0%b8%e6%a6%ae-%e5%8d%97%e5%8f%b0%e5%bd%a9%e8%97%9d%e6%94%9c%e6%89%8b%e6%96%87%e7%ad%96%e9%99%a2-%e6%8e%a8%e5%8b%95%e7%b6%a0%e8%89%b2/">彩藝永續 文化永榮 南台彩藝攜手文策院 推動綠色印刷與文化創意跨界合作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「顏值經濟」崛起！杜拜成為國際醫美與牙科產業必爭之地 四大利多台灣如何藉此成為下一個經濟支柱</title>
+		<link>https://firenews.com.tw/2025/10/22/%e3%80%8c%e9%a1%8f%e5%80%bc%e7%b6%93%e6%bf%9f%e3%80%8d%e5%b4%9b%e8%b5%b7%ef%bc%81%e6%9d%9c%e6%8b%9c%e6%88%90%e7%82%ba%e5%9c%8b%e9%9a%9b%e9%86%ab%e7%be%8e%e8%88%87%e7%89%99%e7%a7%91%e7%94%a2%e6%a5%ad/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 10:36:51 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[國際]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=271090</guid>
+
+					<description><![CDATA[<p>在許多人眼中，杜拜是奢華旅遊與金融的中心。然而，一個靜默卻蓬勃發展的產業正在這裡崛起~ 高端醫療美容與牙科服務 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e3%80%8c%e9%a1%8f%e5%80%bc%e7%b6%93%e6%bf%9f%e3%80%8d%e5%b4%9b%e8%b5%b7%ef%bc%81%e6%9d%9c%e6%8b%9c%e6%88%90%e7%82%ba%e5%9c%8b%e9%9a%9b%e9%86%ab%e7%be%8e%e8%88%87%e7%89%99%e7%a7%91%e7%94%a2%e6%a5%ad/">「顏值經濟」崛起！杜拜成為國際醫美與牙科產業必爭之地 四大利多台灣如何藉此成為下一個經濟支柱</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在許多人眼中，杜拜是奢華旅遊與金融的中心。然而，一個靜默卻蓬勃發展的產業正在這裡崛起~ 高端醫療美容與牙科服務。這不僅是趨勢，更是一場由人口結構、政府政策、頂尖專業人才與全球資金共同推動的結構性轉變。駐杜拜台籍資深分析師迪倫，將根據(1) IMD世界競爭力年報2023、(2) 杜拜健康戰略2025、(3) 全球醫美與牙科市場分析報告等權威數據，獨家剖析為何杜拜是醫美與牙科產業不可錯過的未來市場，並提供四大利多參考。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1136" height="859" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271218.jpg?resize=1136%2C859&#038;ssl=1" alt="" class="wp-image-271098" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271218.jpg?w=1136&amp;ssl=1 1136w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271218.jpg?resize=768%2C581&amp;ssl=1 768w" sizes="(max-width: 1136px) 100vw, 1136px" data-recalc-dims="1" /><figcaption class="wp-element-caption">張慧男博士（中）與其導師尤金·羅伯茨博士（右）榮獲2019年《美國矯正學會雜誌(American Journal of Orthodontics &amp; Dentofacial Orthopedics)》年度最佳病例獎(Case of the Year)。杜拜分析師迪倫/提供</figcaption></figure>
+
+
+
+<p><strong>【利多1】強勁的經濟與高消費力人口 奠定高端市場基礎</strong></p>
+
+
+
+<p>與杜拜房產之狼Dr Alwadiya共事的台籍分析師迪倫指出，根據瑞士洛桑管理學院（IMD）的《2023年世界競爭力年報》，阿聯酋在全球競爭力中持續名列前茅，經濟表現與政府效率指標尤其亮眼。報告強調，阿聯酋在「商業立法」與「國際投資」方面的友好度位居世界前列，為海外醫療機構進駐提供了絕佳環境。市場解讀：強勁的經濟實力轉化為居民的高可支配收入。杜拜匯集了本地高淨值人士、外派專業人士與國際富豪，他們對於「提升生活品質」的支付意願極高，使高端、自費的醫美與牙科項目成為剛性需求。</p>
+
+
+
+<p><strong>【利多2】政府強力推動的「醫療旅遊」戰略與專業教育基石</strong></p>
+
+
+
+<p>杜拜政府已明確將「醫療旅遊」定位為國家重點發展產業。透過「杜拜健康城」的設立，提供全球最先進的醫療基礎設施與免稅優惠，吸引國際頂尖品牌進駐。此一環境也吸引了全球頂尖專業人才貢獻所長，例如阿聯酋矯正學會（EOS）主席Dr. Mohammad Saleh，便長期在當地推動高規格的矯正醫學教育與學術交流，為杜拜的專業醫療環境奠定了深厚的學術基礎。 杜拜計畫在2025年吸引超過50萬醫療旅遊遊客，此政策直接為醫美與牙科診所帶來龐大國際客源。市場機會：這意味著診所面對的不再僅是本地市場，而是一個輻射中東、非洲、南亞乃至歐洲的國際客戶群。結合杜拜作為全球航空樞紐的便利性，「邊度假、邊變美」的綜合體驗模式極具吸引力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271220.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-271099" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271220.jpg?w=1705&amp;ssl=1 1705w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271220.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271220.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27271220.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">張慧男博士榮獲美國矯正學會頒發的2025年約翰·瓦倫丁·默爾尚獎。杜拜分析師迪倫/提供</figcaption></figure>
+
+
+
+<p><strong>【利多3】全球市場數據支持，醫美產業成長動能強勁</strong></p>
+
+
+
+<p>從IMD及相關產業分析中，可見杜拜整體市場的成長軌跡。全球醫美市場預計將以高複合年增長率持續攀升，中東地區是增長最快的市場之一。趨勢解讀：這種增長由社會風氣轉變、社交媒體影響及技術進步所驅動。在技術創新方面，台灣之光—張慧男醫師的貢獻舉世矚目。作為OrthoBoneScrew矯正骨釘的發明者，並榮獲2025年美國矯正學會約翰瓦倫丁梅爾尚獎，他的創新極大推進了全球齒顎矯正的技術邊界，這類尖端技術正是杜拜高端市場所渴求的。 在這個高度國際化、注重形象與社交的都市，對微整形、牙齒美白、隱形矯正等項目的需求正呈爆炸性成長。牙科市場潛力：同樣地，全球牙科市場的增長也受益於對美學牙科和數位化診療的需求。杜拜消費者追求的是最先進、最舒適、最有效率的診療體驗。</p>
+
+
+
+<p><strong>【利多4】領先的科技接受度與「精品化」服務模式</strong></p>
+
+
+
+<p>服務模式：當地的醫療消費不僅是治療，更是一種奢華的服務體驗。從私密的諮詢空間、多語種客服人員到術後的五星級酒店休養套餐，都是提升客戶滿意度與忠誠度的關鍵。</p>
+
+
+
+<p>杜拜台籍資深分析師呼籲，綜上所述，杜拜醫美與牙科市場的利多並非空談，而是建立在：</p>
+
+
+
+<ol class="wp-block-list">
+<li>IMD認證的宏觀經濟競爭力與政府支持。</li>
+
+
+
+<li>明確的國家級醫療旅遊戰略導流國際客戶，並有國際專業領袖（如Dr. Mohammad Saleh）深耕教育奠定品質基礎。</li>
+
+
+
+<li>來自全球市場數據對醫美牙科產業成長的堅實背書，以及尖端技術創新者（如張慧男醫師） 不斷推進治療水平。</li>
+
+
+
+<li>當地消費者對高端、科技驅動型服務的旺盛需求。</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="295" height="139" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/messageImage_1761111554068.jpg?resize=295%2C139&#038;ssl=1" alt="" class="wp-image-271100" style="width:840px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿聯酋矯正協會主席(EOS)Dr Mohammad Saleh及張慧男博士於杜拜。杜拜分析師迪倫/提供</figcaption></figure>
+
+
+
+<p>根據全球資料庫網站「Numbeo」2025年《醫療照護指數》，台灣以86.5分高居全球榜首，並以159.2分蟬聯醫療費用效率第一名，已連續七年稱霸全球。台灣不僅擁有享譽全球的醫療實力，更孕育了如張慧男醫師這樣的國際級創新者。 對於有意擴張的醫美與牙科機構而言，現在正是進軍杜拜的黃金時刻。建議行動步驟包括：進行深入的市場調查、與當地合作夥伴建立聯繫、規劃符合國際客戶需求的服務套餐。杜拜正在重新定義美麗的標準與市場的邊界。這個價值百億的市場商機，將引領我們剖析台灣醫療產業如何整合臨床性價比與技術創新能力，成功走向國際，成為繼科技業後，下一個撐起台灣經濟成長的支柱。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e3%80%8c%e9%a1%8f%e5%80%bc%e7%b6%93%e6%bf%9f%e3%80%8d%e5%b4%9b%e8%b5%b7%ef%bc%81%e6%9d%9c%e6%8b%9c%e6%88%90%e7%82%ba%e5%9c%8b%e9%9a%9b%e9%86%ab%e7%be%8e%e8%88%87%e7%89%99%e7%a7%91%e7%94%a2%e6%a5%ad/">「顏值經濟」崛起！杜拜成為國際醫美與牙科產業必爭之地 四大利多台灣如何藉此成為下一個經濟支柱</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>《紅塵問仙》正式登場！赤鬼伯伯 x SWAG 夢幻聯動影片今晚揭曉 !</title>
+		<link>https://firenews.com.tw/2025/10/22/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e6%ad%a3%e5%bc%8f%e7%99%bb%e5%a0%b4%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e5%a4%a2%e5%b9%bb%e8%81%af%e5%8b%95%e5%bd%b1/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 07:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[MMORPG]]></category>
+		<category><![CDATA[SheenaGames]]></category>
+		<category><![CDATA[SWAG]]></category>
+		<category><![CDATA[紅塵問仙]]></category>
+		<category><![CDATA[赤鬼伯伯]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270288</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 由 SheenaGames 打造的仙俠放置 MMORPG 《紅塵問仙》，於今日（10  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e6%ad%a3%e5%bc%8f%e7%99%bb%e5%a0%b4%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e5%a4%a2%e5%b9%bb%e8%81%af%e5%8b%95%e5%bd%b1/">《紅塵問仙》正式登場！赤鬼伯伯 x SWAG 夢幻聯動影片今晚揭曉 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>由 SheenaGames 打造的仙俠放置 MMORPG 《紅塵問仙》，於今日（10 月 22 日）正式上線！</strong></p>
+</blockquote>
+
+
+
+<p>自開放事前預約以來，玩家人數已突破 <strong>百萬大關</strong>，熱度居高不下。遊戲以「九州大陸」為背景，融合 <strong>沉浸式修仙世界觀</strong> 與 <strong>放置養成、裝備鍛造、古寶探索、雙修互動</strong> 等多元系統，帶來兼具深度與娛樂性的仙俠體驗。官方誠摯邀請所有修仙者即刻加入，開啟屬於自己的登仙旅程。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IM_預約達標100萬圖_1920x1080_zh.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-270290" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IM_預約達標100萬圖_1920x1080_zh.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IM_預約達標100萬圖_1920x1080_zh.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IM_預約達標100萬圖_1920x1080_zh.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IM_預約達標100萬圖_1920x1080_zh.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>上市好禮限時送！iPhone 16 Pro Max 得主即將公布</strong></h2>
+
+
+
+<p>為慶祝正式上市，《紅塵問仙》推出多項開服福利。所有新玩家登入即可獲得「<strong>幻金靈石 x 9,000</strong>」及限定服裝造型等豐厚虛寶，協助快速提升修為。此外，官方同步宣布——<strong>事前預約抽獎活動</strong>的 <strong>iPhone 16 Pro Max</strong> 幸運得主即將揭曉。欲掌握最新名單與活動內容，別忘了關注官方 Facebook 粉絲團。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="860" height="480" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖4_860x480_TW.jpg?resize=860%2C480&#038;ssl=1" alt="" class="wp-image-270291" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖4_860x480_TW.jpg?w=860&amp;ssl=1 860w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖4_860x480_TW.jpg?resize=768%2C429&amp;ssl=1 768w" sizes="(max-width: 860px) 100vw, 860px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>赤鬼伯伯 × SWAG 聯動今晚登場！跨界合作引爆話題</strong></h2>
+
+
+
+<p>突破百萬預約的佳績，也迎來粉絲最期待的重磅聯動——《紅塵問仙》與超人氣創作者 <strong>赤鬼伯伯</strong> 攜手，推出 <strong>SWAG 特別合作企劃</strong>！官方宣布，影片將於今晚（10 月 22 日）限時公開，由赤鬼伯伯與 SWAG 女神聯袂演出，結合遊戲、網紅與成人娛樂元素，打造前所未見的跨界盛宴。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="860" height="480" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一_860x480_tw.jpg?resize=860%2C480&#038;ssl=1" alt="" class="wp-image-270292" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一_860x480_tw.jpg?w=860&amp;ssl=1 860w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一_860x480_tw.jpg?resize=768%2C429&amp;ssl=1 768w" sizes="(max-width: 860px) 100vw, 860px" data-recalc-dims="1" /></figure>
+
+
+
+<p><strong>立即加入修仙行列：</strong> <a href="https://bit.ly/CoI-Game">《紅塵問仙》官方下載連結</a><br><strong>追蹤最新活動消息：</strong> <a href="https://www.facebook.com/chronicleofimmortals/">官方 Facebook 粉絲團</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e3%80%8a%e7%b4%85%e5%a1%b5%e5%95%8f%e4%bb%99%e3%80%8b%e6%ad%a3%e5%bc%8f%e7%99%bb%e5%a0%b4%ef%bc%81%e8%b5%a4%e9%ac%bc%e4%bc%af%e4%bc%af-x-swag-%e5%a4%a2%e5%b9%bb%e8%81%af%e5%8b%95%e5%bd%b1/">《紅塵問仙》正式登場！赤鬼伯伯 x SWAG 夢幻聯動影片今晚揭曉 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全鋒事業布局車主智慧生活圈　四大服務打造行車新體驗</title>
+		<link>https://firenews.com.tw/2025/10/22/%e5%85%a8%e9%8b%92%e4%ba%8b%e6%a5%ad%e5%b8%83%e5%b1%80%e8%bb%8a%e4%b8%bb%e6%99%ba%e6%85%a7%e7%94%9f%e6%b4%bb%e5%9c%88%e3%80%80%e5%9b%9b%e5%a4%a7%e6%9c%8d%e5%8b%99%e6%89%93%e9%80%a0%e8%a1%8c%e8%bb%8a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 03:13:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270875</guid>
+
+					<description><![CDATA[<p>（台北訊）隨著台灣車主對智慧化與便利性需求日益提升，汽車後市場正進入全面數位化的新階段。以道路救援起家的全鋒事 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e5%85%a8%e9%8b%92%e4%ba%8b%e6%a5%ad%e5%b8%83%e5%b1%80%e8%bb%8a%e4%b8%bb%e6%99%ba%e6%85%a7%e7%94%9f%e6%b4%bb%e5%9c%88%e3%80%80%e5%9b%9b%e5%a4%a7%e6%9c%8d%e5%8b%99%e6%89%93%e9%80%a0%e8%a1%8c%e8%bb%8a/">全鋒事業布局車主智慧生活圈　四大服務打造行車新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>（台北訊）隨著台灣車主對智慧化與便利性需求日益提升，汽車後市場正進入全面數位化的新階段。以道路救援起家的全鋒事業宣布，旗下「洗金寶」平台目前已突破 150 萬次使用紀錄，合作通路遍布全台超過 400 家洗車服務據點，並於今年獲得 「跨平台洗車系統」服務專利，為產業創新奠定更穩固的基礎。</p>
+
+
+
+<p>「洗金寶」採虛擬票券模式，首創跨品牌、跨場域的洗車服務，讓車主能自由選擇合作據點使用，不再受限於紙本券或單一品牌。自推出以來，不僅受到消費者青睞，也成為銀行、企業會員平台與保險業者等多方合作的重要解決方案。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-199.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-270886" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-199.png?w=1500&amp;ssl=1 1500w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-199.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「洗金寶」平台突破 150 萬次使用，合作通路遍布全台超過 400 家洗車服務據點，並獲得 「跨平台洗車系統」服務專利，為產業創新奠定更穩固的基礎。</figcaption></figure>
+
+
+
+<p><strong>從洗金寶出發　擴大四大服務生態圈</strong></p>
+
+
+
+<p>全鋒事業指出，洗金寶的成功只是行車數位生態布局的第一步。公司已完成三大新服務的合作簽約，預計於年底前陸續推出，與洗金寶共同形成「行車生態券」的完整概念：</p>
+
+
+
+<p>• 充電服務：鎖定快速成長的電動車市場，串聯全台充電站資源，推出數位化充電票券，讓車主可跨平台使用，並享受金額折抵。</p>
+
+
+
+<p>• 停車服務：整合停車場資源，透過綁定車號與信用卡，實現自動折抵、無感進出的智慧停車體驗。</p>
+
+
+
+<p>• 車美容服務：與車輛美容與保養業者合作，提供跨品牌套組票券，消費者可依需求預約到店服務，享受便利且專業的愛車護理。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="738" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-200.png?resize=1220%2C738&#038;ssl=1" alt="" class="wp-image-270887" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-200.png?w=2100&amp;ssl=1 2100w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-200.png?resize=768%2C465&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-200.png?resize=1536%2C930&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-200.png?resize=2048%2C1240&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">全鋒事業旗下「洗金寶」平台以虛擬票券技術串聯全台超過400家洗車據點，讓車主能跨品牌、跨場域自由使用，打造智慧化、便利化的洗車新體驗。</figcaption></figure>
+
+
+
+<p>四大核心服務透過全鋒T-Life（Line OA）平台，構築完整的行車生態圈，為車主打造從洗車、美容、停車到充電的一站式體驗。這四項服務皆屬車主不可或缺的日常高頻需求。全鋒整合各項資源，實現于蓓蒂總經理提出的「車的食衣住行育樂」願景，致力於打造全方位的智慧車主服務平台，同時協助企業強化會員經營，提升品牌價值與服務差異化。</p>
+
+
+
+<p><strong>專利加持　強化服務模式創新</strong></p>
+
+
+
+<p>全鋒事業表示，此次取得的 「跨平台洗車系統」專利，凸顯平台服務模式的創新性。專利不僅是洗金寶的技術基礎，更象徵產業向前邁出的重要一步。藉由專利的保障與模式的可擴展性，洗金寶得以在與合作夥伴共同成長的同時，保持長期穩定的發展優勢。</p>
+
+
+
+<p><strong>多方合作　打造產業新價值</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="731" height="392" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-201.png?resize=731%2C392&#038;ssl=1" alt="" class="wp-image-270888" data-recalc-dims="1"/><figcaption class="wp-element-caption">全鋒事業持續擴大行車生態圈版圖，結合車美容、停車、充電等高頻需求服務，讓車主享受一站式、專業化的愛車護理體驗。</figcaption></figure>
+
+
+
+<p>目前，全鋒事業的合作夥伴已涵蓋銀行信用卡、保險公司、各大汽車品牌商以及會員平台等多個領域。透過行車生態券，企業端可藉此提供會員更具差異化的服務，提升使用頻率與忠誠度；同時，數位票券能有效降低管理與串接成本，協助企業快速進入不同消費場域。</p>
+
+
+
+<p>隨著充電、停車、美容等新服務即將上線，全鋒事業期待與更多產業夥伴攜手，共同推動台灣汽車後市場邁向智慧化、數位化與生態化的新里程碑。</p>
+
+
+
+<p>更多資訊請參閱：<br>全鋒事業官網：<a href="https://www.24tms.com.tw/">https://www.24tms.com.tw/</a><br>洗金寶官網：<a href="https://carwash.tmsplus.com.tw/">https://carwash.tmsplus.com.tw/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e5%85%a8%e9%8b%92%e4%ba%8b%e6%a5%ad%e5%b8%83%e5%b1%80%e8%bb%8a%e4%b8%bb%e6%99%ba%e6%85%a7%e7%94%9f%e6%b4%bb%e5%9c%88%e3%80%80%e5%9b%9b%e5%a4%a7%e6%9c%8d%e5%8b%99%e6%89%93%e9%80%a0%e8%a1%8c%e8%bb%8a/">全鋒事業布局車主智慧生活圈　四大服務打造行車新體驗</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>網友盤點史詩級暈船仔掀回憶殺　經典人物串出浪漫高粱熟成話題</title>
+		<link>https://firenews.com.tw/2025/10/22/%e7%b6%b2%e5%8f%8b%e7%9b%a4%e9%bb%9e%e5%8f%b2%e8%a9%a9%e7%b4%9a%e6%9a%88%e8%88%b9%e4%bb%94%e6%8e%80%e5%9b%9e%e6%86%b6%e6%ae%ba%e3%80%80%e7%b6%93%e5%85%b8%e4%ba%ba%e7%89%a9%e4%b8%b2%e5%87%ba%e6%b5%aa/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 02:43:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[58金高]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[哈利波特]]></category>
+		<category><![CDATA[暈船仔]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270859</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 暈船仔話題發燒 網友列出經典故事案例 近日，網友在 Threads 貼文中列出橫跨不同 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e7%b6%b2%e5%8f%8b%e7%9b%a4%e9%bb%9e%e5%8f%b2%e8%a9%a9%e7%b4%9a%e6%9a%88%e8%88%b9%e4%bb%94%e6%8e%80%e5%9b%9e%e6%86%b6%e6%ae%ba%e3%80%80%e7%b6%93%e5%85%b8%e4%ba%ba%e7%89%a9%e4%b8%b2%e5%87%ba%e6%b5%aa/">網友盤點史詩級暈船仔掀回憶殺　經典人物串出浪漫高粱熟成話題</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<h2 class="wp-block-heading"><strong>暈船仔話題發燒 網友列出經典故事案例</strong></h2>
+
+
+
+<p>近日，網友在 Threads 貼文中列出橫跨不同世代的經典「暈船」角色組合——從《哈利波特》的石內卜與莉莉、《灌籃高手》的櫻木花道與晴子，到《甄嬛傳》的果郡王與甄嬛，最後自嘲自己的暈船事件。大量角色名單迅速掀起熱議，留言從「這是什麼復古老人串」到「一看就知道PO主八九年級生」，網友們用幽默方式回顧青春裡的暈船故事。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251022_124011.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-270860" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251022_124011.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/line_oa_chat_251022_124011.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲Threads 網友回顧經典暈船組合，引發留言串連金門高粱酒音樂熟成新作。（圖／網路截圖 Threads）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>從暈船到酒　社群幽默生成新語彙</strong></h2>
+
+
+
+<p>討論中，網友標註金門高粱官方帳號，小編隨即現身回覆，引發網友熱烈討論，提起新上市的「58金高千日醇音樂熟成品鑑組」。留言如：「這隻好多人在轉，真的喝起來有差嗎 」、「愛你一萬年的高粱好愛」等，意外形成一股結合暈船話題與高粱酒的社群風潮。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>百位暈船仔登船　浪漫海上品酒會掀高潮</strong></h2>
+
+
+
+<p>金門酒廠與黑松公司攜手合作，推出全台首款「情歌熟成」高粱酒——58金高千日醇音樂熟成品鑑組。此組合以「老酒熟成倉」與「愛你一萬年」兩款高粱酒為主角，兩者皆於 2015 年 7 月 27 日灌裝，一款以標準流程熟成，另外一款則使用搖滾情歌《愛你一萬年》陪伴熟成。</p>
+
+
+
+<p>為了驗證「情歌熟成」是否真能喝出愛情的味道，品牌特別舉辦「百人暈船仔 愛你一萬年船上品酒會」，邀請來自各行各業、曾有暈船故事的參與者登上遊艇，於海浪與夕陽之間品鑑「58金高千日醇音樂熟成品鑑組」。現場安排「暈船小告白」與「暈船宣言」等互動環節。當全場舉杯高喊「為了愛，乾一杯！」時，讓「暈船」成為當日最精彩的時刻。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>從技藝到感性　釀造一場文化共鳴</strong></h2>
+
+
+
+<p>黑松公司與金門酒廠的合作不僅延續了釀造的精湛傳統，更以創新的跨界概念，讓高粱酒多了「被聽見的故事」。不只是風味實驗，更是一場融合聲音、時間與情感的文化共鳴，讓品飲成為一種回味，也成為一次關於記憶與情感的對話。</p>
+
+
+
+<p><strong>Threads 原文連結：</strong></p>
+
+
+
+<p><a href="https://www.threads.com/@mouthskyiswu/post/DQBTAYvkYj6?xmt=AQF0V_HmZ7stbUGLGxchKUrvGjA-8SjrYYk3pB0d0hL84A">https://www.threads.com/@mouthskyiswu/post/DQBTAYvkYj6?xmt=AQF0V_HmZ7stbUGLGxchKUrvGjA-8SjrYYk3pB0d0hL84A</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/22/%e7%b6%b2%e5%8f%8b%e7%9b%a4%e9%bb%9e%e5%8f%b2%e8%a9%a9%e7%b4%9a%e6%9a%88%e8%88%b9%e4%bb%94%e6%8e%80%e5%9b%9e%e6%86%b6%e6%ae%ba%e3%80%80%e7%b6%93%e5%85%b8%e4%ba%ba%e7%89%a9%e4%b8%b2%e5%87%ba%e6%b5%aa/">網友盤點史詩級暈船仔掀回憶殺　經典人物串出浪漫高粱熟成話題</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>阿囉哈LED總匯打造全台聖誕燈飾新風貌，點亮冬日社區溫度</title>
+		<link>https://firenews.com.tw/2025/10/21/%e9%98%bf%e5%9b%89%e5%93%88led%e7%b8%bd%e5%8c%af%e6%89%93%e9%80%a0%e5%85%a8%e5%8f%b0%e8%81%96%e8%aa%95%e7%87%88%e9%a3%be%e6%96%b0%e9%a2%a8%e8%b2%8c%ef%bc%8c%e9%bb%9e%e4%ba%ae%e5%86%ac%e6%97%a5/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 05:36:24 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[阿囉哈LED]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270394</guid>
+
+					<description><![CDATA[<p>【台北訊】隨著聖誕節腳步逼近，全台街頭巷尾紛紛披上繽紛燈光，節慶氛圍日漸濃厚。擁有超過20年LED專業經驗的「 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/21/%e9%98%bf%e5%9b%89%e5%93%88led%e7%b8%bd%e5%8c%af%e6%89%93%e9%80%a0%e5%85%a8%e5%8f%b0%e8%81%96%e8%aa%95%e7%87%88%e9%a3%be%e6%96%b0%e9%a2%a8%e8%b2%8c%ef%bc%8c%e9%bb%9e%e4%ba%ae%e5%86%ac%e6%97%a5/">阿囉哈LED總匯打造全台聖誕燈飾新風貌，點亮冬日社區溫度</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>【台北訊】隨著聖誕節腳步逼近，全台街頭巷尾紛紛披上繽紛燈光，節慶氛圍日漸濃厚。擁有超過20年LED專業經驗的「ALOHA阿囉哈LED總匯」，今年再度推出一系列創意燈飾佈置方案，結合專業施工與美學設計，為社區、商圈與家庭注入溫暖光影，成為冬季最亮眼的節慶風景。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="529" height="397" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-188.png?resize=529%2C397&#038;ssl=1" alt="" class="wp-image-270395" data-recalc-dims="1"/></figure>
+
+
+
+<p><strong>專業施工＋創意設計，打造安全又吸睛的聖誕佈景</strong> </p>
+
+
+
+<p>阿囉哈LED總匯指出，聖誕燈飾不僅是視覺裝飾，更關乎安全與耐候性。許多消費者在選購時僅關注外觀，卻忽略了防水等級、串接穩定度與閃爍控制等關鍵細節。為此，阿囉哈團隊提供現場評估與專業諮詢，協助客戶量身打造最適合的佈置方案，確保燈飾在冬季風雨中依然穩定發光。</p>
+
+
+
+<p><strong>多款燈飾選擇，滿足各式場域需求</strong> </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="431" height="575" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-189.png?resize=431%2C575&#038;ssl=1" alt="" class="wp-image-270396" data-recalc-dims="1"/><figcaption class="wp-element-caption">隨著聖誕節將近，街頭巷尾紛紛點起繽紛燈飾，讓節慶氣氛逐漸濃厚。圖/阿囉哈LED總匯提供</figcaption></figure>
+
+
+
+<p>今年冬季，阿囉哈推出包括流星燈管、藤球燈、雪花燈、插地燈、水母燈等多款應景燈飾，適用於居家庭園、民宿外牆、商場廣場、公園步道等場域。透過色彩與光型的巧妙搭配，營造出夢幻、浪漫或歡樂的節慶氛圍，讓燈光不只是照明，更成為情感與故事的延伸。</p>
+
+
+
+<p><strong>千場實績見證，深耕LED佈置市場</strong> </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="561" height="421" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-190.png?resize=561%2C421&#038;ssl=1" alt="" class="wp-image-270397" data-recalc-dims="1"/><figcaption class="wp-element-caption">阿囉哈團隊透過專業諮詢與現場評估，協助客戶找出最合適的佈置方案。圖/阿囉哈LED總匯提供</figcaption></figure>
+
+
+
+<p>阿囉哈LED總匯累積超過千場大型活動與節慶佈置經驗，涵蓋聖誕跨年、公廟慶典、展會佈景、校園與商圈活動等。品牌以「專業製造＋施工一條龍」為核心，從設計、選材、規劃到安裝皆由專業團隊執行，確保品質與美感兼具。</p>
+
+
+
+<p><strong>邀您親臨體驗，點亮社區節慶時光</strong> </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="500" height="375" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-191.png?resize=500%2C375&#038;ssl=1" alt="" class="wp-image-270398" data-recalc-dims="1"/><figcaption class="wp-element-caption">阿囉哈LED總匯以創意美學為導向，提供多款聖誕應景燈飾。圖/阿囉哈LED總匯提供</figcaption></figure>
+
+
+
+<p>阿囉哈LED總匯誠摯邀請民眾親臨門市，感受「兼具光影與溫度」的節慶魅力。無論是社區主委、店家業者或家庭佈置需求，皆可透過阿囉哈的專業服務，打造獨一無二的聖誕燈飾風格。更多資訊請參閱官網：https://aloha-light.com</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/21/%e9%98%bf%e5%9b%89%e5%93%88led%e7%b8%bd%e5%8c%af%e6%89%93%e9%80%a0%e5%85%a8%e5%8f%b0%e8%81%96%e8%aa%95%e7%87%88%e9%a3%be%e6%96%b0%e9%a2%a8%e8%b2%8c%ef%bc%8c%e9%bb%9e%e4%ba%ae%e5%86%ac%e6%97%a5/">阿囉哈LED總匯打造全台聖誕燈飾新風貌，點亮冬日社區溫度</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>全球供應鏈重組加速　台灣用友啟動「六城聯航」系列論壇助台商開啟跨境經營新格局</title>
+		<link>https://firenews.com.tw/2025/10/21/%e5%85%a8%e7%90%83%e4%be%9b%e6%87%89%e9%8f%88%e9%87%8d%e7%b5%84%e5%8a%a0%e9%80%9f%e3%80%80%e5%8f%b0%e7%81%a3%e7%94%a8%e5%8f%8b%e5%95%9f%e5%8b%95%e3%80%8c%e5%85%ad%e5%9f%8e%e8%81%af%e8%88%aa%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 04:51:24 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=270374</guid>
+
+					<description><![CDATA[<p>隨著台商佈局東南亞成為主流趨勢，企業面臨跨境稅務、制度差異與在地營運等多重挑戰。台灣用友資訊軟體有限公司（簡稱 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/21/%e5%85%a8%e7%90%83%e4%be%9b%e6%87%89%e9%8f%88%e9%87%8d%e7%b5%84%e5%8a%a0%e9%80%9f%e3%80%80%e5%8f%b0%e7%81%a3%e7%94%a8%e5%8f%8b%e5%95%9f%e5%8b%95%e3%80%8c%e5%85%ad%e5%9f%8e%e8%81%af%e8%88%aa%e3%80%8d/">全球供應鏈重組加速　台灣用友啟動「六城聯航」系列論壇助台商開啟跨境經營新格局</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>隨著台商佈局東南亞成為主流趨勢，企業面臨跨境稅務、制度差異與在地營運等多重挑戰。台灣用友資訊軟體有限公司（簡稱台灣用友）宣布啟動「六城聯航｜台商合規發展與轉型論壇」系列計畫，首站於 11月6日 在台北舉辦、隨後於 12月12日 移師越南，邀集阿里雲、安永聯合會計師事務所、盟立集團與海爾雲端等重量級夥伴，攜手探索「全球合規＋AI數智化」的落地路徑，助力企業打造高韌性、可持續的國際經營體系。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/photo.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-270375" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/photo.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/photo.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/photo.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/photo.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">這是一場為 CEO 與決策者 而設的戰略對話， 幫助臺商在東協市場突破瓶頸、找到成長新引擎。</figcaption></figure>
+
+
+
+<p><strong>越南成焦點：全球格局重塑下的新挑戰與機遇</strong></p>
+
+
+
+<p>當前，大量製造業加速從中國轉移至東南亞，特別是越南，該國已憑藉區位與成本優勢成為亞洲重要的製造與出口中心。然而，企業在快速擴張的同時，正遭遇多重挑戰：<strong>多國法規差異與稅務合規壓力、跨國資金流不透明、在地化營運難度，以及雲端安全與資料治理風險升級。</strong><strong></strong></p>
+
+
+
+<p>尤其，越南本地ERP系統功能與國際標準存在差距，難以滿足高科技與跨境企業對<strong>多帳簿、多準則、合併報表</strong>等精細化管理需求，這使得企業對具備國際化與在地化能力的數智化解決方案的需求空前提升。</p>
+
+
+
+<p><strong>用友</strong><strong>YonBIP</strong><strong>：一站式全球數智化運營基石</strong></p>
+
+
+
+<p>用友憑藉超過 20 年的海外佈局經驗，深知企業痛點。其 <strong>YonBIP </strong><strong>平台</strong>為台商與中資企業打造了集**「全球財務會計＋管理會計＋稅務服務＋共享服務」**於一體的高效雲端解決方案。</p>
+
+
+
+<p>該平台已實現：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>多語言、多幣種、多稅制</strong>的全球合併報告。</li>
+
+
+
+<li>支持 <strong>IFRS </strong><strong>與本地準則</strong>並行核算。</li>
+
+
+
+<li><strong>外幣折算、自動稅務申報</strong>與電子檔案管理。</li>
+
+
+
+<li>提供 <strong>24/7 </strong><strong>全球雲端交付與在地技術支援</strong>，並針對越南市場建立完善的<strong>法規對應模組與當地稅制包</strong>，確保企業快速合規落地。</li>
+</ul>
+
+
+
+<p><strong>夥伴聯手：共創新格局的關鍵亮點</strong></p>
+
+
+
+<p>本次「六城聯航」論壇集結了各領域的領軍企業，共同為台商提供深度洞察與實戰解方：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>阿里雲：</strong>提供「端、網、安全」三層方案，構築雲網安全一體化的全球佈局基石。</li>
+
+
+
+<li><strong>安永會計師事務所：</strong>聚焦國際稅務與補助策略，分享政府補助申請實務與稅務合規成功案例。</li>
+
+
+
+<li><strong>盟立集團：</strong>以智慧科技與自動化創新為核心，提供 AMHS、AGV、智慧倉儲等解決方案，推動智慧工廠生態構建。</li>
+
+
+
+<li><strong>用友：</strong>介紹其覆蓋財務、人力、供應鏈、製造等十大領域，支持多語言、多幣種、多時區的一站式全球數智化運營方案。</li>
+</ul>
+
+
+
+<p>論壇將深度探討「全球布局新思維」、「智動出海：AI驅動的智慧製造」<strong>以及</strong>「全方位補助申請諮詢」等熱門議題，旨在幫助企業將全球風險轉化為成長機會。</p>
+
+
+
+<p><strong>活動資訊</strong></p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>地點</td><td>日期</td><td>時間</td><td>舉辦地點</td></tr><tr><td><strong>台北場</strong></td><td>2025年11月6日（四）</td><td>13:30–16:50</td><td>台北國泰萬怡酒店2F百合廳</td></tr><tr><td><strong>越南場</strong></td><td>2025年12月12日（五）</td><td>13:00–17:00</td><td>THE REVERIE SAIGON（胡志明市）</td></tr></tbody></table></figure>
+
+
+
+<p>報名網址：<a href="https://www.yonyou.com.tw/globalsix/" target="_blank" rel="noreferrer noopener">https://www.yonyou.com.tw/globalsix/</a></p>
+
+
+
+<p><strong>關於用友台灣</strong></p>
+
+
+
+<p>用友於2003年在香港成立海外事業部總部，在全球化新戰略下，發展至14個海外分支機構，遍及香港、澳門、台灣、新加坡、馬來西亞、泰國、印尼、越南、北美洲、歐洲、日本 、中東及非洲市場。</p>
+
+
+
+<p>台灣用友經 14 年的努力，在台灣拓展至一批知名企業客戶，如：統一集團、家樂福、旺旺集團、華新麗華、聯強國際、誠品、劍湖山世界、愛之味、AECOM 等。台灣用友將持續秉持深耕台灣的經營策略，提供當地客戶更優質的服務，滿足台商在兩岸多地經營資訊化的需求，同時也為外資在台灣本地化資訊應用提供即時服務。 為因應海外業務需求並提升服務效能，用友也在新加坡設立了海外數據中心，從而為全球客戶提供更安全、穩定且即時的雲端服務。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/21/%e5%85%a8%e7%90%83%e4%be%9b%e6%87%89%e9%8f%88%e9%87%8d%e7%b5%84%e5%8a%a0%e9%80%9f%e3%80%80%e5%8f%b0%e7%81%a3%e7%94%a8%e5%8f%8b%e5%95%9f%e5%8b%95%e3%80%8c%e5%85%ad%e5%9f%8e%e8%81%af%e8%88%aa%e3%80%8d/">全球供應鏈重組加速　台灣用友啟動「六城聯航」系列論壇助台商開啟跨境經營新格局</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>萬國通路微風信義店開幕！全新店裝亮相、開幕慶優惠同步登場</title>
+		<link>https://firenews.com.tw/2025/10/20/%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e5%be%ae%e9%a2%a8%e4%bf%a1%e7%be%a9%e5%ba%97%e9%96%8b%e5%b9%95%ef%bc%81%e5%85%a8%e6%96%b0%e5%ba%97%e8%a3%9d%e4%ba%ae%e7%9b%b8%e3%80%81%e9%96%8b%e5%b9%95%e6%85%b6/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 07:12:06 +0000</pubDate>
+				<category><![CDATA[公益]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=269894</guid>
+
+					<description><![CDATA[<p>（台北訊）行李箱品牌萬國通路 Eminent正式在微風信義開設全台第28間直營門市。象徵品牌深耕台灣市場的重要 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e5%be%ae%e9%a2%a8%e4%bf%a1%e7%be%a9%e5%ba%97%e9%96%8b%e5%b9%95%ef%bc%81%e5%85%a8%e6%96%b0%e5%ba%97%e8%a3%9d%e4%ba%ae%e7%9b%b8%e3%80%81%e9%96%8b%e5%b9%95%e6%85%b6/">萬國通路微風信義店開幕！全新店裝亮相、開幕慶優惠同步登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>（台北訊）行李箱品牌萬國通路 Eminent正式在微風信義開設全台第28間直營門市。象徵品牌深耕台灣市場的重要里程碑，同時展現因應消費趨勢變化下的設計革新。空間以品牌經典行李箱的圓潤弧線為靈感，主題圍繞「旅行啟程前的期待」，以溫潤木質與柔和色調打造輕盈氛圍，呈現Eminent對旅行與生活風格的全新詮釋。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-269895" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-179.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">行李箱品牌萬國通路 Eminent正式在微風信義開設全台第28間直營門市，象徵品牌深耕台灣市場的重要里程碑。</figcaption></figure>
+
+
+
+<p>隨著消費者對購物體驗與空間氛圍的重視明顯提升，「體驗式空間」已成為實體通路的核心價值。萬國通路選擇進駐信義商圈微風信義百貨，正是對此趨勢的具體回應。品牌表示：「這不僅是一間新門市，更是一個品牌對話的起點，希望讓顧客走進店裡時，就能感受到出發前的期待。」</p>
+
+
+
+<p>新店設計概念圍繞「旅行啟程」，以柔和弧線與開放式動線串聯各區，營造舒適流暢的動線節奏。空間細節呼應萬國通路行李箱的設計語彙，巧妙模糊購物與體驗的界線。視覺風格與以往門市截然不同，象徵品牌從以往「功能導向」走向兼具「設計感與生活感」的風格體驗轉型。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1829" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-180.png?resize=1220%2C1829&#038;ssl=1" alt="" class="wp-image-269898" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-180.png?w=1672&amp;ssl=1 1672w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-180.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-180.png?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-180.png?resize=1366%2C2048&amp;ssl=1 1366w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Hur + 利善榛與產品合影</figcaption></figure>
+
+
+
+<p>萬國通路近年積極推動品牌升級，觀察到新世代旅人更重視產品質感與理念共鳴，行李箱不再只是旅行工具，更是個人風格的延伸。全新門市以品牌美學為核心，讓消費者能近距離體驗Eminent行李箱的細節與工藝，從觸感到互動皆展現品牌一貫追求的穩固、安全與舒適。</p>
+
+
+
+<p>為慶祝微風信義店盛大開幕，品牌特別配合百貨周年慶推出多項優惠，即日起至10月22日全館85折，滿2,000元再折200元；10月23日至11月16日正式週年慶期間，消費滿8,880元最高可再享11%折扣。並同步推出多款限定優惠商品，滿足不同旅程需求。</p>
+
+
+
+<p>同時，萬國通路今年宣布取得 Porsche Design 台灣總代理權，將極致工藝的行李箱與背包系列正式引進台灣市場。此舉強化萬國通路在精品旅行用品領域的布局，讓消費者得以親身體驗德國設計與品質的完美結合。Porsche Design 系列現於萬國通路旅行生活館、台南勝利店、台南永華店、台中美村店、台北忠孝店）及官方網站（<a href="https://tw.eminent.com/">https://tw.eminent.com/</a>）獨家販售。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="754" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?resize=1220%2C754&#038;ssl=1" alt="" class="wp-image-269899" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?resize=1536%2C950&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?resize=2048%2C1267&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-181-scaled.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">萬國通路取得 Porsche Design 台灣總代理權，將極致工藝的行李箱與背包系列正式引進台灣市場。</figcaption></figure>
+
+
+
+<p>自1979年創立以來，萬國通路以德國工藝與創新設計立足國際市場。微風信義店開幕與 Porsche Design 代理權的取得，象徵品牌以「體驗設計」與「精品布局」為核心的雙軌轉型正式啟程。品牌總結道：「我們希望每位走進萬國通路的顧客，都能從這裡開始一段旅程。第28間門市不只是新的據點，而是一個讓出發更有意義的地方。」</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e5%be%ae%e9%a2%a8%e4%bf%a1%e7%be%a9%e5%ba%97%e9%96%8b%e5%b9%95%ef%bc%81%e5%85%a8%e6%96%b0%e5%ba%97%e8%a3%9d%e4%ba%ae%e7%9b%b8%e3%80%81%e9%96%8b%e5%b9%95%e6%85%b6/">萬國通路微風信義店開幕！全新店裝亮相、開幕慶優惠同步登場</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>星誠細胞生醫攜手 Aivita Health Group 宣告「SIUPI 修秘」正式進軍中東市場簽署 MOU 推動再生醫學臨床應用與國際合作</title>
+		<link>https://firenews.com.tw/2025/10/20/%e6%98%9f%e8%aa%a0%e7%b4%b0%e8%83%9e%e7%94%9f%e9%86%ab%e6%94%9c%e6%89%8b-aivita-health-group-%e5%ae%a3%e5%91%8a%e3%80%8csiupi-%e4%bf%ae%e7%a7%98%e3%80%8d%e6%ad%a3%e5%bc%8f%e9%80%b2%e8%bb%8d%e4%b8%ad/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 04:21:15 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Aivita Health Group]]></category>
+		<category><![CDATA[DIFC]]></category>
+		<category><![CDATA[台灣醫療與健康博覽會]]></category>
+		<category><![CDATA[星誠細胞]]></category>
+		<category><![CDATA[星誠細胞生醫]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=269773</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 星誠細胞生醫日前受邀前往杜拜參加「2025 台灣醫療與健康博覽會 – 杜拜展」（Tai &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e6%98%9f%e8%aa%a0%e7%b4%b0%e8%83%9e%e7%94%9f%e9%86%ab%e6%94%9c%e6%89%8b-aivita-health-group-%e5%ae%a3%e5%91%8a%e3%80%8csiupi-%e4%bf%ae%e7%a7%98%e3%80%8d%e6%ad%a3%e5%bc%8f%e9%80%b2%e8%bb%8d%e4%b8%ad/">星誠細胞生醫攜手 Aivita Health Group 宣告「SIUPI 修秘」正式進軍中東市場簽署 MOU 推動再生醫學臨床應用與國際合作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>星誠細胞生醫日前受邀前往杜拜參加「2025 台灣醫療與健康博覽會 – 杜拜展」（<em>Taiwan Medical &amp; Wellness Expo – Dubai Edition</em>），並於展會期間正式與 Aivita Health Group 簽署合作備忘錄（MOU），宣布旗下品牌「SIUPI 修秘」正式進軍中東市場，跨出國際舞台的重要里程碑，展現其在皮膚能量傷口修復領域的研發實力與國際競爭力。</p>
+
+
+
+<p>本次展會於 10 月 4 日至 5 日在杜拜國際金融中心（DIFC）Capital Club 舉行，聚焦「精準醫療 × 再生醫學 × 醫美創新」，匯聚中東地區醫療、學術與投資界的重要人士。Aivita Health Group 於杜拜在地長期深耕再生醫學與醫療教育，選擇與星誠細胞生醫攜手合作，將於臨床研究、醫療教育與產品導入三大領域展開合作，推動再生醫療於中東市場的臨床應用與產業落地。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="910" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760933055536.jpg?resize=1220%2C910&#038;ssl=1" alt="" class="wp-image-269780" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760933055536.jpg?w=1913&amp;ssl=1 1913w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760933055536.jpg?resize=768%2C573&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1760933055536.jpg?resize=1536%2C1146&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">星誠細胞生醫與Aivita Health Group 正式簽署合作備忘錄（MOU）。照片／星誠細胞生醫提供</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>外泌體科技驅動修復新革命 打造能量術後修護再生</strong></h2>
+
+
+
+<p>近年放射治療與能量醫學技術快速進步，但能量治療的術後皮膚修復仍是關鍵挑戰。星誠細胞生醫以「皮膚能量傷口修復專家」為定位，長期專注外泌體與再生醫學技術研發，聚焦細胞外泌體製劑、乾淨傷口修復藥物及醫美術後修復三大研發方向，致力於改善放療與醫美能量術後的皮膚恢復品質。</p>
+
+
+
+<p>透過與國內雙和醫院等醫學中心及醫療診所合作，結合皮秒雷射、電波等能量術後修復療程，累積超過上千人次臨床體驗與好評。星誠期望從放療術後的肌膚修護到醫美能量術後保養，讓肌膚修復方案真正走入全方位應用。</p>
+
+
+
+<p>「SIUPI 修秘」系列採 TFDA 認證的 3A-GTP 全自動化醫療設備生產，修秘晶露外泌體濃度高達 2,000 億顆，不僅應用於醫美術後修復與保養，同時具備作為高階妝品原料的潛力，能延伸至再生醫學與保養品開發。目前修秘產品在台灣已與上百間醫療單位及美容中心合作，結合能量療程並導入臨床應用，成為能量術後修護與再生醫學結合的代表品牌。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>深化國際布局 邁向亞洲領先再生醫學企業</strong> </h2>
+
+
+
+<p>星誠細胞生醫董事長王俊翔表示：「與 Aivita Health Group 的合作，是星誠深化國際布局的重要里程碑，象徵我們從亞太市場邁向中東地區，持續擴大全球再生醫學合作版圖。」星誠將以此次 MOU 為國際合作的起點，深化外泌體與再生醫學於臨床修復領域的應用，並推動能量術後修復技術於中東市場的實際落地。未來，公司將持續擴大與全球策略夥伴的合作版圖，加速產品臨床驗證與商業化進程，朝向亞洲領先、全球佈局的再生醫學企業邁進。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e6%98%9f%e8%aa%a0%e7%b4%b0%e8%83%9e%e7%94%9f%e9%86%ab%e6%94%9c%e6%89%8b-aivita-health-group-%e5%ae%a3%e5%91%8a%e3%80%8csiupi-%e4%bf%ae%e7%a7%98%e3%80%8d%e6%ad%a3%e5%bc%8f%e9%80%b2%e8%bb%8d%e4%b8%ad/">星誠細胞生醫攜手 Aivita Health Group 宣告「SIUPI 修秘」正式進軍中東市場簽署 MOU 推動再生醫學臨床應用與國際合作</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>卡多摩小腳丫親子市集11月華山登場、二寶爸馬力歐助陣！</title>
+		<link>https://firenews.com.tw/2025/10/20/%e5%8d%a1%e5%a4%9a%e6%91%a9%e5%b0%8f%e8%85%b3%e4%b8%ab%e8%a6%aa%e5%ad%90%e5%b8%82%e9%9b%8611%e6%9c%88%e8%8f%af%e5%b1%b1%e7%99%bb%e5%a0%b4%e3%80%81%e4%ba%8c%e5%af%b6%e7%88%b8%e9%a6%ac%e5%8a%9b%e6%ad%90/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 04:10:33 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=269763</guid>
+
+					<description><![CDATA[<p>北北桃竹最大、最專業的婦嬰連鎖通路品牌「卡多摩嬰童館」宣布，將於 2025年11月1日至2日 在 華山1914 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e5%8d%a1%e5%a4%9a%e6%91%a9%e5%b0%8f%e8%85%b3%e4%b8%ab%e8%a6%aa%e5%ad%90%e5%b8%82%e9%9b%8611%e6%9c%88%e8%8f%af%e5%b1%b1%e7%99%bb%e5%a0%b4%e3%80%81%e4%ba%8c%e5%af%b6%e7%88%b8%e9%a6%ac%e5%8a%9b%e6%ad%90/">卡多摩小腳丫親子市集11月華山登場、二寶爸馬力歐助陣！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>北北桃竹最大、最專業的婦嬰連鎖通路品牌「卡多摩嬰童館」宣布，將於 <strong>2025年11月1日至2日</strong> 在 <strong>華山1914文化創意產業園區</strong> 舉辦「<strong>第九屆卡多摩小腳丫親子市集</strong>」，並攜手 <strong>勵馨基金會</strong> 推出多元親子活動與公益計畫。今年活動主題延續品牌信念「因為孩子，世界更美好（Kids Better, World Better）」，結合育兒體驗、品牌優惠與舞台互動，打造年度最盛大的親子嘉年華。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-269766" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?w=2507&amp;ssl=1 2507w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-171.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「卡多摩小腳丫親子市集活動」11月登場，打造完美親子周末時光。 (卡多摩提供)</figcaption></figure>
+
+
+
+<p>卡多摩創辦人黃瑞桐表示：「卡多摩不僅提供優質婦嬰產品，更希望透過活動，讓父母與孩子共享成長時光，讓家庭成為社會最美的風景。」</p>
+
+
+
+<h2 class="wp-block-heading"><strong>五大亮點活動 打造完美親子週末</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-269767" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-172.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">現場有《尋找幸孕女神》總決賽，展現孕期自信之美。(卡多摩提供)</figcaption></figure>
+
+
+
+<p>活動內容豐富多樣，特別規劃五大亮點：</p>
+
+
+
+<p><strong>亮點一：卡通明星見面會</strong></p>
+
+
+
+<p>深受孩童喜愛的「鯊魚寶寶」與「波力」將登場，與大小朋友近距離互動，共創難忘的快樂時光。</p>
+
+
+
+<p><strong>亮點二：「尋找幸孕女神」決賽</strong></p>
+
+
+
+<p>邁入第七屆的孕媽咪選拔將展現孕期之美，10位入圍媽媽將在舞台上展現自信與風采。決賽主持人由剛升格為二寶爸的藝人 <strong>馬力歐</strong> 擔任，並將於現場分享溫馨育兒故事。</p>
+
+
+
+<p><strong>亮點三：親子COS變裝大賽</strong></p>
+
+
+
+<p>20組親子將以創意裝扮登台走秀，展現家庭間的默契與想像力。</p>
+
+
+
+<p><strong>亮點四：婦幼品牌聯合優惠</strong></p>
+
+
+
+<p>現場集結雀巢、桂格、好奇Huggies、日比野等國際品牌，推出市集限定優惠。10月1日至26日開放預購「市集通」遊園券，內含專屬優惠券、遊戲券與活動導覽。</p>
+
+
+
+<p><strong>亮點五：互動體驗與闖關活動</strong></p>
+
+
+
+<p>設有大型氣墊區、卡多龍打卡牆、好奇尿布搬搬樂、卡多摩搬搬樂等親子遊戲，更有「趣味闖關卡」集章抽獎活動，完成五大指定關卡即可獲得扭蛋禮物，人人有獎。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>公益同行 用行動守護每個孩子</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="628" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-173.png?resize=1220%2C628&#038;ssl=1" alt="" class="wp-image-269768" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-173.png?w=2314&amp;ssl=1 2314w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-173.png?resize=768%2C396&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-173.png?resize=1536%2C791&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-173.png?resize=2048%2C1055&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">活動現場會舉辦親子 COS 變裝大賽。(卡多摩提供)</figcaption></figure>
+
+
+
+<p>今年卡多摩持續與 <strong>勵馨基金會</strong> 合作，邀請民眾現場隨喜捐款，支持「小腳丫專案」，幫助更多孩子找到溫暖的收養家庭。 活動將於 <strong>11月1日至2日，每日上午10時至下午6時</strong> 盛大登場，主辦單位誠摯邀請全台親子家庭一同共度歡樂假期，體驗購物、娛樂與公益兼具的「卡多摩小腳丫親子市集」，一起用笑容讓世界更美好。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e5%8d%a1%e5%a4%9a%e6%91%a9%e5%b0%8f%e8%85%b3%e4%b8%ab%e8%a6%aa%e5%ad%90%e5%b8%82%e9%9b%8611%e6%9c%88%e8%8f%af%e5%b1%b1%e7%99%bb%e5%a0%b4%e3%80%81%e4%ba%8c%e5%af%b6%e7%88%b8%e9%a6%ac%e5%8a%9b%e6%ad%90/">卡多摩小腳丫親子市集11月華山登場、二寶爸馬力歐助陣！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
