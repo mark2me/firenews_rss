@@ -1,120 +1,1071 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>其他 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/其他/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Mon, 27 Oct 2025 07:18:53 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>其他 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/其他/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>從代工到品牌價值推手：Bardshop引領客製化印刷新時代</title>
+		<link>https://firenews.com.tw/2025/10/27/%e5%be%9e%e4%bb%a3%e5%b7%a5%e5%88%b0%e5%93%81%e7%89%8c%e5%83%b9%e5%80%bc%e6%8e%a8%e6%89%8b%ef%bc%9abardshop%e5%bc%95%e9%a0%98%e5%ae%a2%e8%a3%bd%e5%8c%96%e5%8d%b0%e5%88%b7%e6%96%b0%e6%99%82%e4%bb%a3/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 07:18:44 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bardshop]]></category>
+		<category><![CDATA[啟盛國際]]></category>
+		<category><![CDATA[客製化印刷]]></category>
+		<category><![CDATA[設計]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272983</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 【台北訊】在競爭激烈的市場中，品牌若想脫穎而出，僅靠製造已不足以形成差異。啟盛國際股份 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%be%9e%e4%bb%a3%e5%b7%a5%e5%88%b0%e5%93%81%e7%89%8c%e5%83%b9%e5%80%bc%e6%8e%a8%e6%89%8b%ef%bc%9abardshop%e5%bc%95%e9%a0%98%e5%ae%a2%e8%a3%bd%e5%8c%96%e5%8d%b0%e5%88%b7%e6%96%b0%e6%99%82%e4%bb%a3/">從代工到品牌價值推手：Bardshop引領客製化印刷新時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>【台北訊】在競爭激烈的市場中，品牌若想脫穎而出，僅靠製造已不足以形成差異。啟盛國際股份有限公司憑藉十多年深耕製造與設計經驗，將「創意」轉化為「商品價值」，以一站式客製化印刷服務，為國內外數萬件 IP 專案注入競爭力。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>Bardshop 並非傳統壓克力加工廠，不只生產壓克力立牌、客製化禮品與胸章，更能針對文創品牌、二次元動漫或企業聯名，從產品結構設計、材質應用到商品化提供完整開發服務。設計師、品牌與企業皆能透過 Bardshop 快速將創意落地，並以國際標準呈現。</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548978871.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-272984" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548978871.jpg?w=1978&amp;ssl=1 1978w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548978871.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548978871.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Bardshop客製化動漫商品展示，展現印刷與設計開發的整合能力。圖/業者提供</figcaption></figure>
+
+
+
+<p>多年來，Bardshop 累積了數萬件國內外 IP 授權合作案例，涵蓋動漫、遊戲、科技與交通產業。從台積電、一卡通、木棉花到日本一線動漫品牌與各大授權公司、活動到公司展場，皆是其專業下的服務夥伴。尤其在國際市場，Bardshop 熟稔歐盟環保規範與認證流程，能滿足授權方對品質的嚴格要求。</p>
+
+
+
+<p>在設備與產能上，Bardshop 持續引進日本、瑞士與義大利頂級印刷設備，並導入國際色彩管理系統，確保色彩、精度與耐候性達到世界級水準。無論是大規模量產或少量多樣的 POD（Print on Demand）生產模式，都能兼顧效率與品質。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="810" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548986414.jpg?resize=1220%2C810&#038;ssl=1" alt="" class="wp-image-272985" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548986414.jpg?w=1978&amp;ssl=1 1978w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548986414.jpg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548986414.jpg?resize=1536%2C1020&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Bardshop導入國際級的頂級歐洲印刷設備，精準掌控穩定的商品品質。圖/業者提供</figcaption></figure>
+
+
+
+<p>Bardshop 的核心優勢在於「穩定與可靠」。從設計、打樣、印刷到包裝出貨，皆採取一站式整合流程，並設有專屬業務與客服團隊，以穩定交期與嚴謹品質管控降低客戶風險，讓品牌能專注於創意本身。</p>
+
+
+
+<p>在技術應用方面，Bardshop 擅長整合多種異材質印刷技術，從壓克力、金屬到複合材料皆能展現細膩細節與高耐候性。其技術亦廣泛應用於展覽裝置、企業識別與建築裝飾印刷等領域，展現跨產業整合的深度與專業實力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="810" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548994434.jpg?resize=1220%2C810&#038;ssl=1" alt="" class="wp-image-272986" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548994434.jpg?w=1980&amp;ssl=1 1980w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548994434.jpg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761548994434.jpg?resize=1536%2C1019&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Bardshop團隊定期舉辦印刷與設計的專業研討會，推動產業交流。圖/業者提供</figcaption></figure>
+
+
+
+<p>展望未來，Bardshop 已將 AI 技術導入印刷與設計流程，提升效率與精準度。除了在台灣設有自有生產基地外，亦積極拓展香港、新加坡、日本等市場，並規劃布局歐美，以「品質、穩定、可靠」為核心，持續成為全球客製化印刷領域的關鍵推手。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%be%9e%e4%bb%a3%e5%b7%a5%e5%88%b0%e5%93%81%e7%89%8c%e5%83%b9%e5%80%bc%e6%8e%a8%e6%89%8b%ef%bc%9abardshop%e5%bc%95%e9%a0%98%e5%ae%a2%e8%a3%bd%e5%8c%96%e5%8d%b0%e5%88%b7%e6%96%b0%e6%99%82%e4%bb%a3/">從代工到品牌價值推手：Bardshop引領客製化印刷新時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>鐵劑功效＋補鐵吃法一次看！鐵劑推薦6大品牌，補氣色、好吸收這樣挑</title>
+		<link>https://firenews.com.tw/2025/10/27/%e9%90%b5%e5%8a%91%e5%8a%9f%e6%95%88%ef%bc%8b%e8%a3%9c%e9%90%b5%e5%90%83%e6%b3%95%e4%b8%80%e6%ac%a1%e7%9c%8b%ef%bc%81%e9%90%b5%e5%8a%91%e6%8e%a8%e8%96%a66%e5%a4%a7%e5%93%81%e7%89%8c%ef%bc%8c%e8%a3%9c/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 05:45:50 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272894</guid>
+
+					<description><![CDATA[<p>忙碌壓力大、飲食不均的生活下，你是否也常感到疲倦、頭暈、氣色不佳？這些狀況可能與「鐵質攝取不足」有關，女性、孕 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e9%90%b5%e5%8a%91%e5%8a%9f%e6%95%88%ef%bc%8b%e8%a3%9c%e9%90%b5%e5%90%83%e6%b3%95%e4%b8%80%e6%ac%a1%e7%9c%8b%ef%bc%81%e9%90%b5%e5%8a%91%e6%8e%a8%e8%96%a66%e5%a4%a7%e5%93%81%e7%89%8c%ef%bc%8c%e8%a3%9c/">鐵劑功效＋補鐵吃法一次看！鐵劑推薦6大品牌，補氣色、好吸收這樣挑</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>忙碌壓力大、飲食不均的生活下，你是否也常感到疲倦、頭暈、氣色不佳？這些狀況可能與「鐵質攝取不足」有關，女性、孕哺期、素食者與年長者，更是缺鐵的高風險族群。想要補鐵提升體力與氣色，吃對很重要！本篇整理補鐵好處、鐵劑怎麼吃的重點，並精選鐵劑推薦選購要點與6大鐵劑推薦品牌，幫助你找到好吸收、溫和不刺激的補鐵好選擇。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="418" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1016-大研-鐵劑推薦-首圖.jpg?resize=800%2C418&#038;ssl=1" alt="" class="wp-image-272901" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1016-大研-鐵劑推薦-首圖.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1016-大研-鐵劑推薦-首圖.jpg?resize=768%2C401&amp;ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>鐵質是人體必需元素！常見缺鐵與貧血症狀</strong></h2>
+
+
+
+<p>「鐵」是人體必需的微量營養素，是構成血紅素及肌紅素不可或缺的必要物質，在人體當中有許多功能，包含幫助紅血球生成、氧氣輸送與利用、促進新陳代謝等。 人體若缺鐵，紅血球數量可能減少，血液中無法運送足夠氧氣，影響細胞能量供應，容易造成臉色蒼白、氣色差、頭暈、頭痛、容易疲倦、注意力不集中、易喘等，甚至導致缺鐵性貧血。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>補鐵好處有哪些？6大鐵劑功效一次看</strong> </h2>
+
+
+
+<p>鐵質是血紅素及肌紅素的重要成分，適時補鐵有助紅血球形成，維持身體氧氣運輸及利用，更能帶來整體健康的正向影響，究竟補鐵好處有哪些？以下整理6大鐵劑功效！</p>
+
+
+
+<p><strong>鐵劑功效1：幫助正常紅血球形成</strong></p>
+
+
+
+<p>鐵質是構成血紅素與紅血球的重要元素，攝取充足有助於預防缺鐵性貧血，維持良好血液品質與輸氧功能，讓身體保持正常代謝與活力來源。</p>
+
+
+
+<p><strong>鐵劑功效2：保持青春好氣色</strong></p>
+
+
+
+<p>有助維持健康的血紅素水準，讓臉色紅潤、唇色健康，自然展現好氣色。</p>
+
+
+
+<p><strong>鐵劑功效3：提升體力、幫助思緒專注清晰</strong></p>
+
+
+
+<p>有助氧氣運輸、正常運用，參與細胞能量生成，幫助提升體力及維持大腦思緒清晰及專注力。</p>
+
+
+
+<p><strong>鐵劑功效4：維持女性經期健康</strong></p>
+
+
+
+<p>女性每月經期會流失鐵質，補鐵有助維持血紅素濃度，改善可能因缺鐵造成的頭暈、疲勞等，也有助減緩經痛。</p>
+
+
+
+<p><strong>鐵劑功效5：維持孕期及胎兒健康</strong> </p>
+
+
+
+<p>研究指出，孕期缺鐵可能與早產、胎兒體重過輕等有關。補鐵除了供應孕婦本身及胎兒所需外，還能大量儲存於胎兒體內，才夠供應胎兒出生後六個月內使用。</p>
+
+
+
+<p><strong>鐵劑功效6：幫助運動表現</strong></p>
+
+
+
+<p>運動訓練時身體需要製造更多紅血球，以維持較高氧氣輸送與肌肉代謝，補鐵有助更佳運動表現。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>鐵劑怎麼吃更有效？補鐵推薦食用指南與注意事項</strong></h2>
+
+
+
+<p>補鐵除了天然含鐵量高的食物：紅肉、瘦肉、內臟類、雞蛋、海鮮類、菠菜、紫菜、堅果類等，也推薦鐵劑相關的營養保健品。除了選對產品，補充方式也會影響吸收效果與身體負擔，可以注意下列補鐵原則：<em></em></p>
+
+
+
+<p><strong>1. 每日建議補充量</strong></p>
+
+
+
+<p>衛福部建議，成年男性每日攝取量為10mg，成年女性15mg；懷孕、哺乳建議攝取量約30mg應攝取足量並避免過量補充。</p>
+
+
+
+<p><strong>2. 建議補充時機</strong> </p>
+
+
+
+<p>一般建議鐵劑於空腹（飯前一小時或飯後兩小時）服用吸收效果較佳，主要因鐵劑在酸性環境吸收較佳。不過若是擔心腸胃刺激，可以選擇飯後服用，避免產生不適。</p>
+
+
+
+<p><strong>3. 二價鐵 vs 三價鐵解析</strong> </p>
+
+
+
+<p>食物中的鐵通常以兩種形式存在：</p>
+
+
+
+<p>• 血紅素鐵（血基質鐵  Heme iron）：型式為二價鐵，存在於動物性成分，如紅肉、動物內臟等，人體吸收率高。    </p>
+
+
+
+<p> • 非血紅素鐵（非血基質鐵  Non-heme iron）：型式為三價鐵，食物中最常見的，動物及植物性成分中皆有。</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>&nbsp;</td><td>二價鐵（Fe2+）</td><td>三價鐵（Fe3+）</td></tr><tr><td>種類</td><td>血紅素鐵（血基質鐵）</td><td>非血紅素鐵（非血基質鐵）</td></tr><tr><td>來源</td><td>動物來源</td><td>植物來源</td></tr><tr><td>吸收率</td><td>20%~30%</td><td>約7%</td></tr><tr><td>吸收影響</td><td>吸收率不易受到其他食物影響</td><td>吸收率易受飲食中其他因素影響，例如：草酸和植酸等。</td></tr></tbody></table></figure>
+
+
+
+<p><strong>4. 影響鐵質吸收，補鐵避開這些食物！</strong></p>
+
+
+
+<p>日常飲食中有物質會抑制鐵吸收，要特別留意。</p>
+
+
+
+<p>• 單寧酸：茶、咖啡等含有單寧酸，會與鐵質結合影響吸收，因此要盡量避免在補充鐵時飲用，盡量間隔2小時為佳。</p>
+
+
+
+<p>• 鈣：牛奶、優酪乳、優格或起司等富含鈣的食物會降低鐵質吸收率。</p>
+
+
+
+<p>• 草酸、植酸：深色蔬菜含有鐵質，但同時也有草酸及植酸會抑制鐵的吸收，可透過汆燙等適當烹調，增加非血基質鐵在人體的吸收率。</p>
+
+
+
+<p><strong>5. 常見補鐵 Q&amp;A</strong></p>
+
+
+
+<p><strong>鐵劑會便祕嗎？</strong> </p>
+
+
+
+<p>鐵質刺激性較高，可能造成腸道蠕動下降、刺激胃部黏膜，所以有些人在服用鐵劑後，可能會出現噁心想吐、便秘等副作用。在攝取時，除了挑選較不具刺激性的甘胺酸亞鐵，建議可配合好消化的其他食物共同攝取，如富含維生素C的蔬果或全榖雜糧，減少負擔。</p>
+
+
+
+<p><strong>鐵劑可以天天吃嗎？</strong></p>
+
+
+
+<p>鐵劑需要補充的劑量、劑型及需要補充的時間，建議可依照產品標示補充或與醫療專業人員討論。基本上一般人只要不超過衛福部建議的成年人上限攝取量40mg就不會有太大的問題。</p>
+
+
+
+<p><strong>哪些族群要留意補鐵？</strong></p>
+
+
+
+<p>1. 懷孕、哺乳媽媽：懷孕及哺乳期對於鐵質的需求增加，需留意鐵質攝取是否充足。<br>2. 月經出血量多女性：月經出血量大的女性，缺鐵風險易增加。<br>3. 素食者：植物性來源鐵質吸收率不高，且素食者常食用的蔬菜或豆類多含有植酸，不利鐵質吸收。<br>4. 年長者：年長者容易因消化功能下降或飲食不均，導致鐵質吸收不良；一些慢性疾病也可能造成功能性缺鐵，應於日常留意鐵質補充。</p>
+
+
+
+<p><strong>掌握鐵劑功效關鍵，鐵劑推薦選購4大標準</strong></p>
+
+
+
+<p>市面上有不少鐵質補充劑，選對鐵劑功效更能發揮。鐵劑推薦 4 大挑選重點，讓你補得安心、補得健康！</p>
+
+
+
+<p><strong>1. 二價鐵甘胺酸亞鐵吸收率佳</strong></p>
+
+
+
+<p>屬於螯合型鐵劑，結構穩定且易於被人體吸收，吸收率高於其他鐵3.7倍。同時溫和較不易刺激腸胃，引起便秘或噁心等副作用，也較無腥味。</p>
+
+
+
+<p><strong>2. 劑量足量適中不過量</strong></p>
+
+
+
+<p>足量鐵質有助維持健康，挑選時產品應以每日建議劑量足夠為原則，並注意攝取上限，根據衛福部規定，成年人上限攝取量為每日40mg。</p>
+
+
+
+<p><strong>3. 複方成分加成效果</strong></p>
+
+
+
+<p>有許多營養素能夠幫助鐵質吸收，例如<a href="https://www.sunvita.com.tw/blog/vitamin-c/#%E7%B6%AD%E4%BB%96%E5%91%BDC%E5%8A%9F%E6%95%88%E5%9B%9B%E3%80%81%E4%BF%83%E9%80%B2%E9%90%B5%E5%90%B8%E6%94%B6">維生素C可顯著提升體內鐵的利用率</a>，此外維生素B6、B12及葉酸等也有助紅血球形成。想要更好的維持氣色，也可參考同時擁有<a href="https://www.nutrifivemins.org/article/collagen-benefits">膠原蛋白</a>及<a href="https://www.nutrifivemins.org/article/ceramide">神經醯胺</a>的複方。</p>
+
+
+
+<p><strong>4. 專利認證、安全檢驗更安心</strong></p>
+
+
+
+<p>選擇使用國際大廠專利原料、有品牌授權者，並檢視產品是否通過安全檢驗，無西藥、農藥、重金屬、微生物殘留，確保原料來源品質穩定且具科學驗證。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>鐵劑推薦6大品牌</strong></h2>
+
+
+
+<p><strong>鐵劑推薦1：大研生醫 黑棗補鐵精華飲</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="640" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大研生醫黑棗補鐵精華飲.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-272895" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大研生醫黑棗補鐵精華飲.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大研生醫黑棗補鐵精華飲.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：甘氨酸亞鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：15 mg（每包）</p>
+
+
+
+<p>• 複方：維生素B群、維生素C、小分子膠原蛋白、神經醯胺</p>
+
+
+
+<p>• 安全檢驗： 無西藥、農藥、重金屬、微生物殘留</p>
+
+
+
+<p>• 產品特色：使用美國專利Ferrochel®甘氨酸亞鐵，高穩定、高吸收的螯合鐵，溫和不刺激且無腥味更好補充；添加維生素B群及C，有助鐵質吸收。並添加77%黑棗原汁助排便順暢，同時加入小分子膠原蛋白與神經醯胺，維持紅潤亮采！每日一包15mg，滿足鐵質需求，補鐵好輕鬆！</p>
+
+
+
+<p><strong>鐵劑推薦2：李時珍 頂級四物鐵</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="640" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/李時珍.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-272896" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/李時珍.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/李時珍.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：甘氨酸亞鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：10 mg（每瓶）</p>
+
+
+
+<p>• 複方：四物萃取</p>
+
+
+
+<p>• 安全檢驗： 無農藥、重金屬殘留</p>
+
+
+
+<p>• 產品特色：國家健康食品認證四物鐵飲品，以四物鐵為基底，嚴選漢方草本融合獨家PMS配方，結合生物技術，中西合璧養身極品，更提升對女性的全面呵護！</p>
+
+
+
+<p><strong>鐵劑推薦3：BHK’s 甘胺酸亞鐵錠</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="640" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/BHK.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-272897" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/BHK.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/BHK.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：甘氨酸亞鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：20 mg（每粒）</p>
+
+
+
+<p>• 複方：葉酸、維生素B12、維生素C、蘋果多酚</p>
+
+
+
+<p>• 安全檢驗： 無西藥、重金屬、塑化劑殘留</p>
+
+
+
+<p>• 產品特色：專利鐵好吸收，搭配30秒速崩錠快速補鐵。同時添加葉酸、維生素B12  幫助紅血球形成；以及維生素C、蘋果多酚，讓你隨時擁有好氣色！</p>
+
+
+
+<p><strong>鐵劑推薦4：LOVITA愛維他 當歸亞鐵素食膠囊</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="640" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/LOVITA.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-272898" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/LOVITA.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/LOVITA.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：甘氨酸亞鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：36 mg（每顆）</p>
+
+
+
+<p>• 複方：維生素B群、葉酸、維生素C、當歸</p>
+
+
+
+<p>• 安全檢驗： 無重金屬、塑化劑、防腐劑、微生物殘留</p>
+
+
+
+<p>• 產品特色：使用溫和甘胺酸亞鐵，好吸收不刺激：複方添加維生素B6、B12及葉酸，有助紅血球形成，更添加女性調理聖品－當歸，有助調節生理機能、滋補強身！</p>
+
+
+
+<p><strong>鐵劑推薦5：Angel LaLa 天使娜拉 新惠補寧 血紅素+鐵錠</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="600" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Angelala.jpg?resize=600%2C600&#038;ssl=1" alt="" class="wp-image-272899" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Angelala.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Angelala.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：血紅素鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：18 mg（每粒）</p>
+
+
+
+<p>• 複方：維生素B群、葉酸、鈣、鎂</p>
+
+
+
+<p>• 安全檢驗： 第三方檢驗合格</p>
+
+
+
+<p>• 產品特色：美國進口血紅素鐵，吸收率高於一般鐵，維持紅潤好氣色。複方添加維生素B6、B12及葉酸，參與紅血球形成，同時加入鈣、鎂，有助骨骼、牙齒發育及心臟、肌肉的正常運作！</p>
+
+
+
+<p><strong>鐵劑推薦6：DHC 紅潤鐵素</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="640" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DHC.jpg?resize=640%2C640&#038;ssl=1" alt="" class="wp-image-272900" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DHC.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DHC.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p>• 鐵質來源：血紅素鐵（Fe2+）</p>
+
+
+
+<p>• 鐵質含量：5 mg（每顆）</p>
+
+
+
+<p>• 複方：維生素B12、葉酸、維生素C</p>
+
+
+
+<p>• 安全檢驗：無標示</p>
+
+
+
+<p>• 產品特色：來自日本人氣保健食品大廠，選用生物利用率高的血紅素鐵，不易與茶或咖啡中的單寧酸產生反應，並添加維生素B12、葉酸及維生素C ，助你「一輩之麗」，時時擁有好氣色！</p>
+
+
+
+<p><strong>延伸閱讀：</strong></p>
+
+
+
+<p><a href="https://www.nutrifivemins.org/article/vitamin-c-reviews">最新21款維他命C推薦開箱：營養師教你維他命C推薦必看挑選方法</a></p>
+
+
+
+<p><a href="https://www.formulab.org/article/best-vitamin-c">維他命C推薦10款，善存、DHC維他命C好嗎？</a></p>
+
+
+
+<p><a href="https://www.sunvita.com.tw/blog/vitamin-c-recommendations/">最新12款維他命C推薦：專家教你維他命C/維生素C怎麼挑</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e9%90%b5%e5%8a%91%e5%8a%9f%e6%95%88%ef%bc%8b%e8%a3%9c%e9%90%b5%e5%90%83%e6%b3%95%e4%b8%80%e6%ac%a1%e7%9c%8b%ef%bc%81%e9%90%b5%e5%8a%91%e6%8e%a8%e8%96%a66%e5%a4%a7%e5%93%81%e7%89%8c%ef%bc%8c%e8%a3%9c/">鐵劑功效＋補鐵吃法一次看！鐵劑推薦6大品牌，補氣色、好吸收這樣挑</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>新竹青草湖×航海王盛大啟航　開啟最熱血的秋季冒險！</title>
+		<link>https://firenews.com.tw/2025/10/27/%e6%96%b0%e7%ab%b9%e9%9d%92%e8%8d%89%e6%b9%96x%e8%88%aa%e6%b5%b7%e7%8e%8b%e7%9b%9b%e5%a4%a7%e5%95%9f%e8%88%aa%e3%80%80%e9%96%8b%e5%95%9f%e6%9c%80%e7%86%b1%e8%a1%80%e7%9a%84%e7%a7%8b%e5%ad%a3/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 05:28:05 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[新竹市政府]]></category>
+		<category><![CDATA[航海王]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272867</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 新竹市年度最受矚目的秋季盛事正式登場！青草湖作為市府積極推動的自然觀光亮點，今年再度突 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e6%96%b0%e7%ab%b9%e9%9d%92%e8%8d%89%e6%b9%96x%e8%88%aa%e6%b5%b7%e7%8e%8b%e7%9b%9b%e5%a4%a7%e5%95%9f%e8%88%aa%e3%80%80%e9%96%8b%e5%95%9f%e6%9c%80%e7%86%b1%e8%a1%80%e7%9a%84%e7%a7%8b%e5%ad%a3/">新竹青草湖×航海王盛大啟航　開啟最熱血的秋季冒險！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>新竹市年度最受矚目的秋季盛事正式登場！青草湖作為市府積極推動的自然觀光亮點，今年再度突破想像，攜手全球超人氣動漫IP《航海王》，打造結合湖畔景致與未來科技風格的全新冒險舞台。以「千陽號」為設計主軸，結合最新篇章「未來島篇」元素，從角色互動、沉浸式佈景到拍照打卡區，全方位呈現動畫中的熱血精神與未來視覺。今年活動自10月24日起至11月7日正式開跑，邀請全台粉絲與遊客一起啟航前進青草湖！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="687" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?resize=1220%2C687&#038;ssl=1" alt="" class="wp-image-272884" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC05032-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>隨著活動啟動，草帽一行人──魯夫、索隆、娜美、喬巴等經典角色將全員登場，陪伴民眾展開熱血旅程；航海王中的重要角色—紅髮傑克也首次現身青草湖，成為湖畔最吸睛的互動亮點與熱門打卡點，帶來前所未有的視覺震撼與動漫沉浸感。 </p>
+
+
+
+<p>活動期間亮點不斷，於10月26日登場的「變裝祭」更是開幕重頭戲之一。現場將舉辦變裝競賽邀請民眾裝扮成自己喜愛的角色，一同到青草湖進行冒險競賽。現場融合未來科技與航海元素，打造彷彿穿越未來島的沉浸式體驗。湖光波影之間，每位來訪者都將成為冒險故事的主角，創造屬於自己的航海篇章。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="684" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541041996_0.jpg?resize=1220%2C684&#038;ssl=1" alt="" class="wp-image-272885" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541041996_0.jpg?w=2108&amp;ssl=1 2108w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541041996_0.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541041996_0.jpg?resize=1536%2C861&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541041996_0.jpg?resize=2048%2C1147&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">於10月26日登場的「變裝祭」更是開幕重頭戲之一。圖/新竹市政府</figcaption></figure>
+
+
+
+<p>新竹市代理市長邱臣遠表示：「青草湖今年不只是活動場域，更是市民與遊客的冒險起點！我們把《航海王》的世界搬進青草湖，讓大家在湖光山色之間看見創意、感受熱血，也象徵新竹觀光正航向文化創意與經濟升級的新階段。」 </p>
+
+
+
+<p>這個秋天，就讓我們穿上最熱血的服裝，登上冒險之船，啟程前進未來島！邀請全台民眾走進青草湖，一起勇闖新竹最具話題與魅力的動漫主題冒險，開啟屬於城市的全新未來篇章。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="682" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541034083_0.jpg?resize=1220%2C682&#038;ssl=1" alt="" class="wp-image-272886" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541034083_0.jpg?w=2113&amp;ssl=1 2113w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541034083_0.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541034083_0.jpg?resize=1536%2C859&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761541034083_0.jpg?resize=2048%2C1145&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">活動期間亮點不斷。圖/新竹市政府</figcaption></figure>
+
+
+
+<p>新竹市政府提醒，活動現場進行交通管制，請市民朋友提前改道，並配合現場員警及義交指揮，並且呼籲民眾參加活動時遵守「喝酒不開車，開車不喝酒」的原則。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e6%96%b0%e7%ab%b9%e9%9d%92%e8%8d%89%e6%b9%96x%e8%88%aa%e6%b5%b7%e7%8e%8b%e7%9b%9b%e5%a4%a7%e5%95%9f%e8%88%aa%e3%80%80%e9%96%8b%e5%95%9f%e6%9c%80%e7%86%b1%e8%a1%80%e7%9a%84%e7%a7%8b%e5%ad%a3/">新竹青草湖×航海王盛大啟航　開啟最熱血的秋季冒險！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>經濟部攜手藝康台灣推動智能水務、食安預防與生技醫療升級　共促永續產業新動能</title>
+		<link>https://firenews.com.tw/2025/10/27/%e7%b6%93%e6%bf%9f%e9%83%a8%e6%94%9c%e6%89%8b%e8%97%9d%e5%ba%b7%e5%8f%b0%e7%81%a3%e6%8e%a8%e5%8b%95%e6%99%ba%e8%83%bd%e6%b0%b4%e5%8b%99%e3%80%81%e9%a3%9f%e5%ae%89%e9%a0%90%e9%98%b2%e8%88%87%e7%94%9f/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 03:48:04 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272817</guid>
+
+					<description><![CDATA[<p>經濟部日前舉辦「2025台灣全球招商論壇暨市場趨勢論壇」。全球300大企業之一，同時是全球水、衛生與感染預防解 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e7%b6%93%e6%bf%9f%e9%83%a8%e6%94%9c%e6%89%8b%e8%97%9d%e5%ba%b7%e5%8f%b0%e7%81%a3%e6%8e%a8%e5%8b%95%e6%99%ba%e8%83%bd%e6%b0%b4%e5%8b%99%e3%80%81%e9%a3%9f%e5%ae%89%e9%a0%90%e9%98%b2%e8%88%87%e7%94%9f/">經濟部攜手藝康台灣推動智能水務、食安預防與生技醫療升級　共促永續產業新動能</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>經濟部日前舉辦「2025台灣全球招商論壇暨市場趨勢論壇」。全球300大企業之一，同時是全球水、衛生與感染預防解決方案及永續領導者 &#8211; 藝康集團（Ecolab）在台子公司（以下簡稱「藝康台灣」）受邀出席，並與多家全球知名國際企業，共同簽署LOI投資意向書，展現推動台灣「智能水務、食安預防與生技醫療」三大領域創新升級的決心與行動力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="790" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025___________Ecolab.jpg?resize=1220%2C790&#038;ssl=1" alt="" class="wp-image-272819" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025___________Ecolab.jpg?w=1589&amp;ssl=1 1589w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025___________Ecolab.jpg?resize=768%2C497&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/2025___________Ecolab.jpg?resize=1536%2C995&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">經濟部政務次長江文若(左)與藝康台灣總經理塗溥仁(右)共同簽署投資意向書。</figcaption></figure>
+
+
+
+<p>這個承諾已迅速化為具體行動，藝康台灣今年進駐台南科學園區，成立在台首座研發中心，身為推手之一的藝康台灣總經理塗溥仁表示：「台灣產業擁有結構多元化的特性，藝康結合在地人才與資源、透過與業界的深度交流，為台灣產業的特殊需求進行客製化開發並快速響應，藝康台灣團隊在其中扮演著極其關鍵性的角色。」</p>
+
+
+
+<p>藝康的核心競爭力在於其基於科學的全面解決方案，為全球及台灣產業提供從製程到公用設施的完整保障，多次在SEMICON國際半導體展、Bio Asia亞洲生技大展、TIWW國際水展…等國內外大型展會上受到業界的高度關注及矚目：</p>
+
+
+
+<p><strong>智能水務與能源管理</strong></p>
+
+
+
+<p>納爾科(Nalco Water) 是藝康旗下的水務技術領導品牌，為全球及台灣多家高科技、石化、鋼鐵、電力、造紙等產業龍頭提供水資源智能數位化方案，尤其針對半導體與資料中心等高耗水、高耗能產業，以獨家3D TRASAR<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />專利技術實施即時監控與精準加藥，提升水循環再利用率、優化熱交換效率，並提供新世代AI伺服器所需的液冷系統水質管理，確保關鍵運算資產的穩定與可靠性。</p>
+
+
+
+<p><strong>食品安全與機構衛生</strong></p>
+
+
+
+<p>身為國際知名連鎖飯店、餐飲品牌及食品產業鏈等行業的全面衛生解決方案長期合作夥伴，藝康提供EH-300S智能洗碗機、ServSafe<em><sup>®</sup></em>食品安全認證培訓、以及高效率的有害生物整合防治方案，為現今高度重視食安議題及公眾健康的環境帶來全方位污染控制解方。</p>
+
+
+
+<p><strong>生技製藥與醫療</strong></p>
+
+
+
+<p>針對生技製藥與化妝品產業的交叉污染風險，藝康提出整合式防治方案，涵蓋無塵室環境清潔（Klercide<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />）、空間滅菌（Bioquell<sup>®</sup> 過氧化氫薰蒸），以及專為保健營養品產線設計、可有效去除生物膜的專利 SEEC<sup>®</sup> 確效技術。此一解決方案可確保產品品質，並符合 PIC/S GMP 等國際嚴格標準，全面強化製程衛生管理與環境控制。除此之外，醫療器械與手術設備的消毒需求，藝康亦同步導入 Anios 系列專用產品，為臨床端操作流程提供高效、安全且符合法規的感染控制解決方案，補足污染防治的最後一哩路。</p>
+
+
+
+<p>強而有力的專業背景下，藝康長久以來「讓世界更清潔、更安全、更健康 」的願景更方方面面展現在細微之處，致力改善全球水資源管理、減少碳足跡，在ESG永續經營成為全球企業責無旁貸的共識時，凸顯出藝康長久以來致力保護有限自然資源的價值，更是藝康成為業界翹楚的關鍵。</p>
+
+
+
+<p>展望未來，藝康持續發揮跨界的優勢及專業，穩固台灣於全球供應鏈的關鍵地位，提供全面且具前瞻性的全面方案，為產業升級與環境永續貢獻力量，與指標產業夥伴的合作也將有更突破性的能見度。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e7%b6%93%e6%bf%9f%e9%83%a8%e6%94%9c%e6%89%8b%e8%97%9d%e5%ba%b7%e5%8f%b0%e7%81%a3%e6%8e%a8%e5%8b%95%e6%99%ba%e8%83%bd%e6%b0%b4%e5%8b%99%e3%80%81%e9%a3%9f%e5%ae%89%e9%a0%90%e9%98%b2%e8%88%87%e7%94%9f/">經濟部攜手藝康台灣推動智能水務、食安預防與生技醫療升級　共促永續產業新動能</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WePlay攜手Care Bears™打造萬聖節嘉年華　以暖心魔法點亮秋日派對</title>
+		<link>https://firenews.com.tw/2025/10/27/weplay%e6%94%9c%e6%89%8bcare-bears%e6%89%93%e9%80%a0%e8%90%ac%e8%81%96%e7%af%80%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%80%e4%bb%a5%e6%9a%96%e5%bf%83%e9%ad%94%e6%b3%95%e9%bb%9e%e4%ba%ae%e7%a7%8b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 03:34:19 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272804</guid>
+
+					<description><![CDATA[<p>隨著萬聖節的腳步臨近，社交娛樂平台 WePlay 攜手全球經典IP「Care Bears(TM)（愛心熊）」共 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/weplay%e6%94%9c%e6%89%8bcare-bears%e6%89%93%e9%80%a0%e8%90%ac%e8%81%96%e7%af%80%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%80%e4%bb%a5%e6%9a%96%e5%bf%83%e9%ad%94%e6%b3%95%e9%bb%9e%e4%ba%ae%e7%a7%8b/">WePlay攜手Care Bears™打造萬聖節嘉年華　以暖心魔法點亮秋日派對</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>隨著萬聖節的腳步臨近，社交娛樂平台 WePlay 攜手全球經典IP「Care Bears(TM)（愛心熊）」共同推出「Halloween Carnival Party」萬聖節嘉年華活動，邀請用戶與威仔及毛茸茸的 Care Bears 一起，在虛擬世界中解鎖暖心魔法，開啟一場結合驚喜、友情與節日氛圍的歡樂盛宴。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="853" height="1280" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/WePlay_x_Care_Bears_Halloween_Carnival_Party.jpg?resize=853%2C1280&#038;ssl=1" alt="" class="wp-image-272805" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/WePlay_x_Care_Bears_Halloween_Carnival_Party.jpg?w=853&amp;ssl=1 853w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/WePlay_x_Care_Bears_Halloween_Carnival_Party.jpg?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 853px) 100vw, 853px" data-recalc-dims="1" /><figcaption class="wp-element-caption">WePlay x Care Bears 萬聖節嘉年華派對</figcaption></figure>
+
+
+
+<p><strong>聯動內容搶先看：限定福利與專屬裝扮齊登場</strong></p>
+
+
+
+<p>在 10 月 24 日至 11 月 5 日的聯動活動期間，WePlay 將圍繞「萬聖節嘉年華派對」主題，推出一系列精彩內容，包括：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>驚喜儲值優惠</strong>：活動期間，用戶享受多重儲值福利，暢快體驗遊戲與社交功能；</li>
+
+
+
+<li><strong>聯名虛擬禮物上新</strong>：愛心熊主題虛擬禮物驚喜上線，傳遞溫暖與鼓勵；</li>
+
+
+
+<li><strong>限定主題皮膚</strong>：結合萬聖節搗蛋元素與 Care Bears 可愛風格，推出一系列遊戲內皮膚，讓用戶化身為節日裡最萌的「魔法小夥伴」。</li>
+</ul>
+
+
+
+<p><strong>我們為什麼相聚？一起寫下這個秋天甜蜜的新篇章</strong></p>
+
+
+
+<p>「每個人的心裡都住著一位打敗不開心的魔法師。」</p>
+
+
+
+<p>正如愛心熊自 1980 年代起一直傳遞的信念——牠們肚皮上的「愛心符號」，代表著勇氣、希望與關懷。在 WePlay 打造的虛擬派對中，我們還原了這份溫暖：用戶將和愛心熊一起，挑戰負面情緒，參與互動遊戲，結交志同道合的朋友，在娛樂中找回純粹的快樂。</p>
+
+
+
+<p><strong>關於 WePlay：讓世界因互動更精彩</strong></p>
+
+
+
+<p>作為總部位於新加坡 WeJoy 旗下的旗艦社交娛樂產品，WePlay 致力於融合遊戲與社交，為 18–25 歲的年輕人打造低門檻、強互動的娛樂空間。平台集結《太空狼人殺》、《你畫我猜》、《嗨歌搶唱》等多元遊戲，讓用戶在娛樂中輕鬆結識新朋友。</p>
+
+
+
+<p>目前，WePlay 已在中東、東南亞及台灣地區等市場持續登頂 App Store 與 Google Play 免費榜，成為年輕用戶社交娛樂的首選之一。此次與 Care Bears 的聯動，是繼與「貓貓蟲咖波」、「櫻桃小丸子」合作後的又一重磅 IP 動作，也標誌著 WePlay 在拓展全球 IP 合作、豐富社交生態上的持續深耕。</p>
+
+
+
+<p>未來，WePlay 將繼續拓展與全球知名 IP 的合作，透過品牌文化聯動交流，打造更符合年輕人需求的社交生態，與玩家共同創造一個充滿可能性與創新活力的遊戲社交新時代。 </p>
+
+
+
+<p>Contact：<a href="mailto:qipeinan@wejoysg.com" target="_blank" rel="noreferrer noopener">qipeinan@wejoysg.com</a><br>Website：<a href="https://weplayapp.com/" target="_blank" rel="noreferrer noopener">https://weplayapp.com/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/weplay%e6%94%9c%e6%89%8bcare-bears%e6%89%93%e9%80%a0%e8%90%ac%e8%81%96%e7%af%80%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%80%e4%bb%a5%e6%9a%96%e5%bf%83%e9%ad%94%e6%b3%95%e9%bb%9e%e4%ba%ae%e7%a7%8b/">WePlay攜手Care Bears™打造萬聖節嘉年華　以暖心魔法點亮秋日派對</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>外籍人口創新高 英語法律需求升溫 台大雙語律師葉家瑄打造國際友善法律事務所</title>
+		<link>https://firenews.com.tw/2025/10/27/%e5%a4%96%e7%b1%8d%e4%ba%ba%e5%8f%a3%e5%89%b5%e6%96%b0%e9%ab%98-%e8%8b%b1%e8%aa%9e%e6%b3%95%e5%be%8b%e9%9c%80%e6%b1%82%e5%8d%87%e6%ba%ab-%e5%8f%b0%e5%a4%a7%e9%9b%99%e8%aa%9e%e5%be%8b%e5%b8%ab%e8%91%89/</link>
+		
+		<dc:creator><![CDATA[火報 hy]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 01:24:06 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[即時]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[葉家瑄律師]]></category>
+		<category><![CDATA[雙語律師]]></category>
+		<category><![CDATA[雙語法律服務]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272719</guid>
+
+					<description><![CDATA[<p>生活中心/綜合報導 根據移民事務組最新統計，截至114年8月31日，持有居留證的在台外僑人口數已將近一百萬人， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%a4%96%e7%b1%8d%e4%ba%ba%e5%8f%a3%e5%89%b5%e6%96%b0%e9%ab%98-%e8%8b%b1%e8%aa%9e%e6%b3%95%e5%be%8b%e9%9c%80%e6%b1%82%e5%8d%87%e6%ba%ab-%e5%8f%b0%e5%a4%a7%e9%9b%99%e8%aa%9e%e5%be%8b%e5%b8%ab%e8%91%89/">外籍人口創新高 英語法律需求升溫 台大雙語律師葉家瑄打造國際友善法律事務所</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/綜合報導</p>
+
+
+
+<p>根據移民事務組最新統計，截至114年8月31日，持有居留證的在台外僑人口數已將近一百萬人，創歷年新高。外籍人口逐年攀升，愈來愈多外國人選擇在台灣落地生根、結婚置產或創業投資。然而，當他們遇到法律爭議時，尋找能以英語溝通、理解文化差異的律師，仍是一大挑戰。除少數大型國際事務所外，多數律師事務所仍以中文案件為主，對外籍人士而言，法律協助門檻相對較高。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__2801714_0.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-272720" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__2801714_0.jpg?w=2364&amp;ssl=1 2364w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__2801714_0.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__2801714_0.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__2801714_0.jpg?resize=2048%2C1536&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">主持律師<strong>葉家瑄</strong>以「雙語法律服務」為核心。圖/主持律師<strong>葉家瑄提供</strong></figcaption></figure>
+
+
+
+<p>位於台北市信義區永春捷運站2號出口的葉家瑄律師事務所，是少數以「雙語法律服務」為核心的專業事務所之一。主持律師葉家瑄為台大法律碩士，精通中英文。就讀台大期間，她曾率領台大WTO辯論隊參加歐洲法律學生會（ELSA）主辦的國際英文模擬法庭辯論賽<strong>，</strong>從全球73支隊伍中脫穎而出，晉級世界前八強，展現卓越的國際法律辯論實力。</p>
+
+
+
+<p>隨著法律服務邁向數位化與跨境化，葉家瑄律師事務所持續拓展無國界的專業服務模式。除了在全台提供服務外，也透過線上會議協助客戶，讓海外當事人都能順利諮詢與委任。<br>葉律師分享，近年已有來自美國、澳洲、中東及非洲等多國的客戶，透過遠距方式委任案件，顯示跨境法律需求日益增加。<br>她笑著說：「透過線上會議，有些客戶甚至從頭到尾都沒有開視訊鏡頭，一直到官司勝訴為止，還不知道對方長什麼樣子！」</p>
+
+
+
+<p>葉律師指出，愈來愈多外籍人士選擇在台灣定居與創業。他們需要的不只是翻譯，而是能真正理解文化與制度差異的律師。因此，事務所專注於提供全英語法律諮詢、契約審閱、跨國婚姻與家事爭議、外籍人士居留權益、及國際商業糾紛等服務，讓外籍人士能以英語順暢溝通，獲得專業保障。<strong><br></strong><br>在社群平台Threads上，她經營「台大雙語律師」帳號，擁有1.3萬名粉絲，以「生活化、雙語化」為原則，持續推廣法律知識。許多外籍人士與其配偶，透過這些貼文與短影音，得以更輕鬆地理解台灣法律，也學會用知識保護自己，讓生活變得更有力量。<br><br>葉律師表示：「法律不該只是冷冰冰的條文，而是能保護每一個生活在這片土地上的人。台灣已正式推動2030雙語政策，因此事務所也希望能與時俱進，提供在台外籍人士雙語法律服務，讓台灣的法律服務業持續邁向國際。」</p>
+
+
+
+<p>葉家瑄律師事務所</p>
+
+
+
+<p>官網：<a href="https://lindaattorney.com/">https://lindaattorney.com/</a></p>
+
+
+
+<p>FB專頁：<a href="https://www.facebook.com/p/%E5%8F%B0%E5%A4%A7%E9%9B%99%E8%AA%9E%E5%BE%8B%E5%B8%AB%E8%91%89%E5%AE%B6%E7%91%84Linda-Yeh-Attorney-at-Law-based-in-Taipei-100067062360345/">https://www.facebook.com/p/%E5%8F%B0%E5%A4%A7%E9%9B%99%E8%AA%9E%E5%BE%8B%E5%B8%AB%E8%91%89%E5%AE%B6%E7%91%84Linda-Yeh-Attorney-at-Law-based-in-Taipei-100067062360345/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%a4%96%e7%b1%8d%e4%ba%ba%e5%8f%a3%e5%89%b5%e6%96%b0%e9%ab%98-%e8%8b%b1%e8%aa%9e%e6%b3%95%e5%be%8b%e9%9c%80%e6%b1%82%e5%8d%87%e6%ba%ab-%e5%8f%b0%e5%a4%a7%e9%9b%99%e8%aa%9e%e5%be%8b%e5%b8%ab%e8%91%89/">外籍人口創新高 英語法律需求升溫 台大雙語律師葉家瑄打造國際友善法律事務所</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>臺東東海岸香草魅力綻放 從產地培力到行銷市集打造永續農村</title>
+		<link>https://firenews.com.tw/2025/10/26/%e8%87%ba%e6%9d%b1%e6%9d%b1%e6%b5%b7%e5%b2%b8%e9%a6%99%e8%8d%89%e9%ad%85%e5%8a%9b%e7%b6%bb%e6%94%be-%e5%be%9e%e7%94%a2%e5%9c%b0%e5%9f%b9%e5%8a%9b%e5%88%b0%e8%a1%8c%e9%8a%b7%e5%b8%82%e9%9b%86%e6%89%93/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 26 Oct 2025 08:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[成功鎮農會]]></category>
+		<category><![CDATA[有限責任臺東縣橄欖葉合作農場]]></category>
+		<category><![CDATA[臺東東海岸]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272603</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 從香氣田野到生活日常，台東東海岸的農村正在透過香草產業轉型與創生展現新樣貌。成功鎮農會 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/26/%e8%87%ba%e6%9d%b1%e6%9d%b1%e6%b5%b7%e5%b2%b8%e9%a6%99%e8%8d%89%e9%ad%85%e5%8a%9b%e7%b6%bb%e6%94%be-%e5%be%9e%e7%94%a2%e5%9c%b0%e5%9f%b9%e5%8a%9b%e5%88%b0%e8%a1%8c%e9%8a%b7%e5%b8%82%e9%9b%86%e6%89%93/">臺東東海岸香草魅力綻放 從產地培力到行銷市集打造永續農村</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<p>從香氣田野到生活日常，台東東海岸的農村正在透過香草產業轉型與創生展現新樣貌。成功鎮農會及臺東縣橄欖葉合作農場分別辦理與香草主題相關的活動，儘管一側聚焦於生產端的培力訓練，一側主打體驗與行銷，但兩者皆以香草為媒介，從社區出發，強化產業價值與地方文化連結，開創農村多元發展的永續篇章。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>成功鎮信義社區 打造香草培力基地</strong></h2>
+
+
+
+<p>在成功鎮信義社區，香草植物種植已逐步成為社區的重要特色，除可美化環境、驅蟲防蚊外，亦廣泛應用於民宿餐飲、精油清潔與居家產品製作。為深化產業鏈並強化應用效益，成功鎮農會透過農村水保署臺東分署之區域亮點計畫辦理「仙台草香迷淬」生產管理提升培力計畫，透過5場次專業課程與1場推廣運用工作坊，培育社區居民、青農與業者掌握香草栽培與加工技術，進一步規劃食農教育活動及香草體驗內容，活化農村經濟與遊憩價值。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="457" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/01.png?resize=1220%2C457&#038;ssl=1" alt="" class="wp-image-272605" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/01.png?w=1705&amp;ssl=1 1705w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/01.png?resize=768%2C288&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/01.png?resize=1536%2C576&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">成功鎮農會10月15日於成功鎮農會超市前廣場辦理「仙台草香迷淬 香草植物推廣運用工作坊」，帶領民眾製作香草捶打棒、香草純露及體驗香草點心，為農村社區創造亮點並推動香草產業。/圖片來源：成功鎮農會</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>都蘭香草市集 打開香氣觀光之門</strong></h2>
+
+
+
+<p>而在東河鄉尚德社區，橄欖葉合作農場推動結合里山精神，由傳統農產與農耕方式轉型為自然農法的香草栽培，更推動香草精油的六及產業，不僅增加當地就業機會，也為香草產業創新價值。本年度將香草產業串聯到都蘭社區，透過24日至25日辦理的「浪草派對」香草市集，呈現調香DIY、音樂表演、精油療癒體驗、草地野餐及無敵海景，打造兩天限定的沉浸式活動。 </p>
+
+
+
+<p>活動邀集香草職人、特色選品、ESG理念企業參與，展現臺東香草從農田到生活的多元面貌。活動當天也結合原住民文化與在地產業，強調在地共創與產業鏈延伸，共帶動超過500位民眾共襄盛舉，提升香草產業的可見度與市場潛力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="441" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/02.png?resize=1220%2C441&#038;ssl=1" alt="" class="wp-image-272604" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/02.png?w=1976&amp;ssl=1 1976w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/02.png?resize=768%2C278&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/02.png?resize=1536%2C556&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">臺東縣橄欖葉合作農場10月24日至25日於東河鄉都蘭社區辦理「浪草派對」，除了結合香草、精油活動，草皮上的音樂饗宴及海岸晚霞也充滿氛圍感，邀民眾一起感受東部海岸的魅力。/圖片來源：有限責任臺東縣橄欖葉合作農場</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>串連山海香氣，打造永續香草經濟</strong> </h2>
+
+
+
+<p>臺東農村經營主體持續深化在地文化與產業的連結，透過產業培力、品牌行銷與市集活動等多元策略，打造東海岸香草產業鏈的生活風格樣貌。無論是山林中的草生香氣，或是海岸邊的香氛市集，這些從土地長出的味道與故事，正串起地方生計與文化永續的可能性，也開啟農村生活與觀光體驗的新篇章。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/26/%e8%87%ba%e6%9d%b1%e6%9d%b1%e6%b5%b7%e5%b2%b8%e9%a6%99%e8%8d%89%e9%ad%85%e5%8a%9b%e7%b6%bb%e6%94%be-%e5%be%9e%e7%94%a2%e5%9c%b0%e5%9f%b9%e5%8a%9b%e5%88%b0%e8%a1%8c%e9%8a%b7%e5%b8%82%e9%9b%86%e6%89%93/">臺東東海岸香草魅力綻放 從產地培力到行銷市集打造永續農村</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>「潮五感・地創Check it out」體驗基隆創生生活學、迎接城市新篇章</title>
+		<link>https://firenews.com.tw/2025/10/25/%e3%80%8c%e6%bd%ae%e4%ba%94%e6%84%9f%e3%83%bb%e5%9c%b0%e5%89%b5check-it-out%e3%80%8d%e9%ab%94%e9%a9%97%e5%9f%ba%e9%9a%86%e5%89%b5%e7%94%9f%e7%94%9f%e6%b4%bb%e5%ad%b8%e3%80%81%e8%bf%8e%e6%8e%a5/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2025 08:09:30 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[地創Check it out]]></category>
+		<category><![CDATA[基隆]]></category>
+		<category><![CDATA[基隆市政府]]></category>
+		<category><![CDATA[基隆市政府產業發展處]]></category>
+		<category><![CDATA[潮五感]]></category>
+		<category><![CDATA[萬聖節]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272293</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 基隆市政府於10月25日至26日，在基隆市城際轉運站大頂棚舉辦114年度基隆地方創生「 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/25/%e3%80%8c%e6%bd%ae%e4%ba%94%e6%84%9f%e3%83%bb%e5%9c%b0%e5%89%b5check-it-out%e3%80%8d%e9%ab%94%e9%a9%97%e5%9f%ba%e9%9a%86%e5%89%b5%e7%94%9f%e7%94%9f%e6%b4%bb%e5%ad%b8%e3%80%81%e8%bf%8e%e6%8e%a5/">「潮五感・地創Check it out」體驗基隆創生生活學、迎接城市新篇章</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>基隆市政府於10月25日至26日，在基隆市城際轉運站大頂棚舉辦114年度基隆地方創生「潮五感・地創Check it out」成果活動。</strong></p>
+</blockquote>
+
+
+
+<p>今年成果展再度結合萬聖節遊行，以創意互動帶領民眾走進港都街區，體驗基隆的人文底蘊與海港魅力，展現地方創生的多元成果與城市活力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-272294" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6038-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>本次成果展首次突破以往形式，由11組地方創生團隊共同策展，透過三大主題展區「Holy 媽組」、「港町四韻」及「趣街仔·港都放送棧」，以飲食文化、港都歷史與青年創意為主軸，從市場、街區到港灣，展現基隆豐富的在地故事與創新能量，讓地方創生成為連結人、土地與生活的新行動。</p>
+
+
+
+<p>在「Holy 媽組」主題中，媽媽樂工作室以惠隆市場為基地，串聯和平島、崁仔頂與義重町，推出「街道餐酒館：一杯四百年」企劃，展現港都飲食文化的歷史風味；邀賀良善有限公司與基隆市原住民族生活互助協會推動跨域綠色飲食，串接農漁村與原民部落物產，推廣綠色消費與永續飲食；多卡思文化有限公司則以職人帶路方式，結合文資、美食與藝術，開發兼具體驗與故事性的文化旅遊。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-272296" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC03777-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖/基隆市政府產業發展處</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-272299" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?resize=390%2C220&amp;ssl=1 390w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/DSC04053-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖/基隆市政府產業發展處</figcaption></figure>
+
+
+
+<p>「港町四韻」主題聚焦港都歷史與山城再生，阿莎力企業社復刻鈴蘭燈與朝日堂羊羹，重現義重町銀座風華；基隆市三漁發展協進會以八斗子為核心，建立漁業產銷直售鏈並推廣食魚教育，連結在地居民、幼兒園與移工；飛海手作工作室攜手瑪西社區與地方農友，以老竹及礦業再生推動農村循環創生；語雨文化工作室則設立移動資訊站，製作中、英、日版本地圖，向郵輪旅客推薦可步行造訪的港町景點與團隊。 </p>
+
+
+
+<p>在「趣街仔·港都放送棧」主題中，椏楓實業有限公司整合地方團隊與原民部落，設計從海上看見基隆的實境解謎遊戲，結合原住民綠色飲食體驗；有料商行以廟口街區為創作基地，舉辦親子染衣、影像及音樂藝術體驗，注入青年創意與文化活力；魚樂天地有限公司則與德育護理健康學院合作，建立「微型加工」商業模式，將在地食材轉化為特色伴手禮，拓展地產地銷合作網絡，讓港都風味成為創生亮點。</p>
+
+
+
+<p>基隆市長謝國樑致詞時表示，基隆是一座擁有深厚歷史與文化底蘊的海港城市，市府近年持續推動都市再生、青年創業與文化觀光，讓更多人看見基隆的城市魅力。地方創生不僅是成果的展現，更是公私協力、社群共創的過程，讓城市發展與地方特色能夠共榮共生。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6037.jpg?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-272295" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6037.jpg?w=1349&amp;ssl=1 1349w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6037.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6037.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖/基隆市政府產業發展處</figcaption></figure>
+
+
+
+<p>謝市長並指出，上週市府已於南投縣完成「地方創生年會」交接儀式，明年基隆市將擔任第七屆地方創生年會輪值城市，同時迎來「基隆400」的重要里程碑。這將是城市發展的關鍵契機，市府將持續串聯在地與外部資源，深化創生行動的廣度與深度，從歷史出發、邁向未來，讓地方創生成為推動城市永續的重要力量。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="958" height="537" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6033.jpg?resize=958%2C537&#038;ssl=1" alt="" class="wp-image-272304" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6033.jpg?w=958&amp;ssl=1 958w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6033.jpg?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6033.jpg?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 958px) 100vw, 958px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖/基隆市政府產業發展處</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6036.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-272303" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6036.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/IMG_6036.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖/基隆市政府產業發展處</figcaption></figure>
+
+
+
+<p>補充，今年成果展以「潮五感」為主題，透過飲食、產業、文化與創意展演，展現基隆多元的創生活力與城市韌性。市府將持續推動跨域合作，讓創生行動深入社區日常，帶動更多民眾參與，共同形塑基隆獨特的山海文化魅力與永續生活樣貌。 </p>
+
+
+
+<p>歡迎市民朋友於活動期間到現場共襄盛舉，親身感受基隆地方創生的多元能量。更多活動詳情請搜尋「潮嚮．山海基隆」臉書粉絲專頁（<a href="https://www.facebook.com/ilovekeelung/" target="_blank" rel="noreferrer noopener">https://www.facebook.com/ilovekeelung/</a>），掌握最新活動資訊。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/25/%e3%80%8c%e6%bd%ae%e4%ba%94%e6%84%9f%e3%83%bb%e5%9c%b0%e5%89%b5check-it-out%e3%80%8d%e9%ab%94%e9%a9%97%e5%9f%ba%e9%9a%86%e5%89%b5%e7%94%9f%e7%94%9f%e6%b4%bb%e5%ad%b8%e3%80%81%e8%bf%8e%e6%8e%a5/">「潮五感・地創Check it out」體驗基隆創生生活學、迎接城市新篇章</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>富士軟片商業創新公司慶祝在菲律賓60週年 　以創新與永續共創企業轉型新未來</title>
+		<link>https://firenews.com.tw/2025/10/25/%e5%af%8c%e5%a3%ab%e8%bb%9f%e7%89%87%e5%95%86%e6%a5%ad%e5%89%b5%e6%96%b0%e5%85%ac%e5%8f%b8%e6%85%b6%e7%a5%9d%e5%9c%a8%e8%8f%b2%e5%be%8b%e8%b3%9360%e9%80%b1%e5%b9%b4-%e3%80%80%e4%bb%a5%e5%89%b5/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2025 08:08:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=272006</guid>
+
+					<description><![CDATA[<p>富士軟片商業創新菲律賓公司（FUJIFILM Business Innovation Philippines  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/25/%e5%af%8c%e5%a3%ab%e8%bb%9f%e7%89%87%e5%95%86%e6%a5%ad%e5%89%b5%e6%96%b0%e5%85%ac%e5%8f%b8%e6%85%b6%e7%a5%9d%e5%9c%a8%e8%8f%b2%e5%be%8b%e8%b3%9360%e9%80%b1%e5%b9%b4-%e3%80%80%e4%bb%a5%e5%89%b5/">富士軟片商業創新公司慶祝在菲律賓60週年 　以創新與永續共創企業轉型新未來</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>富士軟片商業創新菲律賓公司（FUJIFILM Business Innovation Philippines Corp.）於10月15日慶祝成立60週年，彰顯其六十年來持續為菲律賓企業提供先進文件和數位轉型解決方案。自1965年成立以來，公司透過包含富士軟片商業創新菲律賓公司等亞太區各分公司，為當地社群發展做出貢獻，更承諾未來數年將持續擴大這些努力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-272007" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image_1-1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">總裁Hama回顧富士軟片商業創新公司60年發展里程碑 (PRNewsfoto/FUJIFILM Business Innovation)</figcaption></figure>
+
+
+
+<p>長期以來，富士軟片商業創新公司透過包含富士軟片商業創新菲律賓公司等亞太區各分公司，為當地社群發展做出貢獻，更承諾未來數年將持續擴大這些努力。</p>
+
+
+
+<p>富士軟片商業創新菲律賓公司自1965年成立以來致力推動該國辦公技術，從提供可靠多功能事務機的供應商，不斷演變成為提供業務流程優化、印刷代管服務和數位轉型的合作夥伴。</p>
+
+
+
+<p>本次週年慶以「創新與影響」(Innovation and Impact) 為主題，彰顯公司持續不斷進步、追求客戶信任和在變化技術環境中的堅韌適應力。</p>
+
+
+
+<p>富士軟片商業創新菲律賓公司新任董事長暨總經理Kengo Ishii在慶賀活動中誠摯感謝一路以來協助公司發展的員工、合作夥伴和客戶，更表示：「值此60週年之際，讓我們攜手共進、邁向下一個40年，期待富士軟片商業創新公司迎向百年。」</p>
+
+
+
+<p>此次盛會嘉賓雲集，包括富士軟片商業創新公司總裁Naoki Hama、菲律賓經濟區管理局局長Tereso Panga，以及達義市市長Lanie Cayetano。</p>
+
+
+
+<p>富士軟片商業創新公司總裁Hama在致詞中表示：「值此重要週年活動之際，我們也肩負新使命、展望未來，而我們的行動將繼續圍繞企業宗旨—『為世界帶來更多微笑 (Giving our world more smiles)』。富士軟片商業創新公司也承諾，將開發永續的產品、解決方案和服務，在菲律賓及全球賦能企業、豐富生活、培養長期夥伴關係。」</p>
+
+
+
+<p>此次活動還邀集長期夥伴、經銷商和員工，紀念公司的合作與成功。該活動重申富士軟片對「永續未來」的承諾，其與2025會計年度中推動負責任創新和環境保護的願景相契合。</p>
+
+
+
+<p>展望未來，富士軟片商業創新菲律賓公司將堅定不移實踐「為世界帶來更多微笑」的承諾。</p>
+
+
+
+<p><strong>關於富士膠片商業創新公司</strong></p>
+
+
+
+<p>富士軟片商業創新公司是一家全球領先企業，致力於持續為全球客戶業務帶來創新，通過數位轉型有效利用訊息和知識，打造創新且高效的工作場所。自1962年成立以來，公司開創眾多技術，累積專業知識，構建了一個鼓勵個人發揮創造力、最大化組織優勢的環境。公司的業務組合包括世界一流的工作流程解決方案、IT服務以及數位多功能事務機(MFP)等設備的研發、製造和銷售。公司還提供業務流程外包(BPO)服務，以及企業資源規劃(ERP)系統的行銷和部署支援。</p>
+
+
+
+<p>2021年4月1日，公司更名為富士軟片商業創新公司。這不僅僅是一次名稱變更，更體現了其作為一家始終追求業務創新的公司的承諾。富士軟片商業創新亞太公司是富士軟片商業創新公司的區域總部，為亞太地區提供企業支援和共享服務。<a href="https://fujifilm.com/fbglobal" target="_blank" rel="noreferrer noopener">https://fujifilm.com/fbglobal</a></p>
+
+
+
+<p><strong>關於富士軟片商業創新菲律賓公司</strong></p>
+
+
+
+<p>富士軟片商業創新菲律賓公司（簡稱「FUJIFILM BI PH」）是優質文件服務和通信領域的領先提供商及值得信賴的合作夥伴，使個人和企業能夠在所有平台上無縫共享知識。FUJIFILM BI PH成立於1965年，擁有約200名員工，其中包括一支支援文件管理技術、IT解決方案和客戶通信服務的業界領先專業團隊。FUJIFILM BI PH提供全面的產品和解決方案生態系統，幫助企業提高生產力和效率，包括世界一流的辦公多功能設備、雲端和行動解決方案、多渠道行銷解決方案以及業務流程管理解決方案。 富士軟片商業創新菲律賓公司是富士軟片商業創新亞太公司(FUJIFILM BI Asia Pacific )旗下的一家全資子公司，隸屬於日本的富士軟片商業創新公司。欲瞭解更多關於FUJIFILM BI PH在創新、客戶服務和可持續發展方面的承諾，請造訪<a href="https://www.fujifilm.com/fbph/en" target="_blank" rel="noreferrer noopener">https://www.fujifilm.com/fbph/en</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/25/%e5%af%8c%e5%a3%ab%e8%bb%9f%e7%89%87%e5%95%86%e6%a5%ad%e5%89%b5%e6%96%b0%e5%85%ac%e5%8f%b8%e6%85%b6%e7%a5%9d%e5%9c%a8%e8%8f%b2%e5%be%8b%e8%b3%9360%e9%80%b1%e5%b9%b4-%e3%80%80%e4%bb%a5%e5%89%b5/">富士軟片商業創新公司慶祝在菲律賓60週年 　以創新與永續共創企業轉型新未來</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>桃園市桃園區114年長青敬老楷模表揚大會</title>
+		<link>https://firenews.com.tw/2025/10/23/%e6%a1%83%e5%9c%92%e5%b8%82%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e9%95%b7%e9%9d%92%e6%95%ac%e8%80%81%e6%a5%b7%e6%a8%a1%e8%a1%a8%e6%8f%9a%e5%a4%a7%e6%9c%83/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 06:05:29 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=271446</guid>
+
+					<description><![CDATA[<p>生活中心/桃園報導 桃園區公所於114年10月23日(四)上午辦理「桃園區114年長青敬老楷模表揚大會-樂齡重 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/23/%e6%a1%83%e5%9c%92%e5%b8%82%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e9%95%b7%e9%9d%92%e6%95%ac%e8%80%81%e6%a5%b7%e6%a8%a1%e8%a1%a8%e6%8f%9a%e5%a4%a7%e6%9c%83/">桃園市桃園區114年長青敬老楷模表揚大會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>生活中心/桃園報導</p>
+
+
+
+<p>桃園區公所於114年10月23日(四)上午辦理「桃園區114年長青敬老楷模表揚大會-樂齡重陽・樂活桃園」活動，由桃園市政府副秘書長賴淑華代表市長張善政透過表揚活動向現場的長青楷模及敬老楷模表達感謝，並預祝每一位受獎者身心康泰添福氣，富貴安和享安康！</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754514_0.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-271458" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754514_0.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754514_0.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754514_0.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年長青敬老楷模表揚大會。圖/桃園區公所提供</figcaption></figure>
+
+
+
+<p>賴副秘書長表示，每一位受獎楷模背後都有一段感人的故事，為家庭及社會盡心奉獻。桃園市政府在萬美玲委員及所有議員的支持下，極力推廣長照據點，希望讓長輩們可以走出家裡，走入社區，參與社區據點的課程，實踐活到老學到老的精神。桃園區本屆長青楷模及敬老楷模總計169位接受表揚，由桃園區各里辦公處及社會團體遴選推薦出來之人選。本屆最年長的長青楷模為99歲的鄭蕭富美女士，一生全心全意奉獻家庭，雖歷經喪夫與二子離世的人生考驗，仍以樂觀積極的態度堅毅面對。如今與家人三代同堂，生活幸福美滿，深獲鄰里讚譽，堪為楷模典範。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="811" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754515_0.jpg?resize=1220%2C811&#038;ssl=1" alt="" class="wp-image-271459" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754515_0.jpg?w=1568&amp;ssl=1 1568w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754515_0.jpg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754515_0.jpg?resize=1536%2C1021&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年長青敬老楷模表揚大會。圖/桃園區公所提供</figcaption></figure>
+
+
+
+<p>另外，本屆獲表揚的敬老楷模之中，有人以無私孝行長年守護家中長輩，有人熱心公益深耕社區服務，也有人以專業傳承文化、豐富長者生活。例如來自桃園市希望之光關懷協進會的朱世丞先生，在任職陽明社區發展協會理事長期間，致力推動關懷據點各項延緩失能、銀髮藝術及多元課程，至今亦擔任社區照顧關懷據點服務志工，同時也協助爭取更多資源，在敬老的行列盡份心力。正如在場眾多楷模一樣，無論在家庭與社區，都以實際行動展現敬老愛老的精神，是我們敬佩的榜樣。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754516_0.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-271460" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754516_0.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754516_0.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754516_0.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年長青敬老楷模表揚大會。圖/桃園區公所提供</figcaption></figure>
+
+
+
+<p>桃園市政府積極推動各項公共建設及相關福利政策，包括成立「社區照顧關懷據點培力中心」，協助據點資源盤點及發展在地特色，並強化據點服務單位及機關間之跨網絡資源連結；及調增三節及重陽敬老禮金，讓長者感受到社會的關懷與溫暖。感謝今日接受表揚的楷模，以自身經歷為桃園做出貢獻，並持續為桃園的長輩們盡心服務。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754513_0-1.jpg?resize=1220%2C814&#038;ssl=1" alt="" class="wp-image-271461" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754513_0-1.jpg?w=1567&amp;ssl=1 1567w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754513_0-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__27754513_0-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">桃園市桃園區114年長青敬老楷模表揚大會。圖/桃園區公所提供</figcaption></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/23/%e6%a1%83%e5%9c%92%e5%b8%82%e6%a1%83%e5%9c%92%e5%8d%80114%e5%b9%b4%e9%95%b7%e9%9d%92%e6%95%ac%e8%80%81%e6%a5%b7%e6%a8%a1%e8%a1%a8%e6%8f%9a%e5%a4%a7%e6%9c%83/">桃園市桃園區114年長青敬老楷模表揚大會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
