@@ -1,120 +1,582 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Thu, 30 Oct 2025 05:20:46 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>想要與貓咪變得更親近嗎？了解這些「生氣表現」幫助你不踩雷！ </title>
+		<link>https://firenews.com.tw/2025/10/30/%e6%83%b3%e8%a6%81%e8%88%87%e8%b2%93%e5%92%aa%e8%ae%8a%e5%be%97%e6%9b%b4%e8%a6%aa%e8%bf%91%e5%97%8e%ef%bc%9f%e4%ba%86%e8%a7%a3%e9%80%99%e4%ba%9b%e3%80%8c%e7%94%9f%e6%b0%a3%e8%a1%a8%e7%8f%be%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 05:20:41 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[生氣]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[跡象]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274436</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 貓咪雖然平常看起來溫柔可愛、慵懶又乖巧，但千萬別被牠們那副無辜的臉給騙了！當貓 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e6%83%b3%e8%a6%81%e8%88%87%e8%b2%93%e5%92%aa%e8%ae%8a%e5%be%97%e6%9b%b4%e8%a6%aa%e8%bf%91%e5%97%8e%ef%bc%9f%e4%ba%86%e8%a7%a3%e9%80%99%e4%ba%9b%e3%80%8c%e7%94%9f%e6%b0%a3%e8%a1%a8%e7%8f%be%e3%80%8d/">想要與貓咪變得更親近嗎？了解這些「生氣表現」幫助你不踩雷！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<p>貓咪雖然平常看起來溫柔可愛、慵懶又乖巧，但千萬別被牠們那副無辜的臉給騙了！當貓咪真的「生氣」時，可是會用各種方式來明確表達不滿，因此飼主們必須了解牠們的情緒信號，這樣不但能避免誤觸雷區，也能幫助你更懂牠們的心，以下為大家整理出貓咪生氣時的「五大跡象與表現」一起來看看吧！&nbsp;</p>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p>1.尾巴劇烈甩動&nbsp;<br>貓咪尾巴就像情緒的溫度計，當牠們感到開心時，尾巴會豎直微彎，但若尾巴開始左右猛甩、尾尖抽動，就表示牠們已經有點煩躁了，如果此時你還持續逗弄貓咪，可能下一秒就會被貓掌伺候，所以學會觀察尾巴動作，是能判斷貓咪情緒最直接的方式之一。&nbsp;</p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>2.耳朵向後貼平&nbsp;<br>當貓咪感到威脅或不滿時，耳朵會整個往後貼平，甚至緊貼頭部，這代表牠們在告訴你：「別再靠近我！」，這時候飼主們千萬別硬碰硬或者試圖安撫牠們，最好的方法就是保持距離，等貓咪自己冷靜下來再接近。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="1220" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?resize=1220%2C1220&#038;ssl=1" alt="" class="wp-image-274444" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/phan-th-thu-trang-bKf-eNK97Ns-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">當貓咪的耳朵向後貼平，眼睛變得銳利時，建議最好別在靠近牠們了<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>3.眼神變銳利&nbsp;<br>貓咪的眼神會隨著情緒改變，當牠們興奮或生氣時，瞳孔會瞬間放大、眼神變得銳利且緊盯著你，這並不是可愛的凝視，而是一種「觀察對手」的警戒狀態，若此時牠們還搭配低沉的喉嚨聲或尾巴抖動，就代表貓咪正在壓抑怒氣，請飼主立刻停止一切挑釁行為。&nbsp;</p>
+
+
+
+<p>4.發出哈氣聲&nbsp;<br>當貓咪開始發出低吼、哈氣聲，甚至伸出爪子拍打物品，那就不只是小小的不悅，而是明確的「警告行動」，牠們可能覺得自己被侵犯、被逼迫，或是某個環境讓牠感到不安，這時應該立即給予貓咪們空間，不要試圖抱起或強行安撫，否則容易被抓或被咬。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e6%83%b3%e8%a6%81%e8%88%87%e8%b2%93%e5%92%aa%e8%ae%8a%e5%be%97%e6%9b%b4%e8%a6%aa%e8%bf%91%e5%97%8e%ef%bc%9f%e4%ba%86%e8%a7%a3%e9%80%99%e4%ba%9b%e3%80%8c%e7%94%9f%e6%b0%a3%e8%a1%a8%e7%8f%be%e3%80%8d/">想要與貓咪變得更親近嗎？了解這些「生氣表現」幫助你不踩雷！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>定時幫狗狗清潔口腔很重要！學習這「五種技巧」守護毛孩健康 </title>
+		<link>https://firenews.com.tw/2025/10/30/%e5%ae%9a%e6%99%82%e5%b9%ab%e7%8b%97%e7%8b%97%e6%b8%85%e6%bd%94%e5%8f%a3%e8%85%94%e5%be%88%e9%87%8d%e8%a6%81%ef%bc%81%e5%ad%b8%e7%bf%92%e9%80%99%e3%80%8c%e4%ba%94%e7%a8%ae%e6%8a%80%e5%b7%a7%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 05:20:40 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[口腔]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[清潔]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274435</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 許多飼主都知道要定期幫狗狗洗澡、修毛、剪指甲，但卻常常忽略一個關鍵的健康細節「 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e5%ae%9a%e6%99%82%e5%b9%ab%e7%8b%97%e7%8b%97%e6%b8%85%e6%bd%94%e5%8f%a3%e8%85%94%e5%be%88%e9%87%8d%e8%a6%81%ef%bc%81%e5%ad%b8%e7%bf%92%e9%80%99%e3%80%8c%e4%ba%94%e7%a8%ae%e6%8a%80%e5%b7%a7%e3%80%8d/">定時幫狗狗清潔口腔很重要！學習這「五種技巧」守護毛孩健康 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>許多飼主都知道要定期幫狗狗洗澡、修毛、剪指甲，但卻常常忽略一個關鍵的健康細節「口腔清潔」，事實上，狗狗的牙齒與口腔健康，會直接影響牠們的食慾和氣味，如果平時沒有好好維護，牙結石、牙周病與口臭等問題可能就會悄悄上門，以下為大家整理出狗狗口腔清潔的「五個重點與技巧」，讓我們一起幫毛孩從口開始守護健康吧！&nbsp;</p>
+
+
+
+<p>1.定期刷牙&nbsp;</p>
+
+
+
+<p>狗狗就像人一樣也需要定期刷牙，建議飼主們至少每週為牠們刷牙2至3次，最好能做到每天一次，刷牙的方式也很簡單，使用寵物專用的牙刷與狗狗專用牙膏，輕柔地清潔牙齒表面與牙齦邊緣，剛開始狗狗可能不太習慣，建議可以先從短時間、少量開始，逐步培養牠們的接受度。&nbsp;</p>
+
+
+
+<p>2.潔牙零食輔助&nbsp;</p>
+
+
+
+<p>若狗狗實在抗拒刷牙，也可以搭配潔牙骨、潔牙餅或咬咬玩具用來輔助，這些產品的咀嚼摩擦能幫助牠們減少牙菌斑堆積，同時也能滿足狗狗「愛咬東西」的天性，不過要特別注意選擇硬度適中的產品，避免太硬導致牙齒斷裂。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1525" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/dogfluence-com-Njbx7imB640-unsplash-scaled.jpg?resize=1220%2C1525&#038;ssl=1" alt="" class="wp-image-274446" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/dogfluence-com-Njbx7imB640-unsplash-scaled.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/dogfluence-com-Njbx7imB640-unsplash-scaled.jpg?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/dogfluence-com-Njbx7imB640-unsplash-scaled.jpg?resize=1229%2C1536&amp;ssl=1 1229w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/dogfluence-com-Njbx7imB640-unsplash-scaled.jpg?resize=1638%2C2048&amp;ssl=1 1638w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">除了幫狗狗定期刷牙以外，也能透過潔牙骨等輔助零食幫助牠們清除牙菌斑<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>3.定期檢查牙齒&nbsp;<br>飼主在與狗狗日常的互動中，可以順便檢查牠們的牙齦是否紅腫、牙齒是否有變色、口氣是否異常，如果發現狗狗出現口臭嚴重、流口水、拒絕進食等情況，就很有可能是因牙周病或口腔感染帶來的問題，應盡快帶去獸醫院檢查。&nbsp;</p>
+
+
+
+<p>4.均衡飲食&nbsp;</p>
+
+
+
+<p>除了定期清潔以外，狗狗的日常飲食也會影響口腔狀況，建議飼主可以適當搭配乾糧與濕食，能有效幫助牙齒磨擦清潔，避免牙垢堆積，另外，需盡量少給狗狗吃甜食或人類食物，因為糖分會讓牠們口腔中的細菌大量繁殖，導致增加蛀牙與口臭風險。&nbsp;</p>
+
+
+
+<p>5.安排洗牙&nbsp;<br>即使在家清潔得再勤勞，仍建議飼主每年讓狗狗到獸醫院進行專業的洗牙手術，獸醫會在麻醉下徹底清除狗狗口腔內的牙結石與牙菌斑，並檢查牙齦與牙根狀況，以避免疾病惡化，定期的專業保養，能大幅降低牙周病與掉牙的風險。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e5%ae%9a%e6%99%82%e5%b9%ab%e7%8b%97%e7%8b%97%e6%b8%85%e6%bd%94%e5%8f%a3%e8%85%94%e5%be%88%e9%87%8d%e8%a6%81%ef%bc%81%e5%ad%b8%e7%bf%92%e9%80%99%e3%80%8c%e4%ba%94%e7%a8%ae%e6%8a%80%e5%b7%a7%e3%80%8d/">定時幫狗狗清潔口腔很重要！學習這「五種技巧」守護毛孩健康 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>每當看見食物就「瞪大雙眼」？貪吃小柴犬超萌模樣融化網友們的心！ </title>
+		<link>https://firenews.com.tw/2025/10/30/%e6%af%8f%e7%95%b6%e7%9c%8b%e8%a6%8b%e9%a3%9f%e7%89%a9%e5%b0%b1%e3%80%8c%e7%9e%aa%e5%a4%a7%e9%9b%99%e7%9c%bc%e3%80%8d%ef%bc%9f%e8%b2%aa%e5%90%83%e5%b0%8f%e6%9f%b4%e7%8a%ac%e8%b6%85%e8%90%8c%e6%a8%a1/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 05:20:38 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[柴犬]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[貪吃]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274434</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 你有看過這麼愛食物的狗狗嗎？美國紐約一隻名叫「Gen」的柯基犬，近日因一連串逗 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e6%af%8f%e7%95%b6%e7%9c%8b%e8%a6%8b%e9%a3%9f%e7%89%a9%e5%b0%b1%e3%80%8c%e7%9e%aa%e5%a4%a7%e9%9b%99%e7%9c%bc%e3%80%8d%ef%bc%9f%e8%b2%aa%e5%90%83%e5%b0%8f%e6%9f%b4%e7%8a%ac%e8%b6%85%e8%90%8c%e6%a8%a1/">每當看見食物就「瞪大雙眼」？貪吃小柴犬超萌模樣融化網友們的心！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>你有看過這麼愛食物的狗狗嗎？美國紐約一隻名叫「Gen」的柯基犬，近日因一連串逗趣的表情走紅網路，牠那雙圓滾滾的眼睛，與每當看見食物就表現出誇張的神情，讓不少網友笑稱「根本是天生的演員」。&nbsp;</p>
+
+
+
+<p>「Gen」的飼主平時就很喜歡拍攝愛犬的日常生活，並將許多有趣的互動分享至網路上，吸引了不少粉絲關注，而這隻天生性格活潑的小狗，卻有著一個特別的嗜好，那就是牠對食物極度敏感，每當主人拿出零食時，「Gen」就會立刻做出一連串誇張反應。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/gabriel-yuji-aAdlMg737Ms-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-274448" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/gabriel-yuji-aAdlMg737Ms-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/gabriel-yuji-aAdlMg737Ms-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/gabriel-yuji-aAdlMg737Ms-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/gabriel-yuji-aAdlMg737Ms-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「Gen」會在飯桌旁默默盯著人看，用自己最無辜的神情暗示對方「我也想吃！」<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>牠的誇張表情有非常多種，像是睜大眼睛、皺鼻子、歪頭等等，此外「Gen」也不僅僅只是愛吃，還特別擅長用表情「博取關注」，牠會在飯桌旁默默盯著人看，用自己最無辜的神情暗示對方「我也想吃！」，仿佛在上演一場即興喜劇。&nbsp;</p>
+
+
+
+<p>這些有趣的瞬間被主人分享至網路上後，引起網友們熱烈討論，不少人紛紛留言表示「這隻柯基太會演了」、「根本可以cos吉娃娃」、「很適合演卡通」、「看牠的臉就知道下一秒要幹嘛」、「狗界迷因表情包後繼有人」、「都快差點認不出品種」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e6%af%8f%e7%95%b6%e7%9c%8b%e8%a6%8b%e9%a3%9f%e7%89%a9%e5%b0%b1%e3%80%8c%e7%9e%aa%e5%a4%a7%e9%9b%99%e7%9c%bc%e3%80%8d%ef%bc%9f%e8%b2%aa%e5%90%83%e5%b0%8f%e6%9f%b4%e7%8a%ac%e8%b6%85%e8%90%8c%e6%a8%a1/">每當看見食物就「瞪大雙眼」？貪吃小柴犬超萌模樣融化網友們的心！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>就是不肯認錯！貓咪搗蛋被抓包卻「理直氣壯」讓主人超無奈 </title>
+		<link>https://firenews.com.tw/2025/10/30/%e5%b0%b1%e6%98%af%e4%b8%8d%e8%82%af%e8%aa%8d%e9%8c%af%ef%bc%81%e8%b2%93%e5%92%aa%e6%90%97%e8%9b%8b%e8%a2%ab%e6%8a%93%e5%8c%85%e5%8d%bb%e3%80%8c%e7%90%86%e7%9b%b4%e6%b0%a3%e5%a3%af%e3%80%8d%e8%ae%93/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 05:20:37 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[無毛貓]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274433</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 會認錯的貓咪並不存在？日本一名飼主在網路上分享自家貓咪「犯罪」後的反應引發熱議 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e5%b0%b1%e6%98%af%e4%b8%8d%e8%82%af%e8%aa%8d%e9%8c%af%ef%bc%81%e8%b2%93%e5%92%aa%e6%90%97%e8%9b%8b%e8%a2%ab%e6%8a%93%e5%8c%85%e5%8d%bb%e3%80%8c%e7%90%86%e7%9b%b4%e6%b0%a3%e5%a3%af%e3%80%8d%e8%ae%93/">就是不肯認錯！貓咪搗蛋被抓包卻「理直氣壯」讓主人超無奈 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>會認錯的貓咪並不存在？日本一名飼主在網路上分享自家貓咪「犯罪」後的反應引發熱議，雖然案情看似明朗，但兇手在面對指控時的「理直氣壯」卻讓主人哭笑不得，也讓網友直呼「這麼可愛的貓貓當然永遠都是對的」。&nbsp;</p>
+
+
+
+<p>據了解，這名來自日本的飼主在家養了一隻名叫「小陀螺」的無毛貓，牠的性格從小溫順乖巧，平時幾乎很少闖禍，不過近日主人卻突然發現，家中的紙質拉門被抓得破爛不堪，上面留下了密密麻麻的爪痕，案情明顯相當單純。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-274450" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/simona-melegova-QRwlPkgAKFA-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「小陀螺」被主人質問時仍理直氣壯，完全沒有一絲愧疚的樣子<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>由於家裡只有一隻貓，飼主立刻懷疑這起「破壞案件」的幕後黑爪就是「小陀螺」，但當主人將愛貓傳喚到案發現場時，這隻無毛貓卻一臉不屑，表情彷彿在說「你憑什麼說是我幹的？」，完全沒有一絲愧疚的樣子。&nbsp;</p>
+
+
+
+<p>這場「攻防對峙」最終以主人單方面落敗，故事曝光後讓許多網友看完忍俊不禁，紛紛留言表示「我家的貓咪也是這樣」、「會認錯的貓咪不是好貓咪」、「當主人質問的瞬間就已經輸了」、「好像真的被冤枉一樣」、「靠氣勢決勝負」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e5%b0%b1%e6%98%af%e4%b8%8d%e8%82%af%e8%aa%8d%e9%8c%af%ef%bc%81%e8%b2%93%e5%92%aa%e6%90%97%e8%9b%8b%e8%a2%ab%e6%8a%93%e5%8c%85%e5%8d%bb%e3%80%8c%e7%90%86%e7%9b%b4%e6%b0%a3%e5%a3%af%e3%80%8d%e8%ae%93/">就是不肯認錯！貓咪搗蛋被抓包卻「理直氣壯」讓主人超無奈 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗到底有多會裝傻？哈士奇咬壞耳機卻「一臉無辜」讓主人哭笑不得 </title>
+		<link>https://firenews.com.tw/2025/10/29/%e7%8b%97%e7%8b%97%e5%88%b0%e5%ba%95%e6%9c%89%e5%a4%9a%e6%9c%83%e8%a3%9d%e5%82%bb%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e5%92%ac%e5%a3%9e%e8%80%b3%e6%a9%9f%e5%8d%bb%e3%80%8c%e4%b8%80%e8%87%89%e7%84%a1/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 05:51:57 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[哈士奇]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[裝無辜]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273871</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 最近一名飼主分享自家狗狗的搞笑反應引起網上熱議，日前他在家中發現自己的耳機插頭 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e7%8b%97%e7%8b%97%e5%88%b0%e5%ba%95%e6%9c%89%e5%a4%9a%e6%9c%83%e8%a3%9d%e5%82%bb%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e5%92%ac%e5%a3%9e%e8%80%b3%e6%a9%9f%e5%8d%bb%e3%80%8c%e4%b8%80%e8%87%89%e7%84%a1/">狗狗到底有多會裝傻？哈士奇咬壞耳機卻「一臉無辜」讓主人哭笑不得 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>最近一名飼主分享自家狗狗的搞笑反應引起網上熱議，日前他在家中發現自己的耳機插頭上滿是齒痕，於是立刻懷疑起家中的哈士奇嫌疑犯，卻沒想到對方根本不認罪，還上演了一場堪比影帝級的「無辜演出」，讓他感到好氣又好笑。&nbsp;</p>
+
+
+
+<p>這名飼主平常都有著聽音樂的習慣，當天他正準備戴上耳機時，卻驚訝地發現耳機線被咬得坑坑洞洞，插頭上更是留有明顯的牙印，飼主回想家中唯一具有「破壞力」的成員，也就是今年剛滿三歲的哈士奇，當下幾乎可以說已經確定了真兇。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-273892" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/valeriia-miller-7gbpaVrqoVk-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗面對主人的質問裝作若無其事，又時不時露出心虛的眼神<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>於是他拿著被毀的耳機走到狗狗面前，想當場對質並給愛犬一個教訓，但哈士奇似乎早有準備，牠面對主人的質問先是裝作若無其事，隨後露出心虛的眼神，時不時偷瞄主人的反應，隨即又立刻轉移視線，裝作聽不懂的樣子，全程演技滿分。&nbsp;</p>
+
+
+
+<p>主人見狀後感到無可奈何，只能默默地將這個悲劇與網友們分享，讓不少人留言表示「自己默默吞了吧」、「哈士奇不意外」、「沒拆家就算不錯了」、「這次是耳機，下次就換沙發」、「狗界奧斯卡非牠莫屬」、「我家的狗狗也是這樣」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e7%8b%97%e7%8b%97%e5%88%b0%e5%ba%95%e6%9c%89%e5%a4%9a%e6%9c%83%e8%a3%9d%e5%82%bb%ef%bc%9f%e5%93%88%e5%a3%ab%e5%a5%87%e5%92%ac%e5%a3%9e%e8%80%b3%e6%a9%9f%e5%8d%bb%e3%80%8c%e4%b8%80%e8%87%89%e7%84%a1/">狗狗到底有多會裝傻？哈士奇咬壞耳機卻「一臉無辜」讓主人哭笑不得 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>高冷貓也擋不住誘惑？女子靈機一動用「貓薄荷」泡腳效果超靈 </title>
+		<link>https://firenews.com.tw/2025/10/29/%e9%ab%98%e5%86%b7%e8%b2%93%e4%b9%9f%e6%93%8b%e4%b8%8d%e4%bd%8f%e8%aa%98%e6%83%91%ef%bc%9f%e5%a5%b3%e5%ad%90%e9%9d%88%e6%a9%9f%e4%b8%80%e5%8b%95%e7%94%a8%e3%80%8c%e8%b2%93%e8%96%84%e8%8d%b7%e3%80%8d/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 05:49:30 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<category><![CDATA[貓薄荷]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273870</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 你家的貓咪也總是對你愛理不理嗎？國外一名女子為了讓家中六年的愛貓重新親近自己， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e9%ab%98%e5%86%b7%e8%b2%93%e4%b9%9f%e6%93%8b%e4%b8%8d%e4%bd%8f%e8%aa%98%e6%83%91%ef%bc%9f%e5%a5%b3%e5%ad%90%e9%9d%88%e6%a9%9f%e4%b8%80%e5%8b%95%e7%94%a8%e3%80%8c%e8%b2%93%e8%96%84%e8%8d%b7%e3%80%8d/">高冷貓也擋不住誘惑？女子靈機一動用「貓薄荷」泡腳效果超靈 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>你家的貓咪也總是對你愛理不理嗎？國外一名女子為了讓家中六年的愛貓重新親近自己，竟突發奇想展開一場實驗，打算使用「貓薄荷」泡腳來吸引貓咪，沒想到竟意外獲得短暫成功，引發網友熱烈討論。&nbsp;</p>
+
+
+
+<p>該名女子表示，自己在家中已經養了兩隻貓咪多年，平時牠們對主人向來「高冷」且不太親近，為了改善這段關係，她決定利用貓咪最愛的「貓薄荷」展開一場特殊計畫，將貓薄荷泡進洗腳水中，試圖以香氣吸引貓咪主動親近。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1216" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?resize=1220%2C1216&#038;ssl=1" alt="" class="wp-image-273894" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?resize=768%2C766&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?resize=1536%2C1531&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?resize=2048%2C2042&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/rocknwool-PVcBmP_ylt0-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">女子用「貓薄荷」泡腳完後，貓咪果真被這股香氣給吸引<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>而當她使用「貓薄荷」泡腳完後，兩隻貓咪果真被這股香氣給吸引，紛紛湊上前主動蹭腳、舔腳，讓畫面瞬間變成溫馨又搞笑的「吸貓現場」，不過好景不長，貓咪在吸完貓薄荷後神情逐漸清醒，態度立刻一百八十度轉變，又恢復往日的高冷模樣。 </p>
+
+
+
+<p>女子還發現接下來的幾天，貓咪們對她的態度變得比往常更冷淡，彷彿像對自己前幾天的行為感到懊悔，試圖以逃避來掩飾尷尬，事件曝光後讓網友紛紛笑翻留言「貓內心OS：什麼邪術」、「貓薄荷真靈」、「可惜貓咪清醒的更快」、「零食可能也有用」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e9%ab%98%e5%86%b7%e8%b2%93%e4%b9%9f%e6%93%8b%e4%b8%8d%e4%bd%8f%e8%aa%98%e6%83%91%ef%bc%9f%e5%a5%b3%e5%ad%90%e9%9d%88%e6%a9%9f%e4%b8%80%e5%8b%95%e7%94%a8%e3%80%8c%e8%b2%93%e8%96%84%e8%8d%b7%e3%80%8d/">高冷貓也擋不住誘惑？女子靈機一動用「貓薄荷」泡腳效果超靈 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>奇蹟發生了！浪貓癱瘓倒在醫學院門口「學生出手」神奇復原 </title>
+		<link>https://firenews.com.tw/2025/10/29/%e5%a5%87%e8%b9%9f%e7%99%bc%e7%94%9f%e4%ba%86%ef%bc%81%e6%b5%aa%e8%b2%93%e7%99%b1%e7%98%93%e5%80%92%e5%9c%a8%e9%86%ab%e5%ad%b8%e9%99%a2%e9%96%80%e5%8f%a3%e3%80%8c%e5%ad%b8%e7%94%9f%e5%87%ba%e6%89%8b/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 05:48:27 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[中醫]]></category>
+		<category><![CDATA[奇蹟]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273868</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 近日網路上傳出一段令人動容的寵物救援故事，原本一隻疑似被遺棄的小貓，在雨中奄奄 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%a5%87%e8%b9%9f%e7%99%bc%e7%94%9f%e4%ba%86%ef%bc%81%e6%b5%aa%e8%b2%93%e7%99%b1%e7%98%93%e5%80%92%e5%9c%a8%e9%86%ab%e5%ad%b8%e9%99%a2%e9%96%80%e5%8f%a3%e3%80%8c%e5%ad%b8%e7%94%9f%e5%87%ba%e6%89%8b/">奇蹟發生了！浪貓癱瘓倒在醫學院門口「學生出手」神奇復原 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>近日網路上傳出一段令人動容的寵物救援故事，原本一隻疑似被遺棄的小貓，在雨中奄奄一息、全身癱瘓地躺在中醫大學門口，卻在一群學生的合力照顧下奇蹟康復，如今的小貓不僅恢復健康，還成為校園內的「吉祥象徵」。&nbsp;</p>
+
+
+
+<p>據了解，事發當天一名學生在中醫藥大學門口發現這隻小貓時，牠早已在雨中淋了好幾個小時，全身濕透、幾乎無法動彈，經送往動物診所檢查後，醫師診斷出貓咪疑似遭車撞導致多處骨折及神經壓迫，需轉往醫院進行手術治療。&nbsp;</p>
+
+
+
+<p>由於當時正值暑假，校內學生人數稀少，加上大家經濟有限，湊不出前往大型醫院治療的費用，眾人只能先將貓咪帶回學校照顧，一邊祈禱奇蹟發生，而在學生們的悉心照料之下，命運的轉折也悄然出現。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="808" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?resize=1220%2C808&#038;ssl=1" alt="" class="wp-image-273898" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?resize=1536%2C1017&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?resize=2048%2C1357&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/shawn-rain-G-mGXCYFRKY-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">經過多次治療與復健，小貓逐漸恢復行動能力，從原本奄奄一息到如今能自由奔跑<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>一名中醫系學長得知狀況，主動提出幫小貓檢查骨骼，並以專業手法替牠「正骨」，而在現場忽然傳出「喀」的一聲後，小貓原本癱瘓的後腿竟微微抽動，讓現場所有學生驚呼不已，看到了治療成功的希望。&nbsp;</p>
+
+
+
+<p>後續又有另一名擅長針灸的學長加入幫忙，經過多次治療與復健，小貓逐漸恢復行動能力，從原本奄奄一息到如今能自由奔跑，故事曝光後引起網上熱烈迴響，不少人留言大讚「真正的學以致用」、「太感人了」、「最完美的招生廣告」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%a5%87%e8%b9%9f%e7%99%bc%e7%94%9f%e4%ba%86%ef%bc%81%e6%b5%aa%e8%b2%93%e7%99%b1%e7%98%93%e5%80%92%e5%9c%a8%e9%86%ab%e5%ad%b8%e9%99%a2%e9%96%80%e5%8f%a3%e3%80%8c%e5%ad%b8%e7%94%9f%e5%87%ba%e6%89%8b/">奇蹟發生了！浪貓癱瘓倒在醫學院門口「學生出手」神奇復原 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>嘴巴大到沒有極限！金毛犬一次塞六顆「網球」震驚無數網友 </title>
+		<link>https://firenews.com.tw/2025/10/29/%e5%98%b4%e5%b7%b4%e5%a4%a7%e5%88%b0%e6%b2%92%e6%9c%89%e6%a5%b5%e9%99%90%ef%bc%81%e9%87%91%e6%af%9b%e7%8a%ac%e4%b8%80%e6%ac%a1%e5%a1%9e%e5%85%ad%e9%a1%86%e3%80%8c%e7%b6%b2%e7%90%83%e3%80%8d%e9%9c%87/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 05:48:27 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[球]]></category>
+		<category><![CDATA[黃金獵犬]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273869</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 世界上嘴巴最大的狗狗！美國紐約一隻名叫「芬利（Finley）」的黃金獵犬，憑藉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%98%b4%e5%b7%b4%e5%a4%a7%e5%88%b0%e6%b2%92%e6%9c%89%e6%a5%b5%e9%99%90%ef%bc%81%e9%87%91%e6%af%9b%e7%8a%ac%e4%b8%80%e6%ac%a1%e5%a1%9e%e5%85%ad%e9%a1%86%e3%80%8c%e7%b6%b2%e7%90%83%e3%80%8d%e9%9c%87/">嘴巴大到沒有極限！金毛犬一次塞六顆「網球」震驚無數網友 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>世界上嘴巴最大的狗狗！美國紐約一隻名叫「芬利（Finley）」的黃金獵犬，憑藉著自身驚人的「嘴勁」與天賦，成功地在網路上爆紅，牠不僅非常擅長玩球，還能一次將六顆網球同時含在嘴裡，模樣相當逗趣令網友們直呼「這才是真正的球王」。&nbsp;</p>
+
+
+
+<p>「芬利」從小就對球類玩具特別著迷，無論主人怎麼丟和藏，牠總能輕易地把球叼回來，隨著年齡增長，「芬利」不僅沒有失去對球的熱愛，反而還養成了將越來越多顆網球同時塞進嘴裡的習慣，展現出「挑戰極限」的天性。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/isaac-mehegan-RLy53iRcMz4-unsplash-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-273896" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/isaac-mehegan-RLy53iRcMz4-unsplash-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/isaac-mehegan-RLy53iRcMz4-unsplash-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/isaac-mehegan-RLy53iRcMz4-unsplash-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/isaac-mehegan-RLy53iRcMz4-unsplash-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「芬利」從小就對球類玩具特別著迷，無論主人怎麼丟和藏，牠總能輕易地把球叼回來<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>牠開始嘗試用嘴巴一次叼起兩顆、三顆網球，直到某一天，居然能將整整六顆網球穩穩塞進嘴中，當「芬利」叼著滿嘴網球搖著尾巴，神情滿是自信與得意地站在主人面前時，這一幕讓飼主感到又驚又喜，忍不住將這起趣事分享至網路。&nbsp;</p>
+
+
+
+<p>狗狗可愛模樣曝光後引起網上熱議，不少人紛紛留言表示「太萌了吧」、「根本球王本人」、「這嘴巴真厲害」，對此主人則透露，「芬利」的這項技能並非刻意訓練，而是在日常遊戲中自己摸索出來的，牠非常享受叼球的過程，自己也為此感到自豪。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%98%b4%e5%b7%b4%e5%a4%a7%e5%88%b0%e6%b2%92%e6%9c%89%e6%a5%b5%e9%99%90%ef%bc%81%e9%87%91%e6%af%9b%e7%8a%ac%e4%b8%80%e6%ac%a1%e5%a1%9e%e5%85%ad%e9%a1%86%e3%80%8c%e7%b6%b2%e7%90%83%e3%80%8d%e9%9c%87/">嘴巴大到沒有極限！金毛犬一次塞六顆「網球」震驚無數網友 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪能聽懂人類說話嗎？這些反應透露牠的驚人理解力！</title>
+		<link>https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e8%83%bd%e8%81%bd%e6%87%82%e4%ba%ba%e9%a1%9e%e8%aa%aa%e8%a9%b1%e5%97%8e%ef%bc%9f%e9%80%99%e4%ba%9b%e5%8f%8d%e6%87%89%e9%80%8f%e9%9c%b2%e7%89%a0%e7%9a%84%e9%a9%9a%e4%ba%ba%e7%90%86/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 04:42:59 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[人類]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[說話]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273857</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 不少飼主都發現，當自己說話時，貓咪似乎能做出反應：有時抬頭望向主人，有時會轉身跑向食物 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e8%83%bd%e8%81%bd%e6%87%82%e4%ba%ba%e9%a1%9e%e8%aa%aa%e8%a9%b1%e5%97%8e%ef%bc%9f%e9%80%99%e4%ba%9b%e5%8f%8d%e6%87%89%e9%80%8f%e9%9c%b2%e7%89%a0%e7%9a%84%e9%a9%9a%e4%ba%ba%e7%90%86/">貓咪能聽懂人類說話嗎？這些反應透露牠的驚人理解力！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>不少飼主都發現，當自己說話時，貓咪似乎能做出反應：有時抬頭望向主人，有時會轉身跑向食物碗，或是發出輕柔的喵聲。這些行為顯示貓咪對人類語言的理解力遠比想像中驚人。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">一、名字的呼喚牠能分辨</h4>
+
+
+
+<p>貓咪對自己的名字通常有明顯反應。當主人叫喚時，牠會立刻抬頭或走向主人，顯示牠能將特定聲音與自身聯繫起來。這種對名字的辨識能力不僅是聽覺記憶的結果，也反映出貓咪對人類語音的敏感程度。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="413" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-262.png?resize=600%2C413&#038;ssl=1" alt="" class="wp-image-273861" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-262.png?w=600&amp;ssl=1 600w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-262.png?resize=220%2C150&amp;ssl=1 220w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪通常能辨識自己的名字，聽到呼喚會抬頭或走向主人，反映牠對人類語音的敏感與聽覺記憶能力。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">二、語氣決定牠的反應</h4>
+
+
+
+<p>除了名字，貓咪對語氣也非常敏感。柔和的語氣可能讓牠靠近撒嬌，而急促或嚴厲的語調則會讓牠退後或停下當下的動作。這種行為顯示，牠能將語音音調與情緒內容結合，判斷主人的情緒意圖。</p>
+
+
+
+<h4 class="wp-block-heading">三、指令與日常關鍵詞</h4>
+
+
+
+<p>許多貓咪能理解簡單指令或特定詞語，例如「吃飯」、「不行」或「過來」。當主人反覆使用相同詞語搭配行為時，貓咪會慢慢學會對應動作。這說明牠們具備一定的語義辨識能力，能將聲音與日常情境連結。</p>
+
+
+
+<h4 class="wp-block-heading">四、身體語言與聲音的配合</h4>
+
+
+
+<p>貓咪對人類的理解並不僅限於聲音，還會觀察肢體動作與表情。當主人指向某個方向或做出手勢時，貓咪會結合語音與視覺信號做出相應反應，這種多重訊息的解讀能力，展現了牠們高度的社交智慧。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-263.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-273862" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪不只聽聲音，還會觀察肢體動作與表情，結合多重訊息做出反應，展現高度社交智慧。圖:unsplash</figcaption></figure></div>
+
+
+<p>貓咪能聽懂人類說話的程度，遠超出單純的聲音辨識。牠們透過名字、語氣、指令以及肢體信號理解主人的意圖，並做出對應反應。飼主若能善用語言與行為結合，不僅能增進溝通，也能讓貓咪在日常生活中更加安心與信任主人。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e8%83%bd%e8%81%bd%e6%87%82%e4%ba%ba%e9%a1%9e%e8%aa%aa%e8%a9%b1%e5%97%8e%ef%bc%9f%e9%80%99%e4%ba%9b%e5%8f%8d%e6%87%89%e9%80%8f%e9%9c%b2%e7%89%a0%e7%9a%84%e9%a9%9a%e4%ba%ba%e7%90%86/">貓咪能聽懂人類說話嗎？這些反應透露牠的驚人理解力！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪總喜歡搶狗狗的窩？揭開牠們「佔地心理」的真相 !</title>
+		<link>https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e7%b8%bd%e5%96%9c%e6%ad%a1%e6%90%b6%e7%8b%97%e7%8b%97%e7%9a%84%e7%aa%a9%ef%bc%9f%e6%8f%ad%e9%96%8b%e7%89%a0%e5%80%91%e3%80%8c%e4%bd%94%e5%9c%b0%e5%bf%83%e7%90%86%e3%80%8d%e7%9a%84/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 04:32:10 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[佔地]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273843</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 不少飼主都遇過這樣的情況——家裡的貓咪明明有自己的窩，卻總喜歡跑去狗狗的床上躺著，甚至 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e7%b8%bd%e5%96%9c%e6%ad%a1%e6%90%b6%e7%8b%97%e7%8b%97%e7%9a%84%e7%aa%a9%ef%bc%9f%e6%8f%ad%e9%96%8b%e7%89%a0%e5%80%91%e3%80%8c%e4%bd%94%e5%9c%b0%e5%bf%83%e7%90%86%e3%80%8d%e7%9a%84/">貓咪總喜歡搶狗狗的窩？揭開牠們「佔地心理」的真相 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>不少飼主都遇過這樣的情況——家裡的貓咪明明有自己的窩，卻總喜歡跑去狗狗的床上躺著，甚至一副「這裡是我的」的模樣。這樣的行為看似淘氣，背後卻藏著貓咪特有的領域心態與情感需求。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">一、領域意識：留下氣味代表掌控</h4>
+
+
+
+<p>貓咪天生具有強烈的領域觀念。牠們透過氣味標記來確認自己在環境中的歸屬感。狗狗的窩因為帶有明顯的味道與溫度，會被貓咪視為一個值得探索和「認領」的區域。當牠躺進狗窩，其實是在用自己的氣味標示領土，藉此獲得安全與安心感。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-260.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-273854" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪領域意識強，會以氣味標記環境。狗窩因氣味明顯，吸引牠探索並「認領」，藉此建立安全感。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">二、氣味溫度讓牠放鬆</h4>
+
+
+
+<p>狗狗的床上通常殘留著熟悉的氣息與體溫，這些元素對貓咪來說具有安撫效果。當貓咪靠近這些味道時，會感覺更平靜、更容易放鬆。狗窩柔軟又溫暖，也符合牠對「舒適休息點」的要求，因此自然成為牠的理想選擇。</p>
+
+
+
+<h4 class="wp-block-heading">三、爭奪注意：想要主人的關心</h4>
+
+
+
+<p>有些貓咪在搶狗窩時，動機其實與主人的關注有關。當牠察覺主人花較多時間在狗狗身上，可能會透過這樣的舉動來重新吸引目光。這是一種情緒表達的方式，顯示牠希望自己同樣受到重視與愛護。</p>
+
+
+
+<h4 class="wp-block-heading">四、舒適地點吸引牠靠近</h4>
+
+
+
+<p>狗狗的床往往放在家中溫暖、安靜或視野良好的位置，對貓咪而言，這樣的環境能帶來安全與穩定感。牠選擇狗窩，多半是因為那個地方的光線、溫度或高度符合牠的偏好。這種行為反映出貓咪對環境細節的高度敏銳。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="459" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-261.png?resize=612%2C459&#038;ssl=1" alt="" class="wp-image-273855" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗床通常位於溫暖安靜或視野佳的位置，吸引貓咪躺上去，牠選擇狗窩，多因光線、溫度或高度符合偏好。圖:istockphoto</figcaption></figure></div>
+
+
+<p>貓咪搶狗窩並非故意挑釁，也不一定出於嫉妒，而是牠在環境與情感上的自然反應。飼主若能為貓咪準備與狗窩相似的休息空間，同時給予平等的關心，就能讓貓狗都擁有各自的安全角落，家庭氣氛也會更加和諧。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e8%b2%93%e5%92%aa%e7%b8%bd%e5%96%9c%e6%ad%a1%e6%90%b6%e7%8b%97%e7%8b%97%e7%9a%84%e7%aa%a9%ef%bc%9f%e6%8f%ad%e9%96%8b%e7%89%a0%e5%80%91%e3%80%8c%e4%bd%94%e5%9c%b0%e5%bf%83%e7%90%86%e3%80%8d%e7%9a%84/">貓咪總喜歡搶狗狗的窩？揭開牠們「佔地心理」的真相 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
