@@ -1,120 +1,1019 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Sun, 02 Nov 2025 06:40:09 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</title>
+		<link>https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2025 02:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Moonlight Sirens 月魅海妖]]></category>
+		<category><![CDATA[SEIZE今夕何夕]]></category>
+		<category><![CDATA[承億酒店]]></category>
+		<category><![CDATA[萬聖派對]]></category>
+		<category><![CDATA[萬聖節派對]]></category>
+		<category><![CDATA[造夢專家]]></category>
+		<category><![CDATA[高雄萬聖節]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=275899</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 以打造沉浸式派對享譽的造夢專家 SEIZE 今夕何夕，日前（31）日與高雄五星級承億酒 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/">萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>以打造沉浸式派對享譽的造夢專家 SEIZE 今夕何夕，日前（31）日與高雄五星級承億酒店聯手舉辦「Moonlight Sirens 月魅海妖 萬聖節派對」，活動於24樓無邊際泳池，結合電音燈光、創意變裝與獨家佈置，吸引數百名派對玩家，爆滿人潮共度一場現實與夢境交錯的夜晚，再次實現「好好享受今夕，才會期盼何夕」的品牌造夢精神。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275900" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275908" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>萬聖節限定！南台灣唯一能「下水」的高空派對引爆話題</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275905" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>繼去年於台南海安路吸引逾五萬人共襄盛舉的「喝到併鬼」熱潮，SEIZE 今夕何夕今年運用團隊的創意，首度前進五星級酒店，策劃出南台灣唯一能下水的高空萬聖派對。以月光映照水面為意象，結合燈光投影、電子音浪，並與知名活動佈置「知·百年 Forever WED」合作，藉海妖造景營造深海幻境錯覺，讓民眾徹底投入奇幻世界，成為當晚打卡熱點、登上熱搜，展現品牌話題熱度與創意成效。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275906" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>為應景萬聖節，現場亦舉辦變裝大賽吸引不少人發揮創意，從詭魅海妖、復古吸血鬼到熱門動漫角色等吸睛造型，經由線上社群零時差票選得獎者，並現場帶走裝扮獎金。</p>
+
+
+
+<p>此外，SEIZE 今夕何夕亦同步設計互動遊戲，更與承億酒店推出限定聯名特調「人魚之淚」以及節慶菜單，展現品牌對活動細節與整體體驗的高度講究，透過沉浸派對營造令人難忘的感官體驗。</p>
+
+
+
+<p>近年民眾越趨重視儀式感，節慶聚會、生日、求婚、抓周或性別揭曉等，都傾向邀請親友共同參與、留下回憶，也推動派對文化的興起。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>從派對到人生節日 造夢專家延伸儀式感文化</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1831" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1220%2C1831&#038;ssl=1" alt="" class="wp-image-275901" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>SEIZE 今夕何夕表示，活動是現代人回憶的延伸，品牌由一群專門為人造夢的派對設計師組成，將佈置美學、活動企劃力、客製化服務融為一體是團隊優勢，且相信人生的每一天都值得被慶祝，那些被訂製活動的不只是派對，而是人生節日的創造；不僅是像萬聖節的大型活動，更是實踐品牌理念做一場關於今夕的夢，「To Make Each Day Count」讓參與者在派對裡感受當下，體現品牌理念。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>造夢不止於萬聖 SEIZE 美學聖誕篇即將揭幕</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275902" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>隨月魅海妖派對圓滿落幕，SSEIZE 今夕何夕也預告下一場活動，將於十二月邀請 VIP 參與年度聖誕派對，現場會以更細膩的形式延續 SEIZE 美學，打造聖誕夢境，未來品牌亦將持續實踐創意策劃與沉浸體驗，為生活造夢，策劃屬於每個人的今夕。</p>
+
+
+
+<p>【新聞資訊】</p>
+
+
+
+<p>主辦單位：SEIZE 今夕何夕</p>
+
+
+
+<p>協辦單位：承億酒店</p>
+
+
+
+<p>佈置造景：知·百年 Forever WED</p>
+
+
+
+<p>活動名稱：Moonlight Sirens 月魅海妖 萬聖派對&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>活動時間：2025年10月31日（六）18:00–24:00 </p>
+
+
+
+<p>活動地點：承億酒店24F 高空無邊際泳池 POOL BAR</p>
+
+
+
+<p>𝗦𝗘𝗜𝗭𝗘 今夕何夕 <em>Instagram</em></p>
+
+
+
+<p><a href="https://www.instagram.com/seize_tw">https://www.instagram.com/seize_tw</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-275907" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/">萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</title>
+		<link>https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[乳癌]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=275258</guid>
+
+					<description><![CDATA[<p>乳癌在臺灣是女性癌症第1名、死亡率第4名*，且有年輕化的趨勢。雖然早期發現、早期治療存活率很高，大家以為「手術 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/">早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=1024%2C1024&#038;ssl=1" alt="" class="wp-image-275263" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>乳癌在臺灣是女性癌症第1名、死亡率第4名*，且有年輕化的趨勢。雖然早期發現、早期治療存活率很高，大家以為「手術切乾淨就沒事了」，但早期乳癌、特別是荷爾蒙陽性的患者，術後其實還藏有「未爆彈」！</strong></p>
+</blockquote>
+
+
+
+<p>本篇邀請台中市立老人復健綜合醫院乳房外科吳曜充主任、洪琬瑜主治醫師帶您了解「拆彈」關鍵，平安規避4大潛藏高風險因子。</p>
+
+
+
+<h2 class="wp-block-heading">手術≠終點！小心潛在的「復發炸彈」&nbsp;</h2>
+
+
+
+<p>吳曜充醫師指出，亞洲族群的乳癌罹病高峰在 45~50歲，相比其他人種多在 60~70歲發生，來得更早、也更容易被忽略、對家庭與人生衝擊更大、術後保養期也更久。他說：「我們確實希望保護患者 30~40年，但這麼漫長的歲月要消解復發風險相當不容易。所以必須更著重預防復發，這是臺灣女性刻不容緩要積極面對的挑戰。</p>
+
+
+
+<p>洪琬瑜醫師表示，乳癌因形態不同、治療方法也各異，其中約有七成的是「賀爾蒙陽性（管腔型）乳癌」，這類患者若能早期發現並及時手術，治癒率相對較高，但手術完也須持續輔助性治療，更要注意幾個高風險因子：腫瘤大小、癌症侵犯淋巴結多少顆，還有 &nbsp;Ki-67指數（細胞增生指數）以及腫瘤分化程度。</p>
+
+
+
+<p>因為腫瘤樣貌相當多，醫師需依據患者腫瘤類型、大小、期數等制定治療方式。腫瘤越大復發風險越高，腫瘤在身體裡會慢慢長大、可能將癌細胞轉移到肺部、肝臟等身體各處，轉移第一站通常就是淋巴結，因此淋巴結的顆數與轉移情況，就成為癒後的重要指標，超過4個復發風險相對較高。</p>
+
+
+
+<h2 class="wp-block-heading">拆彈新助攻－細胞週期抑制劑可望降低3成風險&nbsp;</h2>
+
+
+
+<p>採訪前，吳醫師剛完成一場手術，本來預期患者腫瘤還小、影像檢查淋巴結也顯示沒有轉移，沒想到開刀才發現三顆淋巴結中已有兩顆出現癌細胞轉移！他無奈表示，「淋巴結轉移對病人或醫生來說，並沒有很明確的規則可循。有些賀爾蒙陽性的病人化療效果不好，即使清楚那樣的『子彈』可能打得不夠精準、不夠強、容易復發，也只能照標準治療。但現在就會建議使用『細胞週期抑制劑』來輔助治療。」</p>
+
+
+
+<p>細胞週期抑制劑原本是設計治療已出現轉移的患者，後來因為療效非常好才逐漸應用在術後、尚未明顯遠端轉移的高復發風險的患者，作為輔助藥物治療以減少復發。隨著這項藥物被納入健保給付，確實幫助了不少家庭，他曾收治一位單親媽媽，難以負擔醫療費，她病情復發後立刻轉移到肺部，符合健保給付資格，吳醫師團隊立即為她使用細胞週期抑制劑，沒多久肺部狀況迅速改善，至今兩年情況穩定，她也能繼續工作、撫養小孩。&nbsp;</p>
+
+
+
+<p>對此吳醫師頗有感觸：「其實我常想，細胞週期抑制劑如果能提早發現，我們是否可以避免更多悲劇產生？以前明知道患者是高復發族群，也很積極治療了，但仍在３～５年後無可避免地復發。」如今看到患者使用細胞週期抑制劑效果很好，他更加感慨，如果能在術後使用細胞抑制劑作為輔助治療，至少能降低三成以上復發風險，很多病人及至家庭都能受惠！&nbsp;</p>
+
+
+
+<p>不過細胞週期抑制劑雖已納入健保給付，但仍有符合適應症但未能符合健保給付條件的患者，目前自費使用藥費每月仍達7萬多元，對一般家庭負擔仍然不輕。吳醫師也呼籲：「如果病人對治療反應良好，是否能讓部分病患延長治療週期？是否可以放寬健保條件？細胞週期抑制劑不只對已轉移患者/早期乳癌高復發風險患者有效，也應該考慮納入全部患者，讓更多病人受惠。」他進一步指出，政府開放可明顯減少復發的藥物，是很正向的醫療政策；但也需要民眾更有意識，乳癌初期的轉移病沒有想像中的樂觀，應主動跟醫師討論輔助治療的可能，積極配合回診追蹤。</p>
+
+
+
+<p>吳醫師也觀察到：「乳癌篩檢病例量的提升， 我們發現3、40幾歲的年輕患者愈來愈多，這是需要被重視跟認真對待的。雖然年輕患者整體治療反應通常比較好，但如果已出現淋巴結轉移而需接受化療，她們往往還未結婚生子，化療帶來的副作用與身心創傷，是往後很長一段人生要面對的。」</p>
+
+
+
+<p>細胞週期抑制劑的介入可能會對這個困境有所幫助，國外研究顯示，這類藥物可以減少患者接受化療的需求，減少相關副作用等。吳醫師堅信不遠的將來，這個藥物一定會扮演非常重要的角色！「而且它現在已經幫助約七成的乳癌患者有效減低復發機率，這是一個很棒的事情。」</p>
+
+
+
+<h2 class="wp-block-heading">注意「4以上，3搭523」，別輕忽留下復發引信！</h2>
+
+
+
+<p>&nbsp;那麼患者術後可以注意哪些指標，以防止身體裡的未爆彈呢？醫師指出最核心的就是這四點：淋巴結轉移4顆以上，或轉移3顆以下合併以下條件：</p>
+
+
+
+<p>• 腫瘤≥5公分</p>
+
+
+
+<p>• Ki-67≥20%</p>
+
+
+
+<p>• 腫瘤分化程度第3級</p>
+
+
+
+<p>這些因子就像潛在引信，任何一項存在都應提高警覺！若民眾符合上述情況，一定要跟醫師討論是否適合使用細胞週期抑制劑，以降低復發風險。乳癌雖然及早發現腫塊，腫塊越小轉移淋巴結的機會就越低，但仍有例外。醫師提醒，除了平時留意身體變化，一定要配合定期追蹤檢查，注意四大風險指標才是正確預防觀念。</p>
+
+
+
+<p>現在面對潛在「復發炸彈」，已有「細胞週期抑制劑」這項拆彈武器，能幫助患者降低約三成復發風險。病友們也要充分了解自身狀況，勇於提問與醫師共同規劃治療，才能真正拆除未爆彈，安心邁向康復之路。</p>
+
+
+
+<p>參考資料：</p>
+
+
+
+<p>*1 衛生福利部。《乳癌為女性癌症第1位　乳房健康三部曲不可少》　<a href="https://www.mohw.gov.tw/cp-3163-28149-1.html" target="_blank" rel="noreferrer noopener">https://www.mohw.gov.tw/cp-3163-28149-1.html</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/">早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</title>
+		<link>https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 01:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ReLive]]></category>
+		<category><![CDATA[李賴虎3D亂鬥嘉年華]]></category>
+		<category><![CDATA[李賴虎嘉年華]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274759</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 台灣新興 VTuber 團隊 ReLive Project 宣布，年度 3D 綜藝演出 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/">笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台灣新興 VTuber 團隊 ReLive Project 宣布，年度 3D 綜藝演出《李賴虎3D亂鬥嘉年華》自 10 月 9 日起正式開賣！三場節目將以雙人漫才、台馬食物辯論與 3D 獨輪車挑戰等瘋狂企劃連番登場，笑料與技術兼具。節目將於 2025 年底線上開演，限時無回播。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="679" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=1220%2C679&#038;ssl=1" alt="" class="wp-image-274760" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?w=2122&amp;ssl=1 2122w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=1536%2C855&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=2048%2C1140&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源：李賴虎娛樂事業有限公司</figcaption></figure>
+
+
+
+<p>台灣新興VTuber團隊 ReLive Project 宣布年度3D綜藝演出企劃《李賴虎嘉年華》正式開賣！ 被粉絲笑稱「最斜咖的虛擬嘉年華」，將於 Beatday 平台登場，多位 VTuber 同步3D化演出，從漫才、辯論到獨輪車挑戰，全面突破虛擬綜藝的想像極限。</p>
+
+
+
+<p>三場節目各有笑點——11月1日開場《李Live好萬聖夜》由十六月與灰妲搭檔登場，雙人漫才加上荒唐懲罰遊戲，生日派對瞬間變成混亂喜劇；11月16日第二場《台馬食物宗教戰！》由灰妲與諾櫻代表台灣，在虛擬立法院對決馬來西亞 VTuber，從辯論到肉搏全面開打，連來賓都笑喊「這也太瘋了吧！」；12月20日壓軸《吃不飽餓不死動起來！》由魯波與梅迪歐挑戰3D獨輪車演出，挑戰雖然風險超高，卻讓觀眾直呼「如果真的騎上去也太酷了！」</p>
+
+
+
+<p>觀眾可於每場開演前進入「WebGL 虛擬嘉年華地圖」自由走動、拍照留念；正式開場後切換至 HTC Beatday 平台觀看。購買單場票可獲專屬桌布與語音，特典套組再加贈粉絲形象裝扮、道具與貼圖，如丟雞腿、工兵鏟等皆可觸發舞台特效，與以往的直播形式不同，這次連互動感都全面升級！！官方提醒：「三場全為限時直播、無回播限定，想看就要趁現在！」</p>
+
+
+
+<p>ReLive Project 表示，非常感謝文策院「文化科技內容場域商業驗證計畫」的支持，我們用 3D 舞台與互動娛樂的方式，打造出更有臨場感的虛擬偶像表演，嘗試開創文化科技的新玩法！ 即使身為獨立團隊，也想用創意與笑聲證明虛擬表演的無限可能，「VTuber 是個充滿想像力的職業，我們想用盡全力去做那些只有想像力才辦得到的事。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1114" height="1508" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?resize=1114%2C1508&#038;ssl=1" alt="" class="wp-image-274761" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?w=1114&amp;ssl=1 1114w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?resize=768%2C1040&amp;ssl=1 768w" sizes="(max-width: 1114px) 100vw, 1114px" data-recalc-dims="1" /><figcaption class="wp-element-caption">李賴虎3D亂鬥嘉年華限定套組現正販售中。圖片來源：李賴虎娛樂事業有限公司</figcaption></figure>
+
+
+
+<p><strong>票券現正熱賣中，更多資訊請見官方購票連結：</strong><a href="https://reurl.cc/daY11M">https://reurl.cc/daY11M</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/">笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>嗑肉石鍋聯手美國肉類出口協會　11/3推限定美國牛套餐送好想兔桌曆</title>
+		<link>https://firenews.com.tw/2025/10/31/%e5%97%91%e8%82%89%e7%9f%b3%e9%8d%8b%e8%81%af%e6%89%8b%e7%be%8e%e5%9c%8b%e8%82%89%e9%a1%9e%e5%87%ba%e5%8f%a3%e5%8d%94%e6%9c%83%e3%80%8011-3%e6%8e%a8%e9%99%90%e5%ae%9a%e7%be%8e%e5%9c%8b%e7%89%9b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 00:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[嗑肉石鍋]]></category>
+		<category><![CDATA[好想兔]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274742</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 變天了！天氣轉涼，火鍋再度成為民眾聚餐首選。 全台人氣餐飲嗑肉石鍋今年與美國肉類出口協 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e5%97%91%e8%82%89%e7%9f%b3%e9%8d%8b%e8%81%af%e6%89%8b%e7%be%8e%e5%9c%8b%e8%82%89%e9%a1%9e%e5%87%ba%e5%8f%a3%e5%8d%94%e6%9c%83%e3%80%8011-3%e6%8e%a8%e9%99%90%e5%ae%9a%e7%be%8e%e5%9c%8b%e7%89%9b/">嗑肉石鍋聯手美國肉類出口協會　11/3推限定美國牛套餐送好想兔桌曆</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>變天了！天氣轉涼，火鍋再度成為民眾聚餐首選。</strong></p>
+</blockquote>
+
+
+
+<p>全台人氣餐飲嗑肉石鍋今年與美國肉類出口協會駐華辦事處（U.S. Meat Export Federation, USMEF）聯手，推出「官方掛保證」的限定美國安格斯牛肉套餐，從源頭嚴格把關，讓消費者能安心享受道地頂級肉品。11/3起於活動期間點指定套餐，還能帶走嗑肉石鍋與「好想兔」聯名2026年桌曆，內含多項品牌優惠，吃鍋之餘也能被萌一整年。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1714" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761820857394.jpg?resize=1220%2C1714&#038;ssl=1" alt="" class="wp-image-274743" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761820857394.jpg?w=1323&amp;ssl=1 1323w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761820857394.jpg?resize=768%2C1079&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761820857394.jpg?resize=1093%2C1536&amp;ssl=1 1093w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源: 嗑肉石鍋 Chew Meats 品牌總部</figcaption></figure>
+
+
+
+<p>嗑肉石鍋為全台知名火鍋品牌，以新鮮食材及多樣湯底深受消費者喜愛。此次與美國肉協攜手，不僅象徵業者對品質的堅持，也藉此讓更多民眾了解美國牛肉兼具香氣與營養價值的特色。嗑肉石鍋表示，美國牛隻以玉米、穀物等飼養，因此油花不僅吸睛且吃起來充滿榖飼香氣，適合入鍋。 </p>
+
+
+
+<p>嗑肉石鍋指出，此次合作推出「美國安格斯全牛雙人套餐」，精選肩小排、雪花牛、霜降牛與沙朗牛等四大人氣部位，肉質滑嫩且都能完美搭配15款湯底，從清爽柴魚到麻辣濃郁，滿足不同味蕾。這波活動也同步推出「美國安格斯肩小排單點肉盤」，讓消費者依個人喜好自由加點、盡情嗑鍋。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="968" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821322047.jpg?resize=1220%2C968&#038;ssl=1" alt="" class="wp-image-274744" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821322047.jpg?w=2342&amp;ssl=1 2342w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821322047.jpg?resize=768%2C610&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821322047.jpg?resize=1536%2C1219&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821322047.jpg?resize=2048%2C1626&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源: 嗑肉石鍋 Chew Meats 品牌總部</figcaption></figure>
+
+
+
+<p>此外，這次嗑肉石鍋與知名插畫角色「好想兔」再度聯名。搭上美國肉協合作，凡於活動期間消費指定餐點，即可獲得限量版嗑肉石鍋 × 好想兔2026桌曆一份。桌曆結合角色插畫，並有品牌每月優惠券，要讓粉絲「超值嗑肉」。此外，現場亦開放加購，不限消費金額即可用129元或會員點數3點加99元換購，將再掀一波收藏熱潮。</p>
+
+
+
+<p>嗑肉石鍋表示，希望藉由跨界合作，將食材品質與用餐樂趣同時再升級，美味火鍋結合限量周邊，讓民眾吃得暖胃，也吃得安心。目前該品牌於全台北、中、南皆設有門市，無論親友聚餐或團體慶生，都能享受限定美味。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="973" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821403326.jpg?resize=1220%2C973&#038;ssl=1" alt="" class="wp-image-274745" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821403326.jpg?w=2333&amp;ssl=1 2333w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821403326.jpg?resize=768%2C613&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821403326.jpg?resize=1536%2C1225&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761821403326.jpg?resize=2048%2C1634&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源: 嗑肉石鍋 Chew Meats 品牌總部</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>嗑肉石鍋 Chew Meats 品牌總部 Facebook粉絲團</strong></h2>
+
+
+
+<p><a href="https://www.facebook.com/ChewMeatsOfficial">https://www.facebook.com/ChewMeatsOfficial</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>嗑肉石鍋 Chew Meats 品牌總部  官方instagram</strong></h2>
+
+
+
+<p><a href="https://www.instagram.com/chew_meats_official_/">https://www.instagram.com/chew_meats_official_/</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e5%97%91%e8%82%89%e7%9f%b3%e9%8d%8b%e8%81%af%e6%89%8b%e7%be%8e%e5%9c%8b%e8%82%89%e9%a1%9e%e5%87%ba%e5%8f%a3%e5%8d%94%e6%9c%83%e3%80%8011-3%e6%8e%a8%e9%99%90%e5%ae%9a%e7%be%8e%e5%9c%8b%e7%89%9b/">嗑肉石鍋聯手美國肉類出口協會　11/3推限定美國牛套餐送好想兔桌曆</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>知名靈性網紅阿卡莎納 11/1獨家開課所得將全數捐贈花蓮光復重建 特別在和平島為世界祈福</title>
+		<link>https://firenews.com.tw/2025/10/30/%e7%9f%a5%e5%90%8d%e9%9d%88%e6%80%a7%e7%b6%b2%e7%b4%85%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d-11-1%e7%8d%a8%e5%ae%b6%e9%96%8b%e8%aa%b2%e6%89%80%e5%be%97%e5%b0%87%e5%85%a8%e6%95%b8%e6%8d%90%e8%b4%88/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 03:39:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274508</guid>
+
+					<description><![CDATA[<p>近日阿卡莎納來台，不忘在台灣加開課程，緊接著錄製新單曲及帶領各團員包含NIKA、劉玳妍、Mia、Kaina一起 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e7%9f%a5%e5%90%8d%e9%9d%88%e6%80%a7%e7%b6%b2%e7%b4%85%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d-11-1%e7%8d%a8%e5%ae%b6%e9%96%8b%e8%aa%b2%e6%89%80%e5%be%97%e5%b0%87%e5%85%a8%e6%95%b8%e6%8d%90%e8%b4%88/">知名靈性網紅阿卡莎納 11/1獨家開課所得將全數捐贈花蓮光復重建 特別在和平島為世界祈福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="869" height="814" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617108.jpg?resize=869%2C814&#038;ssl=1" alt="" class="wp-image-274517" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617108.jpg?w=869&amp;ssl=1 869w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617108.jpg?resize=768%2C719&amp;ssl=1 768w" sizes="(max-width: 869px) 100vw, 869px" data-recalc-dims="1" /><figcaption class="wp-element-caption">近日阿卡莎納來台，不忘在台灣加開課程，緊接著錄製新單曲及帶領各團員包含NIKA、劉玳妍、Mia、Kaina一起拍攝形象照跟拍MV，甚至在台灣西門町及基隆知名景點【和平島】拍攝特別為世界祝福。圖/阿卡莎納官方團隊提供</figcaption></figure>
+
+
+
+<p><strong>阿卡莎納來基隆和平島為世界祈福</strong><strong> </strong><strong>作品上時代廣場宣傳永續時尚</strong><strong></strong></p>
+
+
+
+<p>「阿卡莎納」 Master Sri Akarshana（阿卡莎納AKSN），他是一位從億萬富豪轉變為靈性導師並涉足音樂領域的國際網紅，過去拍攝不少顯化影片，他從年輕創業成功、累積億萬財富的企業家，蛻變為引導千萬人追尋內在豐盛的精神導師，並勇敢跨足歌壇，近日還獲泰勒絲唱片公司經紀人邀約將成為國際歌手身份，透過音樂傳遞正能量。剛從美國開完“顯化奇蹟”課程的「阿卡莎納」，在今年11月1日(六)13:00-18:00也特別將在台北舉行今年【2025台灣首場顯化奇蹟課程】，這次課程更獨家給台灣粉絲特別版的內容，目前官方表示，開賣不久票數已快賣完，此次所得將全部捐贈花蓮光復重建，剩最後名額搶購中。</p>
+
+
+
+<p><strong>從美國到台灣開課</strong><strong> </strong><strong>顯化奇蹟轉變上萬人生命</strong><strong></strong></p>
+
+
+
+<p>百萬網紅阿卡莎納過去從害羞講師到國際講者，如今跨界挑戰⾳樂舞台，現在正在美國洛杉磯幫助各國學員上“顯化奇蹟”課程，阿卡莎納表示，“每⼀次挑戰都是成功的機會到來｡”他回想去⼗⼆年前在美國第⼀次登上國際舞台舉辦了名為“顯化奇蹟”的活動。那時的他還是⼀位腼腆、甚至不敢直視觀眾的年輕講師。⼗⼆年後的今天他在洛杉磯完成了最後⼀場“顯化奇蹟”為這段旅程畫下圓滿的句點，也讓各國上萬名學員實用“顯化奇蹟”課程翻轉人生。</p>
+
+
+
+<p><strong>特別來台灣和平島祝福世界和平</strong><strong> </strong><strong>推廣永續吃素愛台灣</strong><strong></strong></p>
+
+
+
+<p>近日阿卡莎納來台，不忘在台灣加開課程，緊接著錄製新單曲及帶領各團員包含NIKA、劉玳妍、Mia、Kaina拍MV，甚至在台灣西門町及基隆知名景點【和平島公園】拍攝封面跟形象照，此次的理念主要向世界傳導【世界和平】的概念，他強調今年戰爭、混亂不斷，願每個人都能平靜，此次特別來台灣開課得知花蓮光復之前的災情，表示這次台北“顯化奇蹟”活動所得，全數會捐贈給花蓮光復重建家園用。在台灣錄製單曲跟課程同時準備馬不停蹄的阿卡莎納，預計單曲發行後將登上美國紐約時代廣場做國際宣傳，宣導世界和平及愛台灣的理念。這次慶功宴還特別穿上台北、東京時裝週知名設計師story wear最新的牛仔永續拼接服裝在素食餐廳慶功，推廣素食、永續時尚對地球的重要。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="991" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617106_0.jpg?resize=960%2C991&#038;ssl=1" alt="" class="wp-image-274512" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617106_0.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617106_0.jpg?resize=768%2C793&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /><figcaption class="wp-element-caption">知名身心靈網紅阿卡莎納來台，不忘在台灣加開顯化課程，特地在基隆和平島為世界祈福。圖/阿卡莎納官方團隊提供</figcaption></figure>
+
+
+
+<p><strong>111</strong><strong>顯化奇蹟課程</strong><strong> </strong><strong>台灣獨家顯化法則分享過往顯化真正秘訣</strong><strong></strong></p>
+
+
+
+<p>阿卡莎納團隊指出，天使數字111 是一個充滿力量的訊息，象徵新的開始、創造力和思想的快速顯化。 看到這個數字代表你正處於一個極具潛力的階段，宇宙鼓勵你專注於積極的想法和目標，因為它們很可能很快就會實現。在今年111上“顯化奇蹟”課程，可以見證阿卡莎納老師顯化從一個靦腆的講者到美國及國際開課，還有馬上成為國際唱片公司經紀人邀約成為歌手身份，種種的獨家奇蹟課程，在111阿卡莎納會帶領大家顯化奇蹟的真正顯化秘訣。</p>
+
+
+
+<p><strong>從企業家轉變成身心靈導師到國際歌手身份</strong><strong> </strong><strong>每個人都能找到自己獨特的光芒</strong><strong></strong></p>
+
+
+
+<p>阿卡莎納不僅是企業家、後經歷低潮後學習身心靈後教導不少人正向的引導跟如何顯化豐盛富足生活，他風格跟大多數身心靈老師不同，現在更開始歌手的身份接受唱歌等訓練，大膽幽默的他跟馬來西亞歌手黃明志性格很像，喜歡用黑色幽默來說明這世界不公平的體制，他表示，其實我們都來自源頭，沒有不一樣，我能做到的，每個人都可以做到。他從億萬富翁，到從事身心靈工作到國際歌手身份，他笑說，人生就是來體驗的，不管好的壞的都是一種難得的體驗。他目前更帶領著各國學員，一起突破人生各種難關，雖然這一路上被不少人質疑、不被看好，甚至被同業及媒體攻擊。但他始終一笑而過，更不忘初心。他說或許很多人有誤解不理解，但他對每個人的愛都是一樣的，沒有欺騙，也一視同仁，沒有分別。甚至在社群上勇敢透露過去的黑暗面，他相信，黑暗之後，每個人都可以找到屬於自己的光芒，成為這世界上，那獨特唯一的光芒。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="1521" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617105_0.jpg?resize=960%2C1521&#038;ssl=1" alt="" class="wp-image-274511" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617105_0.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/S__38617105_0.jpg?resize=768%2C1217&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /><figcaption class="wp-element-caption">阿卡莎納這次慶功宴還特別穿上台北、東京時裝週知名設計師story wear最新的牛仔永續拼接服裝在素食餐廳慶功，推廣素食、永續時尚對地球的重要性。圖/阿卡莎納官方團隊提供</figcaption></figure>
+
+
+
+<p><strong>顯化奇蹟課程全數捐贈花蓮光復重建用　</strong><strong></strong></p>
+
+
+
+<p>這次阿卡莎納在台灣獨家的“顯化奇蹟”課程，有一般跟VIP席位，活動當天更教導大家怎樣勇敢跟宇宙下訂單，透過用高頻率，輕鬆轉換人生，讓你內心真正的想要變成理想跟現實。阿卡莎納團隊表示，這是一年一次的轉化奇蹟，111是個能量對齊的特別日子，這次將獨家公開，不是只有教導吸引力法則，而是透過更多秘訣教導更多人可以輕鬆掌握人生，讓夢想快速顯化，讓能量變成金錢及各種您要的可能！他帶領過無數學員參加課程，不僅快速豐盛顯化金錢及感情，也成功從黑暗到光明，打開更多可能性！阿卡莎納珍惜這次來台灣回饋機會，更表示會將這次賣票所得捐贈花蓮光復重建用，開課前，他特別到基隆和平島参與形象拍攝，拍攝前特別在和平島為世界祈福，祈禱世界災難戰爭變少，每個人都能找到內心真正的和平與寧靜，為世界祈禱，也為台灣加油，更為花蓮祝福！這次特別到和平島拍攝，也呼應著【世界和平】的重要，這次拍攝，更將台灣美景登上紐約時代廣場，讓全世界看見，台灣的美及世界和平愛的理念。</p>
+
+
+
+<p>111是個特別的能量日，錯過這次將再等一年。阿卡莎納台灣獨家的111“顯化奇蹟”課程，最後名額限定報名連結：<a href="https://cn-academi.iamverse.com/aksn-111-tpmm">https://cn-academi.iamverse.com/aksn-111-tpmm</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/30/%e7%9f%a5%e5%90%8d%e9%9d%88%e6%80%a7%e7%b6%b2%e7%b4%85%e9%98%bf%e5%8d%a1%e8%8e%8e%e7%b4%8d-11-1%e7%8d%a8%e5%ae%b6%e9%96%8b%e8%aa%b2%e6%89%80%e5%be%97%e5%b0%87%e5%85%a8%e6%95%b8%e6%8d%90%e8%b4%88/">知名靈性網紅阿卡莎納 11/1獨家開課所得將全數捐贈花蓮光復重建 特別在和平島為世界祈福</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>大立數位攜權可易推出安全綠色票券平台 斷網可驗票新突破</title>
+		<link>https://firenews.com.tw/2025/10/29/%e5%a4%a7%e7%ab%8b%e6%95%b8%e4%bd%8d%e6%94%9c%e6%ac%8a%e5%8f%af%e6%98%93%e6%8e%a8%e5%87%ba%e5%ae%89%e5%85%a8%e7%b6%a0%e8%89%b2%e7%a5%a8%e5%88%b8%e5%b9%b3%e5%8f%b0-%e6%96%b7%e7%b6%b2%e5%8f%af%e9%a9%97/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 11:58:19 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274147</guid>
+
+					<description><![CDATA[<p>全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大立數位股份有限公司董事長洪玉婷、 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%a4%a7%e7%ab%8b%e6%95%b8%e4%bd%8d%e6%94%9c%e6%ac%8a%e5%8f%af%e6%98%93%e6%8e%a8%e5%87%ba%e5%ae%89%e5%85%a8%e7%b6%a0%e8%89%b2%e7%a5%a8%e5%88%b8%e5%b9%b3%e5%8f%b0-%e6%96%b7%e7%b6%b2%e5%8f%af%e9%a9%97/">大立數位攜權可易推出安全綠色票券平台 斷網可驗票新突破</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-274178" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">全新數位票券平台正式上線。左起台灣數位台灣數位票券發展協會榮譽理事長呂昌橖、大立數位股份有限公司董事長洪玉婷、權可易資訊股份有限公司董事長林敬祥、前警政署署長陳家欽、行政院政務顧問游正田。圖/大立數位提供</figcaption></figure>
+
+
+
+<p>為台灣演唱會票券亂象長年困擾粉絲與主辦單位，假票、黃牛與詐騙層出不窮。上櫃化工股大立（4716）投資並主導布局的大立數位宣布與權可易資訊攜手，推出全新「大立售票 T-KI」，主打首創離線防偽驗證技術，結合手機OTP實名制與不可截QR Code防偽機制，正式宣佈台灣票券市場邁入安全與便利兼具的數位新紀元。</p>
+
+
+
+<p>大立數位董事長洪玉婷指出，平台的誕生不僅是技術的突破，更是票務產業信任的重建。她表示，公司希望讓每一張票都能被信任，讓每一場活動都能安心入場，未來也將持續投入防詐科技與ESG創新，打造更安全、更永續的票券生態系。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立數位和權可易資訊進行簽約儀式，未來將提供流暢安全的入場體驗。-1.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-274175" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立數位和權可易資訊進行簽約儀式，未來將提供流暢安全的入場體驗。-1.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立數位和權可易資訊進行簽約儀式，未來將提供流暢安全的入場體驗。-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立數位和權可易資訊進行簽約儀式，未來將提供流暢安全的入場體驗。-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">大立數位和權可易資訊進行簽約儀式，未來將提供流暢安全的入場體驗。圖/大立數位提供</figcaption></figure>
+
+
+
+<p>這項技術由台灣團隊自主研發，最大亮點在於即使沒有網路或訊號，也能即時完成百分之百的票券驗證，解決大型演唱會入場網路壅塞、驗票緩慢的痛點。權可易董事長林敬祥表示，系統可有效防止票券翻拍、截圖或錄影偽造，確保每一張票都能追溯來源，讓假票與黃牛「無所遁形」。<br><br><strong>三大核心優勢</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>離線驗證技術：無需網路即可完成即時驗證，確保百分之百入場成功。</li>
+
+
+
+<li>多重防偽機制：採用獨家加密與驗證技術，杜絕黃牛與偽造票券。</li>
+
+
+
+<li>落實 ESG 精神：全面減少紙本票券使用，推動綠色活動與環保行動。</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/現場演繹獨家加密驗證技術，可有效防止黃牛和偽造票券。.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-274171" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/現場演繹獨家加密驗證技術，可有效防止黃牛和偽造票券。.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/現場演繹獨家加密驗證技術，可有效防止黃牛和偽造票券。.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/現場演繹獨家加密驗證技術，可有效防止黃牛和偽造票券。.jpg?resize=1536%2C1024&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">現場演繹獨家加密驗證技術，可有效防止黃牛和偽造票券。圖/大立數位提供</figcaption></figure>
+
+
+
+<p>前警政署長陳家欽退休後首次公開支持的防詐科技產品，就是這款T-KI票券平台。他在發表會上表示：「我退休後仍然關注台灣詐騙問題，詐騙手法層出不窮，尤其是假票與黃牛現象更是屢禁不止。唯有透過具備防偽與溯源技術的數位票券系統，才能從源頭切斷金流，打擊黃牛與詐騙。」陳家欽強調，防詐科技的應用不應只侷限於金融體系，娛樂與生活服務同樣需要「科技防線」。</p>
+
+
+
+<p>大立售票 T-KI也導入粉絲經濟與永續理念。透過整合APP推播互動、線上抽獎與精準行銷，主辦單位能強化與粉絲間的連結，打造高黏著度的品牌生態。此外，系統全面採用無紙化設計，以數位票券取代傳統紙本，不僅節省資源、減少碳排，更實現綠色演唱會與ESG永續目標。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-274173" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/大立售票T-KI-首創離線防偽驗證技術，結合手機OTP實名制-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">大立售票T-KI 首創離線防偽驗證技術，結合手機OTP實名制。圖/大立數位提供</figcaption></figure>
+
+
+
+<p>現場除展示離線防偽驗證技術外，也進行「真票／假票對決實測」，親眼見證假票被系統當場拒絕的瞬間，多位重量級嘉賓出席分享，包括行政院政務顧問游正田，以及台灣數位票券發展協會榮譽理事長呂昌橖。</p>
+
+
+
+<p>大立數位強調，這是台灣防詐科技與娛樂產業轉型的關鍵時刻，防詐、數位、永續，三大趨勢正式匯流，未來將陸續應用於各大演唱會、展覽及大型活動場域，提供主辦單位與觀眾更流暢、安全的入場體驗。</p>
+
+
+
+<p>詳情請查詢大立T-KI售票平台官網：<a href="https://www.t-ki.com">https://www.t-ki.com</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%a4%a7%e7%ab%8b%e6%95%b8%e4%bd%8d%e6%94%9c%e6%ac%8a%e5%8f%af%e6%98%93%e6%8e%a8%e5%87%ba%e5%ae%89%e5%85%a8%e7%b6%a0%e8%89%b2%e7%a5%a8%e5%88%b8%e5%b9%b3%e5%8f%b0-%e6%96%b7%e7%b6%b2%e5%8f%af%e9%a9%97/">大立數位攜權可易推出安全綠色票券平台 斷網可驗票新突破</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>必維集團亮相2025台灣國際智慧能源週 聚焦「綠能＋永續＋資安」助力企業邁向淨零新時代</title>
+		<link>https://firenews.com.tw/2025/10/29/%e5%bf%85%e7%b6%ad%e9%9b%86%e5%9c%98%e4%ba%ae%e7%9b%b82025%e5%8f%b0%e7%81%a3%e5%9c%8b%e9%9a%9b%e6%99%ba%e6%85%a7%e8%83%bd%e6%ba%90%e9%80%b1-%e8%81%9a%e7%84%a6%e3%80%8c%e7%b6%a0%e8%83%bd%ef%bc%8b/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 08:47:15 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274035</guid>
+
+					<description><![CDATA[<p>全球領先的TIC（測試、檢驗與驗證）機構，來自法國的必維集團（Bureau Veritas，以下簡稱BV）再度 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%bf%85%e7%b6%ad%e9%9b%86%e5%9c%98%e4%ba%ae%e7%9b%b82025%e5%8f%b0%e7%81%a3%e5%9c%8b%e9%9a%9b%e6%99%ba%e6%85%a7%e8%83%bd%e6%ba%90%e9%80%b1-%e8%81%9a%e7%84%a6%e3%80%8c%e7%b6%a0%e8%83%bd%ef%bc%8b/">必維集團亮相2025台灣國際智慧能源週 聚焦「綠能＋永續＋資安」助力企業邁向淨零新時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球領先的TIC（測試、檢驗與驗證）機構，來自法國的必維集團（Bureau Veritas，以下簡稱BV）再度參與由外貿協會與SEMI國際半導體產業協會旗下產業聯盟－綠能暨永續發展聯盟（GESA）共同舉辦的「台灣國際智慧能源週（Energy Taiwan）」與「台灣國際淨零永續展（Net-Zero Taiwan）」，展示其在新能源、永續發展與資安治理三大領域的整合解決方案。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-274044" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/Bureau_Veritas-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">必維集團（Bureau Veritas）亮相台灣國際智慧能源週 &#8211; 聚焦新能源、永續與資安整合解決方案</figcaption></figure>
+
+
+
+<p><a href="https://www.bureauveritas.com.tw/industry" target="_blank" rel="noreferrer noopener">工業事業部</a>和<a href="https://www.bureauveritas.com.tw/certification" target="_blank" rel="noreferrer noopener">驗證事業部</a>攜手聚焦淨零轉型三要素：新能源X永續X資安，協助企業制定轉型策略：</p>
+
+
+
+<p><strong>新能源：</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>展示儲能領域的檢測、驗證與檢驗能力，協助企業確保系統安全、符合法規要求，此外，提供氫能驗證與核能等新能源相關檢驗。</li>
+
+
+
+<li>展示電池化學測試（Battery Chemical Testing）與性能驗證服務，涵蓋材料分析、有害物質檢測與安全評估，協助企業確保電池產品符合國際法規與市場要求，支援新能源應用的安全與永續發展。</li>
+</ul>
+
+
+
+<p><strong>永續發展：</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>提供碳盤查、減碳路徑、供應鏈管理與碳中和服務，協助企業建立永續治理體系。</li>
+
+
+
+<li>支援綠色製造與環境足跡評估（LCA），推動產品全生命週期減碳。</li>
+
+
+
+<li>提供化學測試與包裝運輸測試（ISTA）等能力，協助品牌在產品設計、生產與流通階段落實安全與環保要求，打造永續供應鏈。</li>
+
+
+
+<li>歐盟環境標章申請-協助客戶申請接軌國際之各項環保標章，提早佈局國際永續市場。</li>
+
+
+
+<li>提供涵蓋運輸、建築、能源與碳管理等領域的國際永續認驗證服務，包括 ISO 14083（運輸供應鏈碳排放量化與報告）、LEED 綠建築、ISCC 國際永續性與碳驗證、GHG Protocol 等。</li>
+</ul>
+
+
+
+<p><strong>資安：</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>隨著智慧製造與物聯網應用普及，BV提供完整的資安測試與認證服務，包含產品安全性測試、滲透測試與資安管理系統評估，協助企業強化資訊防護能力，確保系統運作安全。</li>
+
+
+
+<li>AI時代的雙軌治理，我們提供ISO 27001、ISO/IEC 42001等相關管理系統認證服務，除了符合資安需求，面對AI使用，協助企業在創新與責任之間取得平衡。</li>
+</ul>
+
+
+
+<p>透過「新能源」、「永續」與「資安」三大核心主題，BV展現其在檢測、檢驗、驗證與永續發展領域的專業實力，攜手企業共創淨零未來。</p>
+
+
+
+<p>BV 連續兩年，被時代雜誌選為全球最佳公司之一，近期獲選納入 巴黎CAC 40股市指數，並榮獲 CDP A級肯定。我們憑藉全球資源和當地專業知識的結合，能夠幫助客戶降低風險，滿足社會需求，並促進企業、政府機構和消費者之間的信任關係。<strong>BV Trust Makers誠邀各界專業先進參與，聚焦新能源、永續與資安整合解決方案，共同探索轉型的機會與挑戰。</strong></p>
+
+
+
+<p><strong>必維攤位資訊</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>中文攤位名稱：必維集團 </li>
+
+
+
+<li>英文攤位名稱：Bureau Veritas </li>
+
+
+
+<li>攤位編號：I0430</li>
+
+
+
+<li>地點：台北南港展覽館1館 (台北市南港區經貿二路1號)</li>
+
+
+
+<li>日期：2025/10/29-31 </li>
+
+
+
+<li>時間：10/29 10:00- 17:00;10/30 10:00- 17:00;10/31 10:00- 16:00 </li>
+</ul>
+
+
+
+<p>展覽官網：<a href="https://www.energytaiwan.com.tw/en/index.html" target="_blank" rel="noreferrer noopener">https://www.energytaiwan.com.tw/en/index.html</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e5%bf%85%e7%b6%ad%e9%9b%86%e5%9c%98%e4%ba%ae%e7%9b%b82025%e5%8f%b0%e7%81%a3%e5%9c%8b%e9%9a%9b%e6%99%ba%e6%85%a7%e8%83%bd%e6%ba%90%e9%80%b1-%e8%81%9a%e7%84%a6%e3%80%8c%e7%b6%a0%e8%83%bd%ef%bc%8b/">必維集團亮相2025台灣國際智慧能源週 聚焦「綠能＋永續＋資安」助力企業邁向淨零新時代</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>七星潭水上明月榮獲花東唯一2025食尚玩家超豪華服務大獎 × ITF線上旅展限時優惠開搶！</title>
+		<link>https://firenews.com.tw/2025/10/29/%e4%b8%83%e6%98%9f%e6%bd%ad%e6%b0%b4%e4%b8%8a%e6%98%8e%e6%9c%88%e6%a6%ae%e7%8d%b2%e8%8a%b1%e6%9d%b1%e5%94%af%e4%b8%802025%e9%a3%9f%e5%b0%9a%e7%8e%a9%e5%ae%b6%e8%b6%85%e8%b1%aa%e8%8f%af%e6%9c%8d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 04:01:51 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[七星潭水上明月]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273832</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 在2025年全台觀光業競爭激烈之際，花蓮七星潭的代表性旅宿「水上明月海景旅店」，榮獲《 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e4%b8%83%e6%98%9f%e6%bd%ad%e6%b0%b4%e4%b8%8a%e6%98%8e%e6%9c%88%e6%a6%ae%e7%8d%b2%e8%8a%b1%e6%9d%b1%e5%94%af%e4%b8%802025%e9%a3%9f%e5%b0%9a%e7%8e%a9%e5%ae%b6%e8%b6%85%e8%b1%aa%e8%8f%af%e6%9c%8d/">七星潭水上明月榮獲花東唯一2025食尚玩家超豪華服務大獎 × ITF線上旅展限時優惠開搶！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>在2025年全台觀光業競爭激烈之際，花蓮七星潭的代表性旅宿「水上明月海景旅店」，榮獲《食尚玩家》年度【超豪華服務大獎】，再度證明其無可取代的頂級住宿品質與獨特異國魅力！這座融合中東宮廷風建築與太平洋海景的夢幻旅宿，不僅成為旅人心中首選，更以服務溫度與細節誠意，獲得評審團及網友票選的一致肯定。</strong></p>
+</blockquote>
+
+
+
+<p>為慶祝榮獲殊榮，「水上明月」重磅推出一年僅此一次的【ITF台北國際旅展限時專案】：</p>
+
+
+
+<p>● 絕美海景房每晚只要6888元！</p>
+
+
+
+<p>● 買更多更優惠！</p>
+
+
+
+<p>● 專人LINE服務即時預訂</p>
+
+
+
+<p>● 活動只到11月17日止！</p>
+
+
+
+<p>● 立即預訂：<a href="https://hotelmoon.net/ITF/news">https://hotelmoon.net/ITF/news</a></p>
+
+
+
+<p>● 客服專線：03-8230600（人數激增中，敬請把握！）</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="970" height="550" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一水上明月-ITF線上旅展限時優惠開搶.png?resize=970%2C550&#038;ssl=1" alt="" class="wp-image-273833" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一水上明月-ITF線上旅展限時優惠開搶.png?w=970&amp;ssl=1 970w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一水上明月-ITF線上旅展限時優惠開搶.png?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一水上明月-ITF線上旅展限時優惠開搶.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 970px) 100vw, 970px" data-recalc-dims="1" /><figcaption class="wp-element-caption">&nbsp;ITF線上旅展限時優惠開搶！（圖／業者提供）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>【美到驚嘆的月光城堡，2025最強打卡景點】</strong></h2>
+
+
+
+<p>從踏入「水上明月」的那一刻起，一場視覺與感官的奇幻旅程即展開——金色拱頂閃耀、摩洛哥風格拱門錯落、頂天的水晶吊燈倒映天光雲影，每一處空間都像走進藝術殿堂。這不只是旅館，而是一座「海之月光城堡」，宛如在童話與現實之間誕生的夢境。</p>
+
+
+
+<p>海景客房可享受絕美海景，推開陽台門，即是七星潭蔚藍海岸與東部日出。白天海天一線，夜晚星辰倒映，搭配舒適羽絨寢具與席夢思等頂級床組，是奢華卻親切的休息天堂。 </p>
+
+
+
+<p>旅人留言：「這裡的景色，讓我捨不得睡，怕錯過任何一刻的美。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="970" height="550" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-水上明月細膩的住宿風格及舒適備品寢具.png?resize=970%2C550&#038;ssl=1" alt="" class="wp-image-273834" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-水上明月細膩的住宿風格及舒適備品寢具.png?w=970&amp;ssl=1 970w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-水上明月細膩的住宿風格及舒適備品寢具.png?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-水上明月細膩的住宿風格及舒適備品寢具.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 970px) 100vw, 970px" data-recalc-dims="1" /><figcaption class="wp-element-caption">細膩的住宿風格及舒適備品寢具（圖／業者提供）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>【榮獲超豪華服務獎，真正懂旅人需求】</strong></h2>
+
+
+
+<p>榮獲《食尚玩家》【超豪華服務大獎】絕非偶然。從迎賓接待、協助行李、介紹設施，並依照房客喜好安排服務細節，餐廳服務人員亦細心記錄客人口味，甚至可為連續入住旅客客製化早餐內容，每一個細節，「水上明月」都做得剛剛好，卻又無比感動。</p>
+
+
+
+<p>不僅如此，飯店還提供「健康晨光早餐」與「主廚晚間饗宴」，選用在地有機食材，結合花蓮海味與歐陸料理創意。無論是一道「黃金柚香龍蝦」，或是「星花蓮吉安米燉飯」，都讓旅人為之驚艷。 更有設計感十足的「玻璃咖啡屋」，在陽光或月光下享受香醇與甜點，令人一試難忘。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="970" height="550" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-水上明月藍天碧海、山海交會的絕景，不需濾鏡便是明信片等級的回憶.png?resize=970%2C550&#038;ssl=1" alt="" class="wp-image-273836" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-水上明月藍天碧海、山海交會的絕景，不需濾鏡便是明信片等級的回憶.png?w=970&amp;ssl=1 970w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-水上明月藍天碧海、山海交會的絕景，不需濾鏡便是明信片等級的回憶.png?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-水上明月藍天碧海、山海交會的絕景，不需濾鏡便是明信片等級的回憶.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 970px) 100vw, 970px" data-recalc-dims="1" /><figcaption class="wp-element-caption">藍天碧海、山海交會的絕景，不需濾鏡便是明信片等級的回憶（圖／業者提供）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>【ITF線上旅展火熱開跑，限時搶購只到11/17！】</strong></h2>
+
+
+
+<p>現在就是入住七星潭最美旅宿的最好時機！</p>
+
+
+
+<p>水上明月為回饋廣大粉絲推出超值線上旅展優惠：</p>
+
+
+
+<p>● 【絕美海景房】每晚只要6888元！</p>
+
+
+
+<p>● 含精緻健康早餐，亦可升級一泊二食</p>
+
+
+
+<p>● 專屬LINE服務，協助挑選房型、安排慶生/紀念日</p>
+
+
+
+<p>● 每日限量搶購，售完為止</p>
+
+
+
+<p>● 活動時間：即日起至 2025年11月17日止</p>
+
+
+
+<p>● 訂房連結：<a href="https://hotelmoon.net/ITF/news">https://hotelmoon.net/ITF/news</a></p>
+
+
+
+<p>● 客服專線：03-8230600</p>
+
+
+
+<p>「水上明月」提醒您：現在搶下優惠，不論是年底度假、聖誕佳節、連假，您都已先掌握最佳房型與價格！</p>
+
+
+
+<h2 class="wp-block-heading"><strong>【最值得前往的度假目的地】</strong></h2>
+
+
+
+<p>在東海岸的星光下，在夢幻建築的懷抱中，水上明月不只是飯店，更是一場療癒身心的旅行儀式。2025榮獲超豪華服務大獎，並推出最難得的ITF限時專案，錯過就得再等一年！</p>
+
+
+
+<p>無論您是浪漫情侶、幸福家庭、或想給自己一段靜謐假期的旅行者，花蓮七星潭的「水上明月」，正等您來共度一場最美的星海之旅。</p>
+
+
+
+<p>旅店網站：<a href="hotelmoon.com.tw">hotelmoon.com.tw</a></p>
+
+
+
+<p>旅店電話：03-8230600 </p>
+
+
+
+<p>旅店地址：花蓮縣新城鄉七星街58號</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/29/%e4%b8%83%e6%98%9f%e6%bd%ad%e6%b0%b4%e4%b8%8a%e6%98%8e%e6%9c%88%e6%a6%ae%e7%8d%b2%e8%8a%b1%e6%9d%b1%e5%94%af%e4%b8%802025%e9%a3%9f%e5%b0%9a%e7%8e%a9%e5%ae%b6%e8%b6%85%e8%b1%aa%e8%8f%af%e6%9c%8d/">七星潭水上明月榮獲花東唯一2025食尚玩家超豪華服務大獎 × ITF線上旅展限時優惠開搶！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>L&#8217;AiR AI 導覽機杜拜GITEX展突破空間導覽想像！　OMO應用全面升級</title>
+		<link>https://firenews.com.tw/2025/10/28/lair-ai-%e5%b0%8e%e8%a6%bd%e6%a9%9f%e6%9d%9c%e6%8b%9cgitex%e5%b1%95%e5%bc%b7%e5%8b%a2%e7%99%bb%e5%a0%b4%ef%bc%81-%e5%a4%9a%e5%a0%b4%e5%9f%9f%e6%87%89%e7%94%a8%e5%b1%95%e7%8f%be%e5%85%a8%e7%90%83/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 06:11:22 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon Web Services]]></category>
+		<category><![CDATA[GITEX展]]></category>
+		<category><![CDATA[L'AiR AI]]></category>
+		<category><![CDATA[L'AiR AI 導覽機]]></category>
+		<category><![CDATA[MarTech]]></category>
+		<category><![CDATA[王一互動]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273395</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 王一互動科技有限公司旗下專注於虛實整合與互動體驗的MarTech品牌L&#8217;A &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/28/lair-ai-%e5%b0%8e%e8%a6%bd%e6%a9%9f%e6%9d%9c%e6%8b%9cgitex%e5%b1%95%e5%bc%b7%e5%8b%a2%e7%99%bb%e5%a0%b4%ef%bc%81-%e5%a4%9a%e5%a0%b4%e5%9f%9f%e6%87%89%e7%94%a8%e5%b1%95%e7%8f%be%e5%85%a8%e7%90%83/">L&#8217;AiR AI 導覽機杜拜GITEX展突破空間導覽想像！　OMO應用全面升級</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>王一互動科技有限公司旗下專注於虛實整合與互動體驗的MarTech品牌L&#8217;AiR，於2025年初正式推出全新AI互動導覽機，導入Amazon Web Services（AWS）的生成式AI技術，結合語意理解、即時互動與場域導引功能，為展覽、零售、企業與文化教育等多元場景帶來空間導覽的智慧升級。</strong></p>
+</blockquote>
+
+
+
+<p>繼2025年2月參展德國杜賽道夫 Eurocis 零售科技展後，L&#8217;AiR AI導覽機於10月再度亮相，攜手 Masterwork Automodules 共同參與杜拜海灣資訊科技展 GITEX，並以全新擬真2D客服形象登場（圖一），將OMO線上線下融合的場域應用推向國際舞台。 </p>
+
+
+
+<p>L&#8217;AiR NAVI AI導覽機已廣泛應用於各類活動，重新定義場域導覽的互動模式，深受眾多知名品牌青睞。包括3月台灣東方馬達於台北博覽會中的會議引導應用（圖二）、7月在@cosme美妝遊樂園提供彩妝導購體驗等（圖三），充分展現L&#8217;AiR AI導覽機應用在各產業中的亮眼表現。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一-1.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-273396" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖一-1.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">025年10 月 L&#8217;AiR AI 導覽機於 Masterwork Automodules鴻發 杜拜 GITEX 展攤中，以擬真客服形象協助多語系產品介紹與導覽應用。圖源 : 王一互動</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>L&#8217;AiR 聚焦創新Martech解決方案　虛擬展間整合線上線下互動體驗</strong></h2>
+
+
+
+<p>L&#8217;AiR專注於投入虛擬實境（VR）、擴增實境（AR）、AI技術開發與整合，其中L&#8217;AiR SPACE虛擬展間已被廣泛應用於文化展覽、品牌體驗與公共場域，滿足現代數位展示的需求。 此次推出的L&#8217;AiR AI智慧導覽機，是為L&#8217;AiR SPACE線下場域延伸，同樣運用 AWS 的 AI 技術，讓生成式AI導覽從線上展間走入實體場域，創造跨平台場域智慧互動，這種虛實結合的展示模式，不僅能延長展覽的生命週期，亦能拓展觀眾接觸與參與展覽的範圍。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-1.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-273397" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖二-1.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025年3月，L&#8217;AiR AI 導覽機 NAVI 以穿上企業背心的形象，於東方馬達台北博覽會中提供即時場域導覽和展會資訊，協助企業推廣最新技術。圖源 : 王一互動</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>你的智慧櫃台真實登場  AI導覽機多語系即問即答</strong></h2>
+
+
+
+<p>L&#8217;AiR AI導覽機以三大創新技術，實現智慧場域的全新互動體驗：包括支援多國語系的即時語音互動、整合虛擬與實境的獨家空間導航技術，以及具備語意理解與即時推薦能力的智慧整合與內容分析。使用者在透過語音輸入後，系統會進行語意辨識與內容推薦，並支援中、英、日等多語系切換，全面滿足國際化場域的溝通需求。 </p>
+
+
+
+<p>此外，搭配3D虛擬展間與即時定位功能，L&#8217;AiR AI導覽機能主動引導觀眾探索展區、推薦相符內容，完美扮演「智慧導覽員」角色。L&#8217;AiR AI導覽機已在多場展覽與實體場域中成功應用，展現其在3D模型、圖像、影片與語音展示、即時互動與資訊引導等多功能優勢，成為現場專業人員在行銷與業務推廣上的最佳夥伴。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-1.jpg?resize=1000%2C667&#038;ssl=1" alt="" class="wp-image-273398" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/圖三-1.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><figcaption class="wp-element-caption">2025年7月，L&#8217;AiR AI 導覽機在@cosme美妝遊樂園中為觀眾推薦專屬美妝產品，透過掃描QR CODE，還能直接用手機開啟線上展間、了解更多。圖源 : 王一互動</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>關於L&#8217;AiR</strong></h2>
+
+
+
+<p>L&#8217;AiR是法文空氣之意，讀音為「There」，名字裡亦包含了AI與AR的意思，官網seeulair.com像在說「那裡見」，L&#8217;AiR SPACE是L&#8217;AiR的第一個產品，從虛擬展間集散地的概念出發，可以延伸到多種情境應用，包括作為線上展覽、簡報工具、房屋裝潢展示間、企業3D網站、產品發表會，或是品牌線上商店、企業3D社群交流等等，免費註冊、即可開始佈置3D線上展間，L&#8217;AiR 旗下其他產品線包括L&#8217;AiR THING、L&#8217;AiR TAG，及SPACE最新應用AI導覽機-NAVI。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>關於王一互動科技</strong></h2>
+
+
+
+<p>王一互動科技為台灣領先的數位展示與互動技術專業團隊，致力於為品牌打造創新的線上與線下整合行銷方案，多種多元數位展示工具，包括虛擬展覽、智慧導覽、AR/VR 體驗等一站式服務，讓品牌輕鬆打造互動性強、沉浸感高且高效運作的行銷新模式，以及自主開發的L&#8217;AiR平台，融合 XR 沉浸式技術與 AI 智慧應用，因此在全球市場中脫穎而出。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/28/lair-ai-%e5%b0%8e%e8%a6%bd%e6%a9%9f%e6%9d%9c%e6%8b%9cgitex%e5%b1%95%e5%bc%b7%e5%8b%a2%e7%99%bb%e5%a0%b4%ef%bc%81-%e5%a4%9a%e5%a0%b4%e5%9f%9f%e6%87%89%e7%94%a8%e5%b1%95%e7%8f%be%e5%85%a8%e7%90%83/">L&#8217;AiR AI 導覽機杜拜GITEX展突破空間導覽想像！　OMO應用全面升級</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>寵物善終新選擇　水化技術打造低碳永續告別儀式</title>
+		<link>https://firenews.com.tw/2025/10/28/%e5%af%b5%e7%89%a9%e5%96%84%e7%b5%82%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e6%b0%b4%e5%8c%96%e6%8a%80%e8%a1%93%e6%89%93%e9%80%a0%e4%bd%8e%e7%a2%b3%e6%b0%b8%e7%ba%8c%e5%91%8a%e5%88%a5%e5%84%80%e5%bc%8f/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 06:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=273537</guid>
+
+					<description><![CDATA[<p>在環保意識抬頭與永續理念推動下，台灣迎來寵物善終的新選擇——水化技術。由「暮浴寵物水化善終中心」率先引進的水化 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/28/%e5%af%b5%e7%89%a9%e5%96%84%e7%b5%82%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e6%b0%b4%e5%8c%96%e6%8a%80%e8%a1%93%e6%89%93%e9%80%a0%e4%bd%8e%e7%a2%b3%e6%b0%b8%e7%ba%8c%e5%91%8a%e5%88%a5%e5%84%80%e5%bc%8f/">寵物善終新選擇　水化技術打造低碳永續告別儀式</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在環保意識抬頭與永續理念推動下，台灣迎來寵物善終的新選擇——水化技術。由「暮浴寵物水化善終中心」率先引進的水化處理方式，主打低碳排放與環境友善，為毛孩打造溫柔告別的同時，也為地球永續盡一份心力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="764" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-257.png?resize=1220%2C764&#038;ssl=1" alt="" class="wp-image-273538" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-257.png?w=1617&amp;ssl=1 1617w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-257.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-257.png?resize=1536%2C962&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption"><em>暮浴負責人楊奇軒說明水化作業流程，期望在珍視生命同時，也為環境永續貢獻一份心力。（圖／蔣于浩攝）</em></figcaption></figure>
+
+
+
+<p>隨著政府推動環保葬政策，台灣目前已有樹葬、植存、花葬、海葬與灑葬等五種環保葬形式。近期，一種新興技術「水化」逐漸受到關注，雖尚未納入人類遺體處理範疇，但已在寵物善終領域展開實踐。</p>
+
+
+
+<p>「暮浴寵物水化善終中心」位於新北市汐止區，由執行長楊奇軒領軍，團隊自主研發水化設備並在台灣製造。水化技術透過鹼性水解，將遺體脂肪與組織分解為無害的有機化合物，最終液體僅含鹽與胺基酸，可安全排入下水道或用於灌溉。根據《華盛頓郵報》報導，水化比傳統火化減少35%溫室氣體排放，並節省高達90%的能源。</p>
+
+
+
+<p>楊奇軒表示：「在國外，稀釋後的水化液常用於高爾夫球場或草坪灌溉，性質類似氮肥，也可用來澆花。」他強調，暮浴希望在珍視生命的同時，提供飼主更溫和且環保的告別方式。</p>
+
+
+
+<p>然而，水化技術的推廣仍面臨挑戰。銘傳大學生物科技學系助理教授尤恩民指出，水化系統尚未普及，法律規範、成本負擔及文化接受度是三大障礙。他建議政府提供補助，並強化社會溝通與設備普及性，才能逐步推動水化技術的全球化應用。</p>
+
+
+
+<p>楊奇軒期盼，透過政府與業界的攜手合作，以及飼主的支持與選擇，能讓水化技術在台灣更廣泛落地，為寵物打造溫柔告別，也為地球永續開創新局。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/28/%e5%af%b5%e7%89%a9%e5%96%84%e7%b5%82%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e6%b0%b4%e5%8c%96%e6%8a%80%e8%a1%93%e6%89%93%e9%80%a0%e4%bd%8e%e7%a2%b3%e6%b0%b8%e7%ba%8c%e5%91%8a%e5%88%a5%e5%84%80%e5%bc%8f/">寵物善終新選擇　水化技術打造低碳永續告別儀式</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
