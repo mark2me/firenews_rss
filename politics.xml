@@ -1,380 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
-<channel>
-	<title>政治 彙整 - 火報</title>
-	<atom:link href="https://firenews.com.tw/category/%e6%94%bf%e6%b2%bb/feed/" rel="self" type="application/rss+xml" />
-	<link>https://firenews.com.tw/category/政治/</link>
-	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Mon, 27 Oct 2025 13:26:26 +0000</lastBuildDate>
-	<language>zh-TW</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>The page is temporarily unavailable</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #900;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #900;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #000;
+            }
+            h3 {
+                text-align: center;
+                background-color: #ff0000;
+                padding: 0.5em;
+                color: #fff;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
 
-<image>
-	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
-	<title>政治 彙整 - 火報</title>
-	<link>https://firenews.com.tw/category/政治/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>光復重建會埸 議長張峻一腳踹出的不是桌子 是災民被忽視的怒氣!</title>
-		<link>https://firenews.com.tw/2025/10/27/%e5%85%89%e5%be%a9%e9%87%8d%e5%bb%ba%e6%9c%83%e5%9f%b8-%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e4%b8%80%e8%85%b3%e8%b8%b9%e5%87%ba%e7%9a%84%e4%b8%8d%e6%98%af%e6%a1%8c%e5%ad%90-%e6%98%af%e7%81%bd%e6%b0%91/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 13:26:26 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/27/%e5%85%89%e5%be%a9%e9%87%8d%e5%bb%ba%e6%9c%83%e5%9f%b8-%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e4%b8%80%e8%85%b3%e8%b8%b9%e5%87%ba%e7%9a%84%e4%b8%8d%e6%98%af%e6%a1%8c%e5%ad%90-%e6%98%af%e7%81%bd%e6%b0%91/</guid>
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/花蓮社論報導 花蓮光復鄉仍陷於堰塞湖潰壩災後的滿目瘡痍之中，重建工程與居民安置尚在 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%85%89%e5%be%a9%e9%87%8d%e5%bb%ba%e6%9c%83%e5%9f%b8-%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e4%b8%80%e8%85%b3%e8%b8%b9%e5%87%ba%e7%9a%84%e4%b8%8d%e6%98%af%e6%a1%8c%e5%ad%90-%e6%98%af%e7%81%bd%e6%b0%91/">光復重建會埸 議長張峻一腳踹出的不是桌子 是災民被忽視的怒氣!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/花蓮社論報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>花蓮光復鄉仍陷於堰塞湖潰壩災後的滿目瘡痍之中，重建工程與居民安置尚在艱難推進。未料，今（27）日下午在光復鄉舉辦的「災後重建特別條例座談會」卻爆發激烈衝突——花蓮縣議長張峻帶人闖入現場，與立委傅崐萁發生推擠、踹桌等行為，會議中斷，畫面迅速在全台傳開。</p>
-<p>這起事件，既是地方政治恩怨的延伸，也折射出災區民眾長期累積的不信任感與被忽視的憤怒。對花蓮而言，這不只是一次肢體衝突，而是一場關於「誰能代表災民發聲」的對決。</p>
-<p>政治責任的模糊：從公務討論到政治對抗</p>
-<p>傅崐萁在事件後對外強調，張峻「公然施暴」、「傷害花蓮聲譽」，並代表花蓮人向全國致歉。此舉意在樹立道德制高點，切割暴力行為，維護政治正當性。然而，事件的另一面則是——為何一場原本應該以災後重建為主題的會議，竟成為政治派系動員的現場？<br />花蓮政治長期由傅系勢力主導，地方資源分配、建設規劃多繞傅系體系運作。張峻此次行動雖激烈，但也象徵地方政治的「反抗情緒」正在浮上檯面。這不只是個人衝突，而是體制性壓力的爆發。</p>
-<p>重建需要的是信任與透明</p>
-<p>災後重建是長期工程，需要中央、地方與民間協力。傅崐萁與張峻兩人身分不同、立場對立，但對花蓮人而言，他們共同的責任，應是重建信任。<br />事件過後，中央應主動介入協調，確保未來的災後討論公開透明，讓民眾能參與決策，而非淪為政治秀的背景。花蓮人需要的，不是誰道歉、誰開記者會，而是能真正讓家園恢復、安全重建的行動。</p>
-<p>結語：別讓災區成為權力的戰場</p>
-<p>當災民還在泥濘中掙扎，政治人物卻在會場衝突，這樣的畫面不僅令人心寒，也損害公共信任。<br />災後重建應以人民為中心，不應成為權力角力的延伸。傅崐萁與張峻都該從這場衝突中反省：花蓮人要的不是政治鬥爭，而是公平、透明、可被信賴的重建過程。<br />唯有讓災民真正參與決策、讓重建公開透明，花蓮才能在災後走出陰霾，重建的不只是家園，更是信任。</p>
-<p>這篇文章 <a href="https://www.fclnews.com/145117/">光復重建會埸 議長張峻一腳踹出的不是桌子 是災民被忽視的怒氣!</a> 是由 <a href="https://www.fclnews.com/">台灣新聞雲報</a> 提供。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e5%85%89%e5%be%a9%e9%87%8d%e5%bb%ba%e6%9c%83%e5%9f%b8-%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e4%b8%80%e8%85%b3%e8%b8%b9%e5%87%ba%e7%9a%84%e4%b8%8d%e6%98%af%e6%a1%8c%e5%ad%90-%e6%98%af%e7%81%bd%e6%b0%91/">光復重建會埸 議長張峻一腳踹出的不是桌子 是災民被忽視的怒氣!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>花蓮縣議長張峻進場 怒踹傅崐萁的桌子相當火爆</title>
-		<link>https://firenews.com.tw/2025/10/27/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e9%80%b2%e5%a0%b4-%e6%80%92%e8%b8%b9%e5%82%85%e5%b4%90%e8%90%81%e7%9a%84%e6%a1%8c%e5%ad%90%e7%9b%b8%e7%95%b6%e7%81%ab%e7%88%86/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 10:25:59 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/27/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e9%80%b2%e5%a0%b4-%e6%80%92%e8%b8%b9%e5%82%85%e5%b4%90%e8%90%81%e7%9a%84%e6%a1%8c%e5%ad%90%e7%9b%b8%e7%95%b6%e7%81%ab%e7%88%86/</guid>
+    <body>
+        <h1><strong>nginx error!</strong></h1>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/花蓮報導 今（27）日下午，國民黨立委傅崐萁、鄭天財等人在花蓮縣光復鄉大華村活動中 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e9%80%b2%e5%a0%b4-%e6%80%92%e8%b8%b9%e5%82%85%e5%b4%90%e8%90%81%e7%9a%84%e6%a1%8c%e5%ad%90%e7%9b%b8%e7%95%b6%e7%81%ab%e7%88%86/">花蓮縣議長張峻進場 怒踹傅崐萁的桌子相當火爆</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/花蓮報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>今（27）日下午，國民黨立委傅崐萁、鄭天財等人在花蓮縣光復鄉大華村活動中心，舉行「光復鄉堰塞湖受災區重建座談會」，但許多災民都不知道有這場座談會，聚在場外抗議，議長張峻甚至直接進場，怒踹傅崐萁的桌子，相當火爆。</p>
-<p>傅崐萁、鄭天財下午1時30分在大華村活動中心舉行座談會，要聽取災民心聲，但該場活動傳出只邀了花蓮縣府各級官員、部分地方代表及部分災民，有不少災民不知道這場座談會的舉辦，所以相當不滿。</p>
-<p>近300位災民不得其門而入，被員警及傅崐萁辦公室的同仁擋在活動中心外，同樣未被邀請的議長張峻在下午2時19分到場，他看到眾多災民被擋在門口，瞬間爆氣，立即跑進場踹傅崐萁的桌子，傅回嗆：「黑道，現行犯，抓起來」。</p>
-<p>傅崐萁與張峻展開互罵，現場可以說是亂成一團。張峻隨後從活動中心走出來，與不得入內的災民站在一起，要縣府官員給個交代。</p>
-<p>這篇文章 <a href="https://www.fclnews.com/145063/">花蓮縣議長張峻進場 怒踹傅崐萁的桌子相當火爆</a> 是由 <a href="https://www.fclnews.com/">台灣新聞雲報</a> 提供。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/27/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e9%80%b2%e5%a0%b4-%e6%80%92%e8%b8%b9%e5%82%85%e5%b4%90%e8%90%81%e7%9a%84%e6%a1%8c%e5%ad%90%e7%9b%b8%e7%95%b6%e7%81%ab%e7%88%86/">花蓮縣議長張峻進場 怒踹傅崐萁的桌子相當火爆</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>德公移山-賣台！ICT生態系要到美國？ 國民黨團記者會!</title>
-		<link>https://firenews.com.tw/2025/10/20/%e5%be%b7%e5%85%ac%e7%a7%bb%e5%b1%b1-%e8%b3%a3%e5%8f%b0%ef%bc%81ict%e7%94%9f%e6%85%8b%e7%b3%bb%e8%a6%81%e5%88%b0%e7%be%8e%e5%9c%8b%ef%bc%9f-%e5%9c%8b%e6%b0%91%e9%bb%a8%e5%9c%98%e8%a8%98%e8%80%85/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 05:26:02 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/20/%e5%be%b7%e5%85%ac%e7%a7%bb%e5%b1%b1-%e8%b3%a3%e5%8f%b0%ef%bc%81ict%e7%94%9f%e6%85%8b%e7%b3%bb%e8%a6%81%e5%88%b0%e7%be%8e%e5%9c%8b%ef%bc%9f-%e5%9c%8b%e6%b0%91%e9%bb%a8%e5%9c%98%e8%a8%98%e8%80%85/</guid>
+        <div class="content">
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/桃園報導 副總統蕭美琴近期接受加拿大廣播公司CBC專訪提到，承諾川普政府在美國投資 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e5%be%b7%e5%85%ac%e7%a7%bb%e5%b1%b1-%e8%b3%a3%e5%8f%b0%ef%bc%81ict%e7%94%9f%e6%85%8b%e7%b3%bb%e8%a6%81%e5%88%b0%e7%be%8e%e5%9c%8b%ef%bc%9f-%e5%9c%8b%e6%b0%91%e9%bb%a8%e5%9c%98%e8%a8%98%e8%80%85/">德公移山-賣台！ICT生態系要到美國？ 國民黨團記者會!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/桃園報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>副總統蕭美琴近期接受加拿大廣播公司CBC專訪提到，承諾川普政府在美國投資的不只台積電，還包含整個台積電生態系；國內產業憂心，認為台灣現在連資通訊相關產業也整碗送給美國，台灣未來恐難立足。國民黨團今(20)上午召開記者會，嚴正要求民進黨政府，不能被美國予取予求，草率做出自毀長城行為。</p>
-<p>國民黨團要求民進黨政府，必須拿出辦法、行動和決心告訴美國，觸及台灣最重要的核心利益時，要有說「不」的勇氣。國民黨團會在立院持續監督，呼籲民進黨政府三思而後行。國民黨團也希望川普政府看到台灣釋出這麼多善意之後，也能看到川普政府的善意。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="600" data-id="142862" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?resize=800,600&amp;ssl=1" alt="" class="wp-image-142862" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?resize=800,600&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?resize=500%2C375&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343271024012448729215174026.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>書記長羅智強表示，國民黨「護國造山」，民進黨則是「德公移山」，1970年代國民黨政府決定要發展半導體，在1987年由當時蔣經國總統、行政院長孫運璿、李國鼎先生，從創立科學園區基礎，促成籌設以工研院技術移轉，成立「台灣積體電路公司」（TSMC）。國民黨半世紀打造護國神山和護國神山群，現在民進黨「德公移山」政策下，快速被掏空。</p>
-<p>羅智強指出，蕭美琴副總統在接受外媒採訪說：「不僅是台積電，還包括整個生態系其他部分，從供應商到設計商，乃至其他晶片製造公司。」民進黨要賣掉的不僅是護國神山，而是整個護國山脈打包賣掉。羅智強痛斥，這是甚麼樣的喪權辱國、出賣台灣的政府！羅智強認為，這才是台灣目前最嚴重的危機！台積電變成和氏璧，列強虎視眈眈吞食、分食。只有民進黨政府唾面自乾，「德公移山」後會賺翻，而鴕鳥式邏輯，將台灣最重要的核心引擎挖走、掏空！</p>
-<p>國民黨團嚴正要求民進黨政府，不能對美國要求予取予求，即便是最重要的盟友，但是仍須有為有守。民進黨政府必須拿出辦法、行動和決心告訴美國，觸及台灣最重要的核心利益時，要有說「不」的勇氣。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="600" data-id="142863" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1" alt="" class="wp-image-142863" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=500%2C375&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>首席副書記長林沛祥表示，古有愚公移山，今有「德公移山」，總統賴清德不僅要讓台積電移往美國，現在連相關ICT產業「資訊與通訊科技（Information and Communication Technology）」 也要跟著移往美國。過去是前人種樹後人乘涼，現在民進黨政府是「前人砍樹、後人曬太陽」，副總統蕭美琴在接受外媒採訪時，已經等同於證實因應美國要求，除了台積電之外，將有50%ICT產業包括設計商、製造商很有可能直接投資美國。</p>
-<p>林沛祥指出，蕭美琴副總統甚至說希望能以「繼續支持台灣成長，同時強化美國實力」方式來合作。林沛祥質疑，身為中華民國副總統，竟然公開承諾將台灣命脈直接移到美國，甚至ICT產業要角全部都要移往美國，這無疑是要斬斷台灣經濟命脈。林沛祥認為，如此將對台灣產業造成毀滅性傷害。林沛祥要求民進黨政府講清楚說明白，同時向國人承諾，不會傷害台灣ICT產業，國民黨團絕不容許傷害ICT產業的決策。</p>
-<p>藍委吳宗憲表示，「再美的話術，也掩蓋不了基本邏輯的謬誤」，民進黨一直告訴國人，台積電相關產業鏈赴美，對台灣產業升級有幫助，甚至部分綠營政客還誇稱會「賺濫全世界」。吳宗憲質疑，台灣相關ICT產業移到美國，可以「賺濫全世界」，那麼以追逐利益為目的商人，為何不早這麼做？美國又為何要求他國產業往美國移？民進黨政府正在做相反的事，民進黨政府在騙人、政客也在騙人！</p>
-<p>吳宗憲指出，過去民進黨一直告訴國人，因為我們有護國神山，不怕中共武力犯台，現在要把護國神山移走，卻雲淡風輕說「沒關係」。吳宗憲說，現在要移走的不只是護國神山，而是整個山脈，相關ICT產業鏈包括封裝測試、晶圓製造、IP設計和上游材料等等，從蕭美琴副總統口中得知，將全部移往美國，這樣對嗎？對國內科技業有幫助嗎？這真的是根留台灣嗎？彷彿如千年前番邦向宗主國朝貢般。</p>
-<p>吳宗憲認為，如果不能在有限的資源下，維持局部壓倒優勢，將會被新的區域分工所取代，而台灣現在不僅是被取代，而是整個讓出，整個國際局勢並未讓台灣獲得到好的回饋，永遠屈於下風，無法做出選擇。</p>
-<p>吳宗憲指出，根據《產創條例》第22條規定，公司或有限合夥事業從事國外投資於特定國家或地區、投資涉及特定產業或技術、投資達一定金額，應於實行投資前，向中央主管機關申請核准。但在民進黨政府內，似乎僅限於對中國投資，對美投資像是忘了有這個法律規定，且沾沾自喜。</p>
-<p>藍委牛煦庭表示，台積電從投資，到50%設廠、複製竹科模式，現在變成生態系的搬移，在在顯示民進黨政府正在自毀長城。美國要的是「再工業化」，剝奪台灣ICT產業不可替代性。牛煦庭說，擔心斷鏈後各式各樣的後遺症，除了台積電，還有更多大小不同規模的產業鏈，跟著半導體創造的產值、就業機會和不可替代性，當整個生態系都搬到美國，是全部遷移台灣矽盾從此歸零，還是僅大企業赴美，中小企業從此斷鏈，從此沒有活路。</p>
-<p>牛煦庭表示，民進黨政府不能如此草率做出自毀長城行為，國民黨團會在立院持續監督，呼籲民進黨府三思而後行。國民黨團也希望川普政府看到台灣釋出這麼多善意之後，也能看到川普政府的善意。</p>
-<p>這篇文章 <a href="https://www.fclnews.com/142865/">德公移山-賣台！ICT生態系要到美國？ 國民黨團記者會!</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/20/%e5%be%b7%e5%85%ac%e7%a7%bb%e5%b1%b1-%e8%b3%a3%e5%8f%b0%ef%bc%81ict%e7%94%9f%e6%85%8b%e7%b3%bb%e8%a6%81%e5%88%b0%e7%be%8e%e5%9c%8b%ef%bc%9f-%e5%9c%8b%e6%b0%91%e9%bb%a8%e5%9c%98%e8%a8%98%e8%80%85/">德公移山-賣台！ICT生態系要到美國？ 國民黨團記者會!</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>中央卡桃園鐵路地下化預算　卓榮泰一句「沒錢」惹民怨　萬美玲怒批：對不起桃園！</title>
-		<link>https://firenews.com.tw/2025/10/15/%e4%b8%ad%e5%a4%ae%e5%8d%a1%e6%a1%83%e5%9c%92%e9%90%b5%e8%b7%af%e5%9c%b0%e4%b8%8b%e5%8c%96%e9%a0%90%e7%ae%97%e3%80%80%e5%8d%93%e6%a6%ae%e6%b3%b0%e4%b8%80%e5%8f%a5%e3%80%8c%e6%b2%92%e9%8c%a2%e3%80%8d/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 09:26:03 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/15/%e4%b8%ad%e5%a4%ae%e5%8d%a1%e6%a1%83%e5%9c%92%e9%90%b5%e8%b7%af%e5%9c%b0%e4%b8%8b%e5%8c%96%e9%a0%90%e7%ae%97%e3%80%80%e5%8d%93%e6%a6%ae%e6%b3%b0%e4%b8%80%e5%8f%a5%e3%80%8c%e6%b2%92%e9%8c%a2%e3%80%8d/</guid>
+            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/立法院報導 立法院今（14）日邀請行政院長卓榮泰備詢，國民黨立委萬美玲關切桃園鐵路 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%b8%ad%e5%a4%ae%e5%8d%a1%e6%a1%83%e5%9c%92%e9%90%b5%e8%b7%af%e5%9c%b0%e4%b8%8b%e5%8c%96%e9%a0%90%e7%ae%97%e3%80%80%e5%8d%93%e6%a6%ae%e6%b3%b0%e4%b8%80%e5%8f%a5%e3%80%8c%e6%b2%92%e9%8c%a2%e3%80%8d/">中央卡桃園鐵路地下化預算　卓榮泰一句「沒錢」惹民怨　萬美玲怒批：對不起桃園！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/立法院報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>立法院今（14）日邀請行政院長卓榮泰備詢，國民黨立委萬美玲關切桃園鐵路地下化工程進度嚴重落後，並質疑中央遲未核定追加預算與分攤比例，對地方不公平。</p>
-<p>立委萬美玲指出，桃園鐵路地下化原訂至8月31日應完成46%的進度，但實際僅達33%，落後超過12%。工程因此須追加769億元經費，相關變更計畫於8月20日送至行政院，但至今仍未核定。</p>
-<p>交通部長陳世凱回應，預算審議過程中確實花了一段時間，主要是與桃園市政府討論中央與地方的分攤比例。</p>
-<p>萬美玲則批評，「此時此刻還在談分配，對地方是不公平的。除非中央願意負擔更多，否則最少也要維持原先75比25的比例。」</p>
-<p>對此，卓榮泰表示，「我們今年、明年4165億的統籌分配稅款已經從中央移到地方了，我們哪有那麼多錢做同樣的工作。」他強調「這是唯一的答案」。</p>
-<p>立委萬美玲聽後則反駁，「這樣的說法在很多地方會被打臉，你不要再這樣說了。如果在鐵路地下化案上用這種理由，全桃園市的市民都無法原諒你。」</p>
-<p>這篇文章 <a href="https://www.fclnews.com/141438/">中央卡桃園鐵路地下化預算　卓榮泰一句「沒錢」惹民怨　萬美玲怒批：對不起桃園！</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/15/%e4%b8%ad%e5%a4%ae%e5%8d%a1%e6%a1%83%e5%9c%92%e9%90%b5%e8%b7%af%e5%9c%b0%e4%b8%8b%e5%8c%96%e9%a0%90%e7%ae%97%e3%80%80%e5%8d%93%e6%a6%ae%e6%b3%b0%e4%b8%80%e5%8f%a5%e3%80%8c%e6%b2%92%e9%8c%a2%e3%80%8d/">中央卡桃園鐵路地下化預算　卓榮泰一句「沒錢」惹民怨　萬美玲怒批：對不起桃園！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>桃園市議長邱奕勝及議會黨團議員齊聚支持國民黨主席候選人鄭麗文</title>
-		<link>https://firenews.com.tw/2025/10/14/%e6%a1%83%e5%9c%92%e5%b8%82%e8%ad%b0%e9%95%b7%e9%82%b1%e5%a5%95%e5%8b%9d%e5%8f%8a%e8%ad%b0%e6%9c%83%e9%bb%a8%e5%9c%98%e8%ad%b0%e5%93%a1%e9%bd%8a%e8%81%9a%e6%94%af%e6%8c%81%e5%9c%8b%e6%b0%91%e9%bb%a8/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 05:25:57 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/14/%e6%a1%83%e5%9c%92%e5%b8%82%e8%ad%b0%e9%95%b7%e9%82%b1%e5%a5%95%e5%8b%9d%e5%8f%8a%e8%ad%b0%e6%9c%83%e9%bb%a8%e5%9c%98%e8%ad%b0%e5%93%a1%e9%bd%8a%e8%81%9a%e6%94%af%e6%8c%81%e5%9c%8b%e6%b0%91%e9%bb%a8/</guid>
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>Something has triggered missing webpage on your
+                    website. This is the default error page for
+                    <strong>nginx</strong> that is distributed with
+                    Red Hat Enterprise Linux.  It is located
+                    <tt>/usr/share/nginx/html/50x.html</tt></p>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/桃園報導 桃園市議會議長邱奕勝，以及國民黨團議員與部分無黨籍議員，今日一同表態支持 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e6%a1%83%e5%9c%92%e5%b8%82%e8%ad%b0%e9%95%b7%e9%82%b1%e5%a5%95%e5%8b%9d%e5%8f%8a%e8%ad%b0%e6%9c%83%e9%bb%a8%e5%9c%98%e8%ad%b0%e5%93%a1%e9%bd%8a%e8%81%9a%e6%94%af%e6%8c%81%e5%9c%8b%e6%b0%91%e9%bb%a8/">桃園市議長邱奕勝及議會黨團議員齊聚支持國民黨主席候選人鄭麗文</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/桃園報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>桃園市議會議長邱奕勝，以及國民黨團議員與部分無黨籍議員，今日一同表態支持國民黨主席候選人鄭麗文，展現黨內團結的決心。鄭麗文在議會致詞時表示，中國國民黨將努力完成政黨輪替的神聖使命，並對議長、副議長及全體議會團隊深深鞠躬致謝。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="453" data-id="141040" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1" alt="" class="wp-image-141040" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=500%2C283&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>現場氣氛熱烈，議員們並準備了象徵祝福的粽子贈送給鄭麗文，象徵黨內齊心合作、團結一心的精神。邱議長也提到，他與市長郝市長相識多年，對鄭麗文的人格特質非常熟悉，並表示國民黨希望在選舉過程中展現團結與民主風度，選後更能肩並肩站在一起，共同面對未來更艱辛的挑戰。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="444" data-id="141042" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1" alt="" class="wp-image-141042" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=500%2C278&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=768%2C426&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>對於黨內有人質疑鄭麗文選舉經驗不足，邱議長回應指出，鄭麗文具備完整的黨務與選務經驗，曾擔任黨發言人、文傳會主委、副秘書長、政策會副執行長，以及兩屆不分區立委，累積了豐富的輔選經驗。過往她曾被派往艱困選區，最終仍交出亮眼成績，成功整合當地國民黨派系，證明了黨內團結的重要性。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" loading="lazy" decoding="async" width="800" height="434" data-id="141043" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?resize=800,434&amp;ssl=1" alt="" class="wp-image-141043" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?resize=800,434&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?resize=500%2C271&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?resize=300%2C163&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?resize=768%2C417&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192230553810282542735829544.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>邱議長強調，國民黨所有同志期待藉由團結，贏得勝選，並以實際行動展現黨的凝聚力與責任感。</p>
-<p>這篇文章 <a href="https://www.fclnews.com/141045/">桃園市議長邱奕勝及議會黨團議員齊聚支持國民黨主席候選人鄭麗文</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/14/%e6%a1%83%e5%9c%92%e5%b8%82%e8%ad%b0%e9%95%b7%e9%82%b1%e5%a5%95%e5%8b%9d%e5%8f%8a%e8%ad%b0%e6%9c%83%e9%bb%a8%e5%9c%98%e8%ad%b0%e5%93%a1%e9%bd%8a%e8%81%9a%e6%94%af%e6%8c%81%e5%9c%8b%e6%b0%91%e9%bb%a8/">桃園市議長邱奕勝及議會黨團議員齊聚支持國民黨主席候選人鄭麗文</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>羅智強聲明謠言止於真相！我不退選！我不結盟！我不交易！只戰到底！</title>
-		<link>https://firenews.com.tw/2025/10/08/%e7%be%85%e6%99%ba%e5%bc%b7%e8%81%b2%e6%98%8e%e8%ac%a0%e8%a8%80%e6%ad%a2%e6%96%bc%e7%9c%9f%e7%9b%b8%ef%bc%81%e6%88%91%e4%b8%8d%e9%80%80%e9%81%b8%ef%bc%81%e6%88%91%e4%b8%8d%e7%b5%90%e7%9b%9f%ef%bc%81/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 05:29:56 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/08/%e7%be%85%e6%99%ba%e5%bc%b7%e8%81%b2%e6%98%8e%e8%ac%a0%e8%a8%80%e6%ad%a2%e6%96%bc%e7%9c%9f%e7%9b%b8%ef%bc%81%e6%88%91%e4%b8%8d%e9%80%80%e9%81%b8%ef%bc%81%e6%88%91%e4%b8%8d%e7%b5%90%e7%9b%9f%ef%bc%81/</guid>
+                    <p>You should customize this error page for your own
+                    site or edit the <tt>error_page</tt> directive in
+                    the <strong>nginx</strong> configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/台北報導 羅智強：謠言止於真相，我們要戰到最後！雖然民調顯示鄭麗文領先，但我始終堅 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%be%85%e6%99%ba%e5%bc%b7%e8%81%b2%e6%98%8e%e8%ac%a0%e8%a8%80%e6%ad%a2%e6%96%bc%e7%9c%9f%e7%9b%b8%ef%bc%81%e6%88%91%e4%b8%8d%e9%80%80%e9%81%b8%ef%bc%81%e6%88%91%e4%b8%8d%e7%b5%90%e7%9b%9f%ef%bc%81/">羅智強聲明謠言止於真相！我不退選！我不結盟！我不交易！只戰到底！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/台北報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>羅智強：謠言止於真相，我們要戰到最後！雖然民調顯示鄭麗文領先，但我始終堅信—逆轉勝，絕非不可能！然而，近期卻有人散布謠言：「羅智強要退選禮讓鄭麗文」。我強力駁斥：「造謠退選就告！」更有人說：「羅智強和郝、朱結盟」。我要再次嚴正聲明-自宣布參選中國國民黨主席以來，除了在辯論會、政見會或公開活動上，我從未、也不會與任何參選人私下會面。更不存在什麼「結盟」！羅智強，從不背叛支持者！<br />要麼光榮戰勝，要麼光榮戰敗。挺直胸膛，戰到最後！這一場黨主席選舉，從未操作「棄誰保誰」，卻一次次被操作「棄羅保鄭」、「棄羅保郝」。對手不是民進黨，我們也不需要學民進黨那一套「分化」與「造謠」。我承認，這些棄保謠言曾讓我暫時逆風，但逆風時刻，正是強友出手的時刻！</p>
-<p>拜託一路陪我征戰的強友們-請全員動起來！擊碎謠言，澄清真相！<br />讓社群、基層、每一個相信正義的人都知道，羅智強不退縮、不交易、不結盟，只戰到底！</p>
-<p>昨天，高金素梅、徐巧芯與我，在邱鎮軍委員、徐功凡議員協助下，舉辦了苗栗基層黨員座談。進場時，我逐一握手，一位黨員女士握著我的手說：「要選就選最強的，你放心，我們不會被棄保謠言影響，我已經全力拉票，一定要看到你當選黨主席！」最後十天，我們一起拼！用行動，用熱血，再創<strong>「逆轉勝」的奇蹟</strong>！這一場勝利，我要和大家一起贏！</p>
-<p>這篇文章 <a href="https://www.fclnews.com/139565/">羅智強聲明謠言止於真相！我不退選！我不結盟！我不交易！只戰到底！</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/08/%e7%be%85%e6%99%ba%e5%bc%b7%e8%81%b2%e6%98%8e%e8%ac%a0%e8%a8%80%e6%ad%a2%e6%96%bc%e7%9c%9f%e7%9b%b8%ef%bc%81%e6%88%91%e4%b8%8d%e9%80%80%e9%81%b8%ef%bc%81%e6%88%91%e4%b8%8d%e7%b5%90%e7%9b%9f%ef%bc%81/">羅智強聲明謠言止於真相！我不退選！我不結盟！我不交易！只戰到底！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>桃園市政顧問彭柏霖勤跑平鎮三十多里　為2026議員選舉暖身全力投入公益關懷</title>
-		<link>https://firenews.com.tw/2025/10/06/%e6%a1%83%e5%9c%92%e5%b8%82%e6%94%bf%e9%a1%a7%e5%95%8f%e5%bd%ad%e6%9f%8f%e9%9c%96%e5%8b%a4%e8%b7%91%e5%b9%b3%e9%8e%ae%e4%b8%89%e5%8d%81%e5%a4%9a%e9%87%8c%e3%80%80%e7%82%ba2026%e8%ad%b0%e5%93%a1/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 04:29:55 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/10/06/%e6%a1%83%e5%9c%92%e5%b8%82%e6%94%bf%e9%a1%a7%e5%95%8f%e5%bd%ad%e6%9f%8f%e9%9c%96%e5%8b%a4%e8%b7%91%e5%b9%b3%e9%8e%ae%e4%b8%89%e5%8d%81%e5%a4%9a%e9%87%8c%e3%80%80%e7%82%ba2026%e8%ad%b0%e5%93%a1/</guid>
+                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/桃園報導 中秋節連假期間，平鎮區各里活動不斷，桃園市政顧問彭柏霖幾乎馬不停蹄跑透透 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/06/%e6%a1%83%e5%9c%92%e5%b8%82%e6%94%bf%e9%a1%a7%e5%95%8f%e5%bd%ad%e6%9f%8f%e9%9c%96%e5%8b%a4%e8%b7%91%e5%b9%b3%e9%8e%ae%e4%b8%89%e5%8d%81%e5%a4%9a%e9%87%8c%e3%80%80%e7%82%ba2026%e8%ad%b0%e5%93%a1/">桃園市政顧問彭柏霖勤跑平鎮三十多里　為2026議員選舉暖身全力投入公益關懷</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/桃園報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>中秋節連假期間，平鎮區各里活動不斷，桃園市政顧問彭柏霖幾乎馬不停蹄跑透透，從早到晚穿梭於各社區與民眾同樂。第一站他來到福林宮廣場，與地方耆老一同祈福並分送月餅；第二場出席忠貞里中秋晚會，與居民一起欣賞表演、聯誼互動；第三場再趕赴雙連里社區活動，親切與長輩問候寒暄，場面熱絡。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="691" data-id="139068" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1" alt="" class="wp-image-139068" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=500%2C432&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=300%2C259&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=768%2C664&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>彭柏霖表示，中秋節是團圓與感恩的節日，更是服務地方、傾聽民意的重要時刻。他強調，服務不是選舉時才開始，而是長期的責任，未來將持續投入公益活動、關懷弱勢族群，讓平鎮成為更有溫度的城市。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="630" data-id="139069" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1" alt="" class="wp-image-139069" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=500%2C394&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=768%2C605&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?w=1128&amp;ssl=1 1128w" sizes="(max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>地方人士指出，彭柏霖長期深耕平鎮，從29歲投入公益至今已逾15年，對地方建設及社會服務皆不遺餘力。許多民眾肯定他「平時就做事、不只選舉才出現」，認為他是少數真正為地方默默付出的年輕實幹派。</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" loading="lazy" decoding="async" width="800" height="769" data-id="139070" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?resize=800,769&amp;ssl=1" alt="" class="wp-image-139070" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?resize=800,769&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?resize=500%2C481&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?resize=300%2C289&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?resize=768%2C739&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233164233147659501248236628.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
-</figure>
-<p>「腳踏實地、做實事，從平鎮出發、為鄉里打拚。」<br />這句話不僅是彭柏霖的座右銘，也展現他長期服務地方、一步一腳印的行動力。</p>
-<p>這篇文章 <a href="https://www.fclnews.com/139072/">桃園市政顧問彭柏霖勤跑平鎮三十多里　為2026議員選舉暖身全力投入公益關懷</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/10/06/%e6%a1%83%e5%9c%92%e5%b8%82%e6%94%bf%e9%a1%a7%e5%95%8f%e5%bd%ad%e6%9f%8f%e9%9c%96%e5%8b%a4%e8%b7%91%e5%b9%b3%e9%8e%ae%e4%b8%89%e5%8d%81%e5%a4%9a%e9%87%8c%e3%80%80%e7%82%ba2026%e8%ad%b0%e5%93%a1/">桃園市政顧問彭柏霖勤跑平鎮三十多里　為2026議員選舉暖身全力投入公益關懷</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</title>
-		<link>https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Tue, 30 Sep 2025 14:29:59 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/</guid>
+                </div>
+            </div>
 
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/花蓮報導 國民黨主席候選人羅智強於今（30）日發布競選黨主席辦公室發言人團隊，團隊 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/">重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/花蓮報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p class="p1">國民黨主席候選人羅智強於今（30）日發布競選黨主席辦公室發言人團隊，團隊中除了幾位早已是羅智強身邊的大將，也增添了青年世代新血的注入。羅智強這次的發言團隊，平均年齡不到30歲，也意謂著羅智強對青年的重視，給年輕人有更多發揮的機會，用實際行動挺青年。</p>
-<p class="p1">羅智強一直致力於培養青年世代，從羅智強擔任國民黨中央黨部革命實踐研究院的院長時，就曾辦過多場青年活動，其中舉辦「革命實踐研究院171期講習班」，吸引了超過100位青年前來參加，後續也給講習班學員在黨中央實習的機會。此外，羅智強在2023年成立「民主學校」，持續栽培青年參與公共事務，讓他們接觸政治、新媒體等領域，主要為栽培青年人才參與幕僚工作，並加入國民黨，為黨為國奮戰，秉持重視年輕新星的鍛鍊與發展為理念，期待為國民黨帶來更多創新與改變。</p>
-<p class="p1">這次發布的發言人團隊，結合了政治實戰經驗豐富的田方倫、何元楷、陳冠安，以及具備國際視野的鍾明，還有帶著法律專業與多元背景的新成員陳緗語以及超級新秀林沛妤。他們將以專業、行動與熱情，陪同羅智強打贏黨主席之戰，為國民黨帶來翻轉與希望。</p>
-<p class="p1">這支結合經驗與新血的發言人團隊，不只是羅智強最強韌的團隊夥伴，也是國民黨世代交替、世代承擔的象徵，更是羅智強對培育國民黨青年的承諾，希望透過創新等方法，以及敢於給年輕人機會，打造一個不一樣的國民黨，進而爭取更多青年對國民黨的支持。</p>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="284" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1801-284x300.jpeg?resize=284,300&amp;ssl=1" alt="" class="wp-image-67823"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="273" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1802-273x300.jpeg?resize=273,300&amp;ssl=1" alt="" class="wp-image-67825"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="221" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1803-221x300.jpeg?resize=221,300&amp;ssl=1" alt="" class="wp-image-67827"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="241" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1800-241x300.jpeg?resize=241,300&amp;ssl=1" alt="" class="wp-image-67822"></figure>
-<p>這篇文章 <a href="https://www.fclnews.com/137523/">重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/">重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</title>
-		<link>https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-3/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Fri, 26 Sep 2025 12:38:52 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-3/</guid>
-
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/立法院報導 花蓮馬太鞍溪堰塞湖23日下午潰堤，滾滾泥流灌入光復鄉市區，造成嚴重災情 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-3/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/立法院報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>花蓮馬太鞍溪堰塞湖23日下午潰堤，滾滾泥流灌入光復鄉市區，造成嚴重災情，至今已有14人死亡、14人失蹤。25日民進黨立院黨團內部群組流出截圖，綠委建議行政院釋出「有殺傷力的消息」，攻擊花蓮縣政府，並透過媒體播送，以利友軍、民進黨立委和政務人員接著反擊，國人一片譁然。</p>
-<p>國民黨團今(26)上午召開記者會，痛斥民進黨綠委和官員，在花蓮鄉親遭受泥流吞噬的當下，竟然忙著搶食人血饅頭，計畫如何利用執政資源，攻擊、殺傷國民黨、花蓮縣政府；執政黨的行政官員和立委淪為衣冠禽獸，人民要如何能安身立命？國民黨團沉痛呼籲執政黨，立即停止政治鬥爭、政治攻擊，把所有心力和資源，放在救災和復原上！</p>
-<p>書記長羅智強表示，人血饅頭吃好吃滿，就是民進黨。這次故鄉花蓮遭受重創，奪走14條人命，家園被毀，而花蓮縣光復鄉馬太鞍溪堰塞湖的上中下游，都是經濟部管理，放眼世界各國若出現堰塞湖，都是由中央政府管理，甚至在馬政府時期也是如此。但國人卻看到，在花蓮鄉親還埋在泥流的第一時間，賴清德、卓榮泰、吳思瑤、王定宇和劉世芳在幹什麼？</p>
-<p>羅智強指出，第一個跳出來造謠的是綠委吳思瑤，指控風災發生時，花蓮縣長徐榛蔚不在國內，事實證明在風災發生前，徐榛蔚縣長就已經坐鎮花蓮。接著，民進黨立委群組非常熱鬧，各個集思廣益，討論如何殺傷國民黨、殺傷花蓮縣政府。</p>
-<p>幾乎在同一時間裡，國民黨團立委群組，都在討論要如何幫助災民，分擔災民痛苦，盡一分心力，協助災民重建家園；甚至在第一時間，羅智強個人與國民黨團各捐款50萬元給花蓮縣政府。羅智強說，雖然這100萬元只是杯水車薪，但這代表國會議員對災民的一點心意。</p>
-<p>回頭再看看民進黨官員在幹什麼？內政部長劉世芳在會議上說，「頂多水淹過就算了」。農業部長陳駿季也告訴國人，堰塞湖沒有立即潰堤的危險。羅智強要問，中央政府官員是這樣的態度，國人的性命能託付給誰？花蓮人的命要託付給誰？民進黨還記得八八風災和小林村滅村事件嗎？國民黨執政團隊何曾想過要殺傷民進黨？只要有點人性，都不會想到利用災難攻擊政敵。</p>
-<p>羅智強指出，要當政治人物的前提，要先當個人，只要是人，都不會在災難來臨時，想到要殺傷政敵。民進黨的行政官員和立委已淪為衣冠禽獸，這要人民要如何安身立命？甚至有網軍側翼帶風向，要民眾不要捐錢給花蓮縣政府，這是什麼心態？執政黨到現在還在進行政治鬥爭，傷害花蓮。台中市長盧秀燕除了出動搜救隊外，還提供返鄉津貼給在台中工作，家住花蓮光復鄉的民眾，回鄉救災和重建。現在全台灣，只有民進黨綠委和官員繼續分食著人血饅頭，繼續進行政治上惡毒攻擊，民進黨對不起花蓮人。</p>
-<p>首席副書記長林沛祥要求執政黨，立即停止與側翼網軍的政治攻擊和政治操作。從最早的撤離資訊到捐款資訊，網軍側翼不斷地抵制、消耗人民的互助精神，掀起更大的內鬥浩劫。林沛祥呼籲執政黨，與其把力氣用在內耗鬥爭，何不用在救災和災後重建。中央政府不要忘記，新竹還有一座泰崗溪堰塞湖正在監測當中，雖然沒有立即危險，但需要更多資訊和關注。</p>
-<p>林沛祥指出，做錯事情就要認，這是做人基本道理。在搶救人命關鍵時刻，執政黨國會議員竟然建議，「透過媒體、第三方釋出澄清且具殺傷力消息，以利友軍、民進黨立委和政務人員接著反擊….」林沛祥要問執政黨，為何救災需要「殺傷力」反擊？綠委口中的「友軍」是誰？是要反擊誰？是要發動網軍、名嘴鋪天蓋地替中央政府甩鍋，攻擊花蓮縣政府嗎？這是堂堂執政黨在幹的事情嗎？</p>
-<p>林沛祥進一步指出，經過無差別大罷免之後，國家已經亂了套，國民黨時期培養的技術官僚，都變成了政治導向的為官之道，專業、理性、科學和迅速，這些良好公部門習性都已不復存在。當劉世芳部長說，「如果可以原地撤離，頂多水淹過家門就算了」，那麼，是誰給劉世芳部長淹水資料？是誰建議原地垂直撤離？民進黨連最基本的防災工作都做不到，還奢言抗中保台？</p>
-<p>林沛祥語重心長表示，請執政黨把民生放第一，政治放最後，看看花蓮縣在流離失所的災民們，請停止政治鬥爭，把心思放在救災重建上吧！</p>
-<p>這篇文章 <a href="https://www.fclnews.com/136481/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-3/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</title>
-		<link>https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-2/</link>
-		
-		<dc:creator><![CDATA[台灣新聞雲報]]></dc:creator>
-		<pubDate>Fri, 26 Sep 2025 12:38:05 +0000</pubDate>
-				<category><![CDATA[政治]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-2/</guid>
-
-					<description><![CDATA[<p>[台灣新聞雲報]記者王俊欽/立法院報導 花蓮馬太鞍溪堰塞湖23日下午潰堤，滾滾泥流灌入光復鄉市區，造成嚴重災情 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-2/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<div>
-[台灣新聞雲報]記者王俊欽/立法院報導</p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"></figure>
-</figure>
-<p>花蓮馬太鞍溪堰塞湖23日下午潰堤，滾滾泥流灌入光復鄉市區，造成嚴重災情，至今已有14人死亡、14人失蹤。25日民進黨立院黨團內部群組流出截圖，綠委建議行政院釋出「有殺傷力的消息」，攻擊花蓮縣政府，並透過媒體播送，以利友軍、民進黨立委和政務人員接著反擊，國人一片譁然。</p>
-<p>國民黨團今(26)上午召開記者會，痛斥民進黨綠委和官員，在花蓮鄉親遭受泥流吞噬的當下，竟然忙著搶食人血饅頭，計畫如何利用執政資源，攻擊、殺傷國民黨、花蓮縣政府；執政黨的行政官員和立委淪為衣冠禽獸，人民要如何能安身立命？國民黨團沉痛呼籲執政黨，立即停止政治鬥爭、政治攻擊，把所有心力和資源，放在救災和復原上！</p>
-<p>書記長羅智強表示，人血饅頭吃好吃滿，就是民進黨。這次故鄉花蓮遭受重創，奪走14條人命，家園被毀，而花蓮縣光復鄉馬太鞍溪堰塞湖的上中下游，都是經濟部管理，放眼世界各國若出現堰塞湖，都是由中央政府管理，甚至在馬政府時期也是如此。但國人卻看到，在花蓮鄉親還埋在泥流的第一時間，賴清德、卓榮泰、吳思瑤、王定宇和劉世芳在幹什麼？</p>
-<p>羅智強指出，第一個跳出來造謠的是綠委吳思瑤，指控風災發生時，花蓮縣長徐榛蔚不在國內，事實證明在風災發生前，徐榛蔚縣長就已經坐鎮花蓮。接著，民進黨立委群組非常熱鬧，各個集思廣益，討論如何殺傷國民黨、殺傷花蓮縣政府。</p>
-<p>幾乎在同一時間裡，國民黨團立委群組，都在討論要如何幫助災民，分擔災民痛苦，盡一分心力，協助災民重建家園；甚至在第一時間，羅智強個人與國民黨團各捐款50萬元給花蓮縣政府。羅智強說，雖然這100萬元只是杯水車薪，但這代表國會議員對災民的一點心意。</p>
-<p>回頭再看看民進黨官員在幹什麼？內政部長劉世芳在會議上說，「頂多水淹過就算了」。農業部長陳駿季也告訴國人，堰塞湖沒有立即潰堤的危險。羅智強要問，中央政府官員是這樣的態度，國人的性命能託付給誰？花蓮人的命要託付給誰？民進黨還記得八八風災和小林村滅村事件嗎？國民黨執政團隊何曾想過要殺傷民進黨？只要有點人性，都不會想到利用災難攻擊政敵。</p>
-<p>羅智強指出，要當政治人物的前提，要先當個人，只要是人，都不會在災難來臨時，想到要殺傷政敵。民進黨的行政官員和立委已淪為衣冠禽獸，這要人民要如何安身立命？甚至有網軍側翼帶風向，要民眾不要捐錢給花蓮縣政府，這是什麼心態？執政黨到現在還在進行政治鬥爭，傷害花蓮。台中市長盧秀燕除了出動搜救隊外，還提供返鄉津貼給在台中工作，家住花蓮光復鄉的民眾，回鄉救災和重建。現在全台灣，只有民進黨綠委和官員繼續分食著人血饅頭，繼續進行政治上惡毒攻擊，民進黨對不起花蓮人。</p>
-<p>首席副書記長林沛祥要求執政黨，立即停止與側翼網軍的政治攻擊和政治操作。從最早的撤離資訊到捐款資訊，網軍側翼不斷地抵制、消耗人民的互助精神，掀起更大的內鬥浩劫。林沛祥呼籲執政黨，與其把力氣用在內耗鬥爭，何不用在救災和災後重建。中央政府不要忘記，新竹還有一座泰崗溪堰塞湖正在監測當中，雖然沒有立即危險，但需要更多資訊和關注。</p>
-<p>林沛祥指出，做錯事情就要認，這是做人基本道理。在搶救人命關鍵時刻，執政黨國會議員竟然建議，「透過媒體、第三方釋出澄清且具殺傷力消息，以利友軍、民進黨立委和政務人員接著反擊….」林沛祥要問執政黨，為何救災需要「殺傷力」反擊？綠委口中的「友軍」是誰？是要反擊誰？是要發動網軍、名嘴鋪天蓋地替中央政府甩鍋，攻擊花蓮縣政府嗎？這是堂堂執政黨在幹的事情嗎？</p>
-<p>林沛祥進一步指出，經過無差別大罷免之後，國家已經亂了套，國民黨時期培養的技術官僚，都變成了政治導向的為官之道，專業、理性、科學和迅速，這些良好公部門習性都已不復存在。當劉世芳部長說，「如果可以原地撤離，頂多水淹過家門就算了」，那麼，是誰給劉世芳部長淹水資料？是誰建議原地垂直撤離？民進黨連最基本的防災工作都做不到，還奢言抗中保台？</p>
-<p>林沛祥語重心長表示，請執政黨把民生放第一，政治放最後，看看花蓮縣在流離失所的災民們，請停止政治鬥爭，把心思放在救災重建上吧！</p>
-<p>這篇文章 <a href="https://www.fclnews.com/136481/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
-</div>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-2/">「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
-</rss>
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+                <a href="http://www.redhat.com/"><img
+                    src="poweredby.png"
+                    alt="[ Powered by Red Hat Enterprise Linux ]"
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</html>
