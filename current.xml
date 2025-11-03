@@ -1,120 +1,719 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>時事 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/時事/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Mon, 03 Nov 2025 12:59:16 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>時事 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/時事/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>狗狗也會焦慮？滿足這「4大需求」才能讓牠真正快樂 !</title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e7%84%a6%e6%85%ae%ef%bc%9f%e6%bb%bf%e8%b6%b3%e3%80%8c4%e5%a4%a7%e9%9c%80%e6%b1%82%e3%80%8d%e6%89%8d%e8%83%bd%e8%ae%93%e7%89%a0%e7%9c%9f%e6%ad%a3%e5%bf%ab%e6%a8%82/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 10:24:06 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[焦慮]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276600</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主可能會發現，狗狗在家中出現過度吠叫、咬東西、頻繁嗅聞或不停走動等行為。這些表現 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e7%84%a6%e6%85%ae%ef%bc%9f%e6%bb%bf%e8%b6%b3%e3%80%8c4%e5%a4%a7%e9%9c%80%e6%b1%82%e3%80%8d%e6%89%8d%e8%83%bd%e8%ae%93%e7%89%a0%e7%9c%9f%e6%ad%a3%e5%bf%ab%e6%a8%82/">狗狗也會焦慮？滿足這「4大需求」才能讓牠真正快樂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主可能會發現，狗狗在家中出現過度吠叫、咬東西、頻繁嗅聞或不停走動等行為。這些表現可能反映牠的焦慮情緒。理解狗狗的需求，提供適當環境與照顧，能有效降低壓力，讓毛孩生活更快樂。</strong></p>
+</blockquote>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<h4 class="wp-block-heading">一、運動需求：釋放過剩精力</h4>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>狗狗天生活力充沛，若缺乏足夠運動，積壓的精力容易轉化為焦慮行為。每天規律的散步、自由奔跑或互動遊戲，不僅能強化肌肉與心肺功能，也能讓狗狗的心理狀態保持穩定。尤其對大型犬或高能量品種，適度運動是維持情緒平衡的關鍵。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-18.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-276613" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-18.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-18.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗若缺乏運動，積壓精力易轉為焦慮，規律散步、奔跑與遊戲能強化體能並穩定情緒。圖:pixabay</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">二、社交需求：建立安全感與依附</h4>
+
+
+
+<p>狗狗是群居動物，需要社交互動才能感到安全。牠們對家人、同伴或其他狗狗的陪伴會影響情緒穩定。缺乏社交刺激的狗狗容易出現分離焦慮或過度警戒。飼主若能透過陪伴、互動遊戲或社交訓練，滿足牠的社交需求，狗狗便能更自在地面對生活環境。</p>
+
+
+
+<h4 class="wp-block-heading">三、精神刺激：滿足好奇心與探索欲</h4>
+
+
+
+<p>狗狗的心理健康同樣依賴精神刺激。探索新環境、嗅聞不同氣味、玩益智玩具，能刺激大腦活動，減少無聊導致的焦慮。缺乏新鮮感或單調生活容易讓狗狗出現破壞行為。飼主可設計環境互動，如氣味遊戲或食物尋找挑戰，既滿足好奇心，也提升幸福感。</p>
+
+
+
+<h4 class="wp-block-heading">四、安穩休息與安全空間</h4>
+
+
+
+<p>充足休息與固定安全區域對狗狗情緒穩定至關重要。若狗狗缺乏安靜的睡眠環境或無法躲避外界刺激，焦慮感容易累積。提供舒適的窩、適當遮蔽和安靜空間，能讓狗狗在壓力增加時有地方自我調節，降低焦慮行為的發生。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="640" height="427" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-19.png?resize=640%2C427&#038;ssl=1" alt="" class="wp-image-276614" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">充足休息與安全空間有助狗狗情緒穩定，若缺乏安靜環境，牠容易累積焦慮。圖:pixabay</figcaption></figure></div>
+
+
+<p>狗狗的焦慮往往源於身心需求未被充分滿足。透過規律運動、社交互動、精神刺激與安全休息空間，飼主能有效改善狗狗的情緒。細心觀察行為、理解需求，既能減少破壞或吠叫行為，也能增進主人與狗狗之間的信任與陪伴感。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e4%b9%9f%e6%9c%83%e7%84%a6%e6%85%ae%ef%bc%9f%e6%bb%bf%e8%b6%b3%e3%80%8c4%e5%a4%a7%e9%9c%80%e6%b1%82%e3%80%8d%e6%89%8d%e8%83%bd%e8%ae%93%e7%89%a0%e7%9c%9f%e6%ad%a3%e5%bf%ab%e6%a8%82/">狗狗也會焦慮？滿足這「4大需求」才能讓牠真正快樂 !</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
+		<link>https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276619</guid>
+
+					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=864%2C1296&#038;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
+
+
+
+<p><strong>關於G-DRAGON</strong></p>
+
+
+
+<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
+
+
+
+<p><strong>官方社交媒體</strong></p>
+
+
+
+<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
+
+
+
+<p><strong>關於AEG Presents</strong></p>
+
+
+
+<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com">www.aegpresents.com</a>。</p>
+
+
+
+<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a><a href="http://www.aegpresents.com">http://www.aegpresents.com</a></p>
+
+
+
+<p><strong>關於TME live</strong></p>
+
+
+
+<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live – <a href="https://www.instagram.com/tme_official__/">Instagram</a> | <a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a> | <a href="https://x.com/TME_official_">X</a></p>
+
+
+
+<p>圖片來源(C) GALAXY CORPORATION</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗最愛的氣味排行榜！3大香氣讓牠瞬間親近你</title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e6%9c%80%e6%84%9b%e7%9a%84%e6%b0%a3%e5%91%b3%e6%8e%92%e8%a1%8c%e6%a6%9c%ef%bc%813%e5%a4%a7%e9%a6%99%e6%b0%a3%e8%ae%93%e7%89%a0%e7%9e%ac%e9%96%93%e8%a6%aa%e8%bf%91%e4%bd%a0/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 06:59:08 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[氣味]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276419</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 狗狗的嗅覺受體細胞約為人類的 4000 萬到 2 億倍，能感知極為微弱的氣味變化。對牠 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e6%9c%80%e6%84%9b%e7%9a%84%e6%b0%a3%e5%91%b3%e6%8e%92%e8%a1%8c%e6%a6%9c%ef%bc%813%e5%a4%a7%e9%a6%99%e6%b0%a3%e8%ae%93%e7%89%a0%e7%9e%ac%e9%96%93%e8%a6%aa%e8%bf%91%e4%bd%a0/">狗狗最愛的氣味排行榜！3大香氣讓牠瞬間親近你</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>狗狗的嗅覺受體細胞約為人類的 4000 萬到 2 億倍，能感知極為微弱的氣味變化。對牠們而言，氣味是世界的語言，也是判斷安全、識別情緒、建立信任的關鍵線索。</strong></p>
+</blockquote>
+
+
+
+<p>許多飼主或許曾好奇，為什麼狗狗總是愛聞衣物、鞋子、甚至床單？事實上，這些行為並非「調皮」，而是源自牠們天生的氣味依附本能。根據多項行為觀察與腦部成像實驗，以下三種氣味最能引發狗狗的安全感與親近反應。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="457" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-16.png?resize=612%2C457&#038;ssl=1" alt="" class="wp-image-276467" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗愛聞衣物、鞋子或床單，源自天生氣味依附本能，三類氣味最能帶給牠安全感。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">一、主人的自然體味——牠心中最熟悉的香氣</h4>
+
+
+
+<p>當狗狗聞到主人的氣味時，大腦中負責情緒與獎賞的「尾狀核」會明顯活化。這說明狗狗不僅能辨認主人的體味，還會產生愉悅與信任的感受。</p>
+
+
+
+<p>這種「氣味連結」的形成，始於幼犬時期。從出生開始，小狗便透過氣味辨認母犬與兄弟姊妹，嗅覺成為牠理解「家庭」與「歸屬」的基礎。當牠長大後，這種嗅覺記憶轉移到人類飼主身上，因此衣服、被單或沙發上的氣味，都能讓牠感受到安心。</p>
+
+
+
+<p>若狗狗在陌生環境中容易焦慮，可以帶上主人的衣物或毯子，氣味能有效降低牠的壓力反應。相對地，過度使用濃烈的香水或清潔劑，可能會掩蓋主人的原始氣味，使狗狗短暫失去熟悉的安全訊號。</p>
+
+
+
+<h4 class="wp-block-heading">二、食物氣味——肉類與乳製品最能激發興奮反應</h4>
+
+
+
+<p>狗狗對高脂肪、高蛋白食物的氣味特別敏感。行為學家指出，肉類（尤其是牛肉、雞肉）與乳製品（如起司）的氣味會刺激牠們的嗅球與伏隔核區域，這些腦部區塊與「食慾」與「快樂」有關。</p>
+
+
+
+<p>在訓練過程中，這些氣味常被用作「正向強化」的工具。例如，在嗅聞遊戲或服從訓練中加入肉乾或花生醬氣味，不僅能提升狗狗的專注力，也能增進與主人的互動意願。</p>
+
+
+
+<p>值得注意的是，雖然狗狗喜歡強烈食物氣味，但部分加工食品、洋蔥或巧克力等氣味成分對牠們具有毒性風險。飼主應避免讓狗狗接觸人類食物殘留的香氣來源，特別是含糖或香料成分的食物。</p>
+
+
+
+<h4 class="wp-block-heading">三、自然環境的味道——草地、木頭與泥土的療癒力量</h4>
+
+
+
+<p>狗狗在戶外散步時，最常出現的行為之一就是「不斷嗅聞地面」。這不只是探索，更是一種感官放鬆的行為。研究發現，自然環境的氣味能降低狗狗的皮質醇濃度，穩定心率並改善焦慮行為。</p>
+
+
+
+<p>特別是濕潤的泥土與青草氣味，含有豐富的「土壤微生物氣體」（如放線菌產生的氣味分子 geosmin），這些分子能引發狗狗的興趣與愉悅反應，類似人類聞到雨後泥土香時的舒適感。</p>
+
+
+
+<p>因此，飼主可定期帶狗狗到公園或郊外進行「嗅覺散步」（Sniff Walk），讓牠自由探索氣味。這類活動不僅能紓壓，還能提升牠的自信與環境適應力。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="382" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-17.png?resize=612%2C382&#038;ssl=1" alt="" class="wp-image-276468" style="width:718px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">狗狗散步時常嗅地面，對他來說是一種放鬆身心的方式，自然氣味可降低皮質醇、穩定心率並減輕焦慮。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">氣味是狗狗的情緒密碼</h4>
+
+
+
+<p>氣味對狗狗而言是情緒的語言。熟悉的香氣能帶來安全感，食物氣味激發快樂，自然氣味則平衡情緒。從行為學角度來看，狗狗透過嗅覺建立了「世界地圖」，每一種氣味都對應著記憶、關係與感受。</p>
+
+
+
+<p>狗狗生活在一個以氣味為核心的世界，牠們透過嗅覺理解人類、環境與情緒。主人的體味、食物香氣、自然氣息，這三大香味構成了牠心中最溫暖的記憶地圖。當人類願意用「氣味」的語言與牠溝通，便能建立更深層的陪伴與信任關係。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e6%9c%80%e6%84%9b%e7%9a%84%e6%b0%a3%e5%91%b3%e6%8e%92%e8%a1%8c%e6%a6%9c%ef%bc%813%e5%a4%a7%e9%a6%99%e6%b0%a3%e8%ae%93%e7%89%a0%e7%9e%ac%e9%96%93%e8%a6%aa%e8%bf%91%e4%bd%a0/">狗狗最愛的氣味排行榜！3大香氣讓牠瞬間親近你</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>你真的了解貓咪嗎？照顧貓咪的「五個細節」千萬不可忽視！ </title>
+		<link>https://firenews.com.tw/2025/11/03/%e4%bd%a0%e7%9c%9f%e7%9a%84%e4%ba%86%e8%a7%a3%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e7%85%a7%e9%a1%a7%e8%b2%93%e5%92%aa%e7%9a%84%e3%80%8c%e4%ba%94%e5%80%8b%e7%b4%b0%e7%af%80%e3%80%8d%e5%8d%83%e8%90%ac/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 05:50:58 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[細節]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276406</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 許多人以為貓咪獨立又懂事，不像狗狗需要太多陪伴與照料，但其實要讓牠們健康快樂地 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e4%bd%a0%e7%9c%9f%e7%9a%84%e4%ba%86%e8%a7%a3%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e7%85%a7%e9%a1%a7%e8%b2%93%e5%92%aa%e7%9a%84%e3%80%8c%e4%ba%94%e5%80%8b%e7%b4%b0%e7%af%80%e3%80%8d%e5%8d%83%e8%90%ac/">你真的了解貓咪嗎？照顧貓咪的「五個細節」千萬不可忽視！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>許多人以為貓咪獨立又懂事，不像狗狗需要太多陪伴與照料，但其實要讓牠們健康快樂地生活，細節才是最關鍵的地方，貓咪外表高冷，內心卻非常敏感而挑剔，若飼主忽略了一些小地方，牠們很容易會因出現壓力導致健康問題，以下為大家整理出「五個照顧貓咪的重要細節與特點」，看完能幫助你更了解牠們的日常需求。&nbsp;</p>
+
+
+
+<p>一、飲食講究新鮮與穩定&nbsp;<br>貓咪是天生的肉食動物，對食物氣味與口感特別敏感，放太久的罐頭或乾糧可能會讓牠們完全不想吃，建議飼主每天定時餵食，並確保食物新鮮乾淨，此外貓咪容易因壓力或環境改變而食慾不振，因此更換飼料時要循序漸進，以避免腸胃不適。&nbsp;</p>
+
+
+
+<p>二、環境要有「安全感」 貓咪喜歡觀察與藏匿，牠們偏好能看到全場又不被打擾的地方，因此建議家中可設置貓跳台、紙箱或高處平台，讓牠們能自由選擇活動空間，若家裡人多或聲音嘈雜，也要提供牠能安靜休息的角落，這樣才能減少產生焦慮行為。 </p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-276410" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mohammad-reza-qYlabBENQNQ-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪對食物的味道與新鮮度特別敏感，且容易因壓力或環境改變而食慾不振<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>三、貓砂盆清潔是關鍵&nbsp;<br>貓咪對氣味極為敏感，若貓砂盆不乾淨，很容易導致牠們出現「亂尿尿」的情況，建議每天至少鏟砂一次，並定期更換整盆貓砂，若家中有多隻貓，貓砂盆的數量應比貓咪多一個（例如兩隻貓放三盆），才讓牠們能更自在地使用，不受彼此干擾。&nbsp;</p>
+
+
+
+<p>四、毛髮與指甲定期護理&nbsp;<br>貓咪會自行清理身體，但飼主仍需要經常協助梳毛，特別是長毛貓，若不定期梳理容易打結或導致毛球問題，指甲則建議每2至3週修剪一次，避免牠們抓傷自己或家具，另外在梳毛與剪指甲的時候，飼主可以同時撫摸與輕聲安撫，讓牠們對照顧產生好感。&nbsp;</p>
+
+
+
+<p>五、互動要依照貓咪節奏&nbsp;<br>貓咪不像狗狗那樣熱情，牠們更喜歡由自己主導互動，當貓咪主動靠近或磨蹭你時，再適當地給予撫摸，不要強行抱牠或過度逗弄，理解貓咪的肢體語言，例如尾巴豎直表示開心、耳朵往後則代表不耐煩，能幫助雙方關係更佳和諧。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e4%bd%a0%e7%9c%9f%e7%9a%84%e4%ba%86%e8%a7%a3%e8%b2%93%e5%92%aa%e5%97%8e%ef%bc%9f%e7%85%a7%e9%a1%a7%e8%b2%93%e5%92%aa%e7%9a%84%e3%80%8c%e4%ba%94%e5%80%8b%e7%b4%b0%e7%af%80%e3%80%8d%e5%8d%83%e8%90%ac/">你真的了解貓咪嗎？照顧貓咪的「五個細節」千萬不可忽視！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗該如何訓練？掌握這「五大技巧」輕鬆成為聽話的乖寶寶！ </title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e8%a9%b2%e5%a6%82%e4%bd%95%e8%a8%93%e7%b7%b4%ef%bc%9f%e6%8e%8c%e6%8f%a1%e9%80%99%e3%80%8c%e4%ba%94%e5%a4%a7%e6%8a%80%e5%b7%a7%e3%80%8d%e8%bc%95%e9%ac%86%e6%88%90%e7%82%ba%e8%81%bd/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 05:50:57 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[技巧]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[訓練]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276405</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 想讓狗狗成為聽話又有禮貌的乖寶貝，訓練絕對是飼養過程中不可或缺的一環，無論是基 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e8%a9%b2%e5%a6%82%e4%bd%95%e8%a8%93%e7%b7%b4%ef%bc%9f%e6%8e%8c%e6%8f%a1%e9%80%99%e3%80%8c%e4%ba%94%e5%a4%a7%e6%8a%80%e5%b7%a7%e3%80%8d%e8%bc%95%e9%ac%86%e6%88%90%e7%82%ba%e8%81%bd/">狗狗該如何訓練？掌握這「五大技巧」輕鬆成為聽話的乖寶寶！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>想讓狗狗成為聽話又有禮貌的乖寶貝，訓練絕對是飼養過程中不可或缺的一環，無論是基礎指令還是生活習慣，若方法不對，很容易使狗狗混淆甚至產生抗拒，以下為大家整理出「五個訓練狗狗的重點技巧」，希望能幫助你更有效率地訓練狗狗，建立起穩定又親密的關係。&nbsp;</p>
+
+
+
+<p>一、建立信任是訓練的基礎&nbsp;<br>在開始任何訓練前，最重要的是讓狗狗對你產生安全感與信任，不要急於要求牠們服從指令，而是先透過輕聲互動、撫摸與陪伴，讓狗狗知道你是可靠且友善的對象，當牠們願意主動靠近親近你時，訓練才能事半功倍。&nbsp;</p>
+
+
+
+<p>二、使用獎勵代替懲罰&nbsp;<br>狗狗學習的最大動力來自於「正向強化」，當牠們做對動作時，立即給予口頭讚美、零食或玩具作為獎勵，讓狗狗明白「這樣做會有好事發生」，相反地，若當牠們犯錯時，不應該給予打罵或恐嚇，只需冷靜忽略或用溫和語氣制止，以避免造成牠們的心理恐懼。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="815" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?resize=1220%2C815&#038;ssl=1" alt="" class="wp-image-276411" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?resize=1536%2C1026&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?resize=2048%2C1368&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/eric-ward-ISg37AI2A-s-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">在開始任何訓練前，最重要的是讓狗狗對你產生安全感與信任<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>三、訓練時間短但頻率高&nbsp;<br>狗狗的專注力有限，每次訓練以5至10分鐘為宜，但一天可以多次進行，短而頻繁的練習比長時間壓迫式訓練更有效，此外訓練過程中需保持語氣一致，指令簡單且明確，例如「坐下」、「不行」、「過來」，避免使用太長或重複的詞句。&nbsp;</p>
+
+
+
+<p>四、在不同環境中重複練習&nbsp;<br>許多狗狗在家裡訓練得很好，但一到外面就完全失控，這是因為牠們尚未學會穩定，因此當狗狗在家能穩定地執行動作後，應逐步帶著牠們到不同場所，如公園、電梯口或街邊，讓狗狗適應在各種環境下也能夠乖巧聽話。&nbsp;</p>
+
+
+
+<p>五、保持耐心與一致性&nbsp;<br>訓練狗狗需要時間與重複練習，若今天要求「不可以上沙發」，明天卻又妥協，狗狗就會混淆規則，要特別注意的是，家庭成員之間也應保持一致的口令與標準，讓狗狗能清楚界線，飼主要記得耐心與穩定是成功的關鍵。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%8b%97%e7%8b%97%e8%a9%b2%e5%a6%82%e4%bd%95%e8%a8%93%e7%b7%b4%ef%bc%9f%e6%8e%8c%e6%8f%a1%e9%80%99%e3%80%8c%e4%ba%94%e5%a4%a7%e6%8a%80%e5%b7%a7%e3%80%8d%e8%bc%95%e9%ac%86%e6%88%90%e7%82%ba%e8%81%bd/">狗狗該如何訓練？掌握這「五大技巧」輕鬆成為聽話的乖寶寶！ </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>看不見的吊床？貓咪不知情「主人拿去清洗」傻愣在原地 </title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%9c%8b%e4%b8%8d%e8%a6%8b%e7%9a%84%e5%90%8a%e5%ba%8a%ef%bc%9f%e8%b2%93%e5%92%aa%e4%b8%8d%e7%9f%a5%e6%83%85%e3%80%8c%e4%b8%bb%e4%ba%ba%e6%8b%bf%e5%8e%bb%e6%b8%85%e6%b4%97%e3%80%8d%e5%82%bb%e6%84%a3/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 05:50:56 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[吊床]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[搞笑]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276404</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 最近一名飼主在網路上分享自家貓咪的有趣反應，引起網友熱烈討論，這隻貓咪因為不知 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9c%8b%e4%b8%8d%e8%a6%8b%e7%9a%84%e5%90%8a%e5%ba%8a%ef%bc%9f%e8%b2%93%e5%92%aa%e4%b8%8d%e7%9f%a5%e6%83%85%e3%80%8c%e4%b8%bb%e4%ba%ba%e6%8b%bf%e5%8e%bb%e6%b8%85%e6%b4%97%e3%80%8d%e5%82%bb%e6%84%a3/">看不見的吊床？貓咪不知情「主人拿去清洗」傻愣在原地 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>最近一名飼主在網路上分享自家貓咪的有趣反應，引起網友熱烈討論，這隻貓咪因為不知道自己的吊床被主人拿去清洗，竟一如往常地猛力一跳，結果直接趴在空蕩蕩的金屬框架上，整個姿勢既尷尬又可愛，讓不少人笑翻直呼「太萌了！」。&nbsp;</p>
+
+
+
+<p>該名飼主表示，自家貓咪平日裡最喜愛待在吊床上打盹，前幾日主人發現吊床的布套有些髒，便拆下來清洗晾乾，等待之後再安裝回去，然而貓咪顯然沒有注意到這個變化，仍照著平時的習慣，迅速地助跑跳躍，準備優雅地躺上吊床享受午後時光。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/madalyn-cox-IBfvRFLP024-unsplash-scaled.jpg?resize=1220%2C1627&#038;ssl=1" alt="" class="wp-image-276414" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/madalyn-cox-IBfvRFLP024-unsplash-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/madalyn-cox-IBfvRFLP024-unsplash-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/madalyn-cox-IBfvRFLP024-unsplash-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/madalyn-cox-IBfvRFLP024-unsplash-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">貓咪平日裡最喜愛待在吊床上打盹，優雅地躺著享受午後時光<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>沒想到當貓咪才剛一跳上去，就發現自己的床不見了，牠整隻貓趴在冰冷的金屬支架上，四肢努力撐著身體想維持平衡，表情卻十分地困惑與無奈，讓飼主見狀後當場忍不住笑出聲，並將這起趣事分享至社群平台上。&nbsp;</p>
+
+
+
+<p>故事曝光後，貓咪的搞笑行為立刻在網路上瘋傳，許多網友紛紛留言表示「國王的吊床」、「貓咪：我床呢」、「一覺起來床就沒了」、「貓貓心裡一定超困惑」，此外也有不少飼主分享類似經驗，感嘆毛孩總是在把東西拿去洗的時候才特別愛用。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9c%8b%e4%b8%8d%e8%a6%8b%e7%9a%84%e5%90%8a%e5%ba%8a%ef%bc%9f%e8%b2%93%e5%92%aa%e4%b8%8d%e7%9f%a5%e6%83%85%e3%80%8c%e4%b8%bb%e4%ba%ba%e6%8b%bf%e5%8e%bb%e6%b8%85%e6%b4%97%e3%80%8d%e5%82%bb%e6%84%a3/">看不見的吊床？貓咪不知情「主人拿去清洗」傻愣在原地 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>比特犬慘遭貓化？狗狗與貓咪同住「行為舉止」默默被改變 </title>
+		<link>https://firenews.com.tw/2025/11/03/%e6%af%94%e7%89%b9%e7%8a%ac%e6%85%98%e9%81%ad%e8%b2%93%e5%8c%96%ef%bc%9f%e7%8b%97%e7%8b%97%e8%88%87%e8%b2%93%e5%92%aa%e5%90%8c%e4%bd%8f%e8%a1%8c%e7%82%ba%e8%88%89%e6%ad%a2%e9%bb%98%e9%bb%98%e8%a2%ab/</link>
+		
+		<dc:creator><![CDATA[火報 洪瑜蓉]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 05:50:54 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[寵物]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[比特犬]]></category>
+		<category><![CDATA[火報]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276403</guid>
+
+					<description><![CDATA[<p>火報記者 洪瑜蓉 / 綜合報導 國外一隻名叫「Mako」的比特犬，近日因「貓化行為」在網路上引起熱議，牠不僅與 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e6%af%94%e7%89%b9%e7%8a%ac%e6%85%98%e9%81%ad%e8%b2%93%e5%8c%96%ef%bc%9f%e7%8b%97%e7%8b%97%e8%88%87%e8%b2%93%e5%92%aa%e5%90%8c%e4%bd%8f%e8%a1%8c%e7%82%ba%e8%88%89%e6%ad%a2%e9%bb%98%e9%bb%98%e8%a2%ab/">比特犬慘遭貓化？狗狗與貓咪同住「行為舉止」默默被改變 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 洪瑜蓉 / 綜合報導</p>
+
+
+
+<p>國外一隻名叫「Mako」的比特犬，近日因「貓化行為」在網路上引起熱議，牠不僅與家中的兩隻貓咪相處融洽，甚至還學會了像貓一樣跳上高處，趴在家具頂端觀察世界，模樣逗趣又可愛，讓網友笑稱「牠根本完全忘記自己是狗了吧！」。&nbsp;</p>
+
+
+
+<p>據了解，「Mako」原本是一隻被棄養的流浪狗，後來被現任飼主從收容所領養回家，由於家中早已有兩隻貓，飼主最初還十分擔心這隻比特犬會不會因個性活潑、力量強大而與貓咪發生衝突，因此在初期相處時格外小心觀察。&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-276416" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/mike-burke-gxyfJQg7Lno-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「Mako」被貓咪的行為深深吸引，開始漸漸地模仿對方的行為舉止<br>(示意圖/Unsplash)</figcaption></figure>
+
+
+
+<p>但令人意想不到的是，「Mako」不僅沒有與貓咪產生敵意，反而還被對方的行為給深深吸引，牠開始模仿貓咪們的一舉一動，從最初的小心靠近，到後來學會跳上桌子與櫃子，甚至蜷縮在貓咪最愛的窗台上小憩，行為舉止完全被貓化。&nbsp;</p>
+
+
+
+<p>對此飼主笑稱「剛開始還以為狗狗只是想湊熱鬧，結果現在牠比貓咪還更像貓」事件曝光後，立刻引發大批網友熱議，不少人留言打趣「看來貓咪才是這家的老大」、「果然環境會改變一個生物的習性」、「以後可以對外說家裡養了三隻貓咪」。&nbsp;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e6%af%94%e7%89%b9%e7%8a%ac%e6%85%98%e9%81%ad%e8%b2%93%e5%8c%96%ef%bc%9f%e7%8b%97%e7%8b%97%e8%88%87%e8%b2%93%e5%92%aa%e5%90%8c%e4%bd%8f%e8%a1%8c%e7%82%ba%e8%88%89%e6%ad%a2%e9%bb%98%e9%bb%98%e8%a2%ab/">比特犬慘遭貓化？狗狗與貓咪同住「行為舉止」默默被改變 </a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>川普：美國將限制輝達「頂級AI晶片」出口 中國與他國不得取得</title>
+		<link>https://firenews.com.tw/2025/11/03/%e5%b7%9d%e6%99%ae%ef%bc%9a%e7%be%8e%e5%9c%8b%e5%b0%87%e9%99%90%e5%88%b6%e8%bc%9d%e9%81%94%e3%80%8c%e9%a0%82%e7%b4%9aai%e6%99%b6%e7%89%87%e3%80%8d%e5%87%ba%e5%8f%a3-%e4%b8%ad%e5%9c%8b%e8%88%87/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 05:40:47 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[中國]]></category>
+		<category><![CDATA[川普]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[晶片]]></category>
+		<category><![CDATA[輝達]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276395</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 美國總統川普表示，將禁止向中國及其他國家出口輝達（NVIDIA）最先進的人工智慧晶片，強 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e5%b7%9d%e6%99%ae%ef%bc%9a%e7%be%8e%e5%9c%8b%e5%b0%87%e9%99%90%e5%88%b6%e8%bc%9d%e9%81%94%e3%80%8c%e9%a0%82%e7%b4%9aai%e6%99%b6%e7%89%87%e3%80%8d%e5%87%ba%e5%8f%a3-%e4%b8%ad%e5%9c%8b%e8%88%87/">川普：美國將限制輝達「頂級AI晶片」出口 中國與他國不得取得</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>美國總統川普表示，將禁止向中國及其他國家出口輝達（NVIDIA）最先進的人工智慧晶片，強調這些高階產品僅供美國企業使用。</strong></p>
+</blockquote>
+
+
+
+<p>川普在接受美國哥倫比亞廣播公司（CBS）節目《60分鐘》專訪時表示，最先進的晶片將只留在美國。他說：「我們不會允許除美國以外的任何人擁有這些晶片，也不會把 Blackwell 晶片交給其他國家。」</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-15.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-276407" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">川普在 CBS《60分鐘》專訪中表示，最先進晶片將僅留在美國，不會讓他國獲得，包括 Blackwell 晶片。圖:istockphoto</figcaption></figure></div>
+
+
+<p>這項聲明顯示，美國政府可能對人工智慧相關半導體實施更嚴格的出口限制，以確保技術優勢。川普政府先前於七月公布人工智慧戰略，內容包括放寬對部分盟友的出口規範，以維持美國在全球AI領域的主導地位。</p>
+
+
+
+<p>輝達上週宣布，將向韓國及三星電子等大型企業提供超過26萬顆 Blackwell AI 晶片。自八月以來，外界持續關注美國是否會允許中國企業購買降規版本的晶片。川普在受訪時指出，他不會允許中國取得最先進的版本，但不排除其他版本可能開放交易。他說：「我們會讓他們與輝達進行交易，但不會讓他們購買最先進的晶片。」</p>
+
+
+
+<p>對此，美國國會部分議員表達擔憂。眾議院中國問題特別委員會主席約翰·穆勒納爾（John Moolenaar）表示，若向中國提供任何版本的 Blackwell 晶片，將對美國國家安全造成風險。</p>
+
+
+
+<p>輝達執行長黃仁勳上週在開發者活動中表示，公司並未尋求對中國市場的出口許可，並指出北京方面已明確表示目前不希望英偉達重返中國市場。而川普補充，他在上週與中國國家主席習近平會晤時，並未討論有關晶片出口的議題。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e5%b7%9d%e6%99%ae%ef%bc%9a%e7%be%8e%e5%9c%8b%e5%b0%87%e9%99%90%e5%88%b6%e8%bc%9d%e9%81%94%e3%80%8c%e9%a0%82%e7%b4%9aai%e6%99%b6%e7%89%87%e3%80%8d%e5%87%ba%e5%8f%a3-%e4%b8%ad%e5%9c%8b%e8%88%87/">川普：美國將限制輝達「頂級AI晶片」出口 中國與他國不得取得</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>貓咪摸著摸著就突然咬人？其實是牠的「應激反應」在作祟！</title>
+		<link>https://firenews.com.tw/2025/11/02/%e8%b2%93%e5%92%aa%e6%91%b8%e8%91%97%e6%91%b8%e8%91%97%e5%b0%b1%e7%aa%81%e7%84%b6%e5%92%ac%e4%ba%ba%ef%bc%9f%e5%85%b6%e5%af%a6%e6%98%af%e7%89%a0%e7%9a%84%e3%80%8c%e6%87%89%e6%bf%80%e5%8f%8d%e6%87%89/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2025 08:28:05 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[咬人]]></category>
+		<category><![CDATA[應激]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[貓咪]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276046</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主都曾有過這樣的經驗：原本在沙發上開心地撫摸著貓咪，下一秒卻突然張嘴咬人，讓人又 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e8%b2%93%e5%92%aa%e6%91%b8%e8%91%97%e6%91%b8%e8%91%97%e5%b0%b1%e7%aa%81%e7%84%b6%e5%92%ac%e4%ba%ba%ef%bc%9f%e5%85%b6%e5%af%a6%e6%98%af%e7%89%a0%e7%9a%84%e3%80%8c%e6%87%89%e6%bf%80%e5%8f%8d%e6%87%89/">貓咪摸著摸著就突然咬人？其實是牠的「應激反應」在作祟！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主都曾有過這樣的經驗：原本在沙發上開心地撫摸著貓咪，下一秒卻突然張嘴咬人，讓人又驚又氣。這種看似「無預警的攻擊行為」，其實是牠的「應激反應」（stress response）在發揮作用。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">一、什麼是貓咪的「應激反應」？</h4>
+
+
+
+<p>貓咪天性敏感，對外界刺激特別敏銳。當牠感受到過度的接觸、環境壓力或情緒緊張時，大腦會釋放壓力荷爾蒙，使身體進入「防禦狀態」。這時，即使是主人的撫摸，也可能被牠誤認為是威脅，進而出現咬人或拍打的行為。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-13.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-276055" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">不同貓咪對觸摸的耐受度不同，尤其敏感部位被摸過久或環境有壓力時，容易引發不適和攻擊行為。圖:istockphoto</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading"> 二、貓咪被摸「過量」會感到不適</h4>
+
+
+
+<p>雖然摸摸能讓貓咪放鬆，但每隻貓對觸摸的耐受度不同。尤其是腹部、尾巴根部或後背這些區域，若撫摸時間太長或手勢太重，牠可能會覺得不舒服。當貓咪開始擺尾、耳朵後貼、瞳孔放大或身體僵硬時，其實就是在發出「我受夠了」的警告。</p>
+
+
+
+<h4 class="wp-block-heading">三、環境壓力與不安全感也是主因</h4>
+
+
+
+<p>貓咪對氣味、聲音與空間變化極為敏感。若周遭環境出現陌生人、噪音，或近期搬家、添購新家具，牠可能感到焦慮不安。這種潛在壓力會讓貓咪的神經更緊繃，因此在被摸時容易產生過度反應。</p>
+
+
+
+<h4 class="wp-block-heading"> 四、如何預防貓咪「摸到咬人」？</h4>
+
+
+
+<ol class="wp-block-list">
+<li><strong>觀察肢體語言</strong>：當貓咪耳朵微動、尾巴開始擺動時，代表牠的忍耐度已到臨界點。</li>
+
+
+
+<li><strong>控制互動時間</strong>：一次撫摸別超過30秒到1分鐘，並以牠主動靠近為準。</li>
+
+
+
+<li><strong>避免敏感部位</strong>：多撫摸頭部與下巴，這些區域較能讓貓感到放鬆。</li>
+
+
+
+<li><strong>營造安全環境</strong>：保持固定作息與熟悉氣味，有助降低整體壓力。</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading">五、若貓咪頻繁出現咬人行為</h4>
+
+
+
+<p>若貓咪經常出現攻擊反應，甚至連日常互動都變得緊張，建議帶牠到動物醫院檢查，排除身體疼痛或荷爾蒙異常的問題。同時，也可諮詢動物行為師，釐清壓力來源並進行行為調整。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="612" height="408" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-14.png?resize=612%2C408&#038;ssl=1" alt="" class="wp-image-276056" style="width:714px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">觀察肢體訊號、控制互動時間、避免敏感部位並營造安全環境，可減少貓咪咬人的情況，必要時可諮詢專家。圖:istockphoto</figcaption></figure></div>
+
+
+<p>「貓咪咬人」其實是一種情緒的表達。理解牠的壓力訊號，尊重牠的界線，才能讓人與貓之間的關係更穩定、親密。畢竟，信任不是靠強迫建立的，而是透過耐心與理解一點一滴累積出來的。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e8%b2%93%e5%92%aa%e6%91%b8%e8%91%97%e6%91%b8%e8%91%97%e5%b0%b1%e7%aa%81%e7%84%b6%e5%92%ac%e4%ba%ba%ef%bc%9f%e5%85%b6%e5%af%a6%e6%98%af%e7%89%a0%e7%9a%84%e3%80%8c%e6%87%89%e6%bf%80%e5%8f%8d%e6%87%89/">貓咪摸著摸著就突然咬人？其實是牠的「應激反應」在作祟！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>狗狗打噴嚏也能代表心情？其實可能牠正在「表達情緒」！</title>
+		<link>https://firenews.com.tw/2025/11/02/%e7%8b%97%e7%8b%97%e6%89%93%e5%99%b4%e5%9a%8f%e4%b9%9f%e8%83%bd%e4%bb%a3%e8%a1%a8%e5%bf%83%e6%83%85%ef%bc%9f%e5%85%b6%e5%af%a6%e5%8f%af%e8%83%bd%e7%89%a0%e5%9c%a8%e3%80%8c%e8%a1%a8%e9%81%94%e6%83%85/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2025 08:02:48 +0000</pubDate>
+				<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[心情]]></category>
+		<category><![CDATA[打噴嚏]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[狗狗]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276007</guid>
+
+					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主看到狗狗打噴嚏時，第一反應往往是「是不是感冒了？」但其實，狗狗打噴嚏並不總是身 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e7%8b%97%e7%8b%97%e6%89%93%e5%99%b4%e5%9a%8f%e4%b9%9f%e8%83%bd%e4%bb%a3%e8%a1%a8%e5%bf%83%e6%83%85%ef%bc%9f%e5%85%b6%e5%af%a6%e5%8f%af%e8%83%bd%e7%89%a0%e5%9c%a8%e3%80%8c%e8%a1%a8%e9%81%94%e6%83%85/">狗狗打噴嚏也能代表心情？其實可能牠正在「表達情緒」！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 張舜傑/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>許多飼主看到狗狗打噴嚏時，第一反應往往是「是不是感冒了？」但其實，狗狗打噴嚏並不總是身體問題，有時這個動作反而是牠們「表達情緒」的方式之一。</strong></p>
+</blockquote>
+
+
+
+<h4 class="wp-block-heading">一、打噴嚏並非全是過敏反應</h4>
+
+
+
+<p>在乾燥環境、灰塵多或氣味刺激時，狗狗打噴嚏確實可能是自然的生理反應，用來清除鼻腔中的異物。但如果噴嚏頻率明顯增加、伴隨鼻涕或打噴嚏時有液體飛出，就可能需要留意是否為過敏、感染或呼吸道疾病。不過，若狗狗只是在玩耍時偶爾「哈啾」幾聲，多半與健康無關。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-10.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-276009" style="width:716px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">乾燥、灰塵或氣味刺激時，狗狗打噴嚏多是清理鼻腔的自然反應。圖:unsplash</figcaption></figure></div>
+
+
+<h4 class="wp-block-heading">二、遊戲中的噴嚏是「放鬆訊號」</h4>
+
+
+
+<p>許多狗狗在興奮、互動或追逐遊戲中會突然打噴嚏，這是一種「社交性噴嚏」。牠們藉此傳達「我在開玩笑、不是攻擊」的訊號，避免誤解對方行為為挑釁。這樣的打噴嚏常見於狗狗與人玩耍或與其他狗互動時，表明牠感到放鬆、愉快，是一種友善的情緒表達。</p>
+
+
+
+<h4 class="wp-block-heading">三、緊張與壓力也可能引發「情緒性噴嚏」</h4>
+
+
+
+<p>當狗狗面臨不熟悉的環境或感到壓力時，也可能出現打噴嚏的行為。這種情況下，噴嚏是牠們調節情緒、釋放緊繃能量的方式之一。例如在訓練過程中、面對陌生狗狗或被拍照時，若出現連續輕微噴嚏，通常意味著「我有點緊張，但正在嘗試冷靜」。</p>
+
+
+
+<h4 class="wp-block-heading">四、觀察噴嚏情境有助判斷意圖</h4>
+
+
+
+<p>判斷狗狗打噴嚏的意義，關鍵在於「發生的情境」。若狗狗在玩樂時打噴嚏，通常是情緒穩定且愉快；若在緊張、陌生或訓練時出現，則可能是釋放壓力的信號；但若在安靜時頻繁出現，或伴隨呼吸異常，則應考慮身體不適。飼主可透過觀察頻率、伴隨動作與整體情緒，進一步確認。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="600" height="399" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-12.png?resize=600%2C399&#038;ssl=1" alt="" class="wp-image-276011" style="width:712px;height:auto" data-recalc-dims="1" /><figcaption class="wp-element-caption">判斷狗狗打噴嚏玩樂時代表放鬆，緊張時是釋放壓力；若安靜時頻繁出現或伴隨呼吸異常，則可能身體不適。圖:unsplash</figcaption></figure></div>
+
+
+<p>狗狗的噴嚏不只是單純的生理反應，更可能是一種情緒語言。牠們用這個小動作來傳遞放鬆、興奮、緊張等多種情緒。若飼主能細心分辨情境、理解行為背後的意涵，就能更貼近狗狗的心理狀態，讓互動更加自然，也讓毛孩感受到被理解的安全感。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e7%8b%97%e7%8b%97%e6%89%93%e5%99%b4%e5%9a%8f%e4%b9%9f%e8%83%bd%e4%bb%a3%e8%a1%a8%e5%bf%83%e6%83%85%ef%bc%9f%e5%85%b6%e5%af%a6%e5%8f%af%e8%83%bd%e7%89%a0%e5%9c%a8%e3%80%8c%e8%a1%a8%e9%81%94%e6%83%85/">狗狗打噴嚏也能代表心情？其實可能牠正在「表達情緒」！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
