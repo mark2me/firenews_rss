@@ -1,120 +1,867 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>名家 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%90%8d%e5%ae%b6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/名家/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Tue, 04 Nov 2025 10:13:53 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>名家 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/名家/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</title>
+		<link>https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 10:13:47 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277192</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>Linker Vision 於「2025全球智慧城市展(SCEWC）」正式發表其最新 Physical AI  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/">Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Linker Vision 於「2025全球智慧城市展(SCEWC）」正式發表其最新 Physical AI 與 Reasoning AI 平台技術及最新成果。自主研發的 VisionAI 平台，整合三大核心技術：數位孿生模擬平台「Mirra」、AI模型訓練平台「DataVerse」以及即時部署平台「Observ」，建構完整「Three-Computer Solution」。透過這套架構，將 Vision-Language Models（VLM）、Digital Twin 與 CCTV 等感測系統整合應用，並藉由城市Digital Twin場景大量產出合成資料（synthetic data），以有效強化 AI 模型的優化開發，打造具備智慧推理與決策能力的城市 AI 中樞。</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-277195" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p><strong>三大平台驅動智慧城市AI中樞</strong></p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>本次展會中，Linker Vision 展示其自主研發的 VisionAI 平台，整合三大核心技術：數位孿生模擬平台「Mirra」、AI模型訓練平台「DataVerse」以及即時部署平台「Observ」，建構完整「Three-Computer Solution」。透過這套架構，將 Vision-Language Models（VLM）、Digital Twin 與 CCTV 等感測系統整合應用，並藉由城市Digital Twin場景大量產出合成資料（synthetic data），以有效強化 AI 模型的優化開發，打造具備智慧推理與決策能力的城市 AI 中樞。</p>
+
+
+
+<p><strong>深度整合NVIDIA生態系 加速城市AI部署</strong></p>
+
+
+
+<p>Linker Vision與NVIDIA密切合作，平台與其 Metropolis、Cosmos與 Omniverse 核心技術深度整合，大幅提升AI模型開發與部署效率，加強城市在交通、安防與災害管理等場域的反應速度與彈性。</p>
+
+
+
+<p>Linker Vision 執行長謝源寶博士表示：「未來的城市治理不只是觀察環境，更要能夠理解場景、預測風險並即時反應。我們從台灣出發，積極推動 Physical AI 及Reasoning AI 成為全球智慧城市的基礎底層。」</p>
+
+
+
+<p><strong>全球複製成功模式 加速智慧城市部署</strong> </p>
+
+
+
+<p>目前Linker Vision已於北美、東南亞、中東與拉丁美洲等地展開實際部署，並與各地電信商、雲端服務業者及OEM夥伴攜手合作，加速複製其「智慧城市 AI 藍圖」。應用情境涵蓋交通管理、公共安全、災害應變與基礎設施維運等，展現高度彈性與可擴展性，為全球城市治理提供全新思維。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/">Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</title>
+		<link>https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 09:13:06 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277152</guid>
+
+					<description><![CDATA[<p>清晨的機場，一位旅人正準備登機。他單手提起外套、另一手輕鬆拉開行李箱，蓋子往上一掀，衣物與文件整齊排列，無需全 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/">輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>清晨的機場，一位旅人正準備登機。他單手提起外套、另一手輕鬆拉開行李箱，蓋子往上一掀，衣物與文件整齊排列，無需全箱攤開，也沒有慌亂的整理場面。這樣的畫面，是萬國通路Eminent在新一代行李箱設計中想呈現的旅行日常。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=1220%2C610&#038;ssl=1" alt="" class="wp-image-277153" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Eminent推上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。</figcaption></figure>
+
+
+
+<p>為迎接年底旅遊旺季與雙11購物節熱潮，Eminent推出全新上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。這款新品以「輕盈出發，風格同行」為概念，鎖定年輕旅人與重視機能設計的消費族群，希望以更貼近真實旅途的細節設計，重新定義行李箱的使用體驗。</p>
+
+
+
+<p>KK98 UNIVO系列最大特色是1:9比例上掀式開口設計。不同於傳統對開式結構，上掀式讓行李箱在有限空間中依然方便使用，無論是在飯店走道、車廂座位旁或是狹窄的民宿床邊，旅人都能輕鬆開闔、收納。箱體配備避震溜冰輪，在顛簸路面或長距離移動時能保持拖行穩定，降低噪音，提升整體使用感。Eminent並在設計中加入掛勾式泡腳，方便旅人掛放手提袋、外套或戰利品，解放雙手。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277155" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+
+
+
+<p>新品外觀推出四款繽紛配色，從蜜橙橘、矢車菊藍、青檸綠到酷灰色，本次亮點色為蜜橙橘，與iPhone 17 Pro新機同色系，成為科技與時尚領域的熱門話題，並增添行李箱的辨識度與話題性。Eminent設計團隊指出，這款新品不只是一件旅行工具，更代表一種「輕旅生活」態度——高機能與美型兼備，讓行李箱躍升為日常穿搭與旅途時尚的焦點單品。。</p>
+
+
+
+<p>隨著新品登場，Eminent同步展開2025年度週年慶，活動自10月23日至11月16日舉行，全館商品85折起，滿2000元可折200元，多款指定商品最低6折。活動期間，消費者滿8880元即可於官方LINE參加小遊戲，有機會抽中最高11%折扣券。品牌表示，週年慶除了回饋消費者外，也希望透過互動方式，讓購物成為更有樂趣的體驗。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277158" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+
+
+
+<p>緊接而來的雙11購物節，Eminent也針對多款新品及熱銷品推出限時優惠，此次活動以網路平台為主，預計吸引眾多準備年末旅行的消費者提前選購。品牌觀察，隨著國際旅遊市場回溫，行李箱需求顯著上升，輕量與便利設計成為消費者首要考量。</p>
+
+
+
+<p>創立於1979年的萬國通路Eminent以台灣為起點，長年專注於高品質行李箱製造與研發，產品銷售遍及全球。品牌在產品開發上持續強調結構穩定與人性化設計，希望讓行李箱不僅是收納工具，更成為旅人生活的一部分。</p>
+
+
+
+<p>更多新品與活動詳情可至萬國通路官網（<a href="https://tw.eminent.com">https://tw.eminent.com</a>）或全台28家直營門市查詢。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/">輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</title>
+		<link>https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 07:04:25 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277036</guid>
+
+					<description><![CDATA[<p>全球領先的材料科學公司陶氏公司（紐交所代碼：DOW）宣佈，其全球首個「熱管理材料科學實驗室（Cooling S &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/">陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球領先的材料科學公司陶氏公司（紐交所代碼：DOW）宣佈，其全球首個「熱管理材料科學實驗室（Cooling Science Studio）」正式於上海陶氏中心揭幕。作為陶氏全球研發網絡的重要里程碑，該實驗室專注於推動新一代熱管理材料與冷卻技術的創新與應用，旨在強化陶氏在人工智慧（AI）與資料中心生態系統中的解決方案實力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="796" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=796%2C573&#038;ssl=1" alt="" class="wp-image-277037" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?w=796&amp;ssl=1 796w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=768%2C553&amp;ssl=1 768w" sizes="(max-width: 796px) 100vw, 796px" data-recalc-dims="1" /></figure>
+
+
+
+<p>當前，AI技術的飛速發展正深刻重塑各行各業，在創造巨大機遇的同時，也使熱管理面臨日益嚴峻的挑戰。特別是在算力需求呈指數級增長的倒逼下，共處AI生態下的各大市場都亟需能夠有效管理熱負荷、兼具長期可靠性與可持續性優勢的創新冷卻技術與熱管理材料。陶氏公司消費品解決方案全球戰略行銷總監楚敏思表示：「熱管理材料科學實驗室增強了我們現有的應用與測試能力，並拓展了與本地客戶合作開發下一代冷卻解決方案的機會，這一切都是我們踐行對中國市場長期承諾、加強本土研發投資的有力佐證。選擇將首個熱管理材料科學實驗室在上海落成，標誌著我們開啟了本土創新協作的新篇章，將我們的全球研發能力與對中國市場的精准洞察實現無縫對接，通過協同創新，助力客戶應對從熱管理挑戰到產品快速上市的全鏈路需求，實現共贏。」</p>
+
+
+
+<p>該實驗室專為協同創新而建立，通過三大功能板塊的協同整合，可為客戶提供覆蓋產品開發全週期的專業技術支援和一站式服務，助力加速熱管理解決方案從早期概念到產品商業化的進程：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>全面、系統化的評估測試：</strong>覆蓋從消費電子、通信及可再生能源等領域的關鍵部件散熱測試。同時，專業的應用評估平臺可為客戶提供精准、可靠的資料支援。</li>
+
+
+
+<li><strong>豐富的應用能力和多行業演示</strong><strong>: </strong>不僅可展示點膠、絲網印刷等成熟的材料應用工藝，還能通過跨行業應用演示，直觀呈現陶氏公司解決方案在多元場景下的優異表現。借此，客戶可評估不同的應用工藝，以確定更適合的方案。</li>
+
+
+
+<li><strong>便捷、無縫的技術支援：</strong>客戶可直接獲取陶氏公司的全系列導熱材料樣品，以及陶氏公司其他區域的專家與實驗資源，實現高效協同作業與知識共用，極大提升技術支援的廣度與深度。</li>
+</ul>
+
+
+
+<p>陶氏公司致力於將今天的冷卻挑戰轉化為明天的冷卻技術突破。上海熱管理材料科學實驗室的建成將促進更緊密的客戶合作，為電子行業及整個AI生態體系更高效的未來貢獻力量。</p>
+
+
+
+<p><strong><em>關於陶氏公司</em></strong></p>
+
+
+
+<p>陶氏公司（NYSE：DOW）是全球領先的材料科學公司之一，服務於包裝、基礎建設、運輸和消費應用等高增長市場的客戶。我們的全球性佈局、資產整合和規模效益、專注的科技創新、業務領先地位、以及對永續發展的承諾，確保我們能夠實現盈利性增長，並助力打造永續的未來。我們在 30 個國家和地區設有製造基地，全球約 36,000 名員工。陶氏公司 2024 年實現约 430 億美元銷售額。「陶氏公司」或「公司」是指 Dow Inc. 及其子公司。如需進一步了解我們，以及我們成爲在創新、客戶導向、包容性和永續發展方面全球領先的材料科學公司的願景，請訪問 <a href="http://www.dow.com/" target="_blank" rel="noreferrer noopener">www.dow.com</a>。</p>
+
+
+
+<p>注意:本文中所含資訊僅供說明之用，不應被解釋為產品規格。客戶應該通過自己的測試來確認結果。 注意：本資訊本著善意提供，供您考慮，但不提供任何保證或擔保（明示或暗示），因為分析條件和使用此處描述的資訊和材料的方法可能會有所不同，並且不受陶氏的控制。儘管這些資訊基於陶氏認為可靠和準確的資料，但我們無意讓您使用本文檔的內容，因此您不應將本文檔的內容解釋為業務、技術或任何其他形式的建議。我們建議您在採用或以商業規模使用它們之前，決定此處描述的資訊和材料的適用性。陶氏對使用此資訊不承擔任何責任。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/">陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</title>
+		<link>https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 00:36:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ITF]]></category>
+		<category><![CDATA[台北國際旅展]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276673</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 日本控快衝！最大規模日本館11/7登場 2025 ITF台北國際旅展 即將在11月7日 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/">不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<h2 class="wp-block-heading"><strong>日本控快衝！最大規模日本館11/7登場</strong></h2>
+
+
+
+<p>2025 ITF台北國際旅展 即將在11月7日至10日在台北南港展覽館一館1、4樓登場。其中最大亮點非「日本館」莫屬，今年以 207個攤位、114個日本參展單位打破歷年紀錄，佔據南港展覽館一樓近四分之一的展區，成為整場最熱、最密集的旅遊焦點。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="630" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=1200%2C630&#038;ssl=1" alt="" class="wp-image-276674" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=768%2C403&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ITF台北國際旅展「把日本搬來台灣」（圖／翻攝自台灣觀光協會）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>就像環遊日本  玩出不一樣的深度旅程</strong></h2>
+
+
+
+<p>從北海道的雪國風情、關西的文化底蘊，到沖繩的海島氣息，全日本的地方政府與觀光單位幾乎全員到齊。ITF台北國際旅展現場不只能拿觀光資料、比價機票，更能親手體驗地方特色活動，感受「把日本搬來」的臨場感。 </p>
+
+
+
+<p>今年首次參展的「日本遺產（Japan Heritage）」以「讓文化會說故事」為理念，串連日本地方歷史、建築、祭典與風俗，打造能親身體驗的文化旅程，讓旅客感受地方故事的脈動。以及「京急集團」、「思夢樂」、「三麗鷗彩虹樂園」、「卡樂比」、「JAPAN SPORTS TOURISM」皆為首次亮相台北國際旅展，邀請台灣旅客一起探索更深層的日本風情。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-276675" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=2048%2C1538&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲一站玩遍全日本！玩出不一樣的日本深度旅程（圖／翻攝自台灣觀光協會）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>交通與網卡一次搞定 日本館內容更升級</strong></h2>
+
+
+
+<p>今年日本館展出內容再進化，特別集結多家深受旅客喜愛的日本交通與生活品牌共同參展，讓旅客能一次掌握旅遊行程規劃的所有關鍵資訊。</p>
+
+
+
+<p>包含 利木津巴士、東武鐵道集團、關東廣域、近鐵集團、JR西日本、JR東海集團、JR東日本集團 等知名交通單位，以及 Nippon SIM 與 天馬航空(T&#8217;way Air)等品牌，也將於現場展示最新旅遊服務與限定優惠，讓台灣旅客輕鬆玩遍日本、暢行無阻。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>吃住玩全制霸！人氣吉祥物登台、好康一次搶</strong></h2>
+
+
+
+<p>除了豐富旅遊產品、精采舞台活動展出，今年ITF台北國際旅展也邀請日本縣市吉祥物，用可愛爆擊現場——熊本縣的「熊本熊」、島根縣的「島根貓」、千葉縣「千葉君」、香川縣「呆呆獸」、常滑市的「托可坦」&#8230;等輪番登場。現場還有每日兩點至兩點半限定的「吉祥物大遊行」，預計引爆拍照打卡潮。</p>
+
+
+
+<p>今年旅展盛況空前，匯集超過千家參展單位，上萬款優惠齊登場，飯店、餐券、交通全面下殺，2026富士山登山團，保證入住山屋，每人49,900元起 ; 九州雙電車體驗五日，每人24,800元起 ; 樂活沖繩機加酒，行程自由配4日，每人15,900元起。還有國內五星飯店住宿券、餐券最低下殺至1.7折，高鐵聯票67折起。無論想規劃年末聚餐或是國內外旅遊，都能在現場找到靈感與好康。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>旅遊控快筆記 ITF旅展資訊與購票方式</strong></h2>
+
+
+
+<p>今年ITF台北國際旅展 將於11月7日至11月10日在台北南港展覽館一館1、4樓盛大舉行，想出國玩、找靈感、撿便宜的民眾可別錯過。 </p>
+
+
+
+<p>ITF台北國際旅展 | 售票資訊<strong><br></strong>展期時間：2025年11月7日～11月10日<br>展覽地點：台北南港展覽館 1館<br>預售時間：即日起～11月6日<br>預售票價：180元<br>展期票價：200元<br>購票資訊：<a href="https://www.taipeiitf.org.tw/Information3">https://www.taipeiitf.org.tw/Information3</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/">不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</title>
+		<link>https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[CGM]]></category>
+		<category><![CDATA[營養師]]></category>
+		<category><![CDATA[營養師許瓊月]]></category>
+		<category><![CDATA[血糖管理]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274679</guid>
+
+					<description><![CDATA[<p>隨著健康意識的提升，越來越多人開始重視血糖管理，而連續葡萄糖監測系統（CGM）逐漸成為追蹤血糖波動的重要工具。 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/">成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>隨著健康意識的提升，越來越多人開始重視血糖管理，而連續葡萄糖監測系統（CGM）逐漸成為追蹤血糖波動的重要工具。</strong></p>
+</blockquote>
+
+
+
+<p>CGM 配戴在手臂上，可連續監測 10 至 15 天的血糖變化。相較於傳統血糖機僅能測單一數值，CGM 報告中涵蓋更多專業指標與曲線，初次接觸的使用者常常會覺得數據繁雜、難以理解。</p>
+
+
+
+<p>其實，只要能正確解讀這些數據，便能更精準地掌控血糖，進一步改善健康狀況。營養師許瓊月就曾遇到一位 50 多歲的糖友，這位患者第一次配戴 CGM 時，看著滿滿的數據卻摸不著頭緒，不知道該如何調整，甚至覺得「花了錢卻沒得到實際幫助」，後來在營養師的引導下，他才學會如何透過 CGM 報告找到飲食與血糖的關鍵關聯。經過逐步調整，他不僅理解了數字背後的意義，也慢慢建立起適合自己的健康生活型態。 許瓊月營養師強調，CGM 報告其實是血糖管理的重要地圖。只要掌握判讀原則，每個人都能從中找到改善健康的方法。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="597" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=1158%2C597&#038;ssl=1" alt="" class="wp-image-274706" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?w=1158&amp;ssl=1 1158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=768%2C396&amp;ssl=1 768w" sizes="(max-width: 1158px) 100vw, 1158px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>《輕鬆看懂 CGM 數據》</strong></h2>
+
+
+
+<p>HbA1c（糖化血色素）能反映過去三個月的平均血糖值，是臨床上最常用的血糖管理指標。然而，它的限制在於無法呈現血糖的實際波動。例如，兩位 HbA1c 相同的患者，一位血糖穩定，另一位則有明顯的高低起伏，而這些劇烈波動都會對身體造成傷害。這顯示僅依賴 HbA1c 並不足以全面掌握血糖控制。隨著 CGM 的出現，透過 TIR 指標搭配 HbA1c 觀察，能讓血糖管理更加完整與精準。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="626" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=1220%2C626&#038;ssl=1" alt="" class="wp-image-274705" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?w=1307&amp;ssl=1 1307w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=768%2C394&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>TIR（Time in Range，達標時間百分比）是 CGM 最核心，也是血糖管理的最新指標。它指的是血糖一天內落在 70 至 180 mg/dL 目標範圍內的時間占比，能清楚反映血糖波動的穩定性。臨床實證顯示，TIR 每增加 10%，HbA1c 大約可降低 0.8%(註一)。醫師一般建議血糖應至少有七成時間維持在目標範圍，在 CGM 報告中，綠色區域代表血糖落在理想範圍內，紅色區域則代表超出範圍，目標是保持更多綠色、減少紅色，掌握「多綠少紅」的原則。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=1220%2C627&#038;ssl=1" alt="" class="wp-image-274704" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?w=1311&amp;ssl=1 1311w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=768%2C395&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>另一項值得關注的指標是 GMI（Glucose Management Indicator，糖化血色素預估值）。它是由 CGM 的平均血糖值推算而來，用於快速評估整體血糖控制狀況。GV（Glucose Variability，血糖變異度）則衡量血糖波動幅度，若血糖變異度過高，意味著血糖大起大落，容易增加心血管疾病及糖尿病併發症的風險；相對地，低變異度顯示血糖穩定，有助於降低疾病風險，促進整體健康。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="632" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=1220%2C632&#038;ssl=1" alt="" class="wp-image-274703" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=768%2C398&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>此外，AGP（Ambulatory Glucose Profile，二十四小時動態糖譜）也是解讀 CGM 不可或缺的工具。它將配戴期間的所有數據整合成一張圖表，以24小時來看血糖中位數、變化幅度以及建議的血糖目標範圍。透過 AGP 圖，患者和醫療團隊能一眼看出一天之中哪些時段容易發生高低血糖異常，進而做出個人化飲食或藥物的調整。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="631" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=1220%2C631&#038;ssl=1" alt="" class="wp-image-274702" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=768%2C397&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>《CGM 報告與健康生活新型態》</strong></h2>
+
+
+
+<p>許瓊月營養師表示，以前營養師必須反覆叮嚀病患飲食注意事項，還得靠病患自行回報是否有規律量血糖。現在只要一顆 CGM，便能清楚知道病患的飲食選擇與運動狀況，調整建議不再只是推測，而是有數據佐證。同時，患者自己也能即時看到改變後的血糖反應，得到正向回饋。 她指出，善用 CGM 報告，可以幫助病患從多個面向打造健康生活。飲食方面，CGM 能清楚顯示不同食物對血糖的影響，協助選擇低升糖指數（GI）的食物，避免血糖劇烈波動。運動方面，CGM 可呈現運動對血糖的影響，持續運動能提升胰島素敏感性，讓血糖更穩定。情緒管理上，壓力往往會導致血糖異常波動，透過 CGM 可以找出壓力相關的血糖變化，進而學習減壓技巧，保持身心穩定。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>《改變看得到》</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="635" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=1220%2C635&#038;ssl=1" alt="" class="wp-image-274701" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?w=1310&amp;ssl=1 1310w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=768%2C400&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>善用 CGM 觀察自己的血糖變化，讓每一個數據背後的健康信號變得清晰可見。當你讀懂 CGM 報告中的每一項數據，便能深入了解自己的行為與血糖波動的關聯，並根據這些資訊做出更加精確的飲食、運動和生活方式調整。透過持續觀察和調整，健康的改變不再是抽象的理想，而是具體可見、實際可達成的目標。</p>
+
+
+
+<p>註一: Vigersky, R. &amp; McMahon, C. (2019). <em>The Relationship of Hemoglobin A1C to Time-in-Range Metrics Derived From Continuous Glucose Monitoring</em>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1012" height="465" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=1012%2C465&#038;ssl=1" alt="" class="wp-image-274700" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?w=1012&amp;ssl=1 1012w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=768%2C353&amp;ssl=1 768w" sizes="(max-width: 1012px) 100vw, 1012px" data-recalc-dims="1" /></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/">成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[知本溫泉公益馬拉松]]></category>
+		<category><![CDATA[跑吧!孩子]]></category>
+		<category><![CDATA[農村發展及水土保持署臺東分署]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276322</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<p>「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉觀光發展促進協會、知本老爺酒店共同主辦，並集結公私部門齊力推動，串聯農村發展及水土保持署臺東分署與臺東縣農會所合作的「洛神可食地景」及「食農體驗」活動，不只讓跑者揮灑汗水，也帶來了一場融合農業、體驗與美學的農村盛宴。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-276368" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「跑吧!孩子 2025知本溫泉公益馬拉松」於11月2日登場，公私協力協力推動台東觀光，同時讓台東特色產業被更多人看見。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>洛神食農體驗活動於馬拉松活動期間共辦理兩場體驗活動，包括洛神葵採摘、田間導覽、手工去籽、製作蜜餞等內容，不僅讓參與者親身感受從田野到餐桌的過程，更加深了對食物來源與農作知識的理解。活動全程免費參與，報名踴躍，參與者多表示「第一次自己採洛神、做蜜餞，非常新鮮又有趣」，充分展現食農教育的實踐價值。</p>
+
+
+
+<p>此次打造的可食地景「洛神花海」共栽種臺東1號、3號及白洛神三種品系，結合體驗活動，除了吸引民眾近距離觀賞南迴特產洛神葵，也進一步推動臺東在地作物的價值與魅力，為臺東洛神產業注入新的推廣動能。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276369" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?w=1260&amp;ssl=1 1260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=768%2C288&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">農村水保署臺東分署營造洛神花海，攜手台東縣農會於11月1日及2日辦理洛神食農體驗，跑者或其眷屬體驗「從田野到餐桌」的完整旅程，親手製作洛神蜜餞，展現食農教育的實踐精神。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>本次活動除了串聯洛神食農體驗，農村水保署臺東分署也邀請通過田媽媽餐廳認證的「宏昌客家餐館」於現場準備「客家糕粄」作為完賽補給特色點心，口味包含艾草包與筍包，不僅讓大家品嘗在地農村傳統好滋味，也藉由美食傳遞客庄文化。此外，分署亦設置水土保持宣導區，透過互動遊戲，傳遞友善農業、保育土地資源等永續理念，深化農業與環境的連結。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276370" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?w=2005&amp;ssl=1 2005w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=768%2C288&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1536%2C577&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">宏昌客家菜館於知本溫泉公益馬拉松現場提供傳統客家糕粄作為完賽補給品，讓跑者在補充體力的同時，也品嚐到台東農村的在地滋味。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>本次活動最大特色之一，為農業活動與大型運動賽事進行跨界串聯。以知本溫泉公益馬拉松作為人流引擎，活動吸引了大量非農村背景的都市參與者深入接觸農村文化與產業，創造額外觀光與消費效益。據估算，活動期間帶動超過逾2,000人參與，間接促觀光產值，也讓臺東洛神從季節性作物，逐漸轉型為可串聯教育、觀光與產業的多元平台。</p>
+
+
+
+<p>臺東分署未來也將持續透過食農教育深化農業價值，並結合運動觀光、社區營造與品牌行銷等資源，打造更多發光發熱的農村產業。透過與在地農會、旅宿與活動平台等共同協作，讓農村不只是風景，更是體驗、文化與價值的交匯點，成為推動產業升級與區域共好的具體行動。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
+		<link>https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276619</guid>
+
+					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=864%2C1296&#038;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
+
+
+
+<p><strong>關於G-DRAGON</strong></p>
+
+
+
+<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
+
+
+
+<p><strong>官方社交媒體</strong></p>
+
+
+
+<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
+
+
+
+<p><strong>關於AEG Presents</strong></p>
+
+
+
+<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com">www.aegpresents.com</a>。</p>
+
+
+
+<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a></p>
+
+
+
+<p><strong>關於TME live</strong></p>
+
+
+
+<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live – <a href="https://www.instagram.com/tme_official__/">Instagram</a> | <a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a> | <a href="https://x.com/TME_official_">X</a></p>
+
+
+
+<p>圖片來源(C) GALAXY CORPORATION</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</title>
+		<link>https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2025 02:30:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[Moonlight Sirens 月魅海妖]]></category>
+		<category><![CDATA[SEIZE今夕何夕]]></category>
+		<category><![CDATA[承億酒店]]></category>
+		<category><![CDATA[萬聖派對]]></category>
+		<category><![CDATA[萬聖節派對]]></category>
+		<category><![CDATA[造夢專家]]></category>
+		<category><![CDATA[高雄萬聖節]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=275899</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 以打造沉浸式派對享譽的造夢專家 SEIZE 今夕何夕，日前（31）日與高雄五星級承億酒 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/">萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>以打造沉浸式派對享譽的造夢專家 SEIZE 今夕何夕，日前（31）日與高雄五星級承億酒店聯手舉辦「Moonlight Sirens 月魅海妖 萬聖節派對」，活動於24樓無邊際泳池，結合電音燈光、創意變裝與獨家佈置，吸引數百名派對玩家，爆滿人潮共度一場現實與夢境交錯的夜晚，再次實現「好好享受今夕，才會期盼何夕」的品牌造夢精神。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275900" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9163-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275908" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/3-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>萬聖節限定！南台灣唯一能「下水」的高空派對引爆話題</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275905" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/2-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>繼去年於台南海安路吸引逾五萬人共襄盛舉的「喝到併鬼」熱潮，SEIZE 今夕何夕今年運用團隊的創意，首度前進五星級酒店，策劃出南台灣唯一能下水的高空萬聖派對。以月光映照水面為意象，結合燈光投影、電子音浪，並與知名活動佈置「知·百年 Forever WED」合作，藉海妖造景營造深海幻境錯覺，讓民眾徹底投入奇幻世界，成為當晚打卡熱點、登上熱搜，展現品牌話題熱度與創意成效。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275906" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>為應景萬聖節，現場亦舉辦變裝大賽吸引不少人發揮創意，從詭魅海妖、復古吸血鬼到熱門動漫角色等吸睛造型，經由線上社群零時差票選得獎者，並現場帶走裝扮獎金。</p>
+
+
+
+<p>此外，SEIZE 今夕何夕亦同步設計互動遊戲，更與承億酒店推出限定聯名特調「人魚之淚」以及節慶菜單，展現品牌對活動細節與整體體驗的高度講究，透過沉浸派對營造令人難忘的感官體驗。</p>
+
+
+
+<p>近年民眾越趨重視儀式感，節慶聚會、生日、求婚、抓周或性別揭曉等，都傾向邀請親友共同參與、留下回憶，也推動派對文化的興起。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>從派對到人生節日 造夢專家延伸儀式感文化</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1831" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1220%2C1831&#038;ssl=1" alt="" class="wp-image-275901" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/IMG_9153-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>SEIZE 今夕何夕表示，活動是現代人回憶的延伸，品牌由一群專門為人造夢的派對設計師組成，將佈置美學、活動企劃力、客製化服務融為一體是團隊優勢，且相信人生的每一天都值得被慶祝，那些被訂製活動的不只是派對，而是人生節日的創造；不僅是像萬聖節的大型活動，更是實踐品牌理念做一場關於今夕的夢，「To Make Each Day Count」讓參與者在派對裡感受當下，體現品牌理念。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>造夢不止於萬聖 SEIZE 美學聖誕篇即將揭幕</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-275902" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/WCZ08482-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>隨月魅海妖派對圓滿落幕，SSEIZE 今夕何夕也預告下一場活動，將於十二月邀請 VIP 參與年度聖誕派對，現場會以更細膩的形式延續 SEIZE 美學，打造聖誕夢境，未來品牌亦將持續實踐創意策劃與沉浸體驗，為生活造夢，策劃屬於每個人的今夕。</p>
+
+
+
+<p>【新聞資訊】</p>
+
+
+
+<p>主辦單位：SEIZE 今夕何夕</p>
+
+
+
+<p>協辦單位：承億酒店</p>
+
+
+
+<p>佈置造景：知·百年 Forever WED</p>
+
+
+
+<p>活動名稱：Moonlight Sirens 月魅海妖 萬聖派對&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>活動時間：2025年10月31日（六）18:00–24:00 </p>
+
+
+
+<p>活動地點：承億酒店24F 高空無邊際泳池 POOL BAR</p>
+
+
+
+<p>𝗦𝗘𝗜𝗭𝗘 今夕何夕 <em>Instagram</em></p>
+
+
+
+<p><a href="https://www.instagram.com/seize_tw">https://www.instagram.com/seize_tw</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1830" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1220%2C1830&#038;ssl=1" alt="" class="wp-image-275907" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/8-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/02/%e9%80%a0%e5%a4%a2%e5%b0%88%e5%ae%b6-seize-%e4%bb%8a%e5%a4%95%e4%bd%95%e5%a4%95%e8%81%af%e6%89%8b%e6%89%bf%e5%84%84%e9%85%92%e5%ba%97-%e8%90%ac%e8%81%96%e7%af%80%e6%89%93%e9%80%a0%e5%8d%97%e5%8f%b0/">萬聖節最夢幻一夜！ 高空泳池變身月光海「月魅海妖」派對登社群熱搜</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</title>
+		<link>https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[乳癌]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=275258</guid>
+
+					<description><![CDATA[<p>乳癌在臺灣是女性癌症第1名、死亡率第4名*，且有年輕化的趨勢。雖然早期發現、早期治療存活率很高，大家以為「手術 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/">早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=1024%2C1024&#038;ssl=1" alt="" class="wp-image-275263" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-289.png?resize=768%2C768&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>乳癌在臺灣是女性癌症第1名、死亡率第4名*，且有年輕化的趨勢。雖然早期發現、早期治療存活率很高，大家以為「手術切乾淨就沒事了」，但早期乳癌、特別是荷爾蒙陽性的患者，術後其實還藏有「未爆彈」！</strong></p>
+</blockquote>
+
+
+
+<p>本篇邀請台中市立老人復健綜合醫院乳房外科吳曜充主任、洪琬瑜主治醫師帶您了解「拆彈」關鍵，平安規避4大潛藏高風險因子。</p>
+
+
+
+<h2 class="wp-block-heading">手術≠終點！小心潛在的「復發炸彈」&nbsp;</h2>
+
+
+
+<p>吳曜充醫師指出，亞洲族群的乳癌罹病高峰在 45~50歲，相比其他人種多在 60~70歲發生，來得更早、也更容易被忽略、對家庭與人生衝擊更大、術後保養期也更久。他說：「我們確實希望保護患者 30~40年，但這麼漫長的歲月要消解復發風險相當不容易。所以必須更著重預防復發，這是臺灣女性刻不容緩要積極面對的挑戰。</p>
+
+
+
+<p>洪琬瑜醫師表示，乳癌因形態不同、治療方法也各異，其中約有七成的是「賀爾蒙陽性（管腔型）乳癌」，這類患者若能早期發現並及時手術，治癒率相對較高，但手術完也須持續輔助性治療，更要注意幾個高風險因子：腫瘤大小、癌症侵犯淋巴結多少顆，還有 &nbsp;Ki-67指數（細胞增生指數）以及腫瘤分化程度。</p>
+
+
+
+<p>因為腫瘤樣貌相當多，醫師需依據患者腫瘤類型、大小、期數等制定治療方式。腫瘤越大復發風險越高，腫瘤在身體裡會慢慢長大、可能將癌細胞轉移到肺部、肝臟等身體各處，轉移第一站通常就是淋巴結，因此淋巴結的顆數與轉移情況，就成為癒後的重要指標，超過4個復發風險相對較高。</p>
+
+
+
+<h2 class="wp-block-heading">拆彈新助攻－細胞週期抑制劑可望降低3成風險&nbsp;</h2>
+
+
+
+<p>採訪前，吳醫師剛完成一場手術，本來預期患者腫瘤還小、影像檢查淋巴結也顯示沒有轉移，沒想到開刀才發現三顆淋巴結中已有兩顆出現癌細胞轉移！他無奈表示，「淋巴結轉移對病人或醫生來說，並沒有很明確的規則可循。有些賀爾蒙陽性的病人化療效果不好，即使清楚那樣的『子彈』可能打得不夠精準、不夠強、容易復發，也只能照標準治療。但現在就會建議使用『細胞週期抑制劑』來輔助治療。」</p>
+
+
+
+<p>細胞週期抑制劑原本是設計治療已出現轉移的患者，後來因為療效非常好才逐漸應用在術後、尚未明顯遠端轉移的高復發風險的患者，作為輔助藥物治療以減少復發。隨著這項藥物被納入健保給付，確實幫助了不少家庭，他曾收治一位單親媽媽，難以負擔醫療費，她病情復發後立刻轉移到肺部，符合健保給付資格，吳醫師團隊立即為她使用細胞週期抑制劑，沒多久肺部狀況迅速改善，至今兩年情況穩定，她也能繼續工作、撫養小孩。&nbsp;</p>
+
+
+
+<p>對此吳醫師頗有感觸：「其實我常想，細胞週期抑制劑如果能提早發現，我們是否可以避免更多悲劇產生？以前明知道患者是高復發族群，也很積極治療了，但仍在３～５年後無可避免地復發。」如今看到患者使用細胞週期抑制劑效果很好，他更加感慨，如果能在術後使用細胞抑制劑作為輔助治療，至少能降低三成以上復發風險，很多病人及至家庭都能受惠！&nbsp;</p>
+
+
+
+<p>不過細胞週期抑制劑雖已納入健保給付，但仍有符合適應症但未能符合健保給付條件的患者，目前自費使用藥費每月仍達7萬多元，對一般家庭負擔仍然不輕。吳醫師也呼籲：「如果病人對治療反應良好，是否能讓部分病患延長治療週期？是否可以放寬健保條件？細胞週期抑制劑不只對已轉移患者/早期乳癌高復發風險患者有效，也應該考慮納入全部患者，讓更多病人受惠。」他進一步指出，政府開放可明顯減少復發的藥物，是很正向的醫療政策；但也需要民眾更有意識，乳癌初期的轉移病沒有想像中的樂觀，應主動跟醫師討論輔助治療的可能，積極配合回診追蹤。</p>
+
+
+
+<p>吳醫師也觀察到：「乳癌篩檢病例量的提升， 我們發現3、40幾歲的年輕患者愈來愈多，這是需要被重視跟認真對待的。雖然年輕患者整體治療反應通常比較好，但如果已出現淋巴結轉移而需接受化療，她們往往還未結婚生子，化療帶來的副作用與身心創傷，是往後很長一段人生要面對的。」</p>
+
+
+
+<p>細胞週期抑制劑的介入可能會對這個困境有所幫助，國外研究顯示，這類藥物可以減少患者接受化療的需求，減少相關副作用等。吳醫師堅信不遠的將來，這個藥物一定會扮演非常重要的角色！「而且它現在已經幫助約七成的乳癌患者有效減低復發機率，這是一個很棒的事情。」</p>
+
+
+
+<h2 class="wp-block-heading">注意「4以上，3搭523」，別輕忽留下復發引信！</h2>
+
+
+
+<p>&nbsp;那麼患者術後可以注意哪些指標，以防止身體裡的未爆彈呢？醫師指出最核心的就是這四點：淋巴結轉移4顆以上，或轉移3顆以下合併以下條件：</p>
+
+
+
+<p>• 腫瘤≥5公分</p>
+
+
+
+<p>• Ki-67≥20%</p>
+
+
+
+<p>• 腫瘤分化程度第3級</p>
+
+
+
+<p>這些因子就像潛在引信，任何一項存在都應提高警覺！若民眾符合上述情況，一定要跟醫師討論是否適合使用細胞週期抑制劑，以降低復發風險。乳癌雖然及早發現腫塊，腫塊越小轉移淋巴結的機會就越低，但仍有例外。醫師提醒，除了平時留意身體變化，一定要配合定期追蹤檢查，注意四大風險指標才是正確預防觀念。</p>
+
+
+
+<p>現在面對潛在「復發炸彈」，已有「細胞週期抑制劑」這項拆彈武器，能幫助患者降低約三成復發風險。病友們也要充分了解自身狀況，勇於提問與醫師共同規劃治療，才能真正拆除未爆彈，安心邁向康復之路。</p>
+
+
+
+<p>參考資料：</p>
+
+
+
+<p>*1 衛生福利部。《乳癌為女性癌症第1位　乳房健康三部曲不可少》　<a href="https://www.mohw.gov.tw/cp-3163-28149-1.html" target="_blank" rel="noreferrer noopener">https://www.mohw.gov.tw/cp-3163-28149-1.html</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/01/%e6%97%a9%e6%9c%9f%e4%b9%b3%e7%99%8c%e8%a1%93%e5%be%8c%e9%82%84%e6%9c%89%e3%80%8c%e6%9c%aa%e7%88%86%e5%bd%88%e3%80%8d%ef%bc%9f%e9%86%ab%e5%b8%ab%e6%8c%87%e5%87%ba4%e5%a4%a7%e9%ab%98%e5%be%a9%e7%99%bc/">早期乳癌術後還有「未爆彈」？醫師指出4大高復發風險因子</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</title>
+		<link>https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 01:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ReLive]]></category>
+		<category><![CDATA[李賴虎3D亂鬥嘉年華]]></category>
+		<category><![CDATA[李賴虎嘉年華]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274759</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 台灣新興 VTuber 團隊 ReLive Project 宣布，年度 3D 綜藝演出 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/">笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>台灣新興 VTuber 團隊 ReLive Project 宣布，年度 3D 綜藝演出《李賴虎3D亂鬥嘉年華》自 10 月 9 日起正式開賣！三場節目將以雙人漫才、台馬食物辯論與 3D 獨輪車挑戰等瘋狂企劃連番登場，笑料與技術兼具。節目將於 2025 年底線上開演，限時無回播。</strong></p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="679" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=1220%2C679&#038;ssl=1" alt="" class="wp-image-274760" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?w=2122&amp;ssl=1 2122w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=1536%2C855&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822252589.jpg?resize=2048%2C1140&amp;ssl=1 2048w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">圖片來源：李賴虎娛樂事業有限公司</figcaption></figure>
+
+
+
+<p>台灣新興VTuber團隊 ReLive Project 宣布年度3D綜藝演出企劃《李賴虎嘉年華》正式開賣！ 被粉絲笑稱「最斜咖的虛擬嘉年華」，將於 Beatday 平台登場，多位 VTuber 同步3D化演出，從漫才、辯論到獨輪車挑戰，全面突破虛擬綜藝的想像極限。</p>
+
+
+
+<p>三場節目各有笑點——11月1日開場《李Live好萬聖夜》由十六月與灰妲搭檔登場，雙人漫才加上荒唐懲罰遊戲，生日派對瞬間變成混亂喜劇；11月16日第二場《台馬食物宗教戰！》由灰妲與諾櫻代表台灣，在虛擬立法院對決馬來西亞 VTuber，從辯論到肉搏全面開打，連來賓都笑喊「這也太瘋了吧！」；12月20日壓軸《吃不飽餓不死動起來！》由魯波與梅迪歐挑戰3D獨輪車演出，挑戰雖然風險超高，卻讓觀眾直呼「如果真的騎上去也太酷了！」</p>
+
+
+
+<p>觀眾可於每場開演前進入「WebGL 虛擬嘉年華地圖」自由走動、拍照留念；正式開場後切換至 HTC Beatday 平台觀看。購買單場票可獲專屬桌布與語音，特典套組再加贈粉絲形象裝扮、道具與貼圖，如丟雞腿、工兵鏟等皆可觸發舞台特效，與以往的直播形式不同，這次連互動感都全面升級！！官方提醒：「三場全為限時直播、無回播限定，想看就要趁現在！」</p>
+
+
+
+<p>ReLive Project 表示，非常感謝文策院「文化科技內容場域商業驗證計畫」的支持，我們用 3D 舞台與互動娛樂的方式，打造出更有臨場感的虛擬偶像表演，嘗試開創文化科技的新玩法！ 即使身為獨立團隊，也想用創意與笑聲證明虛擬表演的無限可能，「VTuber 是個充滿想像力的職業，我們想用盡全力去做那些只有想像力才辦得到的事。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1114" height="1508" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?resize=1114%2C1508&#038;ssl=1" alt="" class="wp-image-274761" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?w=1114&amp;ssl=1 1114w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/1761822271189.jpg?resize=768%2C1040&amp;ssl=1 768w" sizes="(max-width: 1114px) 100vw, 1114px" data-recalc-dims="1" /><figcaption class="wp-element-caption">李賴虎3D亂鬥嘉年華限定套組現正販售中。圖片來源：李賴虎娛樂事業有限公司</figcaption></figure>
+
+
+
+<p><strong>票券現正熱賣中，更多資訊請見官方購票連結：</strong><a href="https://reurl.cc/daY11M">https://reurl.cc/daY11M</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/10/31/%e7%ac%91%e5%88%b0%e7%bf%bb%ef%bc%81relive%e3%80%8a%e6%9d%8e%e8%b3%b4%e8%99%8e%e5%98%89%e5%b9%b4%e8%8f%af%e3%80%8b%e5%b9%b4%e5%ba%95%e9%96%8b%e6%bc%94%e3%80%80%e4%b8%89%e5%a0%b43d%e7%b6%9c%e8%97%9d/">笑到翻！ReLive《李賴虎嘉年華》年底開演　三場3D綜藝秀售票開跑！</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
