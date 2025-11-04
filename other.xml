@@ -1,120 +1,766 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-    <head>
-        <title>The page is temporarily unavailable</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <style type="text/css">
-            /*<![CDATA[*/
-            body {
-                background-color: #fff;
-                color: #000;
-                font-size: 0.9em;
-                font-family: sans-serif,helvetica;
-                margin: 0;
-                padding: 0;
-            }
-            :link {
-                color: #c00;
-            }
-            :visited {
-                color: #c00;
-            }
-            a:hover {
-                color: #f50;
-            }
-            h1 {
-                text-align: center;
-                margin: 0;
-                padding: 0.6em 2em 0.4em;
-                background-color: #900;
-                color: #fff;
-                font-weight: normal;
-                font-size: 1.75em;
-                border-bottom: 2px solid #000;
-            }
-            h1 strong {
-                font-weight: bold;
-                font-size: 1.5em;
-            }
-            h2 {
-                text-align: center;
-                background-color: #900;
-                font-size: 1.1em;
-                font-weight: bold;
-                color: #fff;
-                margin: 0;
-                padding: 0.5em;
-                border-bottom: 2px solid #000;
-            }
-            h3 {
-                text-align: center;
-                background-color: #ff0000;
-                padding: 0.5em;
-                color: #fff;
-            }
-            hr {
-                display: none;
-            }
-            .content {
-                padding: 1em 5em;
-            }
-            .alert {
-                border: 2px solid #000;
-            }
+<channel>
+	<title>其他 彙整 - 火報</title>
+	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
+	<link>https://firenews.com.tw/category/其他/</link>
+	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
+	<lastBuildDate>Tue, 04 Nov 2025 10:13:53 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-            img {
-                border: 2px solid #fff;
-                padding: 2px;
-                margin: 2px;
-            }
-            a:hover img {
-                border: 2px solid #294172;
-            }
-            .logos {
-                margin: 1em;
-                text-align: center;
-            }
-            /*]]>*/
-        </style>
-    </head>
+<image>
+	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
+	<title>其他 彙整 - 火報</title>
+	<link>https://firenews.com.tw/category/其他/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</title>
+		<link>https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 10:13:47 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277192</guid>
 
-    <body>
-        <h1><strong>nginx error!</strong></h1>
+					<description><![CDATA[<p>Linker Vision 於「2025全球智慧城市展(SCEWC）」正式發表其最新 Physical AI  &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/">Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Linker Vision 於「2025全球智慧城市展(SCEWC）」正式發表其最新 Physical AI 與 Reasoning AI 平台技術及最新成果。自主研發的 VisionAI 平台，整合三大核心技術：數位孿生模擬平台「Mirra」、AI模型訓練平台「DataVerse」以及即時部署平台「Observ」，建構完整「Three-Computer Solution」。透過這套架構，將 Vision-Language Models（VLM）、Digital Twin 與 CCTV 等感測系統整合應用，並藉由城市Digital Twin場景大量產出合成資料（synthetic data），以有效強化 AI 模型的優化開發，打造具備智慧推理與決策能力的城市 AI 中樞。</p>
 
-        <div class="content">
 
-            <h3>The page you are looking for is temporarily unavailable.  Please try again later.</h3>
 
-            <div class="alert">
-                <h2>Website Administrator</h2>
-                <div class="content">
-                    <p>Something has triggered missing webpage on your
-                    website. This is the default error page for
-                    <strong>nginx</strong> that is distributed with
-                    Red Hat Enterprise Linux.  It is located
-                    <tt>/usr/share/nginx/html/50x.html</tt></p>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-277195" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
 
-                    <p>You should customize this error page for your own
-                    site or edit the <tt>error_page</tt> directive in
-                    the <strong>nginx</strong> configuration file
-                    <tt>/etc/nginx/nginx.conf</tt>.</p>
 
-                    <p>For information on Red Hat Enterprise Linux, please visit the <a href="http://www.redhat.com/">Red Hat, Inc. website</a>. The documentation for Red Hat Enterprise Linux is <a href="http://www.redhat.com/docs/manuals/enterprise/">available on the Red Hat, Inc. website</a>.</p>
 
-                </div>
-            </div>
+<p><strong>三大平台驅動智慧城市AI中樞</strong></p>
 
-            <div class="logos">
-                <a href="http://nginx.net/"><img
-                    src="nginx-logo.png" 
-                    alt="[ Powered by nginx ]"
-                    width="121" height="32" /></a>
-                <a href="http://www.redhat.com/"><img
-                    src="poweredby.png"
-                    alt="[ Powered by Red Hat Enterprise Linux ]"
-                    width="88" height="31" /></a>
-            </div>
-        </div>
-    </body>
-</html>
+
+
+<p>本次展會中，Linker Vision 展示其自主研發的 VisionAI 平台，整合三大核心技術：數位孿生模擬平台「Mirra」、AI模型訓練平台「DataVerse」以及即時部署平台「Observ」，建構完整「Three-Computer Solution」。透過這套架構，將 Vision-Language Models（VLM）、Digital Twin 與 CCTV 等感測系統整合應用，並藉由城市Digital Twin場景大量產出合成資料（synthetic data），以有效強化 AI 模型的優化開發，打造具備智慧推理與決策能力的城市 AI 中樞。</p>
+
+
+
+<p><strong>深度整合NVIDIA生態系 加速城市AI部署</strong></p>
+
+
+
+<p>Linker Vision與NVIDIA密切合作，平台與其 Metropolis、Cosmos與 Omniverse 核心技術深度整合，大幅提升AI模型開發與部署效率，加強城市在交通、安防與災害管理等場域的反應速度與彈性。</p>
+
+
+
+<p>Linker Vision 執行長謝源寶博士表示：「未來的城市治理不只是觀察環境，更要能夠理解場景、預測風險並即時反應。我們從台灣出發，積極推動 Physical AI 及Reasoning AI 成為全球智慧城市的基礎底層。」</p>
+
+
+
+<p><strong>全球複製成功模式 加速智慧城市部署</strong> </p>
+
+
+
+<p>目前Linker Vision已於北美、東南亞、中東與拉丁美洲等地展開實際部署，並與各地電信商、雲端服務業者及OEM夥伴攜手合作，加速複製其「智慧城市 AI 藍圖」。應用情境涵蓋交通管理、公共安全、災害應變與基礎設施維運等，展現高度彈性與可擴展性，為全球城市治理提供全新思維。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/">Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</title>
+		<link>https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 09:13:06 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277152</guid>
+
+					<description><![CDATA[<p>清晨的機場，一位旅人正準備登機。他單手提起外套、另一手輕鬆拉開行李箱，蓋子往上一掀，衣物與文件整齊排列，無需全 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/">輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>清晨的機場，一位旅人正準備登機。他單手提起外套、另一手輕鬆拉開行李箱，蓋子往上一掀，衣物與文件整齊排列，無需全箱攤開，也沒有慌亂的整理場面。這樣的畫面，是萬國通路Eminent在新一代行李箱設計中想呈現的旅行日常。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=1220%2C610&#038;ssl=1" alt="" class="wp-image-277153" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Eminent推上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。</figcaption></figure>
+
+
+
+<p>為迎接年底旅遊旺季與雙11購物節熱潮，Eminent推出全新上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。這款新品以「輕盈出發，風格同行」為概念，鎖定年輕旅人與重視機能設計的消費族群，希望以更貼近真實旅途的細節設計，重新定義行李箱的使用體驗。</p>
+
+
+
+<p>KK98 UNIVO系列最大特色是1:9比例上掀式開口設計。不同於傳統對開式結構，上掀式讓行李箱在有限空間中依然方便使用，無論是在飯店走道、車廂座位旁或是狹窄的民宿床邊，旅人都能輕鬆開闔、收納。箱體配備避震溜冰輪，在顛簸路面或長距離移動時能保持拖行穩定，降低噪音，提升整體使用感。Eminent並在設計中加入掛勾式泡腳，方便旅人掛放手提袋、外套或戰利品，解放雙手。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277155" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+
+
+
+<p>新品外觀推出四款繽紛配色，從蜜橙橘、矢車菊藍、青檸綠到酷灰色，本次亮點色為蜜橙橘，與iPhone 17 Pro新機同色系，成為科技與時尚領域的熱門話題，並增添行李箱的辨識度與話題性。Eminent設計團隊指出，這款新品不只是一件旅行工具，更代表一種「輕旅生活」態度——高機能與美型兼備，讓行李箱躍升為日常穿搭與旅途時尚的焦點單品。。</p>
+
+
+
+<p>隨著新品登場，Eminent同步展開2025年度週年慶，活動自10月23日至11月16日舉行，全館商品85折起，滿2000元可折200元，多款指定商品最低6折。活動期間，消費者滿8880元即可於官方LINE參加小遊戲，有機會抽中最高11%折扣券。品牌表示，週年慶除了回饋消費者外，也希望透過互動方式，讓購物成為更有樂趣的體驗。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277158" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+
+
+
+<p>緊接而來的雙11購物節，Eminent也針對多款新品及熱銷品推出限時優惠，此次活動以網路平台為主，預計吸引眾多準備年末旅行的消費者提前選購。品牌觀察，隨著國際旅遊市場回溫，行李箱需求顯著上升，輕量與便利設計成為消費者首要考量。</p>
+
+
+
+<p>創立於1979年的萬國通路Eminent以台灣為起點，長年專注於高品質行李箱製造與研發，產品銷售遍及全球。品牌在產品開發上持續強調結構穩定與人性化設計，希望讓行李箱不僅是收納工具，更成為旅人生活的一部分。</p>
+
+
+
+<p>更多新品與活動詳情可至萬國通路官網（<a href="https://tw.eminent.com">https://tw.eminent.com</a>）或全台28家直營門市查詢。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/">輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</title>
+		<link>https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 07:04:25 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277036</guid>
+
+					<description><![CDATA[<p>全球領先的材料科學公司陶氏公司（紐交所代碼：DOW）宣佈，其全球首個「熱管理材料科學實驗室（Cooling S &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/">陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>全球領先的材料科學公司陶氏公司（紐交所代碼：DOW）宣佈，其全球首個「熱管理材料科學實驗室（Cooling Science Studio）」正式於上海陶氏中心揭幕。作為陶氏全球研發網絡的重要里程碑，該實驗室專注於推動新一代熱管理材料與冷卻技術的創新與應用，旨在強化陶氏在人工智慧（AI）與資料中心生態系統中的解決方案實力。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="796" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=796%2C573&#038;ssl=1" alt="" class="wp-image-277037" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?w=796&amp;ssl=1 796w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=768%2C553&amp;ssl=1 768w" sizes="(max-width: 796px) 100vw, 796px" data-recalc-dims="1" /></figure>
+
+
+
+<p>當前，AI技術的飛速發展正深刻重塑各行各業，在創造巨大機遇的同時，也使熱管理面臨日益嚴峻的挑戰。特別是在算力需求呈指數級增長的倒逼下，共處AI生態下的各大市場都亟需能夠有效管理熱負荷、兼具長期可靠性與可持續性優勢的創新冷卻技術與熱管理材料。陶氏公司消費品解決方案全球戰略行銷總監楚敏思表示：「熱管理材料科學實驗室增強了我們現有的應用與測試能力，並拓展了與本地客戶合作開發下一代冷卻解決方案的機會，這一切都是我們踐行對中國市場長期承諾、加強本土研發投資的有力佐證。選擇將首個熱管理材料科學實驗室在上海落成，標誌著我們開啟了本土創新協作的新篇章，將我們的全球研發能力與對中國市場的精准洞察實現無縫對接，通過協同創新，助力客戶應對從熱管理挑戰到產品快速上市的全鏈路需求，實現共贏。」</p>
+
+
+
+<p>該實驗室專為協同創新而建立，通過三大功能板塊的協同整合，可為客戶提供覆蓋產品開發全週期的專業技術支援和一站式服務，助力加速熱管理解決方案從早期概念到產品商業化的進程：</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>全面、系統化的評估測試：</strong>覆蓋從消費電子、通信及可再生能源等領域的關鍵部件散熱測試。同時，專業的應用評估平臺可為客戶提供精准、可靠的資料支援。</li>
+
+
+
+<li><strong>豐富的應用能力和多行業演示</strong><strong>: </strong>不僅可展示點膠、絲網印刷等成熟的材料應用工藝，還能通過跨行業應用演示，直觀呈現陶氏公司解決方案在多元場景下的優異表現。借此，客戶可評估不同的應用工藝，以確定更適合的方案。</li>
+
+
+
+<li><strong>便捷、無縫的技術支援：</strong>客戶可直接獲取陶氏公司的全系列導熱材料樣品，以及陶氏公司其他區域的專家與實驗資源，實現高效協同作業與知識共用，極大提升技術支援的廣度與深度。</li>
+</ul>
+
+
+
+<p>陶氏公司致力於將今天的冷卻挑戰轉化為明天的冷卻技術突破。上海熱管理材料科學實驗室的建成將促進更緊密的客戶合作，為電子行業及整個AI生態體系更高效的未來貢獻力量。</p>
+
+
+
+<p><strong><em>關於陶氏公司</em></strong></p>
+
+
+
+<p>陶氏公司（NYSE：DOW）是全球領先的材料科學公司之一，服務於包裝、基礎建設、運輸和消費應用等高增長市場的客戶。我們的全球性佈局、資產整合和規模效益、專注的科技創新、業務領先地位、以及對永續發展的承諾，確保我們能夠實現盈利性增長，並助力打造永續的未來。我們在 30 個國家和地區設有製造基地，全球約 36,000 名員工。陶氏公司 2024 年實現约 430 億美元銷售額。「陶氏公司」或「公司」是指 Dow Inc. 及其子公司。如需進一步了解我們，以及我們成爲在創新、客戶導向、包容性和永續發展方面全球領先的材料科學公司的願景，請訪問 <a href="http://www.dow.com/" target="_blank" rel="noreferrer noopener">www.dow.com</a>。</p>
+
+
+
+<p>注意:本文中所含資訊僅供說明之用，不應被解釋為產品規格。客戶應該通過自己的測試來確認結果。 注意：本資訊本著善意提供，供您考慮，但不提供任何保證或擔保（明示或暗示），因為分析條件和使用此處描述的資訊和材料的方法可能會有所不同，並且不受陶氏的控制。儘管這些資訊基於陶氏認為可靠和準確的資料，但我們無意讓您使用本文檔的內容，因此您不應將本文檔的內容解釋為業務、技術或任何其他形式的建議。我們建議您在採用或以商業規模使用它們之前，決定此處描述的資訊和材料的適用性。陶氏對使用此資訊不承擔任何責任。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/">陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>裕郡生技「PhytoExo植物胞外體系列」登上泰國化妝品原料展</title>
+		<link>https://firenews.com.tw/2025/11/04/%e8%a3%95%e9%83%a1%e7%94%9f%e6%8a%80%e3%80%8cphytoexo%e6%a4%8d%e7%89%a9%e8%83%9e%e5%a4%96%e9%ab%94%e7%b3%bb%e5%88%97%e3%80%8d%e7%99%bb%e4%b8%8a%e6%b3%b0%e5%9c%8b%e5%8c%96%e5%a6%9d%e5%93%81%e5%8e%9f/</link>
+		
+		<dc:creator><![CDATA[新崙旅遊網]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 06:02:24 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[產業]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277011</guid>
+
+					<description><![CDATA[<p>▲裕郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供） 記者 莊全成／屏東報導 台灣生 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%a3%95%e9%83%a1%e7%94%9f%e6%8a%80%e3%80%8cphytoexo%e6%a4%8d%e7%89%a9%e8%83%9e%e5%a4%96%e9%ab%94%e7%b3%bb%e5%88%97%e3%80%8d%e7%99%bb%e4%b8%8a%e6%b3%b0%e5%9c%8b%e5%8c%96%e5%a6%9d%e5%93%81%e5%8e%9f/">裕郡生技「PhytoExo植物胞外體系列」登上泰國化妝品原料展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1059" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=1220%2C1059&#038;ssl=1" alt="" class="wp-image-277012" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?w=1373&amp;ssl=1 1373w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=768%2C667&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲裕郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
+
+
+
+<p>記者 莊全成／屏東報導</p>
+
+
+
+<p>台灣生技品牌裕郡生技今（4）日於「2025泰國化妝品原料展」正式發表全新「PhytoExo植物胞外體系列」。此系列結合兩項自主研發專利原料小花蔓澤蘭花胞外體與赤道櫻草胞外體，展現台灣在植物外泌體技術領域的創新成果，將植物科研能量推向國際舞台。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1157" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=1220%2C1157&#038;ssl=1" alt="" class="wp-image-277016" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?w=1314&amp;ssl=1 1314w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=768%2C728&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲吳裕仁執行長（左），於泰國曼谷參加2025年亞洲美容原料展，首先展出台灣自主開發二項植物胞外體，並發表PhytoExo 系列保養品。（圖／裕郡生技提供</figcaption></figure>
+
+
+
+<p>「PhytoExo系列」以植物胞外體技術為核心，運用低溫奈米分離技術，成功開發出全新概念的植物源外泌體保養系統。小花蔓澤蘭花胞外體與赤道櫻草胞外體各具特色，透過「雙外泌體協同系統，展現植物多樣性應用的可能性，體現裕郡生技對研發創新與永續素材的重視。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="820" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=960%2C820&#038;ssl=1" alt="" class="wp-image-277017" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=768%2C656&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
+
+
+
+<p>「PhytoExo植物胞外體系列」首波推出三項重點產品：1，植物胞外體修護精華液，延伸科研概念設計，質地輕盈、使用感舒適。2，植物胞外體保濕乳液，融入天然植萃配方，強調親膚與溫和特性。3，植物胞外體潤澤乳霜，以柔潤質地與細緻包裝呈現品牌高端形象。</p>
+
+
+
+<p>裕郡生技執行長吳裕仁表示，「PhytoExo系列」是裕郡生技多年來在植物外泌體領域的研發成果結晶。我們將台灣在地植物的生命力與國際級科研技術結合，讓世界看見台灣生技產業的創新潛能。未來將進一步拓展日本、美國及歐洲市場，持續以「台灣原創植物外泌體」為核心，打造兼具科研價值與國際競爭力的高端保養品牌。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%a3%95%e9%83%a1%e7%94%9f%e6%8a%80%e3%80%8cphytoexo%e6%a4%8d%e7%89%a9%e8%83%9e%e5%a4%96%e9%ab%94%e7%b3%bb%e5%88%97%e3%80%8d%e7%99%bb%e4%b8%8a%e6%b3%b0%e5%9c%8b%e5%8c%96%e5%a6%9d%e5%93%81%e5%8e%9f/">裕郡生技「PhytoExo植物胞外體系列」登上泰國化妝品原料展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</title>
+		<link>https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 00:36:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[ITF]]></category>
+		<category><![CDATA[台北國際旅展]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276673</guid>
+
+					<description><![CDATA[<p>記者 陳聖偉 / 報導 日本控快衝！最大規模日本館11/7登場 2025 ITF台北國際旅展 即將在11月7日 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/">不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 陳聖偉 / 報導</p>
+
+
+
+<h2 class="wp-block-heading"><strong>日本控快衝！最大規模日本館11/7登場</strong></h2>
+
+
+
+<p>2025 ITF台北國際旅展 即將在11月7日至10日在台北南港展覽館一館1、4樓登場。其中最大亮點非「日本館」莫屬，今年以 207個攤位、114個日本參展單位打破歷年紀錄，佔據南港展覽館一樓近四分之一的展區，成為整場最熱、最密集的旅遊焦點。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="630" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=1200%2C630&#038;ssl=1" alt="" class="wp-image-276674" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=768%2C403&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ITF台北國際旅展「把日本搬來台灣」（圖／翻攝自台灣觀光協會）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>就像環遊日本  玩出不一樣的深度旅程</strong></h2>
+
+
+
+<p>從北海道的雪國風情、關西的文化底蘊，到沖繩的海島氣息，全日本的地方政府與觀光單位幾乎全員到齊。ITF台北國際旅展現場不只能拿觀光資料、比價機票，更能親手體驗地方特色活動，感受「把日本搬來」的臨場感。 </p>
+
+
+
+<p>今年首次參展的「日本遺產（Japan Heritage）」以「讓文化會說故事」為理念，串連日本地方歷史、建築、祭典與風俗，打造能親身體驗的文化旅程，讓旅客感受地方故事的脈動。以及「京急集團」、「思夢樂」、「三麗鷗彩虹樂園」、「卡樂比」、「JAPAN SPORTS TOURISM」皆為首次亮相台北國際旅展，邀請台灣旅客一起探索更深層的日本風情。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-276675" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=2048%2C1538&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲一站玩遍全日本！玩出不一樣的日本深度旅程（圖／翻攝自台灣觀光協會）</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>交通與網卡一次搞定 日本館內容更升級</strong></h2>
+
+
+
+<p>今年日本館展出內容再進化，特別集結多家深受旅客喜愛的日本交通與生活品牌共同參展，讓旅客能一次掌握旅遊行程規劃的所有關鍵資訊。</p>
+
+
+
+<p>包含 利木津巴士、東武鐵道集團、關東廣域、近鐵集團、JR西日本、JR東海集團、JR東日本集團 等知名交通單位，以及 Nippon SIM 與 天馬航空(T&#8217;way Air)等品牌，也將於現場展示最新旅遊服務與限定優惠，讓台灣旅客輕鬆玩遍日本、暢行無阻。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>吃住玩全制霸！人氣吉祥物登台、好康一次搶</strong></h2>
+
+
+
+<p>除了豐富旅遊產品、精采舞台活動展出，今年ITF台北國際旅展也邀請日本縣市吉祥物，用可愛爆擊現場——熊本縣的「熊本熊」、島根縣的「島根貓」、千葉縣「千葉君」、香川縣「呆呆獸」、常滑市的「托可坦」&#8230;等輪番登場。現場還有每日兩點至兩點半限定的「吉祥物大遊行」，預計引爆拍照打卡潮。</p>
+
+
+
+<p>今年旅展盛況空前，匯集超過千家參展單位，上萬款優惠齊登場，飯店、餐券、交通全面下殺，2026富士山登山團，保證入住山屋，每人49,900元起 ; 九州雙電車體驗五日，每人24,800元起 ; 樂活沖繩機加酒，行程自由配4日，每人15,900元起。還有國內五星飯店住宿券、餐券最低下殺至1.7折，高鐵聯票67折起。無論想規劃年末聚餐或是國內外旅遊，都能在現場找到靈感與好康。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>旅遊控快筆記 ITF旅展資訊與購票方式</strong></h2>
+
+
+
+<p>今年ITF台北國際旅展 將於11月7日至11月10日在台北南港展覽館一館1、4樓盛大舉行，想出國玩、找靈感、撿便宜的民眾可別錯過。 </p>
+
+
+
+<p>ITF台北國際旅展 | 售票資訊<strong><br></strong>展期時間：2025年11月7日～11月10日<br>展覽地點：台北南港展覽館 1館<br>預售時間：即日起～11月6日<br>預售票價：180元<br>展期票價：200元<br>購票資訊：<a href="https://www.taipeiitf.org.tw/Information3">https://www.taipeiitf.org.tw/Information3</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/">不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</title>
+		<link>https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[CGM]]></category>
+		<category><![CDATA[營養師]]></category>
+		<category><![CDATA[營養師許瓊月]]></category>
+		<category><![CDATA[血糖管理]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=274679</guid>
+
+					<description><![CDATA[<p>隨著健康意識的提升，越來越多人開始重視血糖管理，而連續葡萄糖監測系統（CGM）逐漸成為追蹤血糖波動的重要工具。 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/">成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>隨著健康意識的提升，越來越多人開始重視血糖管理，而連續葡萄糖監測系統（CGM）逐漸成為追蹤血糖波動的重要工具。</strong></p>
+</blockquote>
+
+
+
+<p>CGM 配戴在手臂上，可連續監測 10 至 15 天的血糖變化。相較於傳統血糖機僅能測單一數值，CGM 報告中涵蓋更多專業指標與曲線，初次接觸的使用者常常會覺得數據繁雜、難以理解。</p>
+
+
+
+<p>其實，只要能正確解讀這些數據，便能更精準地掌控血糖，進一步改善健康狀況。營養師許瓊月就曾遇到一位 50 多歲的糖友，這位患者第一次配戴 CGM 時，看著滿滿的數據卻摸不著頭緒，不知道該如何調整，甚至覺得「花了錢卻沒得到實際幫助」，後來在營養師的引導下，他才學會如何透過 CGM 報告找到飲食與血糖的關鍵關聯。經過逐步調整，他不僅理解了數字背後的意義，也慢慢建立起適合自己的健康生活型態。 許瓊月營養師強調，CGM 報告其實是血糖管理的重要地圖。只要掌握判讀原則，每個人都能從中找到改善健康的方法。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="597" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=1158%2C597&#038;ssl=1" alt="" class="wp-image-274706" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?w=1158&amp;ssl=1 1158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=768%2C396&amp;ssl=1 768w" sizes="(max-width: 1158px) 100vw, 1158px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>《輕鬆看懂 CGM 數據》</strong></h2>
+
+
+
+<p>HbA1c（糖化血色素）能反映過去三個月的平均血糖值，是臨床上最常用的血糖管理指標。然而，它的限制在於無法呈現血糖的實際波動。例如，兩位 HbA1c 相同的患者，一位血糖穩定，另一位則有明顯的高低起伏，而這些劇烈波動都會對身體造成傷害。這顯示僅依賴 HbA1c 並不足以全面掌握血糖控制。隨著 CGM 的出現，透過 TIR 指標搭配 HbA1c 觀察，能讓血糖管理更加完整與精準。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="626" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=1220%2C626&#038;ssl=1" alt="" class="wp-image-274705" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?w=1307&amp;ssl=1 1307w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=768%2C394&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>TIR（Time in Range，達標時間百分比）是 CGM 最核心，也是血糖管理的最新指標。它指的是血糖一天內落在 70 至 180 mg/dL 目標範圍內的時間占比，能清楚反映血糖波動的穩定性。臨床實證顯示，TIR 每增加 10%，HbA1c 大約可降低 0.8%(註一)。醫師一般建議血糖應至少有七成時間維持在目標範圍，在 CGM 報告中，綠色區域代表血糖落在理想範圍內，紅色區域則代表超出範圍，目標是保持更多綠色、減少紅色，掌握「多綠少紅」的原則。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=1220%2C627&#038;ssl=1" alt="" class="wp-image-274704" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?w=1311&amp;ssl=1 1311w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=768%2C395&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>另一項值得關注的指標是 GMI（Glucose Management Indicator，糖化血色素預估值）。它是由 CGM 的平均血糖值推算而來，用於快速評估整體血糖控制狀況。GV（Glucose Variability，血糖變異度）則衡量血糖波動幅度，若血糖變異度過高，意味著血糖大起大落，容易增加心血管疾病及糖尿病併發症的風險；相對地，低變異度顯示血糖穩定，有助於降低疾病風險，促進整體健康。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="632" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=1220%2C632&#038;ssl=1" alt="" class="wp-image-274703" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=768%2C398&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>此外，AGP（Ambulatory Glucose Profile，二十四小時動態糖譜）也是解讀 CGM 不可或缺的工具。它將配戴期間的所有數據整合成一張圖表，以24小時來看血糖中位數、變化幅度以及建議的血糖目標範圍。透過 AGP 圖，患者和醫療團隊能一眼看出一天之中哪些時段容易發生高低血糖異常，進而做出個人化飲食或藥物的調整。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="631" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=1220%2C631&#038;ssl=1" alt="" class="wp-image-274702" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=768%2C397&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>《CGM 報告與健康生活新型態》</strong></h2>
+
+
+
+<p>許瓊月營養師表示，以前營養師必須反覆叮嚀病患飲食注意事項，還得靠病患自行回報是否有規律量血糖。現在只要一顆 CGM，便能清楚知道病患的飲食選擇與運動狀況，調整建議不再只是推測，而是有數據佐證。同時，患者自己也能即時看到改變後的血糖反應，得到正向回饋。 她指出，善用 CGM 報告，可以幫助病患從多個面向打造健康生活。飲食方面，CGM 能清楚顯示不同食物對血糖的影響，協助選擇低升糖指數（GI）的食物，避免血糖劇烈波動。運動方面，CGM 可呈現運動對血糖的影響，持續運動能提升胰島素敏感性，讓血糖更穩定。情緒管理上，壓力往往會導致血糖異常波動，透過 CGM 可以找出壓力相關的血糖變化，進而學習減壓技巧，保持身心穩定。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>《改變看得到》</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="635" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=1220%2C635&#038;ssl=1" alt="" class="wp-image-274701" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?w=1310&amp;ssl=1 1310w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=768%2C400&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>善用 CGM 觀察自己的血糖變化，讓每一個數據背後的健康信號變得清晰可見。當你讀懂 CGM 報告中的每一項數據，便能深入了解自己的行為與血糖波動的關聯，並根據這些資訊做出更加精確的飲食、運動和生活方式調整。透過持續觀察和調整，健康的改變不再是抽象的理想，而是具體可見、實際可達成的目標。</p>
+
+
+
+<p>註一: Vigersky, R. &amp; McMahon, C. (2019). <em>The Relationship of Hemoglobin A1C to Time-in-Range Metrics Derived From Continuous Glucose Monitoring</em>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1012" height="465" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=1012%2C465&#038;ssl=1" alt="" class="wp-image-274700" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?w=1012&amp;ssl=1 1012w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=768%2C353&amp;ssl=1 768w" sizes="(max-width: 1012px) 100vw, 1012px" data-recalc-dims="1" /></figure>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/">成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
+		<link>https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 16:53:42 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276779</guid>
+
+					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=780%2C520&amp;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
+
+
+
+<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=780%2C520&amp;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
+
+
+
+<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=780%2C1170&amp;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
+
+
+
+<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
+
+
+
+<p><strong>關於G-DRAGON</strong></p>
+
+
+
+<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
+
+
+
+<p><strong>官方社交媒體</strong></p>
+
+
+
+<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
+
+
+
+<p><strong>關於AEG Presents</strong></p>
+
+
+
+<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com/">www.aegpresents.com</a>。</p>
+
+
+
+<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a></p>
+
+
+
+<p><strong>關於TME live</strong></p>
+
+
+
+<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live –&nbsp;<a href="https://www.instagram.com/tme_official__/">Instagram</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a>&nbsp;|&nbsp;<a href="https://x.com/TME_official_">X</a></p>
+
+
+
+<p>圖片來源(C) GALAXY CORPORATION</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<category><![CDATA[知本溫泉公益馬拉松]]></category>
+		<category><![CDATA[跑吧!孩子]]></category>
+		<category><![CDATA[農村發展及水土保持署臺東分署]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276322</guid>
+
+					<description><![CDATA[<p>記者 洪俊維 / 報導 「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>記者 洪俊維 / 報導</p>
+
+
+
+<p>「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉觀光發展促進協會、知本老爺酒店共同主辦，並集結公私部門齊力推動，串聯農村發展及水土保持署臺東分署與臺東縣農會所合作的「洛神可食地景」及「食農體驗」活動，不只讓跑者揮灑汗水，也帶來了一場融合農業、體驗與美學的農村盛宴。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-276368" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「跑吧!孩子 2025知本溫泉公益馬拉松」於11月2日登場，公私協力協力推動台東觀光，同時讓台東特色產業被更多人看見。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>洛神食農體驗活動於馬拉松活動期間共辦理兩場體驗活動，包括洛神葵採摘、田間導覽、手工去籽、製作蜜餞等內容，不僅讓參與者親身感受從田野到餐桌的過程，更加深了對食物來源與農作知識的理解。活動全程免費參與，報名踴躍，參與者多表示「第一次自己採洛神、做蜜餞，非常新鮮又有趣」，充分展現食農教育的實踐價值。</p>
+
+
+
+<p>此次打造的可食地景「洛神花海」共栽種臺東1號、3號及白洛神三種品系，結合體驗活動，除了吸引民眾近距離觀賞南迴特產洛神葵，也進一步推動臺東在地作物的價值與魅力，為臺東洛神產業注入新的推廣動能。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276369" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?w=1260&amp;ssl=1 1260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=768%2C288&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">農村水保署臺東分署營造洛神花海，攜手台東縣農會於11月1日及2日辦理洛神食農體驗，跑者或其眷屬體驗「從田野到餐桌」的完整旅程，親手製作洛神蜜餞，展現食農教育的實踐精神。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>本次活動除了串聯洛神食農體驗，農村水保署臺東分署也邀請通過田媽媽餐廳認證的「宏昌客家餐館」於現場準備「客家糕粄」作為完賽補給特色點心，口味包含艾草包與筍包，不僅讓大家品嘗在地農村傳統好滋味，也藉由美食傳遞客庄文化。此外，分署亦設置水土保持宣導區，透過互動遊戲，傳遞友善農業、保育土地資源等永續理念，深化農業與環境的連結。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276370" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?w=2005&amp;ssl=1 2005w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=768%2C288&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1536%2C577&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">宏昌客家菜館於知本溫泉公益馬拉松現場提供傳統客家糕粄作為完賽補給品，讓跑者在補充體力的同時，也品嚐到台東農村的在地滋味。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
+
+
+
+<p>本次活動最大特色之一，為農業活動與大型運動賽事進行跨界串聯。以知本溫泉公益馬拉松作為人流引擎，活動吸引了大量非農村背景的都市參與者深入接觸農村文化與產業，創造額外觀光與消費效益。據估算，活動期間帶動超過逾2,000人參與，間接促觀光產值，也讓臺東洛神從季節性作物，逐漸轉型為可串聯教育、觀光與產業的多元平台。</p>
+
+
+
+<p>臺東分署未來也將持續透過食農教育深化農業價值，並結合運動觀光、社區營造與品牌行銷等資源，打造更多發光發熱的農村產業。透過與在地農會、旅宿與活動平台等共同協作，讓農村不只是風景，更是體驗、文化與價值的交匯點，成為推動產業升級與區域共好的具體行動。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
+		<link>https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[時事]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276619</guid>
+
+					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=864%2C1296&#038;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
+
+
+
+<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
+
+
+
+<p><strong>關於G-DRAGON</strong></p>
+
+
+
+<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
+
+
+
+<p><strong>官方社交媒體</strong></p>
+
+
+
+<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
+
+
+
+<p><strong>關於AEG Presents</strong></p>
+
+
+
+<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com">www.aegpresents.com</a>。</p>
+
+
+
+<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a></p>
+
+
+
+<p><strong>關於TME live</strong></p>
+
+
+
+<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live – <a href="https://www.instagram.com/tme_official__/">Instagram</a> | <a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a> | <a href="https://x.com/TME_official_">X</a></p>
+
+
+
+<p>圖片來源(C) GALAXY CORPORATION</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>琺博《95SE築米抗病毒智慧鎖》獲國立科工館指名典藏! 11月起鎖具展盛大亮相</title>
+		<link>https://firenews.com.tw/2025/11/03/%e7%90%ba%e5%8d%9a%e3%80%8a95se%e7%af%89%e7%b1%b3%e6%8a%97%e7%97%85%e6%af%92%e6%99%ba%e6%85%a7%e9%8e%96%e3%80%8b%e7%8d%b2%e5%9c%8b%e7%ab%8b%e7%a7%91%e5%b7%a5%e9%a4%a8%e6%8c%87%e5%90%8d%e5%85%b8/</link>
+		
+		<dc:creator><![CDATA[火報記者 林沁筑]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 02:28:55 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=276284</guid>
+
+					<description><![CDATA[<p>高雄國立科學工藝博物館將於11月起開展「鎖具展」，展覽以「開啟與探索」為概念，帶領觀眾穿越時空回溯到四千年前歷 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%90%ba%e5%8d%9a%e3%80%8a95se%e7%af%89%e7%b1%b3%e6%8a%97%e7%97%85%e6%af%92%e6%99%ba%e6%85%a7%e9%8e%96%e3%80%8b%e7%8d%b2%e5%9c%8b%e7%ab%8b%e7%a7%91%e5%b7%a5%e9%a4%a8%e6%8c%87%e5%90%8d%e5%85%b8/">琺博《95SE築米抗病毒智慧鎖》獲國立科工館指名典藏! 11月起鎖具展盛大亮相</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>高雄國立科學工藝博物館將於11月起開展「鎖具展」，展覽以「開啟與探索」為概念，帶領觀眾穿越時空回溯到四千年前歷史，一同探索從古代工匠巧思獨具的木鎖、機關鎖，到融合人工智慧與生物辨識科技的現代智慧鎖，完整呈現人類在鎖具上的千年技術演進史。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-276286" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-2_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲本次鎖具展以知識迷宮為設計，帶領觀眾進入門中，一同穿越不同世代的鎖具文明。圖/參展方琺博門鎖提供</figcaption></figure>
+
+
+
+<p><strong>· </strong><strong>台灣品牌用設計力開啟智慧鎖新紀元</strong><strong></strong></p>
+
+
+
+<p>在展區「A-4智慧鎖的未來世界」現代篇章中，特別亮相的台灣品牌 琺博門鎖「95SE築米 掌靜脈X人臉辨識」智慧電子鎖成為焦點。該款電子鎖以更符合人體工學的圓弧流線外型結合烤彎玻璃為設計巧思，使整機別於市售他牌電子鎖更加迷你輕巧、單手也可流暢掌握；而玻璃製程得面板則更能適應台灣潮濕氣候不怕日曬雨淋，更加貼合於台灣族群的日常使用。</p>
+
+
+
+<p>琺博95SE築米電子鎖結合生物辨識技術，可透過掌靜脈與3D人臉雙重辨識進行開鎖，兼具高安全性與便利性。鎖體結構也同時取得獨家專利靜音技術，整體作動音量低於55分貝，讓智慧生活也能如圖書館般寧靜安心。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-276285" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/科工館-1_0-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲琺博《95SE築米抗病毒智慧鎖》將於於現代區展出，現場可透過掌靜脈感應一同體驗生物辨識解鎖的科技生活。圖/參展方琺博門鎖提供</figcaption></figure>
+
+
+
+<p><strong>· </strong><strong>從鎖開啟智慧防疫宅，用設計回饋於生活與科技</strong><strong></strong></p>
+
+
+
+<p>該款智慧電子鎖不止功能出眾，更是榮獲「德國iF設計大獎」及「美國MUSE設計獎」的雙重肯定，並獨家取得「​​Ag+shielD抗菌病毒專利」為台灣第一把抗病毒智慧電子鎖，95SE築米的多項產品成就更是奪得了科工館的注目，於今年2025年正式被高雄國立科學工藝博物館納入典藏，綜合上述肯定更象徵琺博門鎖在台灣智慧居家與設計領域的創新實力。</p>
+
+
+
+<p><strong>· </strong><strong>走入門中門、解開鎖中鎖 —— 你就是下一位知識的開鎖者</strong><strong></strong></p>
+
+
+
+<p>展覽現場除展示實體鎖具外亦設有互動體驗區，讓民眾親身感受古今鎖具到現代智慧鎖的操作演變，體驗工藝與科技的創新轉變，是如何守護日常生活的每一扇門。</p>
+
+
+
+<p><strong>【鎖具展 展覽資訊】</strong></p>
+
+
+
+<p>展出地點：高雄國立科學工藝博物館 北館二樓 動力與機械展示廳</p>
+
+
+
+<p>展出日期：2025年11月1日起 常設展</p>
+
+
+
+<p>【更多琺博95SE築米電子鎖介紹】<a href="https://www.fibrekey.com/tw/ProductDetail/1013/FB95SE_lockcase">https://www.fibrekey.com/tw/ProductDetail/1013/FB95SE_lockcase</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%90%ba%e5%8d%9a%e3%80%8a95se%e7%af%89%e7%b1%b3%e6%8a%97%e7%97%85%e6%af%92%e6%99%ba%e6%85%a7%e9%8e%96%e3%80%8b%e7%8d%b2%e5%9c%8b%e7%ab%8b%e7%a7%91%e5%b7%a5%e9%a4%a8%e6%8c%87%e5%90%8d%e5%85%b8/">琺博《95SE築米抗病毒智慧鎖》獲國立科工館指名典藏! 11月起鎖具展盛大亮相</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
