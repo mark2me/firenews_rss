@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">209987653</site>	<item>
 		<title>光復重建會埸 議長張峻一腳踹出的不是桌子 是災民被忽視的怒氣!</title>
 		<link>https://firenews.com.tw/2025/10/27/%e5%85%89%e5%be%a9%e9%87%8d%e5%bb%ba%e6%9c%83%e5%9f%b8-%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e4%b8%80%e8%85%b3%e8%b8%b9%e5%87%ba%e7%9a%84%e4%b8%8d%e6%98%af%e6%a1%8c%e5%ad%90-%e6%98%af%e7%81%bd%e6%b0%91/</link>
 		
@@ -62,7 +59,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">273189</post-id>	</item>
 		<item>
 		<title>花蓮縣議長張峻進場 怒踹傅崐萁的桌子相當火爆</title>
 		<link>https://firenews.com.tw/2025/10/27/%e8%8a%b1%e8%93%ae%e7%b8%a3%e8%ad%b0%e9%95%b7%e5%bc%b5%e5%b3%bb%e9%80%b2%e5%a0%b4-%e6%80%92%e8%b8%b9%e5%82%85%e5%b4%90%e8%90%81%e7%9a%84%e6%a1%8c%e5%ad%90%e7%9b%b8%e7%95%b6%e7%81%ab%e7%88%86/</link>
@@ -91,7 +88,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">273104</post-id>	</item>
 		<item>
 		<title>德公移山-賣台！ICT生態系要到美國？ 國民黨團記者會!</title>
 		<link>https://firenews.com.tw/2025/10/20/%e5%be%b7%e5%85%ac%e7%a7%bb%e5%b1%b1-%e8%b3%a3%e5%8f%b0%ef%bc%81ict%e7%94%9f%e6%85%8b%e7%b3%bb%e8%a6%81%e5%88%b0%e7%be%8e%e5%9c%8b%ef%bc%9f-%e5%9c%8b%e6%b0%91%e9%bb%a8%e5%9c%98%e8%a8%98%e8%80%85/</link>
@@ -118,7 +115,7 @@
 <p>羅智強指出，蕭美琴副總統在接受外媒採訪說：「不僅是台積電，還包括整個生態系其他部分，從供應商到設計商，乃至其他晶片製造公司。」民進黨要賣掉的不僅是護國神山，而是整個護國山脈打包賣掉。羅智強痛斥，這是甚麼樣的喪權辱國、出賣台灣的政府！羅智強認為，這才是台灣目前最嚴重的危機！台積電變成和氏璧，列強虎視眈眈吞食、分食。只有民進黨政府唾面自乾，「德公移山」後會賺翻，而鴕鳥式邏輯，將台灣最重要的核心引擎挖走、掏空！</p>
 <p>國民黨團嚴正要求民進黨政府，不能對美國要求予取予求，即便是最重要的盟友，但是仍須有為有守。民進黨政府必須拿出辦法、行動和決心告訴美國，觸及台灣最重要的核心利益時，要有說「不」的勇氣。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="600" data-id="142863" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1" alt="" class="wp-image-142863" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=500%2C375&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" decoding="async" width="800" height="600" data-id="142863" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1" alt="" class="wp-image-142863" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=800,600&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=500%2C375&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17609343275492379965125803468207.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 <p>首席副書記長林沛祥表示，古有愚公移山，今有「德公移山」，總統賴清德不僅要讓台積電移往美國，現在連相關ICT產業「資訊與通訊科技（Information and Communication Technology）」 也要跟著移往美國。過去是前人種樹後人乘涼，現在民進黨政府是「前人砍樹、後人曬太陽」，副總統蕭美琴在接受外媒採訪時，已經等同於證實因應美國要求，除了台積電之外，將有50%ICT產業包括設計商、製造商很有可能直接投資美國。</p>
 <p>林沛祥指出，蕭美琴副總統甚至說希望能以「繼續支持台灣成長，同時強化美國實力」方式來合作。林沛祥質疑，身為中華民國副總統，竟然公開承諾將台灣命脈直接移到美國，甚至ICT產業要角全部都要移往美國，這無疑是要斬斷台灣經濟命脈。林沛祥認為，如此將對台灣產業造成毀滅性傷害。林沛祥要求民進黨政府講清楚說明白，同時向國人承諾，不會傷害台灣ICT產業，國民黨團絕不容許傷害ICT產業的決策。</p>
@@ -135,7 +132,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">269804</post-id>	</item>
 		<item>
 		<title>中央卡桃園鐵路地下化預算　卓榮泰一句「沒錢」惹民怨　萬美玲怒批：對不起桃園！</title>
 		<link>https://firenews.com.tw/2025/10/15/%e4%b8%ad%e5%a4%ae%e5%8d%a1%e6%a1%83%e5%9c%92%e9%90%b5%e8%b7%af%e5%9c%b0%e4%b8%8b%e5%8c%96%e9%a0%90%e7%ae%97%e3%80%80%e5%8d%93%e6%a6%ae%e6%b3%b0%e4%b8%80%e5%8f%a5%e3%80%8c%e6%b2%92%e9%8c%a2%e3%80%8d/</link>
@@ -166,7 +163,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">267777</post-id>	</item>
 		<item>
 		<title>桃園市議長邱奕勝及議會黨團議員齊聚支持國民黨主席候選人鄭麗文</title>
 		<link>https://firenews.com.tw/2025/10/14/%e6%a1%83%e5%9c%92%e5%b8%82%e8%ad%b0%e9%95%b7%e9%82%b1%e5%a5%95%e5%8b%9d%e5%8f%8a%e8%ad%b0%e6%9c%83%e9%bb%a8%e5%9c%98%e8%ad%b0%e5%93%a1%e9%bd%8a%e8%81%9a%e6%94%af%e6%8c%81%e5%9c%8b%e6%b0%91%e9%bb%a8/</link>
@@ -186,11 +183,11 @@
 </figure>
 <p>桃園市議會議長邱奕勝，以及國民黨團議員與部分無黨籍議員，今日一同表態支持國民黨主席候選人鄭麗文，展現黨內團結的決心。鄭麗文在議會致詞時表示，中國國民黨將努力完成政黨輪替的神聖使命，並對議長、副議長及全體議會團隊深深鞠躬致謝。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="453" data-id="141040" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1" alt="" class="wp-image-141040" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=500%2C283&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" decoding="async" width="800" height="453" data-id="141040" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1" alt="" class="wp-image-141040" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=800,453&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=500%2C283&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604192227966469641005118091909.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 <p>現場氣氛熱烈，議員們並準備了象徵祝福的粽子贈送給鄭麗文，象徵黨內齊心合作、團結一心的精神。邱議長也提到，他與市長郝市長相識多年，對鄭麗文的人格特質非常熟悉，並表示國民黨希望在選舉過程中展現團結與民主風度，選後更能肩並肩站在一起，共同面對未來更艱辛的挑戰。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="444" data-id="141042" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1" alt="" class="wp-image-141042" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=500%2C278&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=768%2C426&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" decoding="async" width="800" height="444" data-id="141042" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1" alt="" class="wp-image-141042" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=800,444&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=500%2C278&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?resize=768%2C426&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17604191479382130109312061164889.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 <p>對於黨內有人質疑鄭麗文選舉經驗不足，邱議長回應指出，鄭麗文具備完整的黨務與選務經驗，曾擔任黨發言人、文傳會主委、副秘書長、政策會副執行長，以及兩屆不分區立委，累積了豐富的輔選經驗。過往她曾被派往艱困選區，最終仍交出亮眼成績，成功整合當地國民黨派系，證明了黨內團結的重要性。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
@@ -204,7 +201,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">267030</post-id>	</item>
 		<item>
 		<title>羅智強聲明謠言止於真相！我不退選！我不結盟！我不交易！只戰到底！</title>
 		<link>https://firenews.com.tw/2025/10/08/%e7%be%85%e6%99%ba%e5%bc%b7%e8%81%b2%e6%98%8e%e8%ac%a0%e8%a8%80%e6%ad%a2%e6%96%bc%e7%9c%9f%e7%9b%b8%ef%bc%81%e6%88%91%e4%b8%8d%e9%80%80%e9%81%b8%ef%bc%81%e6%88%91%e4%b8%8d%e7%b5%90%e7%9b%9f%ef%bc%81/</link>
@@ -232,7 +229,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">264834</post-id>	</item>
 		<item>
 		<title>桃園市政顧問彭柏霖勤跑平鎮三十多里　為2026議員選舉暖身全力投入公益關懷</title>
 		<link>https://firenews.com.tw/2025/10/06/%e6%a1%83%e5%9c%92%e5%b8%82%e6%94%bf%e9%a1%a7%e5%95%8f%e5%bd%ad%e6%9f%8f%e9%9c%96%e5%8b%a4%e8%b7%91%e5%b9%b3%e9%8e%ae%e4%b8%89%e5%8d%81%e5%a4%9a%e9%87%8c%e3%80%80%e7%82%ba2026%e8%ad%b0%e5%93%a1/</link>
@@ -252,11 +249,11 @@
 </figure>
 <p>中秋節連假期間，平鎮區各里活動不斷，桃園市政顧問彭柏霖幾乎馬不停蹄跑透透，從早到晚穿梭於各社區與民眾同樂。第一站他來到福林宮廣場，與地方耆老一同祈福並分送月餅；第二場出席忠貞里中秋晚會，與居民一起欣賞表演、聯誼互動；第三場再趕赴雙連里社區活動，親切與長輩問候寒暄，場面熱絡。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="691" data-id="139068" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1" alt="" class="wp-image-139068" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=500%2C432&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=300%2C259&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=768%2C664&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?w=1200&amp;ssl=1 1200w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" decoding="async" width="800" height="691" data-id="139068" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1" alt="" class="wp-image-139068" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=800,691&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=500%2C432&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=300%2C259&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?resize=768%2C664&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233160646888504208368595743.jpg?w=1200&amp;ssl=1 1200w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 <p>彭柏霖表示，中秋節是團圓與感恩的節日，更是服務地方、傾聽民意的重要時刻。他強調，服務不是選舉時才開始，而是長期的責任，未來將持續投入公益活動、關懷弱勢族群，讓平鎮成為更有溫度的城市。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image"><img data-recalc-dims="1" decoding="async" width="800" height="630" data-id="139069" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1" alt="" class="wp-image-139069" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=500%2C394&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=768%2C605&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?w=1128&amp;ssl=1 1128w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" decoding="async" width="800" height="630" data-id="139069" src="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1" alt="" class="wp-image-139069" srcset="https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=800,630&amp;ssl=1 800w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=500%2C394&amp;ssl=1 500w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?resize=768%2C605&amp;ssl=1 768w, https://i0.wp.com/www.fclnews.com/wp-content/uploads/2025/10/17597233158813367375262894702508.jpg?w=1128&amp;ssl=1 1128w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 </figure>
 <p>地方人士指出，彭柏霖長期深耕平鎮，從29歲投入公益至今已逾15年，對地方建設及社會服務皆不遺餘力。許多民眾肯定他「平時就做事、不只選舉才出現」，認為他是少數真正為地方默默付出的年輕實幹派。</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
@@ -270,7 +267,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">263963</post-id>	</item>
 		<item>
 		<title>重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</title>
 		<link>https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/</link>
@@ -292,10 +289,10 @@
 <p class="p1">羅智強一直致力於培養青年世代，從羅智強擔任國民黨中央黨部革命實踐研究院的院長時，就曾辦過多場青年活動，其中舉辦「革命實踐研究院171期講習班」，吸引了超過100位青年前來參加，後續也給講習班學員在黨中央實習的機會。此外，羅智強在2023年成立「民主學校」，持續栽培青年參與公共事務，讓他們接觸政治、新媒體等領域，主要為栽培青年人才參與幕僚工作，並加入國民黨，為黨為國奮戰，秉持重視年輕新星的鍛鍊與發展為理念，期待為國民黨帶來更多創新與改變。</p>
 <p class="p1">這次發布的發言人團隊，結合了政治實戰經驗豐富的田方倫、何元楷、陳冠安，以及具備國際視野的鍾明，還有帶著法律專業與多元背景的新成員陳緗語以及超級新秀林沛妤。他們將以專業、行動與熱情，陪同羅智強打贏黨主席之戰，為國民黨帶來翻轉與希望。</p>
 <p class="p1">這支結合經驗與新血的發言人團隊，不只是羅智強最強韌的團隊夥伴，也是國民黨世代交替、世代承擔的象徵，更是羅智強對培育國民黨青年的承諾，希望透過創新等方法，以及敢於給年輕人機會，打造一個不一樣的國民黨，進而爭取更多青年對國民黨的支持。</p>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="284" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1801-284x300.jpeg?resize=284,300&amp;ssl=1" alt="" class="wp-image-67823"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="273" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1802-273x300.jpeg?resize=273,300&amp;ssl=1" alt="" class="wp-image-67825"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="221" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1803-221x300.jpeg?resize=221,300&amp;ssl=1" alt="" class="wp-image-67827"></figure>
-<figure class="wp-block-image"><img data-recalc-dims="1" height="300" width="241" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1800-241x300.jpeg?resize=241,300&amp;ssl=1" alt="" class="wp-image-67822"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" height="300" width="284" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1801-284x300.jpeg?resize=284,300&amp;ssl=1" alt="" class="wp-image-67823"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" height="300" width="273" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1802-273x300.jpeg?resize=273,300&amp;ssl=1" alt="" class="wp-image-67825"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" height="300" width="221" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1803-221x300.jpeg?resize=221,300&amp;ssl=1" alt="" class="wp-image-67827"></figure>
+<figure class="wp-block-image"><img loading="lazy" data-recalc-dims="1" height="300" width="241" decoding="async" src="https://i0.wp.com/rise-mediacorp.com/wp-content/uploads/2025/09/IMG_1800-241x300.jpeg?resize=241,300&amp;ssl=1" alt="" class="wp-image-67822"></figure>
 <p>這篇文章 <a href="https://www.fclnews.com/137523/">重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</a> 最早出現於 <a href="https://www.fclnews.com/">台灣新聞雲報</a>。</p>
 </div>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/09/30/%e9%87%8d%e8%a6%96%e9%9d%92%e5%b9%b4%e4%b8%96%e4%bb%a3-%e5%9f%b9%e8%82%b2%e5%8f%8a%e6%8f%90%e4%be%9b%e7%99%bc%e6%8f%ae%e5%b9%b3%e5%8f%b0-%e7%be%85%e6%99%ba%e5%bc%b7%e5%85%8c%e7%8f%be%e6%89%bf%e8%ab%be/">重視青年世代 培育及提供發揮平台 羅智強兌現承諾提供機會</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
@@ -303,7 +300,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">261575</post-id>	</item>
 		<item>
 		<title>「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</title>
 		<link>https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-3/</link>
@@ -339,7 +336,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">259993</post-id>	</item>
 		<item>
 		<title>「冷血！花蓮重創 民進黨大吃人血饅頭！」國民黨團記者會</title>
 		<link>https://firenews.com.tw/2025/09/26/%e3%80%8c%e5%86%b7%e8%a1%80%ef%bc%81%e8%8a%b1%e8%93%ae%e9%87%8d%e5%89%b5-%e6%b0%91%e9%80%b2%e9%bb%a8%e5%a4%a7%e5%90%83%e4%ba%ba%e8%a1%80%e9%a5%85%e9%a0%ad%ef%bc%81%e3%80%8d%e5%9c%8b%e6%b0%91-2/</link>
@@ -375,6 +372,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">259990</post-id>	</item>
 	</channel>
 </rss>

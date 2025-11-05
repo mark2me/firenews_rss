@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,13 +12,13 @@
 	<atom:link href="https://firenews.com.tw/category/%e5%85%b6%e4%bb%96/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/其他/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Tue, 04 Nov 2025 16:54:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Nov 2025 08:58:50 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://i0.wp.com/firenews.com.tw/wp-content/uploads/2023/11/cropped-512512.png?fit=32%2C32&#038;ssl=1</url>
@@ -30,7 +27,178 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">209987653</site>	<item>
+		<title>從晶片到國片：台亞與華映共創文化 ESG 新典範</title>
+		<link>https://firenews.com.tw/2025/11/05/%e5%be%9e%e6%99%b6%e7%89%87%e5%88%b0%e5%9c%8b%e7%89%87%ef%bc%9a%e5%8f%b0%e4%ba%9e%e8%88%87%e8%8f%af%e6%98%a0%e5%85%b1%e5%89%b5%e6%96%87%e5%8c%96-esg-%e6%96%b0%e5%85%b8%e7%af%84/</link>
+		
+		<dc:creator><![CDATA[火報記者 彭耀]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 08:58:46 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277741</guid>
+
+					<description><![CDATA[<p>為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG for Culture &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e5%be%9e%e6%99%b6%e7%89%87%e5%88%b0%e5%9c%8b%e7%89%87%ef%bc%9a%e5%8f%b0%e4%ba%9e%e8%88%87%e8%8f%af%e6%98%a0%e5%85%b1%e5%89%b5%e6%96%87%e5%8c%96-esg-%e6%96%b0%e5%85%b8%e7%af%84/">從晶片到國片：台亞與華映共創文化 ESG 新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>為了分享企業與文化內容產業的共好案例，促進更多跨界合作，文化內容策進院推出節目《ESG for Culture：企業Ｘ文化｜跨界新想像》。本集邀請「台亞半導體股份有限公司」（以下簡稱台亞半導體）董事長李國光與「華映娛樂股份有限公司」（以下簡稱華映娛樂）總經理梁宏志，分享雙方從員工家庭日電影包場走向國片投資的合作歷程，展現如何在實踐永續的同時，創造文化影響力。</p>
+
+
+
+<p>台亞集團打造「亞家軍」分批成立並培育多家子公司，橫跨第三代半導體、 IC 設計等領域，並以成立「台亞醫療公益基金會」為起點，展開多元永續行動。李國光董事長強調，永續不僅是環境治理，更應深入企業文化之中，從員工出發、回應社會需求，透過文化內容作為連結內外部的橋梁，是台亞實踐 ESG 的一項核心理念。台亞也沿襲日本日亞化學小川英治會長所倡導的職人精神，秉持「創造世界第一的商品」的理念，將精益求精的態度融入技術研發與企業治理，期望在追求卓越的同時，實踐社會責任與文化影響力。</p>
+
+
+
+<p>台亞半導體與華映娛樂的合作起點，來自一場原住民題材電影《哈勇家》的員工包場活動。電影所傳遞的家庭情感與文化底蘊，讓台亞半導體意識到文化內容的力量，能深化企業價值與員工認同。隨著政府開始將文化內容列入上市上櫃永續發展實務守則、公司治理評鑑項目，雙方也進一步合作電影投資，與華映娛樂合作推出《乒乓男孩》、《夜校女生》、《進行曲》等多部作品。</p>
+
+
+
+<p>雙方的合作不僅為台亞半導體的員工創造具情感連結的觀影體驗，也讓企業核心價值透過影像得以傳遞與擴散。李國光董事長指出，「我們希望不只是僅僅投入金錢，而是透過文化內容，讓員工、家人、甚至社會大眾都能在其中看到企業的核心價值。」。</p>
+
+
+
+<p>展望未來，台亞半導體與華映娛樂將持續深化合作，透過文化投資實踐社會責任，讓更多具有臺灣的原創故事被看見，進一步推動文化內容產業的走向國際與永續發展。這段從「晶片到國片」的共創旅程，也為文化 ESG 合作模式提供了可參考的行動經驗與新典範。</p>
+
+
+
+<p>#【ESG for Culture：企業Ｘ文化｜跨界新想像】節目資訊<br>YT、FB 同步上架┃文化內容策進院TAICCA<br>更新時間┃每月第一、三個完整周上片<br>文策院官方 Facebook：<a href="https://www.facebook.com/taicca.tw">https://www.facebook.com/taicca.tw</a><br>文策院 YouTube 頻道：<a href="https://www.youtube.com/@TAICCA">https://www.youtube.com/@TAICCA</a><br>ESG for Culture 官網：<a href="https://taicca.tw/resources/cooperation_matchmak/esg">https://taicca.tw/resources/cooperation_matchmak/esg</a></p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e5%be%9e%e6%99%b6%e7%89%87%e5%88%b0%e5%9c%8b%e7%89%87%ef%bc%9a%e5%8f%b0%e4%ba%9e%e8%88%87%e8%8f%af%e6%98%a0%e5%85%b1%e5%89%b5%e6%96%87%e5%8c%96-esg-%e6%96%b0%e5%85%b8%e7%af%84/">從晶片到國片：台亞與華映共創文化 ESG 新典範</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">277741</post-id>	</item>
+		<item>
+		<title>泛海商學院正式啟動　為上班族開啟斜槓致富新航道</title>
+		<link>https://firenews.com.tw/2025/11/05/%e6%b3%9b%e6%b5%b7%e5%95%86%e5%ad%b8%e9%99%a2%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e7%82%ba%e4%b8%8a%e7%8f%ad%e6%97%8f%e9%96%8b%e5%95%9f%e6%96%9c%e6%a7%93%e8%87%b4%e5%af%8c%e6%96%b0%e8%88%aa/</link>
+		
+		<dc:creator><![CDATA[火報]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 06:22:02 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=277602</guid>
+
+					<description><![CDATA[<p>在全球經濟景氣低迷、房地產市場持續震盪的時代背景下，台灣不動產產業正面臨前所未有的挑戰。交易量萎縮、房價盤整， &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e6%b3%9b%e6%b5%b7%e5%95%86%e5%ad%b8%e9%99%a2%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e7%82%ba%e4%b8%8a%e7%8f%ad%e6%97%8f%e9%96%8b%e5%95%9f%e6%96%9c%e6%a7%93%e8%87%b4%e5%af%8c%e6%96%b0%e8%88%aa/">泛海商學院正式啟動　為上班族開啟斜槓致富新航道</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>在全球經濟景氣低迷、房地產市場持續震盪的時代背景下，台灣不動產產業正面臨前所未有的挑戰。交易量萎縮、房價盤整，加上市場信心不足，讓眾多房仲人員及地產相關從業者承受龐大經濟壓力。</p>
+
+
+
+<p>有鑒於此，「泛海商學院」正式宣布成立。這所學院以「幫助上幫族打造第二人生的斜槓財富」為使命，致力於協助地產、服務與銷售領域的從業者在AI與數位轉型浪潮中重新站穩腳步。</p>
+
+
+
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="684" height="456" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-37.png?resize=684%2C456&#038;ssl=1" alt="" class="wp-image-277603"/></figure>
+
+
+
+<p><strong>打破傳統框架　一條龍打造「教育</strong><strong> × </strong><strong>產品</strong><strong> × </strong><strong>銷售」模式</strong><strong></strong></p>
+
+
+
+<p>泛海商學院由皇國際、全億豐國際、台馬國際地產三大機構聯合打造，整合產業鏈資源，首創「教育培訓、產品銷售、創業輔導」三位一體的一條龍服務。 </p>
+
+
+
+<p>過往許多業者雖提供培訓課程，但缺乏可落地的銷售產品與後續輔導機制，導致學員學完仍難以轉化收入。泛海商學院突破這一困境，為學員提供即學即用的實戰型內容，並搭配實體可銷售商品、線上行銷工具與導師陪跑輔導，協助學員真正從學習走向獲利。</p>
+
+
+
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" decoding="async" width="499" height="444" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-38.png?resize=499%2C444&#038;ssl=1" alt="" class="wp-image-277604"/></figure>
+
+
+
+<p><strong>上幫族</strong><strong>(</strong><strong>幫助上班族</strong><strong>)</strong><strong>的第二財富人生</strong><strong></strong></p>
+
+
+
+<p>泛海商學院將核心族群定位為「上幫族」——這群在各自專業領域中善於助人、擅長溝通、具備影響力的人。他們可能是地產經紀人、保險顧問、講師、服務業從業者，卻同樣面臨收入不穩與市場轉型壓力。</p>
+
+
+
+<p>學院希望透過系統化的課程設計與產品授權制度，讓上幫族能夠以自身信任關係為起點，發展出屬於自己的第二收入來源，實現「學習即創富」的目標。</p>
+
+
+
+<p><strong>吳宥忠院長領航　開創新型商學教育典範</strong><strong></strong></p>
+
+
+
+<p>泛海商學院特別邀請培訓界知名導師吳宥忠擔任院長。吳院長長年深耕 AI 賦能、商業培訓與個人品牌打造領域，曾協助眾多企業與創業者透過系統化方法實現獲利轉型。 他表示：「泛海商學院的使命，不只是教大家賺錢，而是讓每位學員都能打造屬於自己的斜槓品牌，建立抗風險、反脆弱的第二財富系統。」</p>
+
+
+
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" decoding="async" width="362" height="538" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-39.png?resize=362%2C538&#038;ssl=1" alt="" class="wp-image-277605"/></figure>
+
+
+
+<p><strong>為台灣市場注入新能量</strong><strong></strong></p>
+
+
+
+<p>泛海商學院的成立，象徵著教育與產業整合的一次重大突破。<br>未來，學院將持續擴展課程範疇，涵蓋 AI 工具應用、行銷自媒體、財富管理、社群創業等多元領域，打造屬於台灣市場的全方位斜槓孵化平台。</p>
+
+
+
+<p>新聞聯絡人<br>泛海商學院 公關部<br>電話：(02) 7746-1928 地址：臺北市松山區民生東路三段131號7樓</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e6%b3%9b%e6%b5%b7%e5%95%86%e5%ad%b8%e9%99%a2%e6%ad%a3%e5%bc%8f%e5%95%9f%e5%8b%95%e3%80%80%e7%82%ba%e4%b8%8a%e7%8f%ad%e6%97%8f%e9%96%8b%e5%95%9f%e6%96%9c%e6%a7%93%e8%87%b4%e5%af%8c%e6%96%b0%e8%88%aa/">泛海商學院正式啟動　為上班族開啟斜槓致富新航道</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">277602</post-id>	</item>
+		<item>
+		<title>普發現金1萬元登記全攻略：2025申請、代領、入帳時間與防詐騙懶人包</title>
+		<link>https://firenews.com.tw/2025/11/05/%e6%99%ae%e7%99%bc%e7%8f%be%e9%87%911%e8%90%ac%e5%85%83%e7%99%bb%e8%a8%98%e5%85%a8%e6%94%bb%e7%95%a5%ef%bc%9a2025%e7%94%b3%e8%ab%8b%e3%80%81%e4%bb%a3%e9%a0%98%e3%80%81%e5%85%a5%e5%b8%b3%e6%99%82/</link>
+		
+		<dc:creator><![CDATA[火報快訊]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 03:34:50 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[名家]]></category>
+		<category><![CDATA[快訊]]></category>
+		<category><![CDATA[綜合]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/2025/11/05/%e6%99%ae%e7%99%bc%e7%8f%be%e9%87%911%e8%90%ac%e5%85%83%e7%99%bb%e8%a8%98%e5%85%a8%e6%94%bb%e7%95%a5%ef%bc%9a2025%e7%94%b3%e8%ab%8b%e3%80%81%e4%bb%a3%e9%a0%98%e3%80%81%e5%85%a5%e5%b8%b3%e6%99%82/</guid>
+
+					<description><![CDATA[<p>全民引頸期盼的「普發現金一萬元」已於今（5）日正式開放線上登記入帳！只要按照本文提供的完整指南，您就能輕鬆完成 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e6%99%ae%e7%99%bc%e7%8f%be%e9%87%911%e8%90%ac%e5%85%83%e7%99%bb%e8%a8%98%e5%85%a8%e6%94%bb%e7%95%a5%ef%bc%9a2025%e7%94%b3%e8%ab%8b%e3%80%81%e4%bb%a3%e9%a0%98%e3%80%81%e5%85%a5%e5%b8%b3%e6%99%82/">普發現金1萬元登記全攻略：2025申請、代領、入帳時間與防詐騙懶人包</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>全民引頸期盼的「普發現金一萬元」已於今（5）日正式開放線上登記入帳！只要按照本文提供的完整指南，您就能輕鬆完成登記，甚至有望在11月11日搶先領取這筆現金。</p>
+<p>**一、登記時間與分流規則**<br />
+登記期間為**2025年11月5日上午8點起，至2026年4月30日晚上11點59分止**。請特別留意，初期採用身分證尾數分流制，以確保系統順暢：<br />
+*   **11月5日：** 身分證尾數「0」、「1」<br />
+*   **11月6日：** 身分證尾數「2」、「3」<br />
+*   **11月7日：** 身分證尾數「4」、「5」<br />
+*   **11月8日：** 身分證尾數「6」、「7」<br />
+*   **11月9日：** 身分證尾數「8」、「9」<br />
+自**11月10日起**，則不限身分證尾數，全民皆可自由登記。請務必認明官方網站：**https://10000.gov.tw/**。</p>
+<p>**二、本人登記步驟**<br />
+1.  進入普發官網，點選「登記入帳」。<br />
+2.  依序輸入您的「身分證字號」、「金融機構代號＋帳號」以及「健保卡號」。<br />
+3.  仔細確認所有填寫資料無誤後，點選「確認送出」。<br />
+4.  您可於11月13日起，返回官網查詢您的登記結果。</p>
+<p>**三、為未滿13歲孩童代領方式**<br />
+父母或監護人欲代領孩童普發現金，步驟如下：<br />
+1.  代領人輸入自己的「身分證字號」與「金融帳號」。<br />
+2.  輸入孩童的「健保卡號」。<br />
+3.  送出資料後，即完成代領手續。</p>
+<p>**四、入帳時間預覽**<br />
+*   在**11月5日至11月10日**期間完成登記者，最快可於**11月11日晚間6點起**收到款項。<br />
+*   於**11月11日以後**完成登記者，款項將於**隔一個營業日**陸續撥入指定帳戶。</p>
+<p>**五、重要注意事項與防詐提醒**<br />
+為保障您的權益，請務必留意以下幾點，防範詐騙：<br />
+*   **只認明官方網站：** 唯一正確的官方網站為**10000.gov.tw**，請勿點擊來路不明的網址。<br />
+*   **諮詢專線：** 若有任何疑問，請撥打1988專線查詢。<br />
+*   **反詐騙專線：** 如收到可疑簡訊、連結或電話，請立即撥打165反詐騙專線，切勿輕信或提供個人資料。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e6%99%ae%e7%99%bc%e7%8f%be%e9%87%911%e8%90%ac%e5%85%83%e7%99%bb%e8%a8%98%e5%85%a8%e6%94%bb%e7%95%a5%ef%bc%9a2025%e7%94%b3%e8%ab%8b%e3%80%81%e4%bb%a3%e9%a0%98%e3%80%81%e5%85%a5%e5%b8%b3%e6%99%82/">普發現金1萬元登記全攻略：2025申請、代領、入帳時間與防詐騙懶人包</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">277442</post-id>	</item>
+		<item>
 		<title>星誠細胞生醫 × 博訊生物科技 聯手打造台灣再生醫學新鏈結</title>
 		<link>https://firenews.com.tw/2025/11/05/%e6%98%9f%e8%aa%a0%e7%b4%b0%e8%83%9e%e7%94%9f%e9%86%ab-x-%e5%8d%9a%e8%a8%8a%e7%94%9f%e7%89%a9%e7%a7%91%e6%8a%80-%e8%81%af%e6%89%8b%e6%89%93%e9%80%a0%e5%8f%b0%e7%81%a3%e5%86%8d%e7%94%9f%e9%86%ab/</link>
 		
@@ -38,6 +206,8 @@
 		<pubDate>Wed, 05 Nov 2025 00:35:00 +0000</pubDate>
 				<category><![CDATA[其他]]></category>
 		<category><![CDATA[名家]]></category>
+		<category><![CDATA[新寵]]></category>
+		<category><![CDATA[時事]]></category>
 		<category><![CDATA[綜合]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[再生醫學]]></category>
@@ -67,7 +237,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1220" height="806" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=1220%2C806&#038;ssl=1" alt="" class="wp-image-277343" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?w=1888&amp;ssl=1 1888w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=1536%2C1015&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">修秘凍晶為凍乾粉型態，可常溫保存3 年，運用更靈活便利。圖 / 星誠細胞生醫提供</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="806" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=1220%2C806&#038;ssl=1" alt="" class="wp-image-277343" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?w=1888&amp;ssl=1 1888w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274471403.jpg?resize=1536%2C1015&amp;ssl=1 1536w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">修秘凍晶為凍乾粉型態，可常溫保存3 年，運用更靈活便利。圖 / 星誠細胞生醫提供</figcaption></figure>
 
 
 
@@ -111,13 +281,13 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="808" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=1220%2C808&#038;ssl=1" alt="" class="wp-image-277344" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?w=1631&amp;ssl=1 1631w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=1536%2C1017&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">左-星誠細胞生醫 王俊翔董事長；右-博訊生物科技 杜長宏董事長。圖 / 星誠細胞生醫提供</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="808" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=1220%2C808&#038;ssl=1" alt="" class="wp-image-277344" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?w=1631&amp;ssl=1 1631w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762274482188.jpg?resize=1536%2C1017&amp;ssl=1 1536w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">左-星誠細胞生醫 王俊翔董事長；右-博訊生物科技 杜長宏董事長。圖 / 星誠細胞生醫提供</figcaption></figure>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/11/05/%e6%98%9f%e8%aa%a0%e7%b4%b0%e8%83%9e%e7%94%9f%e9%86%ab-x-%e5%8d%9a%e8%a8%8a%e7%94%9f%e7%89%a9%e7%a7%91%e6%8a%80-%e8%81%af%e6%89%8b%e6%89%93%e9%80%a0%e5%8f%b0%e7%81%a3%e5%86%8d%e7%94%9f%e9%86%ab/">星誠細胞生醫 × 博訊生物科技 聯手打造台灣再生醫學新鏈結</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">277342</post-id>	</item>
 		<item>
 		<title>Linker Vision亮相巴塞隆納SCEWC　三大平台驅動智慧城市AI中樞</title>
 		<link>https://firenews.com.tw/2025/11/04/linker-vision%e4%ba%ae%e7%9b%b8%e5%b7%b4%e5%a1%9e%e9%9a%86%e7%b4%8dscewc%e3%80%80%e4%b8%89%e5%a4%a7%e5%b9%b3%e5%8f%b0%e9%a9%85%e5%8b%95%e6%99%ba%e6%85%a7%e5%9f%8e%e5%b8%82ai%e4%b8%ad%e6%a8%9e/</link>
@@ -137,7 +307,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-277195" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=390%2C220&amp;ssl=1 390w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="686" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-277195" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/SCEWC_PR_Cover.png?resize=390%2C220&amp;ssl=1 390w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -171,7 +341,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">277192</post-id>	</item>
 		<item>
 		<title>輕旅世代新選擇　萬國通路推上掀式行李箱KK98 UNIVO　旅途整理更從容</title>
 		<link>https://firenews.com.tw/2025/11/04/%e8%bc%95%e6%97%85%e4%b8%96%e4%bb%a3%e6%96%b0%e9%81%b8%e6%93%87%e3%80%80%e8%90%ac%e5%9c%8b%e9%80%9a%e8%b7%af%e6%8e%a8%e4%b8%8a%e6%8e%80%e5%bc%8f%e8%a1%8c%e6%9d%8e%e7%ae%b1kk98-univo%e3%80%80%e6%97%85/</link>
@@ -191,7 +361,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=1220%2C610&#038;ssl=1" alt="" class="wp-image-277153" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">Eminent推上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="610" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=1220%2C610&#038;ssl=1" alt="" class="wp-image-277153" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-33.png?resize=768%2C384&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">Eminent推上掀式行李箱「KK98 UNIVO」系列，主打輕盈結構與上掀開合方式，結合品牌週年慶活動同步登場。</figcaption></figure>
 
 
 
@@ -203,7 +373,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277155" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277155" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-34.png?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
 
 
 
@@ -215,7 +385,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277158" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="813" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1220%2C813&#038;ssl=1" alt="" class="wp-image-277158" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2508&amp;ssl=1 2508w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-35.png?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">KK75 Vista 上掀式煞車輪防爆拉鍊箱</figcaption></figure>
 
 
 
@@ -233,7 +403,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">277152</post-id>	</item>
 		<item>
 		<title>陶氏公司全球首個熱管理材料科學實驗室於上海啟用以本土研發驅動冷卻技術革新</title>
 		<link>https://firenews.com.tw/2025/11/04/%e9%99%b6%e6%b0%8f%e5%85%ac%e5%8f%b8%e5%85%a8%e7%90%83%e9%a6%96%e5%80%8b%e7%86%b1%e7%ae%a1%e7%90%86%e6%9d%90%e6%96%99%e7%a7%91%e5%ad%b8%e5%af%a6%e9%a9%97%e5%ae%a4%e6%96%bc%e4%b8%8a%e6%b5%b7%e5%95%9f/</link>
@@ -253,7 +423,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="796" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=796%2C573&#038;ssl=1" alt="" class="wp-image-277037" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?w=796&amp;ssl=1 796w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=768%2C553&amp;ssl=1 768w" sizes="(max-width: 796px) 100vw, 796px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="796" height="573" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=796%2C573&#038;ssl=1" alt="" class="wp-image-277037" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?w=796&amp;ssl=1 796w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/1762239591846.jpg?resize=768%2C553&amp;ssl=1 768w" sizes="auto, (max-width: 796px) 100vw, 796px" /></figure>
 
 
 
@@ -297,7 +467,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">277036</post-id>	</item>
 		<item>
 		<title>裕郡生技「PhytoExo植物胞外體系列」登上泰國化妝品原料展</title>
 		<link>https://firenews.com.tw/2025/11/04/%e8%a3%95%e9%83%a1%e7%94%9f%e6%8a%80%e3%80%8cphytoexo%e6%a4%8d%e7%89%a9%e8%83%9e%e5%a4%96%e9%ab%94%e7%b3%bb%e5%88%97%e3%80%8d%e7%99%bb%e4%b8%8a%e6%b3%b0%e5%9c%8b%e5%8c%96%e5%a6%9d%e5%93%81%e5%8e%9f/</link>
@@ -313,7 +483,7 @@
 <p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e8%a3%95%e9%83%a1%e7%94%9f%e6%8a%80%e3%80%8cphytoexo%e6%a4%8d%e7%89%a9%e8%83%9e%e5%a4%96%e9%ab%94%e7%b3%bb%e5%88%97%e3%80%8d%e7%99%bb%e4%b8%8a%e6%b3%b0%e5%9c%8b%e5%8c%96%e5%a6%9d%e5%93%81%e5%8e%9f/">裕郡生技「PhytoExo植物胞外體系列」登上泰國化妝品原料展</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1059" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=1220%2C1059&#038;ssl=1" alt="" class="wp-image-277012" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?w=1373&amp;ssl=1 1373w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=768%2C667&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲裕郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="1059" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=1220%2C1059&#038;ssl=1" alt="" class="wp-image-277012" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?w=1373&amp;ssl=1 1373w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605281.jpg?resize=768%2C667&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">▲裕郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
 
 
 
@@ -325,7 +495,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="1157" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=1220%2C1157&#038;ssl=1" alt="" class="wp-image-277016" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?w=1314&amp;ssl=1 1314w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=768%2C728&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲吳裕仁執行長（左），於泰國曼谷參加2025年亞洲美容原料展，首先展出台灣自主開發二項植物胞外體，並發表PhytoExo 系列保養品。（圖／裕郡生技提供</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="1157" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=1220%2C1157&#038;ssl=1" alt="" class="wp-image-277016" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?w=1314&amp;ssl=1 1314w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/S__272605261-2.jpg?resize=768%2C728&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">▲吳裕仁執行長（左），於泰國曼谷參加2025年亞洲美容原料展，首先展出台灣自主開發二項植物胞外體，並發表PhytoExo 系列保養品。（圖／裕郡生技提供</figcaption></figure>
 
 
 
@@ -333,7 +503,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="820" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=960%2C820&#038;ssl=1" alt="" class="wp-image-277017" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=768%2C656&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="960" height="820" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=960%2C820&#038;ssl=1" alt="" class="wp-image-277017" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/649394.jpg?resize=768%2C656&amp;ssl=1 768w" sizes="auto, (max-width: 960px) 100vw, 960px" /><figcaption class="wp-element-caption">▲郡生技自主開發小花蔓澤蘭花及赤道櫻草胞外體化妝品原料。（圖／裕郡生技提供）</figcaption></figure>
 
 
 
@@ -347,7 +517,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">277011</post-id>	</item>
 		<item>
 		<title>不用飛日本就能朝聖！ITF台北國際旅展「把日本搬來台灣」</title>
 		<link>https://firenews.com.tw/2025/11/04/%e4%b8%8d%e7%94%a8%e9%a3%9b%e6%97%a5%e6%9c%ac%e5%b0%b1%e8%83%bd%e6%9c%9d%e8%81%96%ef%bc%81itf%e5%8f%b0%e5%8c%97%e5%9c%8b%e9%9a%9b%e6%97%85%e5%b1%95%e3%80%8c%e6%8a%8a%e6%97%a5%e6%9c%ac%e6%90%ac/</link>
@@ -378,7 +548,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="630" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=1200%2C630&#038;ssl=1" alt="" class="wp-image-276674" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/封面.jpg?resize=768%2C403&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲ITF台北國際旅展「把日本搬來台灣」（圖／翻攝自台灣觀光協會）</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1200" height="630" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%B0%81%E9%9D%A2.jpg?resize=1200%2C630&#038;ssl=1" alt="" class="wp-image-276674" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%B0%81%E9%9D%A2.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%B0%81%E9%9D%A2.jpg?resize=768%2C403&amp;ssl=1 768w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-element-caption">▲ITF台北國際旅展「把日本搬來台灣」（圖／翻攝自台灣觀光協會）</figcaption></figure>
 
 
 
@@ -394,7 +564,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-276675" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?resize=2048%2C1538&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/內文照片-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">▲一站玩遍全日本！玩出不一樣的日本深度旅程（圖／翻攝自台灣觀光協會）</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="916" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?resize=1220%2C916&#038;ssl=1" alt="" class="wp-image-276675" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?resize=2048%2C1538&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/%E5%85%A7%E6%96%87%E7%85%A7%E7%89%87-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">▲一站玩遍全日本！玩出不一樣的日本深度旅程（圖／翻攝自台灣觀光協會）</figcaption></figure>
 
 
 
@@ -436,7 +606,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">276673</post-id>	</item>
 		<item>
 		<title>成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</title>
 		<link>https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/</link>
@@ -471,7 +641,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="597" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=1158%2C597&#038;ssl=1" alt="" class="wp-image-274706" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?w=1158&amp;ssl=1 1158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=768%2C396&amp;ssl=1 768w" sizes="(max-width: 1158px) 100vw, 1158px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1158" height="597" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=1158%2C597&#038;ssl=1" alt="" class="wp-image-274706" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?w=1158&amp;ssl=1 1158w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-279.png?resize=768%2C396&amp;ssl=1 768w" sizes="auto, (max-width: 1158px) 100vw, 1158px" /></figure>
 
 
 
@@ -483,7 +653,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="626" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=1220%2C626&#038;ssl=1" alt="" class="wp-image-274705" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?w=1307&amp;ssl=1 1307w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=768%2C394&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="626" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=1220%2C626&#038;ssl=1" alt="" class="wp-image-274705" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?w=1307&amp;ssl=1 1307w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-278.png?resize=768%2C394&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -491,7 +661,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=1220%2C627&#038;ssl=1" alt="" class="wp-image-274704" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?w=1311&amp;ssl=1 1311w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=768%2C395&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="627" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=1220%2C627&#038;ssl=1" alt="" class="wp-image-274704" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?w=1311&amp;ssl=1 1311w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-277.png?resize=768%2C395&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -499,7 +669,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="632" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=1220%2C632&#038;ssl=1" alt="" class="wp-image-274703" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=768%2C398&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="632" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=1220%2C632&#038;ssl=1" alt="" class="wp-image-274703" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-276.png?resize=768%2C398&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -507,7 +677,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="631" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=1220%2C631&#038;ssl=1" alt="" class="wp-image-274702" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=768%2C397&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="631" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=1220%2C631&#038;ssl=1" alt="" class="wp-image-274702" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?w=1308&amp;ssl=1 1308w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-275.png?resize=768%2C397&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -523,7 +693,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="635" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=1220%2C635&#038;ssl=1" alt="" class="wp-image-274701" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?w=1310&amp;ssl=1 1310w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=768%2C400&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="635" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=1220%2C635&#038;ssl=1" alt="" class="wp-image-274701" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?w=1310&amp;ssl=1 1310w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-274.png?resize=768%2C400&amp;ssl=1 768w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /></figure>
 
 
 
@@ -535,246 +705,12 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1012" height="465" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=1012%2C465&#038;ssl=1" alt="" class="wp-image-274700" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?w=1012&amp;ssl=1 1012w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=768%2C353&amp;ssl=1 768w" sizes="(max-width: 1012px) 100vw, 1012px" data-recalc-dims="1" /></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1012" height="465" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=1012%2C465&#038;ssl=1" alt="" class="wp-image-274700" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?w=1012&amp;ssl=1 1012w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/10/image-273.png?resize=768%2C353&amp;ssl=1 768w" sizes="auto, (max-width: 1012px) 100vw, 1012px" /></figure>
 <p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/%e6%88%90%e7%82%ba%e6%8e%a7%e7%b3%96%e9%81%94%e4%ba%ba%e6%9c%89%e5%a6%99%e6%8b%9b%ef%bc%81%e7%87%9f%e9%a4%8a%e5%b8%ab%e6%95%99%e4%bd%a0%e8%bc%95%e9%ac%86%e7%9c%8b%e6%87%82-cgm-%e5%a0%b1%e5%91%8a/">成為控糖達人有妙招！營養師教你輕鬆看懂 CGM 報告</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
 ]]></content:encoded>
 					
 		
 		
-			</item>
-		<item>
-		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
-		<link>https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 16:53:42 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=276779</guid>
-
-					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=780%2C520&amp;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
-
-
-
-<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=780%2C520&amp;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
-
-
-
-<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=780%2C1170&amp;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
-
-
-
-<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
-
-
-
-<p><strong>關於G-DRAGON</strong></p>
-
-
-
-<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
-
-
-
-<p><strong>官方社交媒體</strong></p>
-
-
-
-<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
-
-
-
-<p><strong>關於AEG Presents</strong></p>
-
-
-
-<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com/">www.aegpresents.com</a>。</p>
-
-
-
-<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a></p>
-
-
-
-<p><strong>關於TME live</strong></p>
-
-
-
-<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live –&nbsp;<a href="https://www.instagram.com/tme_official__/">Instagram</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a>&nbsp;|&nbsp;<a href="https://x.com/TME_official_">X</a></p>
-
-
-
-<p>圖片來源(C) GALAXY CORPORATION</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/04/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95-2/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI:  ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</title>
-		<link>https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[綜合]]></category>
-		<category><![CDATA[知本溫泉公益馬拉松]]></category>
-		<category><![CDATA[跑吧!孩子]]></category>
-		<category><![CDATA[農村發展及水土保持署臺東分署]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=276322</guid>
-
-					<description><![CDATA[<p>記者 洪俊維 / 報導 「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>記者 洪俊維 / 報導</p>
-
-
-
-<p>「跑吧！孩子 2025知本溫泉公益馬拉松」於11月2日盛大登場，由卑南鄉公所、知本溫泉觀光發展促進協會、知本老爺酒店共同主辦，並集結公私部門齊力推動，串聯農村發展及水土保持署臺東分署與臺東縣農會所合作的「洛神可食地景」及「食農體驗」活動，不只讓跑者揮灑汗水，也帶來了一場融合農業、體驗與美學的農村盛宴。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="915" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=1220%2C915&#038;ssl=1" alt="" class="wp-image-276368" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/01.jpg?resize=768%2C576&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">「跑吧!孩子 2025知本溫泉公益馬拉松」於11月2日登場，公私協力協力推動台東觀光，同時讓台東特色產業被更多人看見。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
-
-
-
-<p>洛神食農體驗活動於馬拉松活動期間共辦理兩場體驗活動，包括洛神葵採摘、田間導覽、手工去籽、製作蜜餞等內容，不僅讓參與者親身感受從田野到餐桌的過程，更加深了對食物來源與農作知識的理解。活動全程免費參與，報名踴躍，參與者多表示「第一次自己採洛神、做蜜餞，非常新鮮又有趣」，充分展現食農教育的實踐價值。</p>
-
-
-
-<p>此次打造的可食地景「洛神花海」共栽種臺東1號、3號及白洛神三種品系，結合體驗活動，除了吸引民眾近距離觀賞南迴特產洛神葵，也進一步推動臺東在地作物的價值與魅力，為臺東洛神產業注入新的推廣動能。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276369" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?w=1260&amp;ssl=1 1260w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/02.png?resize=768%2C288&amp;ssl=1 768w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">農村水保署臺東分署營造洛神花海，攜手台東縣農會於11月1日及2日辦理洛神食農體驗，跑者或其眷屬體驗「從田野到餐桌」的完整旅程，親手製作洛神蜜餞，展現食農教育的實踐精神。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
-
-
-
-<p>本次活動除了串聯洛神食農體驗，農村水保署臺東分署也邀請通過田媽媽餐廳認證的「宏昌客家餐館」於現場準備「客家糕粄」作為完賽補給特色點心，口味包含艾草包與筍包，不僅讓大家品嘗在地農村傳統好滋味，也藉由美食傳遞客庄文化。此外，分署亦設置水土保持宣導區，透過互動遊戲，傳遞友善農業、保育土地資源等永續理念，深化農業與環境的連結。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="1220" height="458" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1220%2C458&#038;ssl=1" alt="" class="wp-image-276370" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?w=2005&amp;ssl=1 2005w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=768%2C288&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/03.png?resize=1536%2C577&amp;ssl=1 1536w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /><figcaption class="wp-element-caption">宏昌客家菜館於知本溫泉公益馬拉松現場提供傳統客家糕粄作為完賽補給品，讓跑者在補充體力的同時，也品嚐到台東農村的在地滋味。圖片來源：農村發展及水土保持署臺東分署</figcaption></figure>
-
-
-
-<p>本次活動最大特色之一，為農業活動與大型運動賽事進行跨界串聯。以知本溫泉公益馬拉松作為人流引擎，活動吸引了大量非農村背景的都市參與者深入接觸農村文化與產業，創造額外觀光與消費效益。據估算，活動期間帶動超過逾2,000人參與，間接促觀光產值，也讓臺東洛神從季節性作物，逐漸轉型為可串聯教育、觀光與產業的多元平台。</p>
-
-
-
-<p>臺東分署未來也將持續透過食農教育深化農業價值，並結合運動觀光、社區營造與品牌行銷等資源，打造更多發光發熱的農村產業。透過與在地農會、旅宿與活動平台等共同協作，讓農村不只是風景，更是體驗、文化與價值的交匯點，成為推動產業升級與區域共好的具體行動。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/%e7%9f%a5%e6%9c%ac%e9%a6%ac%e6%8b%89%e6%9d%be%e4%b8%b2%e8%81%af%e6%b4%9b%e7%a5%9e%e9%a3%9f%e8%be%b2%e6%95%99%e8%82%b2-%e5%b8%b6%e5%8b%95%e8%be%b2%e6%9d%91%e7%94%a2%e6%a5%ad%e5%8d%80%e5%9f%9f%e5%85%b1/">知本馬拉松串聯洛神食農教育 帶動農村產業區域共好</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</title>
-		<link>https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/</link>
-		
-		<dc:creator><![CDATA[火報]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[名家]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[綜合]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=276619</guid>
-
-					<description><![CDATA[<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank由Galaxy Corporation，AEG Presents與TME live聯合製作，Super Dome落地支持，並獲中華賓士、Trip.com及HopeGoo等品牌支持。G-DRAGON於<strong>11月1日至2日</strong>連開兩場，在台北大巨蛋隆重舉行并畫下完美句點。作為本次G-DRAGON 2025 WORLD TOUR [Übermensch] 的返場，台北場再度引發熱烈關注，兩場演出共吸引超過76000名觀眾，現場熱情空前。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276620" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-20.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
-
-
-
-<p>本次公演通過藝術化呈現哲學家弗裏德裏希·尼采的哲學概念，以敘事方式展現了Übermensch完成三階段蛻變的歷程。象徵巡演主題的雛菊花車登陸台北，打造極具儀式感的花車巡遊，呈現與觀眾共鳴的終極舞台藝術。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="864" height="576" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=864%2C576&#038;ssl=1" alt="" class="wp-image-276621" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-21.png?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
-
-
-
-<p>G-DRAGON舞台實力開麥，標誌性颱風再創神級LIVE現場。帶來如《PO<s>W</s>ER》《TOO BAD》《DRAMA》等多首熱曲，引爆全場。更驚喜夜光吉他撥片周邊，和他的表演完美結合，伴隨觀眾的歡呼將現場氛圍推向高潮。</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="864" height="1296" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=864%2C1296&#038;ssl=1" alt="" class="wp-image-276622" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?w=864&amp;ssl=1 864w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-22.png?resize=768%2C1152&amp;ssl=1 768w" sizes="(max-width: 864px) 100vw, 864px" data-recalc-dims="1" /></figure>
-
-
-
-<p>在全球粉絲的熱烈支持下，G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank完美收官。</p>
-
-
-
-<p><strong>關於G-DRAGON</strong></p>
-
-
-
-<p>G-DRAGON是國際文化標誌性人物。作為頂級K-POP男團BIGBANG成員，他以創新音樂、先鋒時尚與極具感染力的舞台表現力重塑亞洲音樂版圖。憑藉融合多元流派的音樂風格與實驗性創作理念，其個人專輯屢獲商業與藝術成就。其影響力更延伸至時尚領域，被公認為韓國乃至全球的潮流風向標。</p>
-
-
-
-<p><strong>官方社交媒體</strong></p>
-
-
-
-<p>FAM官方Instagram (@fanplusonedotcom)<br>FAM官方Facebook (@fanplusonedotcom)<br>FAM官方X (@FANPLUS1DOTCOM)<br>G-DRAGON官方微博 (@GDRAGON_OFFICIAL)</p>
-
-
-
-<p><strong>關於AEG Presents</strong></p>
-
-
-
-<p>AEG Presents是全球音樂與娛樂行業的領軍者，致力於將現場演出能量與藝人培育深度結合。公司業務遍及四大洲，始終以藝術性、創造力與社區聯結為核心。其標杆性音樂節——包括科切拉音樂藝術節、新奧爾良爵士遺產音樂節、美國運通呈現BST海德公園音樂節、Stagecoach、Hangout音樂節、Electric Forest及Firefly——持續定義現場音樂體驗標準。AEG Presents為滾石樂隊、艾爾頓·約翰、泰勒·斯威夫特、席琳·迪翁等國際巨星策劃全球巡演，並通過旗下場館網絡（涵蓋俱樂部、劇院、體育館）及合作品牌（如Goldenvoice、Messina Touring Group等），構建無與倫比的藝人發展與觀眾觸達體系。更多信息請訪問<a href="http://www.aegpresents.com">www.aegpresents.com</a>。</p>
-
-
-
-<p><strong>關注AEG </strong>– <a href="https://asia.aegpresents.com/">AEG Official Website</a> | <a href="https://www.instagram.com/aegpresentsasia/">Instagram</a> | <a href="https://www.facebook.com/aegpresentsasia/">Facebook</a> | <a href="https://www.tiktok.com/@aegpresentsasia">TikTok</a> | <a href="https://twitter.com/aegpresentsasia">X</a></p>
-
-
-
-<p><strong>關於TME live</strong></p>
-
-
-
-<p>TME live是中國領先的音樂娛樂服務提供商騰訊音樂娛樂集團打造的以現場演出為核心的多元化業務品牌。TME live採用創新的演出模式和極速、超高清的數字視聽技術，將線上、線下演出相結合，打造全方位的音樂娛樂演出體驗。 關注TME live – <a href="https://www.instagram.com/tme_official__/">Instagram</a> | <a href="https://www.facebook.com/profile.php?id=61574664147676">Facebook</a> | <a href="https://x.com/TME_official_">X</a></p>
-
-
-
-<p>圖片來源(C) GALAXY CORPORATION</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/03/g-dragon-2025-world-tour-ubermensch-in-taipei-encore-presented-by-ctbc-bank%e4%bb%a5%e5%85%a9%e6%99%9a%e7%b2%be%e5%bd%a9%e8%88%9e%e5%8f%b0%e6%bc%94%e5%87%ba%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/">G-DRAGON 2025 WORLD TOUR [Übermensch] IN TAIPEI: ENCORE, presented by CTBC Bank以兩晚精彩舞台演出圓滿落幕</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">274679</post-id>	</item>
 	</channel>
 </rss>
