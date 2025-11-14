@@ -12,7 +12,7 @@
 	<atom:link href="https://firenews.com.tw/category/%e6%99%82%e4%ba%8b/feed/" rel="self" type="application/rss+xml" />
 	<link>https://firenews.com.tw/category/時事/</link>
 	<description>《火報》，每天給您最優質的好新聞。 我們秉持「正義」的精神，為民眾發聲，核心理念是社群共享、優質新聞。</description>
-	<lastBuildDate>Fri, 14 Nov 2025 05:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Nov 2025 05:55:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">209987653</site>	<item>
+		<title>蘋果升級App Store迷你應用生態 佣金調降、年齡機制同步上路</title>
+		<link>https://firenews.com.tw/2025/11/14/%e8%98%8b%e6%9e%9c%e5%8d%87%e7%b4%9aapp-store%e8%bf%b7%e4%bd%a0%e6%87%89%e7%94%a8%e7%94%9f%e6%85%8b-%e4%bd%a3%e9%87%91%e8%aa%bf%e9%99%8d%e3%80%81%e5%b9%b4%e9%bd%a1%e6%a9%9f%e5%88%b6%e5%90%8c%e6%ad%a5/</link>
+		
+		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 05:54:53 +0000</pubDate>
+				<category><![CDATA[時事]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[新聞]]></category>
+		<category><![CDATA[蘋果]]></category>
+		<guid isPermaLink="false">https://firenews.com.tw/?p=282007</guid>
+
+					<description><![CDATA[<p>火報記者 陳銳/報導 蘋果近日宣布，將調降 App Store 內「迷你應用」的抽成結構，若開發者採用蘋果指定 &#8230;</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/14/%e8%98%8b%e6%9e%9c%e5%8d%87%e7%b4%9aapp-store%e8%bf%b7%e4%bd%a0%e6%87%89%e7%94%a8%e7%94%9f%e6%85%8b-%e4%bd%a3%e9%87%91%e8%aa%bf%e9%99%8d%e3%80%81%e5%b9%b4%e9%bd%a1%e6%a9%9f%e5%88%b6%e5%90%8c%e6%ad%a5/">蘋果升級App Store迷你應用生態 佣金調降、年齡機制同步上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>火報記者 陳銳/報導</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>蘋果近日宣布，將調降 App Store 內「迷你應用」的抽成結構，若開發者採用蘋果指定的工具與技術，例如新的用戶年齡範圍聲明機制，佣金將由原本最高 30% 降至 15%。</strong></p>
+</blockquote>
+
+
+
+<p>迷你應用模式在中國市場已相當成熟，騰訊與支付寶等大型平台長期提供小程式作為延伸服務。這類架構近年也開始在美國科技圈普及，OpenAI 上月便宣布將在其 ChatGPT 應用中導入迷你應用功能，使第三方開發者能直接在聊天介面上提供服務。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="612" height="435" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-114.png?resize=612%2C435&#038;ssl=1" alt="" class="wp-image-282013" style="width:716px;height:auto" /><figcaption class="wp-element-caption">蘋果宣布調降 App Store「迷你應用」抽成，若開發者使用指定工具，佣金可從最高 30% 降至 15%。圖:istockphoto</figcaption></figure></div>
+
+
+<p>依照 App Store 的現行規範，迷你應用的開發者需直接向蘋果支付佣金，而宿主應用是否能獲得分潤則由雙方自行協商。市場人士指出，降低佣金有助於吸引更多開發者投入迷你應用生態系，也能提高宿主應用內服務的多樣性。</p>
+
+
+
+<p>此次調整同時與美國近期的年齡驗證立法動向密切相關。美國多個州正在推動要求平台驗證使用者年齡的法規，而 Meta 等科技公司主張，最適合執行驗證的層級應位於 Google 與蘋果等應用程式商店端。</p>
+
+
+
+<p>蘋果則表示，部分立法可能迫使公司驗證成年用戶的個人資訊，將造成不必要的隱私風險。為此，蘋果提出替代方案，允許開發者接受使用者自行聲明的年齡範圍，並要求未成年用戶的聲明需經成人核准。新制度也成為此次佣金下調的前提條件之一。</p>
+<p>這篇文章 <a href="https://firenews.com.tw/2025/11/14/%e8%98%8b%e6%9e%9c%e5%8d%87%e7%b4%9aapp-store%e8%bf%b7%e4%bd%a0%e6%87%89%e7%94%a8%e7%94%9f%e6%85%8b-%e4%bd%a3%e9%87%91%e8%aa%bf%e9%99%8d%e3%80%81%e5%b9%b4%e9%bd%a1%e6%a9%9f%e5%88%b6%e5%90%8c%e6%ad%a5/">蘋果升級App Store迷你應用生態 佣金調降、年齡機制同步上路</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">282007</post-id>	</item>
+		<item>
 		<title>最多人飼養的狗狗排行榜！金毛犬熱門程度超乎想像 </title>
 		<link>https://firenews.com.tw/2025/11/14/%e6%9c%80%e5%a4%9a%e4%ba%ba%e9%a3%bc%e9%a4%8a%e7%9a%84%e7%8b%97%e7%8b%97%e6%8e%92%e8%a1%8c%e6%a6%9c%ef%bc%81%e9%87%91%e6%af%9b%e7%8a%ac%e7%86%b1%e9%96%80%e7%a8%8b%e5%ba%a6%e8%b6%85%e4%b9%8e%e6%83%b3/</link>
 		
@@ -66,7 +114,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="1220" height="1526" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1220%2C1526&#038;ssl=1" alt="" class="wp-image-281993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?w=2046&amp;ssl=1 2046w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=768%2C961&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1228%2C1536&amp;ssl=1 1228w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1637%2C2048&amp;ssl=1 1637w" sizes="(max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">柴犬憑著可愛外表與獨立性格，在近幾年成為亞洲家庭的超人氣選擇<br>(示意圖/Unsplash)</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" decoding="async" width="1220" height="1526" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1220%2C1526&#038;ssl=1" alt="" class="wp-image-281993" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?w=2046&amp;ssl=1 2046w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=768%2C961&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1228%2C1536&amp;ssl=1 1228w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/yura-finkel-E65SHVuYPGY-unsplash-scaled.jpg?resize=1637%2C2048&amp;ssl=1 1637w" sizes="(max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">柴犬憑著可愛外表與獨立性格，在近幾年成為亞洲家庭的超人氣選擇<br>(示意圖/Unsplash)</figcaption></figure>
 
 
 
@@ -168,7 +216,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img data-recalc-dims="1" decoding="async" width="1220" height="809" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=1220%2C809&#038;ssl=1" alt="" class="wp-image-281997" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=2048%2C1358&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="(max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">女子在清掃社區垃圾時，意外發現一隻可憐的小狗渾身髒兮，蜷縮在角落低聲顫抖<br>(示意圖/Unsplash)</figcaption></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1220" height="809" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=1220%2C809&#038;ssl=1" alt="" class="wp-image-281997" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?resize=2048%2C1358&amp;ssl=1 2048w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/ernest-malimon-ZS_wXewAIkY-unsplash-scaled.jpg?w=2440&amp;ssl=1 2440w" sizes="auto, (max-width: 1220px) 100vw, 1220px" /><figcaption class="wp-element-caption">女子在清掃社區垃圾時，意外發現一隻可憐的小狗渾身髒兮，蜷縮在角落低聲顫抖<br>(示意圖/Unsplash)</figcaption></figure>
 
 
 
@@ -600,74 +648,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">281468</post-id>	</item>
-		<item>
-		<title>狗狗毛裡藏危機！小心隱藏的「寄生蟲」恐害牠出現嚴重皮膚病</title>
-		<link>https://firenews.com.tw/2025/11/13/%e7%8b%97%e7%8b%97%e6%af%9b%e8%a3%a1%e8%97%8f%e5%8d%b1%e6%a9%9f%ef%bc%81%e5%b0%8f%e5%bf%83%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e5%af%84%e7%94%9f%e8%9f%b2%e3%80%8d%e6%81%90%e5%ae%b3%e7%89%a0%e5%87%ba/</link>
-		
-		<dc:creator><![CDATA[火報 時事新聞]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 05:31:01 +0000</pubDate>
-				<category><![CDATA[新寵]]></category>
-		<category><![CDATA[時事]]></category>
-		<category><![CDATA[寄生蟲]]></category>
-		<category><![CDATA[新聞]]></category>
-		<category><![CDATA[狗狗]]></category>
-		<category><![CDATA[皮膚病]]></category>
-		<guid isPermaLink="false">https://firenews.com.tw/?p=281511</guid>
-
-					<description><![CDATA[<p>火報記者 張舜傑/報導 許多飼主以為只要定期洗澡、毛看起來乾淨亮麗，狗狗就不會有皮膚問題。然而，真正的危險往往 &#8230;</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/13/%e7%8b%97%e7%8b%97%e6%af%9b%e8%a3%a1%e8%97%8f%e5%8d%b1%e6%a9%9f%ef%bc%81%e5%b0%8f%e5%bf%83%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e5%af%84%e7%94%9f%e8%9f%b2%e3%80%8d%e6%81%90%e5%ae%b3%e7%89%a0%e5%87%ba/">狗狗毛裡藏危機！小心隱藏的「寄生蟲」恐害牠出現嚴重皮膚病</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>火報記者 張舜傑/報導</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>許多飼主以為只要定期洗澡、毛看起來乾淨亮麗，狗狗就不會有皮膚問題。然而，真正的危險往往藏在肉眼難以察覺的地方——那就是藏匿在毛髮與皮膚之間的寄生蟲。</strong></p>
-</blockquote>
-
-
-
-<h4 class="wp-block-heading">寄生蟲不是「只在外出時」才會出現</h4>
-
-
-
-<p>許多飼主誤以為只有常到草地或公園活動的狗狗才容易被寄生蟲叮上，其實不然。跳蚤、壁蝨、螨蟲等寄生蟲往往能透過其他動物、鞋底、甚至衣物進入家中，只要環境溫暖潮濕，就能迅速繁殖。狗狗的皮膚溫度與毛量，正好提供牠們理想的棲息空間，一旦感染，便可能引發持續性搔癢與紅腫。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="600" height="400" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-110.png?resize=600%2C400&#038;ssl=1" alt="" class="wp-image-281518" style="width:714px;height:auto" /><figcaption class="wp-element-caption">若狗狗頻繁搔癢、舔毛或出現紅點異味，可能已被寄生蟲入侵，需盡快檢查。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">當狗狗出現這些變化時，要提高警覺</h4>
-
-
-
-<p>狗狗若經常抓咬特定部位、舔毛不止，或皮膚出現紅點、結痂、掉毛區塊，都是皮膚受到外來刺激的警訊。有些寄生蟲甚至會躲在耳朵、尾根、或腳縫等不易察覺的地方，使得感染初期難以發現。若放任不管，皮膚可能出現細菌感染或膿包，導致疼痛與二次發炎。當飼主聞到異味或發現皮屑增加時，就應盡快帶牠檢查。</p>
-
-
-
-<h4 class="wp-block-heading">日常防護是最有效的保養</h4>
-
-
-
-<p>要預防寄生蟲侵擾，除了定期洗澡外，更重要的是維持良好的清潔與防護習慣。每月使用合適的驅蟲藥物，能有效阻止跳蚤與壁蝨繁殖；同時保持環境乾燥、清潔，避免毛孩長時間接觸潮濕或髒亂的地方。若家中有多隻寵物，也應同步進行驅蟲，避免交叉感染。定期梳毛不僅能幫助散熱，也能及早發現異常跡象。</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="640" height="360" src="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-111.png?resize=640%2C360&#038;ssl=1" alt="" class="wp-image-281523" style="width:714px;height:auto" srcset="https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-111.png?w=640&amp;ssl=1 640w, https://i0.wp.com/firenews.com.tw/wp-content/uploads/2025/11/image-111.png?resize=390%2C220&amp;ssl=1 390w" sizes="auto, (max-width: 640px) 100vw, 640px" /><figcaption class="wp-element-caption">定期驅蟲、保持環境乾燥清潔並細心梳毛，是守護狗狗皮膚健康的關鍵。圖:unsplash</figcaption></figure></div>
-
-
-<h4 class="wp-block-heading">細心觀察，是守護健康的第一步</h4>
-
-
-
-<p>狗狗無法用語言表達不適，牠們唯一能做的就是透過行為變化來求助。當飼主願意多花一點時間觀察牠的皮膚狀況、梳理毛髮、確認耳朵與尾巴根部的清潔，就能在問題發生前先一步察覺。細心照顧不只是日常習慣，更是一種情感的連結。當狗狗能安心地靠在主人的懷裡，那份信任與健康的光澤，正是最好的回報。</p>
-<p>這篇文章 <a href="https://firenews.com.tw/2025/11/13/%e7%8b%97%e7%8b%97%e6%af%9b%e8%a3%a1%e8%97%8f%e5%8d%b1%e6%a9%9f%ef%bc%81%e5%b0%8f%e5%bf%83%e9%9a%b1%e8%97%8f%e7%9a%84%e3%80%8c%e5%af%84%e7%94%9f%e8%9f%b2%e3%80%8d%e6%81%90%e5%ae%b3%e7%89%a0%e5%87%ba/">狗狗毛裡藏危機！小心隱藏的「寄生蟲」恐害牠出現嚴重皮膚病</a> 最早出現於 <a href="https://firenews.com.tw">火報</a>。</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">281511</post-id>	</item>
 	</channel>
 </rss>
